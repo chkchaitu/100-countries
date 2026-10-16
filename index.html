@@ -107,6 +107,9 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
 .retnote.warn{background:rgba(255,107,107,.1);border:1px solid rgba(255,107,107,.45);color:#ffd0d0}
 .retnote.ok{background:rgba(94,224,138,.08);border:1px solid rgba(94,224,138,.35);color:#c9f5d6}
 .unv{margin-top:12px;background:rgba(255,209,102,.08);border:1px solid rgba(255,209,102,.35);border-radius:10px;padding:9px 12px;font-size:12.5px;color:#f0d79a}
+.fab{position:fixed;right:18px;bottom:18px;z-index:55;background:var(--acc);color:#1b1205;font-weight:700;font-size:14px;text-decoration:none;border-radius:99px;padding:11px 18px;box-shadow:0 6px 22px rgba(0,0,0,.45);display:none}
+.fab:hover{filter:brightness(1.08)}
+.sugg{display:inline-block;margin-top:14px;font-size:13px;color:var(--acc2);text-decoration:none;border:1px dashed var(--acc2);border-radius:9px;padding:6px 12px}
 .sheet ul{margin:4px 0;padding-left:18px}.sheet li{margin:3px 0}.nbtn{background:var(--bg2);border:1px solid var(--line);color:var(--ink);border-radius:8px;padding:3px 9px;margin:2px;cursor:pointer;font-size:13px}
 .mo{display:grid;grid-template-columns:repeat(12,1fr);gap:3px;margin:6px 0}.mo div{text-align:center;font-size:11px;padding:6px 0;border-radius:6px;background:#1a2447;color:var(--mute)}.mo div.hi{background:var(--acc2);color:#04201d;font-weight:700}
 .navsearch{margin-left:auto;min-width:170px;padding:6px 10px;font-size:13px}.ibtn{display:inline-block;margin-left:6px;border:1px solid var(--line);border-radius:50%;width:16px;height:16px;line-height:14px;font-size:10px;text-align:center;color:var(--acc2);font-style:normal}
@@ -197,6 +200,7 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
  <div class="tick" id="tickGrid"></div></div></div>
 </div></section>
 
+<a class="fab" id="suggestFab" href="#" target="_blank" rel="noopener">Suggest an update</a>
 <div class="modal" id="cmodal"><div class="sheet" id="csheet"><button class="xbtn" id="cclose">Close</button><div id="cbody"></div></div></div>
 <footer><div class="wrap"><p id="dataStamp" style="margin:0 0 8px"></p>Prices, rules and hours are estimates from research on 16 October 2026 and must be confirmed with official sources before booking. Nothing here is a booking, visa or legal service. Map data: Natural Earth via world-atlas (public domain).</div></footer>
 
@@ -206,6 +210,8 @@ const WORLD={"type":"Topology","objects":{"countries":{"type":"GeometryCollectio
 // ---------- data
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const host=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch(e){return u}};
+const SUGGEST={form:'',countryEntry:''};// form = public Google Form link; countryEntry = the entry.NNN id used to prefill the country
+const suggestUrl=(n)=>{if(!SUGGEST.form)return'';let u=SUGGEST.form+(SUGGEST.form.includes('?')?'&':'?')+'usp=pp_url';if(n&&SUGGEST.countryEntry)u+='&'+SUGGEST.countryEntry+'='+encodeURIComponent(n);return u};
 const srcLinks=a=>(a&&a.length)?a.map(u=>`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))}</a>`).join(' · '):'no source link yet';
 let openCountryFn=null,PROFILES={},TRIPS=[],EXP=[],REC=[],V={},LEV={US:[],SC:[],UK:[],CA:[],AU:[],NZ:[],JP:[],KR:[]},LEVTXT={},VREC={},CITIES={},ALLC=[],DATAINFO={};
 const MN=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
@@ -389,11 +395,13 @@ async function boot(){
    els.push(ex.length?`<h3>Unique experiences</h3><ul>${ex.map(x=>`<li><b>${esc(x.name)}</b>${x.note?': '+esc(x.note):''}${x.priceInr?` <span class="meta">(about ${rs(x.priceInr)})</span>`:''}</li>`).join('')}</ul>`:`<h3>Unique experiences</h3><p class="meta">None suggested yet.</p>`)}
   if(p&&p.cautions&&p.cautions.length)els.push(`<h3>Good to know</h3><ul>${p.cautions.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`);
   if(p&&p.neighbours&&p.neighbours.length)els.push(`<h3>Nearby countries by land or ferry</h3><p>${p.neighbours.map(x=>`<button class="nbtn" data-go="${esc(x)}">${esc(x)}</button>`).join('')}</p>`);
+  if(suggestUrl(n))els.push(`<a class="sugg" href="${esc(suggestUrl(n))}" target="_blank" rel="noopener">Suggest an update for ${esc(n)}</a>`);
   if(!(p&&p.territory))els.push(`<p style="margin-top:16px"><button class="btn ghost" data-mark="${esc(n)}">${mine.has(n)?'Remove from my visited list':'Mark as visited'}</button></p>`);
   if(p)els.push(`<p class="meta" style="font-size:11px">Profile checked ${esc(p.lastChecked)} (${esc(p.confidence||'')}) · ${srcLinks(p.sources)}. Prices and hours are estimates. Confirm with official sources before booking.</p>`);
   box.innerHTML=els.join('')}
   document.getElementById('cmodal').classList.add('on');if(p&&p.lat)fly(p);const pp=tr||null;}
  openCountryFn=openCountry;
+;(function(){const f=document.getElementById('suggestFab');if(SUGGEST.form){f.href=suggestUrl('');f.style.display='block'}})();
  document.getElementById('cclose').onclick=()=>document.getElementById('cmodal').classList.remove('on');
  document.getElementById('cmodal').onclick=e=>{if(e.target.id==='cmodal')e.currentTarget.classList.remove('on')};
  document.getElementById('cbody').onclick=e=>{const g=e.target.dataset.go,m=e.target.dataset.mark,t=e.target.dataset.trip;if(g){openCountry(g);document.getElementById('csheet').scrollIntoView({block:'start'})}if(m){mine.has(m)?mine.delete(m):mine.add(m);renderTick();openCountry(m)}if(t){e.preventDefault();document.getElementById('cmodal').classList.remove('on');const tt=TRIPS.find(x=>x.c===t);hl=new Set(tt.ctry);colorMode=null;fly(tt);document.getElementById('trips').scrollIntoView({behavior:'smooth'})}};
