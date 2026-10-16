@@ -59,6 +59,13 @@ for c,r in vr.items():
 for c,p in pr.items():
     age=(TODAY-datetime.date.fromisoformat(p['lastChecked'])).days
     if age>180:stale.append((age,c,'profile'))
+
+# staleness of apply and health data (over 180 days)
+for fn,label in (('data/apply.json','apply'),('data/health.json','health')):
+    if os.path.exists(fn):
+        for a in L(fn):
+            age=(TODAY-datetime.date.fromisoformat(a['lastChecked'])).days
+            if age>180:stale.append((age,a['country'],label))
 stale.sort(reverse=True)
 # links
 urls={}
