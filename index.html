@@ -80,7 +80,6 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
   <p class="lead">Plan your way to 100 countries. <span id="sAtlasLead">115</span> countries with visa rules for an Indian passport, cheapest months, day-by-day plans, places to visit and the odd experiences worth a detour.</p>
   <p><a class="btn" href="#trips">Explore the trips</a> <a class="btn ghost" href="#visa">Check where my visas work</a></p>
   <div class="stats"><div><b id="sCountries">195</b><span>countries in the atlas</span></div><div><b id="sTrips">34</b><span>trips</span></div><div><b id="sNew">181</b><span>countries covered by trips</span></div><div><b id="sDays">488</b><span>travel days in all trips</span></div><div class="wide"><b id="sBudget">₹3 to 5 lakh</b><span>typical cost of one trip, per person (middle of all trips, estimates)</span></div></div>
-  <div class="legend" id="globeLegend"></div>
  </div>
  <div id="globeBox"><canvas id="globe" width="1100" height="1100"></canvas><div class="globeTip">Drag to spin. Tap a trip below to fly there.</div></div>
 </header>
@@ -165,7 +164,7 @@ const GEO=decode(WORLD);const MAPALIAS={'Central African Rep.':'Central African 
 // small countries missing from 110m: markers
 const MARK={'Saint Lucia':[-60.98,13.9],'Saint Vincent and the Grenadines':[-61.2,13.25],Grenada:[-61.68,12.12],Dominica:[-61.37,15.42],Maldives:[73.5,3.2],Bahrain:[50.55,26.1],Monaco:[7.42,43.74],Malta:[14.4,35.9],Mauritius:[57.5,-20.3],Seychelles:[55.5,-4.7],Samoa:[-172.1,-13.8],Barbados:[-59.55,13.2],Andorra:[1.55,42.55],Liechtenstein:[9.55,47.15],'San Marino':[12.45,43.94],Vatican:[12.45,41.9],'Cabo Verde':[-23.6,15.1],Comoros:[43.3,-11.9],'Sao Tome and Principe':[6.6,0.3],'Antigua and Barbuda':[-61.8,17.1],'Saint Kitts and Nevis':[-62.75,17.3],Kiribati:[173,1.4],'Marshall Islands':[171,7.1],Micronesia:[158.2,6.9],Nauru:[166.9,-0.53],Palau:[134.5,7.5],Tonga:[-175.2,-21.2],Tuvalu:[179.2,-8.5],Singapore:[103.8,1.35],'North Macedonia':[21.7,41.6]};
 // ---------- globe
-const cv=document.getElementById('globe'),ctx=cv.getContext('2d');let rot=[-80,-22],target=null,drag=null,auto=true,hl=new Set(),colorMode=null;
+const cv=document.getElementById('globe'),ctx=cv.getContext('2d');let rot=[-78,22],target=null,drag=null,auto=true,hl=new Set(),colorMode=null;
 const R=cv.width/2-6,CX=cv.width/2,CY=cv.height/2,D=Math.PI/180;
 function proj(lon,lat){const l=(lon+rot[0])*D,p=lat*D,cp=Math.cos(p),x=cp*Math.sin(l),y=Math.sin(p)*Math.cos(rot[1]*D)-cp*Math.cos(l)*Math.sin(rot[1]*D),z=Math.sin(p)*Math.sin(rot[1]*D)+cp*Math.cos(l)*Math.cos(rot[1]*D);return[x,y,z]}
 function col(n){if(colorMode){const c=colorMode(n);if(c)return c}return hl.has(n)?'#ff9f45':'#1f2d5c'}
@@ -181,7 +180,7 @@ function pick(px,py){const b=cv.getBoundingClientRect();const x=((px-b.left)*cv.
  let best=null,bd=4;for(const[n,[lo,la]]of Object.entries(MARK)){const d=Math.hypot(lo-lon,la-lat);if(d<bd){bd=d;best=n}}if(best)return best;
  for(const c of GEO){for(const r of c.rings){if(pip(r,lon,lat))return c.name}}return null}
 cv.addEventListener('pointerup',e=>{const moved=clk&&Math.hypot(e.clientX-clk[0],e.clientY-clk[1])>6;drag=null;setTimeout(()=>auto=true,4000);if(!moved&&clk){const n=pick(e.clientX,e.clientY);if(n&&openCountryFn)openCountryFn(n)}clk=null});
-function fly(t){target=[-t.lon,-t.lat*.8]}
+function fly(t){target=[-t.lon,t.lat*.8]}
 loop();
 async function loadJSON(p){const r=await fetch(p,{cache:'no-cache'});if(!r.ok)throw new Error(p+' '+r.status);return r.json()}
 async function boot(){
@@ -258,7 +257,6 @@ async function boot(){
  document.getElementById('exportTick').onclick=()=>{const t=[...mine].sort().join(', ');navigator.clipboard&&navigator.clipboard.writeText(t);document.getElementById('progMsg').textContent='Copied '+mine.size+' countries.'};
  document.getElementById('tickSearch').oninput=renderTick;document.getElementById('tickRegion').onchange=renderTick;
  renderTick();
- document.getElementById('globeLegend').innerHTML='<span class="pill">Orange: your trip</span><span class="pill">Visa colours appear when you use the checker</span>';
 
  
  // ---------- country panel
