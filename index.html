@@ -15,6 +15,10 @@ nav a{color:var(--mute);text-decoration:none;font-size:14px}nav a:hover{color:va
 .hero{position:relative;min-height:88vh;display:grid;grid-template-columns:1.05fr 1fr;gap:20px;align-items:center;padding:30px 0}
 .hero h1{font-size:clamp(34px,5.2vw,64px)}
 .hero p.lead{color:var(--mute);font-size:19px;max-width:34em}
+.flag{height:1.05em;width:auto;border-radius:3px;vertical-align:-.12em;margin-right:.45em;box-shadow:0 0 0 1px rgba(255,255,255,.18)}
+.sheet h2 .flag{height:.8em;margin-right:.4em}
+.pill.in{display:inline-flex;align-items:center;gap:8px;background:linear-gradient(90deg,rgba(255,153,51,.18),rgba(255,255,255,.07),rgba(19,136,8,.22));border:1px solid rgba(255,153,51,.6);color:#fff;font-weight:600;font-size:13.5px;padding:6px 15px 6px 9px}
+.pill.in .flag{height:17px;margin:0;vertical-align:0}
 .pill{display:inline-block;border:1px solid var(--line);color:var(--mute);border-radius:99px;padding:3px 12px;font-size:12px;margin-right:6px}
 .btn{display:inline-block;background:var(--acc);color:#1b1205;font-weight:700;border:0;border-radius:10px;padding:12px 20px;cursor:pointer;text-decoration:none;font-size:15px}
 .btn.ghost{background:transparent;border:1px solid var(--line);color:var(--ink)}
@@ -75,7 +79,7 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
 
 <header class="wrap hero">
  <div>
-  <span class="pill">Built for Indian passport holders</span>
+  <span class="pill in"><img class="flag" src="https://flagcdn.com/w40/in.png" srcset="https://flagcdn.com/w80/in.png 2x" alt="India flag">Built for Indian passport holders</span>
   <h1>The world, one affordable trip at a time.</h1>
   <p class="lead">Plan your way to 100 countries. <span id="sAtlasLead">115</span> countries with visa rules for an Indian passport, cheapest months, day-by-day plans, places to visit and the odd experiences worth a detour.</p>
   <p><a class="btn" href="#trips">Explore the trips</a> <a class="btn ghost" href="#visa">Check where my visas work</a></p>
@@ -264,10 +268,11 @@ async function boot(){
  
  // ---------- country panel
  const CATL={visa_free:'Visa-free',on_arrival:'Visa on arrival',evisa:'E-visa',conditional:'Conditional: depends on a visa you hold',visa_required:'Visa needed in advance',unknown:'Check the rule',territory:'Not a country: no visa for the territory itself'};
+ function flagImg(p){return p&&p.iso?`<img class="flag" src="https://flagcdn.com/w40/${p.iso}.png" srcset="https://flagcdn.com/w80/${p.iso}.png 2x" alt="" loading="lazy" onerror="this.remove()">`:''}
  function openCountry(n){const p=PROFILES[n],v=VREC[n],tr=TRIPS.find(t=>t.ctry.includes(n));const box=document.getElementById('cbody');
   if(!p&&!v){box.innerHTML=`<h2>${esc(n)}</h2><p class="meta">${esc(n)} is a territory or disputed area, not one of the 195 countries in the atlas.</p>`}else{
   const mo=(p&&p.bestMonths)||[];const els=[];
-  els.push(`<h2>${esc(n)}</h2><p class="meta">${esc((p&&p.region)||'')}${p&&p.capital?' · capital '+esc(p.capital):''}${tr?` · <a href="#trips" data-trip="${esc(tr.c)}">Trip ${esc(tr.c)}: ${esc(tr.n)}</a>`:(p&&p.trip==='H'?' · visited hub':(p&&p.trip==='X'?' · added on request, thin profile':''))}</p>`);
+  els.push(`<h2>${flagImg(p)}${esc(n)}</h2><p class="meta">${esc((p&&p.region)||'')}${p&&p.capital?' · capital '+esc(p.capital):''}${tr?` · <a href="#trips" data-trip="${esc(tr.c)}">Trip ${esc(tr.c)}: ${esc(tr.n)}</a>`:(p&&p.trip==='H'?' · visited hub':(p&&p.trip==='X'?' · added on request, thin profile':''))}</p>`);
   if(v)els.push(`<h3>Visa for an Indian passport</h3><p><span class="tag">${esc(CATL[v.category]||'')}</span><span class="tag">${esc(v.status)}</span></p><p>${esc(v.rule)}</p>${v.easedBy&&v.easedBy.length?`<p class="meta">Eased by: ${v.easedBy.map(k=>esc((DATAINFO.visa.visaKeys||{})[k]||k)).join(', ')}.</p>`:''}<p class="meta" style="font-size:12px">Checked ${esc(v.lastChecked)} · ${srcLinks(v.sources)}<br>${esc(v.note||'')}</p>`);
   if(p&&p.places&&p.places.length)els.push(`<h3>Places to visit</h3><ul>${p.places.map(x=>`<li><b>${esc(x.name)}</b>${x.note?': '+esc(x.note):''}${x.fee?` <span class="meta">(${esc(x.fee)})</span>`:''}</li>`).join('')}</ul>`);
   if(mo.length)els.push(`<h3>Best months for a low budget</h3><div class="mo">${MN.map((m,i)=>`<div class="${mo.includes(i+1)?'hi':''}">${m}</div>`).join('')}</div>`);

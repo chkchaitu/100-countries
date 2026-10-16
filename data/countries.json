@@ -53,7 +53,8 @@
    "https://en.wikipedia.org/wiki/Indonesia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "id"
  },
  {
   "country": "Vietnam",
@@ -131,7 +132,8 @@
    "https://en.wikipedia.org/wiki/Vietnam"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "vn"
  },
  {
   "country": "Cambodia",
@@ -204,7 +206,8 @@
    "https://en.wikipedia.org/wiki/Cambodia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "kh"
  },
  {
   "country": "Laos",
@@ -280,7 +283,8 @@
    "https://en.wikipedia.org/wiki/Laos"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "la"
  },
  {
   "country": "Brunei",
@@ -336,7 +340,8 @@
    "https://en.wikipedia.org/wiki/Brunei"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "bn"
  },
  {
   "country": "Sri Lanka",
@@ -411,7 +416,8 @@
    "https://en.wikipedia.org/wiki/Sri_Lanka"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "lk"
  },
  {
   "country": "Maldives",
@@ -471,7 +477,8 @@
    "https://en.wikipedia.org/wiki/Maldives"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "mv"
  },
  {
   "country": "Bangladesh",
@@ -538,7 +545,8 @@
    "https://en.wikipedia.org/wiki/Bangladesh"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "bd"
  },
  {
   "country": "Bhutan",
@@ -620,7 +628,8 @@
    "https://en.wikipedia.org/wiki/Bhutan"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "bt"
  },
  {
   "country": "Oman",
@@ -691,7 +700,8 @@
    "https://en.wikipedia.org/wiki/Oman"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "om"
  },
  {
   "country": "Bahrain",
@@ -761,7 +771,8 @@
    "https://en.wikipedia.org/wiki/Bahrain"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "bh"
  },
  {
   "country": "Saudi Arabia",
@@ -821,7 +832,8 @@
    "https://en.wikipedia.org/wiki/Saudi_Arabia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "sa"
  },
  {
   "country": "Jordan",
@@ -900,7 +912,8 @@
    "https://en.wikipedia.org/wiki/Jordan"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "jo"
  },
  {
   "country": "Kazakhstan",
@@ -967,7 +980,8 @@
    "https://en.wikipedia.org/wiki/Kazakhstan"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "kz"
  },
  {
   "country": "Kyrgyzstan",
@@ -1034,7 +1048,8 @@
    "https://en.wikipedia.org/wiki/Kyrgyzstan"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "kg"
  },
  {
   "country": "Uzbekistan",
@@ -1103,7 +1118,8 @@
    "https://en.wikipedia.org/wiki/Uzbekistan"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "uz"
  },
  {
   "country": "Azerbaijan",
@@ -1167,7 +1183,8 @@
    "https://en.wikipedia.org/wiki/Azerbaijan"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "az"
  },
  {
   "country": "Armenia",
@@ -1236,7 +1253,8 @@
    "https://en.wikipedia.org/wiki/Armenia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "am"
  },
  {
   "country": "Japan",
@@ -1313,7 +1331,8 @@
    "https://en.wikipedia.org/wiki/Japan"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "jp"
  },
  {
   "country": "Taiwan",
@@ -1375,7 +1394,8 @@
    "https://en.wikipedia.org/wiki/Taiwan"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "tw"
  },
  {
   "country": "Philippines",
@@ -1441,7 +1461,8 @@
    "https://en.wikipedia.org/wiki/Philippines"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "ph"
  },
  {
   "country": "Switzerland",
@@ -1513,7 +1534,8 @@
    "https://en.wikipedia.org/wiki/Switzerland"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "ch"
  },
  {
   "country": "Liechtenstein",
@@ -1563,7 +1585,8 @@
    "https://en.wikipedia.org/wiki/Liechtenstein"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "li"
  },
  {
   "country": "France",
@@ -1633,7 +1656,8 @@
    "https://en.wikipedia.org/wiki/France"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "fr"
  },
  {
   "country": "Monaco",
@@ -1694,7 +1718,8 @@
    "https://en.wikipedia.org/wiki/Monaco"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "mc"
  },
  {
   "country": "Italy",
@@ -1772,7 +1797,8 @@
    "https://en.wikipedia.org/wiki/Italy"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "it"
  },
  {
   "country": "Vatican",
@@ -1831,7 +1857,8 @@
    "https://en.wikipedia.org/wiki/Vatican_City"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "va"
  },
  {
   "country": "San Marino",
@@ -1885,7 +1912,8 @@
    "https://en.wikipedia.org/wiki/San_Marino"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "sm"
  },
  {
   "country": "Slovenia",
@@ -1955,7 +1983,8 @@
    "https://en.wikipedia.org/wiki/Slovenia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "si"
  },
  {
   "country": "Croatia",
@@ -2022,7 +2051,8 @@
    "https://en.wikipedia.org/wiki/Croatia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "hr"
  },
  {
   "country": "Hungary",
@@ -2088,7 +2118,8 @@
    "https://en.wikipedia.org/wiki/Hungary"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "hu"
  },
  {
   "country": "Slovakia",
@@ -2148,7 +2179,8 @@
    "https://en.wikipedia.org/wiki/Slovakia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "sk"
  },
  {
   "country": "Austria",
@@ -2219,7 +2251,8 @@
    "https://en.wikipedia.org/wiki/Austria"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "at"
  },
  {
   "country": "Czechia",
@@ -2283,7 +2316,8 @@
    "https://en.wikipedia.org/wiki/Czech_Republic"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "cz"
  },
  {
   "country": "Poland",
@@ -2346,7 +2380,8 @@
    "https://en.wikipedia.org/wiki/Poland"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "pl"
  },
  {
   "country": "Serbia",
@@ -2413,7 +2448,8 @@
    "https://en.wikipedia.org/wiki/Serbia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "rs"
  },
  {
   "country": "Bosnia and Herz.",
@@ -2483,7 +2519,8 @@
    "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "ba"
  },
  {
   "country": "Montenegro",
@@ -2554,7 +2591,8 @@
    "https://en.wikipedia.org/wiki/Montenegro"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "me"
  },
  {
   "country": "Albania",
@@ -2618,7 +2656,8 @@
    "https://en.wikipedia.org/wiki/Albania"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "al"
  },
  {
   "country": "North Macedonia",
@@ -2687,7 +2726,8 @@
    "https://en.wikipedia.org/wiki/North_Macedonia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "mk"
  },
  {
   "country": "Turkey",
@@ -2749,7 +2789,8 @@
    "https://en.wikipedia.org/wiki/Turkey"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "tr"
  },
  {
   "country": "Finland",
@@ -2819,7 +2860,8 @@
    "https://en.wikipedia.org/wiki/Finland"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "fi"
  },
  {
   "country": "Estonia",
@@ -2872,7 +2914,8 @@
    "https://en.wikipedia.org/wiki/Estonia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "ee"
  },
  {
   "country": "Latvia",
@@ -2925,7 +2968,8 @@
    "https://en.wikipedia.org/wiki/Latvia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "lv"
  },
  {
   "country": "Lithuania",
@@ -2987,7 +3031,8 @@
    "https://en.wikipedia.org/wiki/Lithuania"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "lt"
  },
  {
   "country": "Denmark",
@@ -3044,7 +3089,8 @@
    "https://en.wikipedia.org/wiki/Denmark"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "dk"
  },
  {
   "country": "Sweden",
@@ -3108,7 +3154,8 @@
    "https://en.wikipedia.org/wiki/Sweden"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "se"
  },
  {
   "country": "Norway",
@@ -3176,7 +3223,8 @@
    "https://en.wikipedia.org/wiki/Norway"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "no"
  },
  {
   "country": "Iceland",
@@ -3246,7 +3294,8 @@
    "https://en.wikipedia.org/wiki/Iceland"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "is"
  },
  {
   "country": "Spain",
@@ -3323,7 +3372,8 @@
    "https://en.wikipedia.org/wiki/Spain"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "es"
  },
  {
   "country": "Portugal",
@@ -3386,7 +3436,8 @@
    "https://en.wikipedia.org/wiki/Portugal"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "pt"
  },
  {
   "country": "Morocco",
@@ -3459,7 +3510,8 @@
    "https://en.wikipedia.org/wiki/Morocco"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "ma"
  },
  {
   "country": "Andorra",
@@ -3511,7 +3563,8 @@
    "https://en.wikipedia.org/wiki/Andorra"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "ad"
  },
  {
   "country": "Malta",
@@ -3566,7 +3619,8 @@
    "https://en.wikipedia.org/wiki/Malta"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "mt"
  },
  {
   "country": "Greece",
@@ -3621,7 +3675,8 @@
    "https://en.wikipedia.org/wiki/Greece"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "gr"
  },
  {
   "country": "United Kingdom",
@@ -3695,7 +3750,8 @@
    "https://en.wikipedia.org/wiki/United_Kingdom"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "gb"
  },
  {
   "country": "Ireland",
@@ -3762,7 +3818,8 @@
    "https://en.wikipedia.org/wiki/Ireland"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "ie"
  },
  {
   "country": "Kenya",
@@ -3832,7 +3889,8 @@
    "https://en.wikipedia.org/wiki/Kenya"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "ke"
  },
  {
   "country": "Tanzania",
@@ -3899,7 +3957,8 @@
    "https://en.wikipedia.org/wiki/Tanzania"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "tz"
  },
  {
   "country": "Rwanda",
@@ -3964,7 +4023,8 @@
    "https://en.wikipedia.org/wiki/Rwanda"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "rw"
  },
  {
   "country": "Uganda",
@@ -4036,7 +4096,8 @@
    "https://en.wikipedia.org/wiki/Uganda"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "ug"
  },
  {
   "country": "Ethiopia",
@@ -4086,7 +4147,8 @@
    "https://en.wikipedia.org/wiki/Ethiopia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "et"
  },
  {
   "country": "Mauritius",
@@ -4148,7 +4210,8 @@
    "https://en.wikipedia.org/wiki/Mauritius"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "mu"
  },
  {
   "country": "Madagascar",
@@ -4208,7 +4271,8 @@
    "https://en.wikipedia.org/wiki/Madagascar"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "mg"
  },
  {
   "country": "South Africa",
@@ -4287,7 +4351,8 @@
    "https://en.wikipedia.org/wiki/South_Africa"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "za"
  },
  {
   "country": "Lesotho",
@@ -4340,7 +4405,8 @@
    "https://en.wikipedia.org/wiki/Lesotho"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "ls"
  },
  {
   "country": "eSwatini",
@@ -4403,7 +4469,8 @@
    "https://en.wikipedia.org/wiki/Eswatini"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "sz"
  },
  {
   "country": "Zimbabwe",
@@ -4460,7 +4527,8 @@
    "https://en.wikipedia.org/wiki/Zimbabwe"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "thin"
+  "confidence": "thin",
+  "iso": "zw"
  },
  {
   "country": "Zambia",
@@ -4521,7 +4589,8 @@
    "https://en.wikipedia.org/wiki/Zambia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "zm"
  },
  {
   "country": "Botswana",
@@ -4577,7 +4646,8 @@
    "https://en.wikipedia.org/wiki/Botswana"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "thin"
+  "confidence": "thin",
+  "iso": "bw"
  },
  {
   "country": "Namibia",
@@ -4646,7 +4716,8 @@
    "https://en.wikipedia.org/wiki/Namibia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "na"
  },
  {
   "country": "Seychelles",
@@ -4702,7 +4773,8 @@
    "https://en.wikipedia.org/wiki/Seychelles"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "sc"
  },
  {
   "country": "Egypt",
@@ -4777,7 +4849,8 @@
    "https://en.wikipedia.org/wiki/Egypt"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "eg"
  },
  {
   "country": "Tunisia",
@@ -4842,7 +4915,8 @@
    "https://en.wikipedia.org/wiki/Tunisia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "tn"
  },
  {
   "country": "Australia",
@@ -4915,7 +4989,8 @@
    "https://en.wikipedia.org/wiki/Australia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "au"
  },
  {
   "country": "New Zealand",
@@ -4983,7 +5058,8 @@
    "https://en.wikipedia.org/wiki/New_Zealand"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "nz"
  },
  {
   "country": "Samoa",
@@ -5042,7 +5118,8 @@
    "https://en.wikipedia.org/wiki/Samoa"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "ws"
  },
  {
   "country": "Fiji",
@@ -5111,7 +5188,8 @@
    "https://en.wikipedia.org/wiki/Fiji"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "fj"
  },
  {
   "country": "Vanuatu",
@@ -5176,7 +5254,8 @@
    "https://en.wikipedia.org/wiki/Vanuatu"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "vu"
  },
  {
   "country": "Bahamas",
@@ -5238,7 +5317,8 @@
    "https://en.wikipedia.org/wiki/Bahamas"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "bs"
  },
  {
   "country": "Jamaica",
@@ -5300,7 +5380,8 @@
    "https://en.wikipedia.org/wiki/Jamaica"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "jm"
  },
  {
   "country": "Dominican Rep.",
@@ -5362,7 +5443,8 @@
    "https://en.wikipedia.org/wiki/Dominican_Republic"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "do"
  },
  {
   "country": "Barbados",
@@ -5424,7 +5506,8 @@
    "https://en.wikipedia.org/wiki/Barbados"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "bb"
  },
  {
   "country": "Trinidad and Tobago",
@@ -5492,7 +5575,8 @@
    "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "tt"
  },
  {
   "country": "Panama",
@@ -5557,7 +5641,8 @@
    "https://en.wikipedia.org/wiki/Panama"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "pa"
  },
  {
   "country": "Costa Rica",
@@ -5627,7 +5712,8 @@
    "https://en.wikipedia.org/wiki/Costa_Rica"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "cr"
  },
  {
   "country": "Mexico",
@@ -5700,7 +5786,8 @@
    "https://en.wikipedia.org/wiki/Mexico"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "mx"
  },
  {
   "country": "Colombia",
@@ -5771,7 +5858,8 @@
    "https://en.wikipedia.org/wiki/Colombia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "co"
  },
  {
   "country": "Ecuador",
@@ -5839,7 +5927,8 @@
    "https://en.wikipedia.org/wiki/Ecuador"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "ec"
  },
  {
   "country": "Peru",
@@ -5913,7 +6002,8 @@
    "https://en.wikipedia.org/wiki/Peru"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "pe"
  },
  {
   "country": "Argentina",
@@ -5981,7 +6071,8 @@
    "https://en.wikipedia.org/wiki/Argentina"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "ar"
  },
  {
   "country": "Brazil",
@@ -6039,7 +6130,8 @@
    "https://en.wikipedia.org/wiki/Brazil"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "br"
  },
  {
   "country": "Chile",
@@ -6107,7 +6199,8 @@
    "https://en.wikipedia.org/wiki/Chile"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "cl"
  },
  {
   "country": "Kosovo",
@@ -6153,7 +6246,8 @@
    "https://en.wikipedia.org/wiki/Kosovo"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "xk"
  },
  {
   "country": "Bulgaria",
@@ -6214,7 +6308,8 @@
    "https://bulgariaguidebook.com"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "bg"
  },
  {
   "country": "Romania",
@@ -6269,7 +6364,8 @@
    "https://www.bran-castle.com"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "ro"
  },
  {
   "country": "Cyprus",
@@ -6317,7 +6413,8 @@
    "https://www.gov.cy"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "cy"
  },
  {
   "country": "Saint Lucia",
@@ -6377,7 +6474,8 @@
    "https://en.wikipedia.org/wiki/Saint_Lucia"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "lc"
  },
  {
   "country": "Saint Vincent and the Grenadines",
@@ -6423,7 +6521,8 @@
    "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "vc"
  },
  {
   "country": "Grenada",
@@ -6478,7 +6577,8 @@
    "https://en.wikipedia.org/wiki/Grenada"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "gd"
  },
  {
   "country": "Dominica",
@@ -6537,7 +6637,8 @@
    "https://en.wikipedia.org/wiki/Dominica"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "plan"
+  "confidence": "plan",
+  "iso": "dm"
  },
  {
   "country": "Malaysia",
@@ -6618,7 +6719,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "research",
-  "notes": "Land via Johor Bahru causeway to Singapore (bus/train), KTM or bus to Hat Yai Thailand, ferry from Penang/Melaka to Indonesia (Sumatra), Kuching to Brunei by bus. Singapore needs its own visa for Indians. MDAC only; no embassy fee. Best months low budget: [2, 3, 5, 6, 9]; best weather: [2, 3, 6, 7, 8]. Warnings: West coast wet Apr to Oct monsoon peaks Sep to Oct; east coast (Perhentian, Taman Negara) monsoon Nov to Feb and many islands close; haze Aug to Sep possible; flash floods Nov to Jan. Budget pieces: Stay hostel or budget hotel INR 1,000 to 2,200; food INR 600 to 1,200; local transport INR 300 to 600; sights INR 300 to 500 (estimate) MEA: UNVERIFIED: MEA lists no travel advisory for Malaysia on https://www.mea.gov.in/travel-advisories (Tavily snippet shows list of other countries); Indian High Commission Kuala Lumpur issues occasional notices."
+  "notes": "Land via Johor Bahru causeway to Singapore (bus/train), KTM or bus to Hat Yai Thailand, ferry from Penang/Melaka to Indonesia (Sumatra), Kuching to Brunei by bus. Singapore needs its own visa for Indians. MDAC only; no embassy fee. Best months low budget: [2, 3, 5, 6, 9]; best weather: [2, 3, 6, 7, 8]. Warnings: West coast wet Apr to Oct monsoon peaks Sep to Oct; east coast (Perhentian, Taman Negara) monsoon Nov to Feb and many islands close; haze Aug to Sep possible; flash floods Nov to Jan. Budget pieces: Stay hostel or budget hotel INR 1,000 to 2,200; food INR 600 to 1,200; local transport INR 300 to 600; sights INR 300 to 500 (estimate) MEA: UNVERIFIED: MEA lists no travel advisory for Malaysia on https://www.mea.gov.in/travel-advisories (Tavily snippet shows list of other countries); Indian High Commission Kuala Lumpur issues occasional notices.",
+  "iso": "my"
  },
  {
   "country": "Singapore",
@@ -6696,7 +6798,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "research",
-  "notes": "Cheap land route: bus 170 or Causeway Link from Woodlands to Johor Bahru, KTM Shuttle Tebrau. Ferry from HarbourFront/Tanah Merah to Batam and Bintan (Indonesia): Indonesia visa on arrival status for Indians not checked. Visa requirement is a major cost item; budget time to apply. Best months low budget: [2, 3, 6]; best weather: [2, 3, 4, 7, 8]. Warnings: Humid all year; heavy rain Nov to Jan northeast monsoon; haze from Indonesian fires Aug to Oct possible; no typhoons. Budget pieces: Hostel dorm or budget room INR 3,000 to 5,500; hawker meals INR 800 to 1,500; MRT/bus INR 400 to 700; sights INR 300 to 1,500 (estimate) MEA: UNVERIFIED: no MEA advisory found in search; check Indian High Commission Singapore."
+  "notes": "Cheap land route: bus 170 or Causeway Link from Woodlands to Johor Bahru, KTM Shuttle Tebrau. Ferry from HarbourFront/Tanah Merah to Batam and Bintan (Indonesia): Indonesia visa on arrival status for Indians not checked. Visa requirement is a major cost item; budget time to apply. Best months low budget: [2, 3, 6]; best weather: [2, 3, 4, 7, 8]. Warnings: Humid all year; heavy rain Nov to Jan northeast monsoon; haze from Indonesian fires Aug to Oct possible; no typhoons. Budget pieces: Hostel dorm or budget room INR 3,000 to 5,500; hawker meals INR 800 to 1,500; MRT/bus INR 400 to 700; sights INR 300 to 1,500 (estimate) MEA: UNVERIFIED: no MEA advisory found in search; check Indian High Commission Singapore.",
+  "iso": "sg"
  },
  {
   "country": "Nepal",
@@ -6773,7 +6876,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "research",
-  "notes": "Only India border is open by land for ordinary passport holders; Tibet needs Chinese visa and permits (not checked). Easy 'second country' from India by bus or train to border towns. Nepal is the cheapest passport stamp on this list. Best months low budget: [3, 4, 5, 10, 11]; best weather: [10, 11, 3, 4]. Warnings: Monsoon Jun to Sep: landslides on highways, leeches, flight delays at Lukla; heat in Terai Apr to Jun; earthquake zone; trekking cold Dec to Feb above 3,000 m. Budget pieces: Guesthouse INR 700 to 1,800; dal bhat and cafes INR 500 to 1,000; local bus or microbus INR 150 to 400; sights INR 200 to 500 (estimate, Indians pay lower SAARC rates) MEA: UNVERIFIED: no MEA advisory found; Indian Embassy Kathmandu issues notices on border and events. Check mea.gov.in travel advisories."
+  "notes": "Only India border is open by land for ordinary passport holders; Tibet needs Chinese visa and permits (not checked). Easy 'second country' from India by bus or train to border towns. Nepal is the cheapest passport stamp on this list. Best months low budget: [3, 4, 5, 10, 11]; best weather: [10, 11, 3, 4]. Warnings: Monsoon Jun to Sep: landslides on highways, leeches, flight delays at Lukla; heat in Terai Apr to Jun; earthquake zone; trekking cold Dec to Feb above 3,000 m. Budget pieces: Guesthouse INR 700 to 1,800; dal bhat and cafes INR 500 to 1,000; local bus or microbus INR 150 to 400; sights INR 200 to 500 (estimate, Indians pay lower SAARC rates) MEA: UNVERIFIED: no MEA advisory found; Indian Embassy Kathmandu issues notices on border and events. Check mea.gov.in travel advisories.",
+  "iso": "np"
  },
  {
   "country": "Thailand",
@@ -6855,7 +6959,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "research",
-  "notes": "Land crossings: Nong Khai to Vientiane (Laos, Friendship Bridge, train), Aranyaprathet to Poipet (Cambodia, scam prone), Hat Yai to Malaysia (Padang Besar). Myanmar land travel restricted. Count land border entries (max 2 per year visa free). Best months low budget: [5, 6, 9, 10]; best weather: [11, 12, 1, 2]. Warnings: Monsoon May to Oct; southern Andaman coast rough seas and ferry cuts May to Oct; Gulf islands better in those months; heat and burning haze in north Mar to Apr; floods Sep to Nov; typhoon spillover rare. Budget pieces: Hostel or guesthouse INR 1,000 to 2,500; street food INR 700 to 1,300; BTS/MRT, songthaew, tuktuk INR 400 to 800; sights INR 400 to 900 (estimate) MEA: UNVERIFIED: MEA advisories exist on cyber scam jobs in Thailand and Myanmar border (job scam trafficking). Search confirmation needed; check https://www.mea.gov.in/travel-advisories."
+  "notes": "Land crossings: Nong Khai to Vientiane (Laos, Friendship Bridge, train), Aranyaprathet to Poipet (Cambodia, scam prone), Hat Yai to Malaysia (Padang Besar). Myanmar land travel restricted. Count land border entries (max 2 per year visa free). Best months low budget: [5, 6, 9, 10]; best weather: [11, 12, 1, 2]. Warnings: Monsoon May to Oct; southern Andaman coast rough seas and ferry cuts May to Oct; Gulf islands better in those months; heat and burning haze in north Mar to Apr; floods Sep to Nov; typhoon spillover rare. Budget pieces: Hostel or guesthouse INR 1,000 to 2,500; street food INR 700 to 1,300; BTS/MRT, songthaew, tuktuk INR 400 to 800; sights INR 400 to 900 (estimate) MEA: UNVERIFIED: MEA advisories exist on cyber scam jobs in Thailand and Myanmar border (job scam trafficking). Search confirmation needed; check https://www.mea.gov.in/travel-advisories.",
+  "iso": "th"
  },
  {
   "country": "South Korea",
@@ -6933,7 +7038,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "research",
-  "notes": "Ferries Busan to Fukuoka/Shimonoseki Japan (Indian visa needed for Japan) and Incheon to Chinese ports (check status). Visa is the main hurdle for Indian passports; US or Schengen visa may help approval odds only informally (UNVERIFIED). Best months low budget: [3, 4, 5, 10, 11]; best weather: [4, 5, 10]. Warnings: Rainy season (jangma) late Jun to Jul; typhoons Aug to Sep; very cold Dec to Feb; fine dust spring; heat waves Jul to Aug; autumn is peak and pricey. Budget pieces: Hostel or guesthouse INR 2,800 to 5,000; food INR 1,500 to 2,500; T-money subway and bus INR 400 to 700; sights INR 300 to 1,000 (estimate) MEA: UNVERIFIED: no MEA advisory found; Indian Embassy Seoul publishes notices."
+  "notes": "Ferries Busan to Fukuoka/Shimonoseki Japan (Indian visa needed for Japan) and Incheon to Chinese ports (check status). Visa is the main hurdle for Indian passports; US or Schengen visa may help approval odds only informally (UNVERIFIED). Best months low budget: [3, 4, 5, 10, 11]; best weather: [4, 5, 10]. Warnings: Rainy season (jangma) late Jun to Jul; typhoons Aug to Sep; very cold Dec to Feb; fine dust spring; heat waves Jul to Aug; autumn is peak and pricey. Budget pieces: Hostel or guesthouse INR 2,800 to 5,000; food INR 1,500 to 2,500; T-money subway and bus INR 400 to 700; sights INR 300 to 1,000 (estimate) MEA: UNVERIFIED: no MEA advisory found; Indian Embassy Seoul publishes notices.",
+  "iso": "kr"
  },
  {
   "country": "Canada",
@@ -7010,7 +7116,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "research",
-  "notes": "USA by land or train: Amtrak Maple Leaf Toronto to New York, bus from Vancouver to Seattle. US visa required for the USA. Note: the user context assumption 'visa-exempt with a valid US visa' is NOT supported by sources for Indians. Best months low budget: [5, 9, 10]; best weather: [6, 7, 8, 9]. Warnings: Winter Nov to Mar: heavy snow, minus 20 to minus 40 in prairies; wildfire smoke Jun to Sep in west; Atlantic coast storms Sep to Oct; summer is peak and expensive. Budget pieces: Hostel or budget hotel INR 5,000 to 8,500; food INR 2,500 to 4,500; transit INR 800 to 1,500; sights INR 1,000 to 2,500 (estimate) MEA: UNVERIFIED: MEA has issued advisories for Indians in Canada in past years (hate crimes, 2023) but a current 2026 advisory was not found; check https://www.mea.gov.in/travel-advisories."
+  "notes": "USA by land or train: Amtrak Maple Leaf Toronto to New York, bus from Vancouver to Seattle. US visa required for the USA. Note: the user context assumption 'visa-exempt with a valid US visa' is NOT supported by sources for Indians. Best months low budget: [5, 9, 10]; best weather: [6, 7, 8, 9]. Warnings: Winter Nov to Mar: heavy snow, minus 20 to minus 40 in prairies; wildfire smoke Jun to Sep in west; Atlantic coast storms Sep to Oct; summer is peak and expensive. Budget pieces: Hostel or budget hotel INR 5,000 to 8,500; food INR 2,500 to 4,500; transit INR 800 to 1,500; sights INR 1,000 to 2,500 (estimate) MEA: UNVERIFIED: MEA has issued advisories for Indians in Canada in past years (hate crimes, 2023) but a current 2026 advisory was not found; check https://www.mea.gov.in/travel-advisories.",
+  "iso": "ca"
  },
  {
   "country": "United States of America",
@@ -7089,7 +7196,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "research",
-  "notes": "Land to Mexico (Tijuana, Cancun not by land) and Canada (Niagara Rainbow Bridge, bus). Bahamas has e-visa/visa on arrival for Indians with US visa (not verified here). A valid US B1/B2 visa helps with many third country concessions (e.g. UAE conditional, Georgia waiver). Fees and bond policy volatile. Best months low budget: [4, 5, 9, 10]; best weather: [5, 6, 9, 10]. Warnings: Atlantic hurricanes Jun to Nov (Florida, Gulf); tornado season Apr to Jun in Plains; extreme heat Jun to Aug in southwest and Las Vegas; winter storms Dec to Mar; wildfires west Aug to Oct. Budget pieces: Hostel or motel INR 6,000 to 10,000; food INR 3,000 to 5,000; transit INR 800 to 1,500 (cities), car rental extra; sights INR 1,000 to 2,000 (estimate, taxes and tips extra) MEA: UNVERIFIED: MEA has issued advisories for Indian students and visitors on US laws and safety; current 2026 advisory not confirmed in search; check https://www.mea.gov.in/travel-advisories. Also US Presidential Proclamation 10998 (entry limits, 39 countries from 1 Jan 2026) does not list India per snippet, UNVERIFIED."
+  "notes": "Land to Mexico (Tijuana, Cancun not by land) and Canada (Niagara Rainbow Bridge, bus). Bahamas has e-visa/visa on arrival for Indians with US visa (not verified here). A valid US B1/B2 visa helps with many third country concessions (e.g. UAE conditional, Georgia waiver). Fees and bond policy volatile. Best months low budget: [4, 5, 9, 10]; best weather: [5, 6, 9, 10]. Warnings: Atlantic hurricanes Jun to Nov (Florida, Gulf); tornado season Apr to Jun in Plains; extreme heat Jun to Aug in southwest and Las Vegas; winter storms Dec to Mar; wildfires west Aug to Oct. Budget pieces: Hostel or motel INR 6,000 to 10,000; food INR 3,000 to 5,000; transit INR 800 to 1,500 (cities), car rental extra; sights INR 1,000 to 2,000 (estimate, taxes and tips extra) MEA: UNVERIFIED: MEA has issued advisories for Indian students and visitors on US laws and safety; current 2026 advisory not confirmed in search; check https://www.mea.gov.in/travel-advisories. Also US Presidential Proclamation 10998 (entry limits, 39 countries from 1 Jan 2026) does not list India per snippet, UNVERIFIED.",
+  "iso": "us"
  },
  {
   "country": "United Arab Emirates",
@@ -7169,7 +7277,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "research",
-  "notes": "Land by bus to Oman (Muscat) from Dubai possible; Oman visa for Indians (eVisa) not verified here. Qatar by air only (Saudi border). This conditional visa is a strong reason to keep a US/UK/EU stamp. Best months low budget: [10, 11, 4]; best weather: [11, 12, 1, 2, 3]. Warnings: Extreme heat above 45 C Jun to Sep; humidity, summer flash floods possible Mar to Apr; sandstorms Mar to Jun; Ramadan changes opening hours. Budget pieces: Budget hotel or hostel INR 3,000 to 5,500; food INR 1,200 to 2,200; Dubai Metro/Nol card INR 500 to 900; sights INR 500 to 1,000 (estimate) MEA: UNVERIFIED: MEA has not issued a standing UAE advisory in found sources; Indian Consulate Dubai and Embassy Abu Dhabi issue advisories on visa and overstay."
+  "notes": "Land by bus to Oman (Muscat) from Dubai possible; Oman visa for Indians (eVisa) not verified here. Qatar by air only (Saudi border). This conditional visa is a strong reason to keep a US/UK/EU stamp. Best months low budget: [10, 11, 4]; best weather: [11, 12, 1, 2, 3]. Warnings: Extreme heat above 45 C Jun to Sep; humidity, summer flash floods possible Mar to Apr; sandstorms Mar to Jun; Ramadan changes opening hours. Budget pieces: Budget hotel or hostel INR 3,000 to 5,500; food INR 1,200 to 2,200; Dubai Metro/Nol card INR 500 to 900; sights INR 500 to 1,000 (estimate) MEA: UNVERIFIED: MEA has not issued a standing UAE advisory in found sources; Indian Consulate Dubai and Embassy Abu Dhabi issue advisories on visa and overstay.",
+  "iso": "ae"
  },
  {
   "country": "Georgia",
@@ -7248,7 +7357,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "research",
-  "notes": "Land to Armenia (Sadakhlo, marshrutka Tbilisi to Yerevan about GEL 35 to 40 UNVERIFIED), Azerbaijan (Red Bridge, e-visa needed), Turkey at Sarpi near Batumi. Russia crossing at Upper Lars not recommended. Indian visa waivers via US/UK/Schengen apply. Best months low budget: [4, 5, 9, 10]; best weather: [5, 6, 9, 10]. Warnings: Heat in Tbilisi Jul to Aug; heavy snow and Kazbegi road closures Nov to Mar; spring rain in Batumi; landslide risk on mountain roads; check political protest news in Tbilisi. Budget pieces: Guesthouse or hostel INR 1,500 to 3,000; food INR 1,000 to 1,800; marshrutka and metro INR 300 to 700; sights INR 300 to 700 (estimate) MEA: UNVERIFIED: no current MEA advisory found; Indian Embassy Tbilisi exists (check for notices)."
+  "notes": "Land to Armenia (Sadakhlo, marshrutka Tbilisi to Yerevan about GEL 35 to 40 UNVERIFIED), Azerbaijan (Red Bridge, e-visa needed), Turkey at Sarpi near Batumi. Russia crossing at Upper Lars not recommended. Indian visa waivers via US/UK/Schengen apply. Best months low budget: [4, 5, 9, 10]; best weather: [5, 6, 9, 10]. Warnings: Heat in Tbilisi Jul to Aug; heavy snow and Kazbegi road closures Nov to Mar; spring rain in Batumi; landslide risk on mountain roads; check political protest news in Tbilisi. Budget pieces: Guesthouse or hostel INR 1,500 to 3,000; food INR 1,000 to 1,800; marshrutka and metro INR 300 to 700; sights INR 300 to 700 (estimate) MEA: UNVERIFIED: no current MEA advisory found; Indian Embassy Tbilisi exists (check for notices).",
+  "iso": "ge"
  },
  {
   "country": "Germany",
@@ -7336,7 +7446,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "research",
-  "notes": "Land hub: Netherlands, Belgium, Luxembourg, France, Switzerland, Austria, Czechia, Poland, Denmark by train or Flixbus within Schengen; the 90 days limit is shared across all Schengen countries. Germany also offers other free entry regimes via other EU states. Best months low budget: [3, 4, 10, 11]; best weather: [5, 6, 7, 8, 9]. Warnings: Winter Dec to Feb cold and short days; summer heatwaves Jul to Aug increasing; floods in west/south Jun to Jul; Christmas markets Nov to Dec. Budget pieces: Hostel or budget hotel INR 4,000 to 6,500; food INR 1,800 to 3,000; transit INR 600 to 1,000; sights INR 500 to 1,000 (estimate) MEA: UNVERIFIED: no MEA travel advisory for Germany found; Indian embassy Berlin notices."
+  "notes": "Land hub: Netherlands, Belgium, Luxembourg, France, Switzerland, Austria, Czechia, Poland, Denmark by train or Flixbus within Schengen; the 90 days limit is shared across all Schengen countries. Germany also offers other free entry regimes via other EU states. Best months low budget: [3, 4, 10, 11]; best weather: [5, 6, 7, 8, 9]. Warnings: Winter Dec to Feb cold and short days; summer heatwaves Jul to Aug increasing; floods in west/south Jun to Jul; Christmas markets Nov to Dec. Budget pieces: Hostel or budget hotel INR 4,000 to 6,500; food INR 1,800 to 3,000; transit INR 600 to 1,000; sights INR 500 to 1,000 (estimate) MEA: UNVERIFIED: no MEA travel advisory for Germany found; Indian embassy Berlin notices.",
+  "iso": "de"
  },
  {
   "country": "Luxembourg",
@@ -7417,7 +7528,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "research",
-  "notes": "Luxembourg is the cheapest of the four to move through because transport is free; train to Brussels about 3 hours, Trier 50 minutes. The Embassy of Luxembourg in New Delhi accepts applications: Indians apply there (via official site). Best months low budget: [3, 4, 5, 9, 10]; best weather: [5, 6, 7, 8, 9]. Warnings: Mild; wet winters; heatwaves Jul to Aug; occasional Ardennes floods Jul 2021 style; Christmas markets Dec. Budget pieces: Hostel or budget hotel INR 5,500 to 8,500; food INR 2,000 to 3,200; transport free (about INR 0); sights INR 300 to 800 (estimate; prices highest of the four) MEA: UNVERIFIED: no MEA advisory for Luxembourg found; Indian Embassy Brussels is accredited."
+  "notes": "Luxembourg is the cheapest of the four to move through because transport is free; train to Brussels about 3 hours, Trier 50 minutes. The Embassy of Luxembourg in New Delhi accepts applications: Indians apply there (via official site). Best months low budget: [3, 4, 5, 9, 10]; best weather: [5, 6, 7, 8, 9]. Warnings: Mild; wet winters; heatwaves Jul to Aug; occasional Ardennes floods Jul 2021 style; Christmas markets Dec. Budget pieces: Hostel or budget hotel INR 5,500 to 8,500; food INR 2,000 to 3,200; transport free (about INR 0); sights INR 300 to 800 (estimate; prices highest of the four) MEA: UNVERIFIED: no MEA advisory for Luxembourg found; Indian Embassy Brussels is accredited.",
+  "iso": "lu"
  },
  {
   "country": "Belgium",
@@ -7499,7 +7611,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "research",
-  "notes": "Belgium is the central hub: train to Amsterdam 2 hours, Luxembourg 3 hours, Paris 1.5 hours, Cologne 2 hours. Also an EU/NATO capital where Indian Embassy is based. Best months low budget: [3, 4, 5, 9, 10]; best weather: [5, 6, 7, 8, 9]. Warnings: Rain frequent year round; cool winters; heatwaves in July; Flanders floods possible; Christmas markets Dec. Budget pieces: Hostel or budget hotel INR 4,500 to 7,000; food INR 1,800 to 3,000; transit INR 600 to 1,000; sights INR 500 to 900 (estimate) MEA: UNVERIFIED: no MEA advisory for Belgium found; Indian Embassy Brussels."
+  "notes": "Belgium is the central hub: train to Amsterdam 2 hours, Luxembourg 3 hours, Paris 1.5 hours, Cologne 2 hours. Also an EU/NATO capital where Indian Embassy is based. Best months low budget: [3, 4, 5, 9, 10]; best weather: [5, 6, 7, 8, 9]. Warnings: Rain frequent year round; cool winters; heatwaves in July; Flanders floods possible; Christmas markets Dec. Budget pieces: Hostel or budget hotel INR 4,500 to 7,000; food INR 1,800 to 3,000; transit INR 600 to 1,000; sights INR 500 to 900 (estimate) MEA: UNVERIFIED: no MEA advisory for Belgium found; Indian Embassy Brussels.",
+  "iso": "be"
  },
  {
   "country": "Netherlands",
@@ -7581,7 +7694,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "research",
-  "notes": "Train from Amsterdam to Brussels (about 2 hours), Cologne (3 hours), Antwerp. Netherlands Schengen visa processed via VFS Global in India (not verified today). Dutch overseas parts (Aruba, Curacao) separate visa rules not checked. Best months low budget: [3, 4, 10, 11]; best weather: [5, 6, 7, 8, 9]. Warnings: Rain and wind year round; cool winters; tulips Apr; storms Oct to Mar; heatwaves Jul; cycling season peak. Budget pieces: Hostel or budget hotel INR 5,000 to 8,000; food INR 2,000 to 3,500; OV-chipkaart transit INR 700 to 1,200; sights INR 500 to 1,000 (estimate; Amsterdam high) MEA: UNVERIFIED: no MEA advisory for Netherlands found; Indian Embassy The Hague."
+  "notes": "Train from Amsterdam to Brussels (about 2 hours), Cologne (3 hours), Antwerp. Netherlands Schengen visa processed via VFS Global in India (not verified today). Dutch overseas parts (Aruba, Curacao) separate visa rules not checked. Best months low budget: [3, 4, 10, 11]; best weather: [5, 6, 7, 8, 9]. Warnings: Rain and wind year round; cool winters; tulips Apr; storms Oct to Mar; heatwaves Jul; cycling season peak. Budget pieces: Hostel or budget hotel INR 5,000 to 8,000; food INR 2,000 to 3,500; OV-chipkaart transit INR 700 to 1,200; sights INR 500 to 1,000 (estimate; Amsterdam high) MEA: UNVERIFIED: no MEA advisory for Netherlands found; Indian Embassy The Hague.",
+  "iso": "nl"
  },
  {
   "country": "Qatar",
@@ -7662,7 +7776,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "research",
-  "notes": "Only land border is Saudi Arabia (Abu Samra) and entry needs a Saudi visa (not checked). Practical country adding: flights to Bahrain, Muscat, Dubai. Free 'Doha Stopover' tour via Qatar Airways transit is common, UNVERIFIED. Best months low budget: [10, 11, 3, 4]; best weather: [11, 12, 1, 2, 3]. Warnings: Extreme heat 45 plus C Jun to Sep, humid; sandstorms Mar to Jun; Ramadan hours; no hurricanes; rare floods. Budget pieces: Budget hotel INR 3,500 to 6,000; food INR 1,200 to 2,200; metro and bus INR 300 to 700; sights INR 300 to 800 (estimate) MEA: UNVERIFIED: no MEA advisory for Qatar found; Indian Embassy Doha publishes notices. Gulf region security notices occasional."
+  "notes": "Only land border is Saudi Arabia (Abu Samra) and entry needs a Saudi visa (not checked). Practical country adding: flights to Bahrain, Muscat, Dubai. Free 'Doha Stopover' tour via Qatar Airways transit is common, UNVERIFIED. Best months low budget: [10, 11, 3, 4]; best weather: [11, 12, 1, 2, 3]. Warnings: Extreme heat 45 plus C Jun to Sep, humid; sandstorms Mar to Jun; Ramadan hours; no hurricanes; rare floods. Budget pieces: Budget hotel INR 3,500 to 6,000; food INR 1,200 to 2,200; metro and bus INR 300 to 700; sights INR 300 to 800 (estimate) MEA: UNVERIFIED: no MEA advisory for Qatar found; Indian Embassy Doha publishes notices. Gulf region security notices occasional.",
+  "iso": "qa"
  },
  {
   "country": "China",
@@ -7754,7 +7869,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AJ"
+  "trip": "AJ",
+  "iso": "cn"
  },
  {
   "country": "Russia",
@@ -7845,7 +7961,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AG"
+  "trip": "AG",
+  "iso": "ru"
  },
  {
   "country": "Israel",
@@ -7927,7 +8044,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AH"
+  "trip": "AH",
+  "iso": "il"
  },
  {
   "country": "Mongolia",
@@ -8007,7 +8125,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AJ"
+  "trip": "AJ",
+  "iso": "mn"
  },
  {
   "country": "Ghana",
@@ -8091,7 +8210,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "T"
+  "trip": "T",
+  "iso": "gh"
  },
  {
   "country": "Nigeria",
@@ -8176,7 +8296,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "T"
+  "trip": "T",
+  "iso": "ng"
  },
  {
   "country": "Bolivia",
@@ -8262,7 +8383,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AF"
+  "trip": "AF",
+  "iso": "bo"
  },
  {
   "country": "Cuba",
@@ -8342,7 +8464,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AE"
+  "trip": "AE",
+  "iso": "cu"
  },
  {
   "country": "Kuwait",
@@ -8411,7 +8534,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AH"
+  "trip": "AH",
+  "iso": "kw"
  },
  {
   "country": "Pakistan",
@@ -8482,7 +8606,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AI"
+  "trip": "AI",
+  "iso": "pk"
  },
  {
   "country": "Myanmar",
@@ -8553,7 +8678,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AJ"
+  "trip": "AJ",
+  "iso": "mm"
  },
  {
   "country": "Tajikistan",
@@ -8623,7 +8749,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AJ"
+  "trip": "AJ",
+  "iso": "tj"
  },
  {
   "country": "Timor-Leste",
@@ -8701,7 +8828,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AC"
+  "trip": "AC",
+  "iso": "tl"
  },
  {
   "country": "Turkmenistan",
@@ -8784,7 +8912,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AJ"
+  "trip": "AJ",
+  "iso": "tm"
  },
  {
   "country": "Belarus",
@@ -8864,7 +8993,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AG"
+  "trip": "AG",
+  "iso": "by"
  },
  {
   "country": "Moldova",
@@ -8940,7 +9070,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AG"
+  "trip": "AG",
+  "iso": "md"
  },
  {
   "country": "Senegal",
@@ -9026,7 +9157,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "U"
+  "trip": "U",
+  "iso": "sn"
  },
  {
   "country": "Côte d'Ivoire",
@@ -9111,7 +9243,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "T"
+  "trip": "T",
+  "iso": "ci"
  },
  {
   "country": "Mozambique",
@@ -9198,7 +9331,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "W"
+  "trip": "W",
+  "iso": "mz"
  },
  {
   "country": "Malawi",
@@ -9282,7 +9416,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "W"
+  "trip": "W",
+  "iso": "mw"
  },
  {
   "country": "Cabo Verde",
@@ -9358,7 +9493,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "U"
+  "trip": "U",
+  "iso": "cv"
  },
  {
   "country": "Angola",
@@ -9437,7 +9573,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "W"
+  "trip": "W",
+  "iso": "ao"
  },
  {
   "country": "Algeria",
@@ -9518,7 +9655,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AA"
+  "trip": "AA",
+  "iso": "dz"
  },
  {
   "country": "Papua New Guinea",
@@ -9597,7 +9735,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AC"
+  "trip": "AC",
+  "iso": "pg"
  },
  {
   "country": "Guatemala",
@@ -9677,7 +9816,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AD"
+  "trip": "AD",
+  "iso": "gt"
  },
  {
   "country": "Belize",
@@ -9755,7 +9895,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AD"
+  "trip": "AD",
+  "iso": "bz"
  },
  {
   "country": "Guyana",
@@ -9833,7 +9974,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AF"
+  "trip": "AF",
+  "iso": "gy"
  },
  {
   "country": "Paraguay",
@@ -9913,7 +10055,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AF"
+  "trip": "AF",
+  "iso": "py"
  },
  {
   "country": "Afghanistan",
@@ -9991,7 +10134,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AI"
+  "trip": "AI",
+  "iso": "af"
  },
  {
   "country": "Iran",
@@ -10071,7 +10215,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AI"
+  "trip": "AI",
+  "iso": "ir"
  },
  {
   "country": "Iraq",
@@ -10149,7 +10294,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AH"
+  "trip": "AH",
+  "iso": "iq"
  },
  {
   "country": "Lebanon",
@@ -10224,7 +10370,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AH"
+  "trip": "AH",
+  "iso": "lb"
  },
  {
   "country": "Syria",
@@ -10302,7 +10449,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AI"
+  "trip": "AI",
+  "iso": "sy"
  },
  {
   "country": "Yemen",
@@ -10378,7 +10526,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AI"
+  "trip": "AI",
+  "iso": "ye"
  },
  {
   "country": "Libya",
@@ -10457,7 +10606,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AA"
+  "trip": "AA",
+  "iso": "ly"
  },
  {
   "country": "North Korea",
@@ -10532,7 +10682,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AJ"
+  "trip": "AJ",
+  "iso": "kp"
  },
  {
   "country": "Benin",
@@ -10610,7 +10761,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "T"
+  "trip": "T",
+  "iso": "bj"
  },
  {
   "country": "Burkina Faso",
@@ -10683,7 +10835,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "Y"
+  "trip": "Y",
+  "iso": "bf"
  },
  {
   "country": "Mali",
@@ -10752,7 +10905,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "Y"
+  "trip": "Y",
+  "iso": "ml"
  },
  {
   "country": "Niger",
@@ -10821,7 +10975,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "Y"
+  "trip": "Y",
+  "iso": "ne"
  },
  {
   "country": "Togo",
@@ -10902,7 +11057,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "T"
+  "trip": "T",
+  "iso": "tg"
  },
  {
   "country": "Gambia",
@@ -10982,7 +11138,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "U"
+  "trip": "U",
+  "iso": "gm"
  },
  {
   "country": "Guinea",
@@ -11065,7 +11222,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "U"
+  "trip": "U",
+  "iso": "gn"
  },
  {
   "country": "Guinea-Bissau",
@@ -11145,7 +11303,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "U"
+  "trip": "U",
+  "iso": "gw"
  },
  {
   "country": "Sierra Leone",
@@ -11220,7 +11379,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "U"
+  "trip": "U",
+  "iso": "sl"
  },
  {
   "country": "Liberia",
@@ -11295,7 +11455,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "U"
+  "trip": "U",
+  "iso": "lr"
  },
  {
   "country": "Mauritania",
@@ -11371,7 +11532,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "Y"
+  "trip": "Y",
+  "iso": "mr"
  },
  {
   "country": "Cameroon",
@@ -11449,7 +11611,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "V"
+  "trip": "V",
+  "iso": "cm"
  },
  {
   "country": "Central African Republic",
@@ -11518,7 +11681,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "Y"
+  "trip": "Y",
+  "iso": "cf"
  },
  {
   "country": "Chad",
@@ -11589,7 +11753,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "Y"
+  "trip": "Y",
+  "iso": "td"
  },
  {
   "country": "Congo",
@@ -11658,7 +11823,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "V"
+  "trip": "V",
+  "iso": "cg"
  },
  {
   "country": "Democratic Republic of the Congo",
@@ -11732,7 +11898,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "V"
+  "trip": "V",
+  "iso": "cd"
  },
  {
   "country": "Gabon",
@@ -11808,7 +11975,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "V"
+  "trip": "V",
+  "iso": "ga"
  },
  {
   "country": "Equatorial Guinea",
@@ -11881,7 +12049,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "V"
+  "trip": "V",
+  "iso": "gq"
  },
  {
   "country": "Sao Tome and Principe",
@@ -11956,7 +12125,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "V"
+  "trip": "V",
+  "iso": "st"
  },
  {
   "country": "Comoros",
@@ -12034,7 +12204,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "W"
+  "trip": "W",
+  "iso": "km"
  },
  {
   "country": "Djibouti",
@@ -12106,7 +12277,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "Z"
+  "trip": "Z",
+  "iso": "dj"
  },
  {
   "country": "Eritrea",
@@ -12179,7 +12351,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "Z"
+  "trip": "Z",
+  "iso": "er"
  },
  {
   "country": "Somalia",
@@ -12249,7 +12422,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "Z"
+  "trip": "Z",
+  "iso": "so"
  },
  {
   "country": "South Sudan",
@@ -12321,7 +12495,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "Z"
+  "trip": "Z",
+  "iso": "ss"
  },
  {
   "country": "Sudan",
@@ -12400,7 +12575,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "Z"
+  "trip": "Z",
+  "iso": "sd"
  },
  {
   "country": "Burundi",
@@ -12475,7 +12651,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "W"
+  "trip": "W",
+  "iso": "bi"
  },
  {
   "country": "Ukraine",
@@ -12553,7 +12730,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AG"
+  "trip": "AG",
+  "iso": "ua"
  },
  {
   "country": "Uruguay",
@@ -12628,7 +12806,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AF"
+  "trip": "AF",
+  "iso": "uy"
  },
  {
   "country": "Venezuela",
@@ -12705,7 +12884,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AF"
+  "trip": "AF",
+  "iso": "ve"
  },
  {
   "country": "Suriname",
@@ -12783,7 +12963,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AF"
+  "trip": "AF",
+  "iso": "sr"
  },
  {
   "country": "Haiti",
@@ -12857,7 +13038,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AE"
+  "trip": "AE",
+  "iso": "ht"
  },
  {
   "country": "Honduras",
@@ -12933,7 +13115,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AD"
+  "trip": "AD",
+  "iso": "hn"
  },
  {
   "country": "El Salvador",
@@ -13011,7 +13194,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AD"
+  "trip": "AD",
+  "iso": "sv"
  },
  {
   "country": "Nicaragua",
@@ -13088,7 +13272,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AD"
+  "trip": "AD",
+  "iso": "ni"
  },
  {
   "country": "Antigua and Barbuda",
@@ -13166,7 +13351,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AE"
+  "trip": "AE",
+  "iso": "ag"
  },
  {
   "country": "Saint Kitts and Nevis",
@@ -13243,7 +13429,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AE"
+  "trip": "AE",
+  "iso": "kn"
  },
  {
   "country": "Kiribati",
@@ -13321,7 +13508,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AB"
+  "trip": "AB",
+  "iso": "ki"
  },
  {
   "country": "Marshall Islands",
@@ -13398,7 +13586,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AB"
+  "trip": "AB",
+  "iso": "mh"
  },
  {
   "country": "Micronesia",
@@ -13477,7 +13666,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AB"
+  "trip": "AB",
+  "iso": "fm"
  },
  {
   "country": "Nauru",
@@ -13555,7 +13745,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AB"
+  "trip": "AB",
+  "iso": "nr"
  },
  {
   "country": "Palau",
@@ -13638,7 +13829,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AB"
+  "trip": "AB",
+  "iso": "pw"
  },
  {
   "country": "Solomon Islands",
@@ -13720,7 +13912,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AC"
+  "trip": "AC",
+  "iso": "sb"
  },
  {
   "country": "Tonga",
@@ -13803,7 +13996,8 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AC"
+  "trip": "AC",
+  "iso": "to"
  },
  {
   "country": "Tuvalu",
@@ -13886,6 +14080,7 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "trip": "AC"
+  "trip": "AC",
+  "iso": "tv"
  }
 ]
