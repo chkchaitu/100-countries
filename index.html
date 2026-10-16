@@ -161,7 +161,7 @@ function decode(topo){const k=topo.transform.scale,t=topo.transform.translate;le
  const ring=r=>{let out=[];r.forEach(i=>{let a=i<0?arcs[~i].slice().reverse():arcs[i];out=out.concat(out.length?a.slice(1):a)});return out};
  return topo.objects.countries.geometries.map(g=>{let polys=g.type==='Polygon'?[g.arcs]:g.arcs;return{name:g.properties.name,rings:polys.flatMap(p=>p.map(ring))}})}
 const GEO=decode(WORLD);const MAPALIAS={'Central African Rep.':'Central African Republic','Dem. Rep. Congo':'Democratic Republic of the Congo','Eq. Guinea':'Equatorial Guinea','S. Sudan':'South Sudan','Solomon Is.':'Solomon Islands'};GEO.forEach(g=>{if(MAPALIAS[g.name])g.name=MAPALIAS[g.name]});
-const PAL=['#2c4a8f','#2f6f7a','#5b4a96','#3b7a5c','#8a4f7d','#3d6fa3','#6a6aa8','#2f8a8a','#7a5f9a','#4a7f3f','#a05a6a','#3f5fb0'];
+const PAL=['#4c8dff','#2ec4b6','#a06bff','#ff6fa5','#8fd14f','#4dd0f0','#c79bff','#ff8a9a','#5fe0a8','#7a8cff','#f0b3ff','#6fd0ff'];
 const NAMECOL={};(function(){const at={};GEO.forEach((g,i)=>{for(const r of g.rings)for(const p of r){const k=p[0].toFixed(3)+','+p[1].toFixed(3);(at[k]=at[k]||new Set()).add(i)}});const nb=GEO.map(()=>new Set());for(const k in at){const s=[...at[k]];if(s.length>1)for(const x of s)for(const y of s)if(x!==y)nb[x].add(y)}
 const order=GEO.map((g,i)=>i).sort((x,y)=>nb[y].size-nb[x].size),pick={};for(const i of order){const used=new Set([...nb[i]].map(j=>pick[j]).filter(v=>v!==undefined));let c=0;while(used.has(c)&&c<PAL.length-1)c++;pick[i]=c;NAMECOL[GEO[i].name]=PAL[c]}})();
 // small countries missing from 110m: markers
