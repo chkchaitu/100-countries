@@ -11,4 +11,4 @@ for h in news:add(h['country'],'news: '+h['title'])
 for d in chk['deadLinks']:
     for c in d['countries']:add(c,'source unreachable')
 for c,r in sorted(v.items(),key=lambda x:x[1]['lastChecked']):add(c,'oldest check '+r['lastChecked'])
-json.dump({'countries':pick,'why':why},open('/tmp/pick.json','w'),indent=1,ensure_ascii=False);print(json.dumps(why,indent=1,ensure_ascii=False))
+json.dump({'also_check':['apply','health','transit'],'countries':pick,'why':why},open('/tmp/pick.json','w'),indent=1,ensure_ascii=False);print(json.dumps(why,indent=1,ensure_ascii=False))

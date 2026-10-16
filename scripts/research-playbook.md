@@ -1,4 +1,4 @@
-# Weekly research playbook (visa and arrival rules)
+# Weekly research playbook (visa and arrival rules, plus how to apply, health and transit for the same countries)
 
 Repo: ~/build/100-countries-site (chkchaitu/100-countries). Audience: Indian ordinary passport holders. Never put personal data in the repo.
 
@@ -7,6 +7,11 @@ Repo: ~/build/100-countries-site (chkchaitu/100-countries). Audience: Indian ord
 3. Research the countries YOURSELF, in this same turn, one after another. Do NOT spawn subagents: a scheduled run cannot wait for them and ends early. Take at most 8 countries (the first 8 of /tmp/pick.json). For each, find the OFFICIAL source first (immigration authority, foreign ministry, embassy or consulate in India, official e-visa portal). News and aggregator sites are only leads. Check: visa category for Indians, stay length, fee, e-visa or arrival card or travel authorisation, passport validity, any date the rule ends or starts, and any rule that an Indian's US, UK, Schengen or other visa waives. Keep a running note per country: old rule, new rule, official URL, confidence.
 4. Change a record in data/visa.json only when an official or two independent reliable sources support it. Update `rule`, `category`, `easedBy`, `status` (confirmed / probable), `sources` (real URLs only), and set `lastChecked` to today. If a country's rule is unchanged, only bump `lastChecked` and add the source you used. If you cannot verify, leave the record unchanged and list it as "unverified". Never guess. Pages that show results only after picking a nationality (JavaScript) cannot be read by fetch; say so instead of reading the dropdown list as a result. Rules are plain English, no em dashes.
 5. If a country's profile (data/countries.json) is affected (for example an arrival card, a fee), update that too.
+5b. For every country you check this week, ALSO look at its other entries and fix anything the news or the official page shows has changed:
+   - data/apply.json (how to apply): route, official links (curl -sIL them), fee, processing, documents, photo, visa-free conditions and end dates.
+   - data/health.json and, if India's yellow fever or polio lists changed, data/health-global.json: yellow fever entry rule, required vaccines, outbreak notices (CDC, WHO, health ministry).
+   - data/transit.json (once it exists): airside and landside transit rules for Indians, transit schemes, which visas waive transit.
+   News items about transit, vaccination certificates, new e-visa portals or visa-centre changes are triggers for these files too. Set `lastChecked` only on files you really checked.
 6. Write the PR body to /tmp/pr-body.md (per country: old rule, new rule, source links, confidence). Run `scripts/finish_pr.sh "Weekly visa research YYYY-MM-DD" /tmp/pr-body.md`. It validates, branches, opens the PR, waits for the check and merges. A change that tightens or loosens entry (for example visa-free to visa needed) must instead use the `--no-merge` flag so Krishna approves it. If you changed nothing, say so; do not run the script.
 7. The run is only a success if the script printed MERGED or a PR is left open for review, or you honestly found nothing to change after really checking every picked country. Never end the turn waiting for anything.
 8. Close the weekly data-check issue ONLY if a PR was merged, with a comment linking it. If you changed nothing, leave the issue open and say why.

@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Scan Google News RSS for visa or entry news per country (last 8 days). Writes /tmp/news.json. Never fails the run."""
 import json,re,time,html,urllib.request,urllib.parse,datetime
-KEY=re.compile(r'visa|e-?visa|\beta\b|arrival card|entry (rule|requirement|fee)|visa[- ]free|on arrival|border|travel authori|immigration|permit',re.I)
+KEY=re.compile(r'transit|yellow fever|vaccin|quarantine|health|visa|e-?visa|\beta\b|arrival card|entry (rule|requirement|fee)|visa[- ]free|on arrival|border|travel authori|immigration|permit',re.I)
 prof=json.load(open('data/countries.json',encoding='utf-8'))
 hits=[]
 for p in prof:
