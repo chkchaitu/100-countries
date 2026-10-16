@@ -321,12 +321,12 @@ async function boot(){
  
  // ---------- country panel
  const CATL={visa_free:'Visa-free',on_arrival:'Visa on arrival',evisa:'E-visa',conditional:'Conditional: depends on a visa you hold',visa_required:'Visa needed in advance',unknown:'Check the rule',territory:'Not a country: no visa for the territory itself'};
- const ROUTE={online:'Apply online',embassy:'Embassy or consulate',agency:'Through an authorised agency or visa centre',mixed:'Online or through a mission'};
+ const ROUTE={online:'Apply online',embassy:'Embassy or consulate',agency:'Through an authorised agency or visa centre',mixed:'Online or through a mission',visafree:'Visa-free: no visa to apply for'};
  const CONFL={official:'Read on official pages',partial:'Partly verified',thin:'Mostly unverified'};
  const lnk=(a,cls)=>(a||[]).filter(u=>/^https?:/.test(u.url)).map(u=>`<a class="${cls}" href="${esc(u.url)}" target="_blank" rel="noopener">${esc(u.label||u.url)}</a>`).join('');
- function applyHtml(n,v){const a=APPLY[n];if(!a||!v||v.category==='visa_free')return'';
+ function applyHtml(n,v){const a=APPLY[n];if(!a||!v)return'';const vf=v.category==='visa_free';
   const row=(k,x)=>x?`<div class="arow"><span>${k}</span><div>${esc(x)}</div></div>`:'';
-  return `<h3>How to apply from India</h3><div class="applybox"><p><span class="tag">${esc(ROUTE[a.route]||a.route)}</span><span class="tag ${a.confidence==='official'?'okt':''}">${esc(CONFL[a.confidence]||a.confidence)}</span></p>
+  return `<h3>How to apply from India</h3><div class="applybox">${vf?'<div class="retnote ok"><b>Visa-free for Indian passport holders.</b> You do not apply for a visa. Check the entry conditions below, and any arrival form, before you travel.</div>':''}<p><span class="tag ${vf?'okt':''}">${esc(ROUTE[vf?'visafree':a.route]||a.route)}</span><span class="tag ${a.confidence==='official'?'okt':''}">${esc(CONFL[a.confidence]||a.confidence)}</span></p>
   ${a.schengenNote?`<p class="meta">${esc(a.schengenNote)}</p>`:''}<p>${esc(a.summary)}</p>
   ${a.applyLinks&&a.applyLinks.length?`<div class="abtns">${lnk(a.applyLinks,'abtn')}</div>`:''}
   ${a.formLinks&&a.formLinks.length?`<p class="meta" style="margin:10px 0 4px">Official forms</p><div class="abtns">${lnk(a.formLinks,'abtn alt')}</div>`:''}

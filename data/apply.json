@@ -943,64 +943,91 @@
  },
  {
   "country": "Thailand",
-  "route": "online",
-  "summary": "For tourism, Indian ordinary passport holders can currently enter Thailand without a visa for up to 30 days (rule from 15 September 2026, per the Thai Embassy in New Delhi). For a longer stay or certainty, apply for a Tourist visa on the official Thai e-Visa website. Also complete the Thailand Digital Arrival Card before arrival.",
+  "route": "visafree",
+  "summary": "Indian passport holders can enter Thailand without a visa for tourism for up to 30 days per entry from 15 September 2026, when Thailand replaced its 60-day exemption and ended Visa on Arrival for India. Before flying, fill in the free Thailand Digital Arrival Card (TDAC), preferably 3 days ahead, and carry a return ticket, accommodation details and funds. For longer stays apply for a Tourist e-visa.",
   "applyLinks": [
    {
-    "label": "Thailand official e-Visa website",
-    "url": "https://www.thaievisa.go.th/"
+    "label": "Complete the Thailand Digital Arrival Card (TDAC)",
+    "url": "https://tdac.immigration.go.th/arrival-card/"
    },
    {
-    "label": "Royal Thai Embassy New Delhi visa page",
-    "url": "https://newdelhi.thaiembassy.org/en/page/visa"
+    "label": "Official announcement of the new visa exemption rules, effective 15 September 2026 (Thai government PRD)",
+    "url": "https://thailand.prd.go.th/en/content/category/detail/id/48/iid/538547"
+   },
+   {
+    "label": "Official Indian MEA list of visa facilities (still shows the old 60 days; check date)",
+    "url": "https://www.mea.gov.in/vffin"
+   },
+   {
+    "label": "Thailand e-Visa (if you need more than 30 days)",
+    "url": "https://www.thaievisa.go.th/"
    }
   ],
   "formLinks": [],
   "documents": [
    {
     "item": "Passport",
-    "note": "Validity and blank page rules UNVERIFIED on an official page; commonly 6 months"
+    "note": "Valid at least 6 months is the usual Thai rule; not confirmed on a page I could open"
    },
    {
-    "item": "Photo, bank statements, flight and hotel bookings",
-    "note": "Typical e-Visa checklist, uploaded online; the official checklist was not readable, UNVERIFIED"
+    "item": "TDAC arrival card receipt",
+    "note": "Filled online before arrival, free"
    },
    {
-    "item": "Visa exemption entry",
-    "note": "No visa document needed for tourism, but immigration may ask for onward ticket and funds; UNVERIFIED"
+    "item": "Return or onward ticket",
+    "note": "Officers may ask; exit within 30 days"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Hotel booking or address"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Only sometimes required; a consultancy report mentions revised entry funds rules, details UNVERIFIED"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Advisable, not confirmed as mandatory"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only sometimes required: if arriving from a yellow fever country"
    }
   ],
   "photo": {
-   "size": "UNVERIFIED",
-   "background": "UNVERIFIED",
-   "format": "UNVERIFIED",
-   "notes": "Uploaded on the e-Visa portal; portal page was empty to the fetcher",
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
    "status": "unverified"
   },
-  "fee": "Tourist e-Visa via Embassy New Delhi table in an official search result: single entry INR 3,000, multiple entry (6 months) INR 13,500; page itself timed out when opened, so UNVERIFIED as of 2026-10-16. Visa exemption: no fee",
-  "processing": "UNVERIFIED",
-  "applyEarly": "UNVERIFIED (a secondary source says apply about 4 weeks ahead)",
-  "biometrics": "UNVERIFIED; e-Visa system is online only since 1 January 2025 per Embassy page snippet",
-  "centres": "Online only; Royal Thai Embassy in New Delhi. Other consulates UNVERIFIED",
+  "fee": "No fee for visa-free entry. TDAC is free (official TDAC site title: 'No Fees Required'). A single 30-day extension at Thai Immigration was reported at THB 1,900 by a secondary site, UNVERIFIED. Checked 2026-10-16.",
+  "processing": "TDAC is submitted online; processing time UNVERIFIED, normally immediate",
+  "applyEarly": "Preferably 3 days before arrival (per India's MEA table note); submit before you travel",
+  "biometrics": "UNVERIFIED (photos or fingerprints may be taken at Thai immigration)",
+  "centres": "Not applicable",
   "warnings": [
-   "The visa exemption stay was cut to 30 days from 15 September 2026; check the stamp at entry.",
-   "Tourist e-Visa holders get up to 60 days per entry per Embassy table; the 30-day cut applies to the exemption.",
-   "Rules changed recently, so recheck the Embassy page before travel.",
-   "Apply only on thaievisa.go.th; avoid agents who add large fees."
+   "WHAT CHANGED: until 14 September 2026 Indians had a 60-day visa exemption (July 2024 scheme; India's MEA table still shows 60 days). From 15 September 2026 the 60-day scheme was revoked, India moved to a 30-day tourism-only exemption, and India's Visa on Arrival was withdrawn. Source: Thai Government PRD announcement dated 4 September 2026 (Royal Gazette 31 August 2026); the PRD page does not name India, the India placement comes from secondary reports and should be confirmed on the Thai Embassy in New Delhi page.",
+   "Entry for tourism only; work or other purposes need the matching visa. People already in Thailand before 15 September keep the stay on their stamp.",
+   "Visa-exempt arrivals by land border are reportedly limited to twice a calendar year (secondary source, UNVERIFIED). Apply for a Tourist e-visa if you need 60 days.",
+   "Use only the official TDAC site and the official e-visa portal; fake arrival-card sites charge fees. No end date for the exemption announced."
   ],
   "unverified": [
-   "Official e-Visa fee on a page that loaded",
-   "Photo rules",
-   "Document checklist",
-   "Processing time",
-   "Apply-early window"
+   "India named on an official Thai page (PRD page lists only the scheme)",
+   "Passport validity requirement",
+   "Entry funds amounts",
+   "Extension fee",
+   "Land-border limit",
+   "Biometrics",
+   "Thai Embassy New Delhi page timed out"
   ],
   "sources": [
-   "https://www.thaievisa.go.th/",
-   "https://newdelhi.thaiembassy.org/en/page/visa"
+   "https://thailand.prd.go.th/en/content/category/detail/id/48/iid/538547",
+   "https://tdac.immigration.go.th/arrival-card/",
+   "https://www.mfa.go.th/en/page/visa-exemption"
   ],
   "lastChecked": "2026-10-16",
-  "confidence": "thin"
+  "confidence": "partial"
  },
  {
   "country": "France",
@@ -13049,5 +13076,1591 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "partial"
+ },
+ {
+  "route": "visafree",
+  "formLinks": [],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "centres": "Not applicable",
+  "lastChecked": "2026-10-16",
+  "country": "Barbados",
+  "summary": "Indian passport holders do not need a visa for tourism in Barbados (visa-free entry for Indians, checked 2026-10-16). Before you fly, complete the free online Immigration and Customs form on the government travel portal (opens 72 hours before arrival) and save the receipt. Carry a return ticket and proof of where you will stay.",
+  "applyLinks": [
+   {
+    "label": "Complete the online Immigration and Customs (ED) form",
+    "url": "https://www.travelform.gov.bb/"
+   },
+   {
+    "label": "Official visa-free travel rules (Barbados Digital, government)",
+    "url": "https://barbadosdigital.com/articles/visa-free-travel"
+   },
+   {
+    "label": "Barbados Immigration Department",
+    "url": "https://www.immigration.gov.bb"
+   },
+   {
+    "label": "Online ED card guide (Visit Barbados)",
+    "url": "https://www.visitbarbados.org/online-ed-card"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Must be valid for the whole stay; some airlines ask for 6 months"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Required to enter"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Booking or host address, asked for on the form and sometimes at the border"
+   },
+   {
+    "item": "Immigration and Customs form receipt (QR or printout)",
+    "note": "Free, online, opens 72 hours before arrival"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Only sometimes required"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from a yellow fever risk country (check the UK FCDO page for the rule)"
+   }
+  ],
+  "fee": "No visa or arrival-form fee found. Departure tax: UNVERIFIED (usually included in the air ticket).",
+  "processing": "Instant receipt by email after submitting the online form",
+  "applyEarly": "Form opens 72 hours before arrival; complete it within that window, before check-in",
+  "biometrics": "UNVERIFIED",
+  "warnings": [
+   "Stay limit conflict: the government Barbados Digital page says Indian citizens may stay a maximum of 30 days in aggregate per year, while an older Foreign Ministry list (May 2025) says no visa and up to 180 days a calendar year. Plan for 30 days and confirm with Barbados Immigration before a longer trip.",
+   "Overstaying can lead to a fine or detention. Extensions are applied for with the Immigration Department.",
+   "Tourism and short business visits only; working needs a work permit.",
+   "Only use travelform.gov.bb, which is free. Paid look-alike ED card sites exist."
+  ],
+  "unverified": [
+   "Stay limit for Indians (30 vs 180 days, sources conflict)",
+   "Biometrics at the border",
+   "Departure tax amount",
+   "travelform.gov.bb and the May 2025 PDF block automated checks (429/403)"
+  ],
+  "sources": [
+   "https://barbadosdigital.com/articles/visa-free-travel",
+   "https://www.visitbarbados.org/online-ed-card",
+   "https://www.gov.uk/foreign-travel-advice/barbados/entry-requirements",
+   "https://www.immigration.gov.bb"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "route": "visafree",
+  "formLinks": [],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "centres": "Not applicable",
+  "lastChecked": "2026-10-16",
+  "country": "Bhutan",
+  "summary": "Indians do not need a visa for Bhutan; you need a free entry permit instead. Apply online on the Bhutan immigration portal before travel, or at the point of entry (Paro airport or Phuentsholing land border), carrying a valid passport (6 months validity) or Voter ID card. A Sustainable Development Fee is paid per night of stay.",
+  "applyLinks": [
+   {
+    "label": "Official Bhutan visa and permit page (Indian visitors section)",
+    "url": "https://bhutan.travel/visa"
+   },
+   {
+    "label": "Bhutan Department of Immigration online portal",
+    "url": "https://immi.gov.bt/"
+   },
+   {
+    "label": "Royal Bhutanese Consulate Kolkata: visa and entry permit note",
+    "url": "https://www.mfa.gov.bt/rbckolkata/visa"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Valid Indian passport (6 months validity) or Voter ID card",
+    "note": "Either is accepted for Indian nationals"
+   },
+   {
+    "item": "Passport-size photograph",
+    "note": "Needed if you apply for the permit at the point of entry"
+   },
+   {
+    "item": "Hotel or tour booking details",
+    "note": "Usually asked for when applying online"
+   },
+   {
+    "item": "Payment of Sustainable Development Fee",
+    "note": "Paid when the permit is applied for, online or in person"
+   },
+   {
+    "item": "Route permit for travel beyond Thimphu and Paro",
+    "note": "Only sometimes required; issued by Immigration, check current rules"
+   }
+  ],
+  "fee": "Entry permit: no fee payable in advance (bhutan.travel, checked 2026-10-16). Sustainable Development Fee for Indians: INR 1,200 per person per night per secondary sources, UNVERIFIED on an official page; children get concessions.",
+  "processing": "Reviewed online; bhutan.travel says visa applications are reviewed within 5 working days (permits for Indians not stated separately)",
+  "applyEarly": "Apply online before travel to avoid queues at the border; exact lead time UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "warnings": [
+   "Not a visa but a mandatory permit: you cannot enter Bhutan without it.",
+   "The Royal Consulate in Kolkata does not issue permits; only the Department of Immigration in Bhutan does.",
+   "Waiting at the border can be long when many people apply at once.",
+   "The SDF amount and its end date can change; confirm on immi.gov.bt or bhutan.travel before booking."
+  ],
+  "unverified": [
+   "SDF amount and validity period for Indians (from secondary sites only)",
+   "Route permit rules",
+   "Biometrics",
+   "Permit processing time for Indians"
+  ],
+  "sources": [
+   "https://bhutan.travel/visa",
+   "https://immi.gov.bt/",
+   "https://www.mfa.gov.bt/rbckolkata/visa"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "route": "visafree",
+  "formLinks": [],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "centres": "Not applicable",
+  "lastChecked": "2026-10-16",
+  "country": "Dominica",
+  "summary": "Indian passport holders are not listed as needing a visa for short tourist stays in Dominica per secondary sources, but the government list names only Commonwealth, CARICOM, EU and some other countries, so confirm with the Dominica immigration office before booking. Before travel complete the free online ED (immigration and customs) card within 3 days of arrival and keep the QR code. Carry a return ticket.",
+  "applyLinks": [
+   {
+    "label": "Complete the Dominica online ED card",
+    "url": "https://edcard.dominica.gov.dm/"
+   },
+   {
+    "label": "Official list: Do I need a visa to enter Dominica?",
+    "url": "https://dominica.gov.dm/services/passports-and-travel-documents-non-nationals/do-i-need-a-visa-to-enter-into-dominica"
+   },
+   {
+    "label": "Official ED card website notice (National Security Ministry)",
+    "url": "https://nationalsecurity.gov.dm/component/content/article/online-immigration-and-customs-declaration-card-website-notice"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at arrival; 6 months validity is the safe choice"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Required"
+   },
+   {
+    "item": "ED card confirmation with QR code",
+    "note": "Submit no more than 3 days before travel"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Asked for on the form and only sometimes at the border"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Only sometimes required"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from a risk country"
+   }
+  ],
+  "fee": "No fee found for the ED card. UNVERIFIED for any other arrival fee.",
+  "processing": "Instant confirmation with QR code on submission",
+  "applyEarly": "Submit no more than 3 days before travel (official ED card site)",
+  "biometrics": "UNVERIFIED",
+  "warnings": [
+   "Indian passport status is the key doubt: the official gov.dm page lists Commonwealth member states for stays up to six months, and India is a Commonwealth member, but India is not named. Secondary sites say visa-free up to 180 days. Confirm before buying tickets.",
+   "Stay limit is up to six months for Commonwealth countries on the official page; officers decide the days granted.",
+   "Use only edcard.dominica.gov.dm for the form.",
+   "Overstay can mean fines or removal."
+  ],
+  "unverified": [
+   "Written confirmation for Indian passports on an official page (India is covered only by the Commonwealth rule)",
+   "Stay granted to Indians",
+   "Biometrics",
+   "Arrival or departure fees"
+  ],
+  "sources": [
+   "https://dominica.gov.dm/services/passports-and-travel-documents-non-nationals/do-i-need-a-visa-to-enter-into-dominica",
+   "https://edcard.dominica.gov.dm/",
+   "https://nationalsecurity.gov.dm/component/content/article/online-immigration-and-customs-declaration-card-website-notice"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "route": "visafree",
+  "formLinks": [],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "centres": "Not applicable",
+  "lastChecked": "2026-10-16",
+  "country": "Fiji",
+  "summary": "Indian citizens are on Fiji's visa-exempt list and get a visitor permit on arrival for up to 4 months. No online form is needed to enter. Carry a passport valid 6 months, return ticket, accommodation proof and a recent bank statement.",
+  "applyLinks": [
+   {
+    "label": "Official visa-exempt countries list (Fiji Immigration)",
+    "url": "https://www.immigration.gov.fj/visa-exempted-countries"
+   },
+   {
+    "label": "Visitors Permit (Fiji Immigration)",
+    "url": "https://www.immigration.gov.fj/visitors-permit"
+   },
+   {
+    "label": "Entry requirements for visa-exempt travellers (Fiji Foreign Affairs)",
+    "url": "https://www.foreignaffairs.gov.fj/fiji-high-commission-new-zealand/visa-permits-waivers"
+   },
+   {
+    "label": "Visit Fiji: permit and visa overview",
+    "url": "https://www.immigration.gov.fj/visit-fiji"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport valid at least 6 months from date of entry",
+    "note": "Blank pages for stamps recommended"
+   },
+   {
+    "item": "Return or outbound ticket",
+    "note": "Required"
+   },
+   {
+    "item": "Confirmation of accommodation for the whole visit",
+    "note": "Required"
+   },
+   {
+    "item": "Copy of latest bank statement",
+    "note": "Listed by Fiji Foreign Affairs for visa-exempt travellers"
+   },
+   {
+    "item": "Re-entry visa for a third country",
+    "note": "Only if you live outside India"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from a risk country"
+   }
+  ],
+  "fee": "No fee for the permit on arrival found. Extension fees apply (amount UNVERIFIED).",
+  "processing": "Not applicable (permit issued at immigration on arrival)",
+  "applyEarly": "Not applicable",
+  "biometrics": "UNVERIFIED",
+  "warnings": [
+   "Visitor permit is up to 4 months; it can be extended by 2 more months if you apply before it expires.",
+   "Officers can grant fewer days, so show your return ticket and bookings.",
+   "Holiday visits only: a visitor permit cannot be used for work.",
+   "The Foreign Affairs list is marked as of 20.09.23; confirm the India entry on the Immigration Fiji list before travel."
+  ],
+  "unverified": [
+   "Biometrics at the border",
+   "Extension fee amounts",
+   "Any recent change to the exempt list"
+  ],
+  "sources": [
+   "https://www.foreignaffairs.gov.fj/fiji-high-commission-new-zealand/visa-permits-waivers",
+   "https://www.immigration.gov.fj/visa-exempted-countries",
+   "https://www.immigration.gov.fj/visitors-permit",
+   "https://www.immigration.gov.fj/visit-fiji"
+  ],
+  "confidence": "official"
+ },
+ {
+  "route": "visafree",
+  "formLinks": [],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "centres": "Not applicable",
+  "lastChecked": "2026-10-16",
+  "country": "Grenada",
+  "summary": "Indian passport holders are reported as visa-free for Grenada, but the official Grenada pages could not be read to confirm India. Before travel complete the free online ED card at edcard.gov.gd (within 72 hours of arrival) and carry a passport valid 6 months and a return ticket.",
+  "applyLinks": [
+   {
+    "label": "Complete the Grenada online ED card",
+    "url": "https://edcard.gov.gd"
+   },
+   {
+    "label": "Grenada Tourism Authority travel requirements",
+    "url": "https://www.puregrenada.com/travel-requirements"
+   },
+   {
+    "label": "Government of Grenada immigration page",
+    "url": "https://www.gov.gd/documents/immigration"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport valid at least 6 months from arrival",
+    "note": "Per Grenada Tourism Authority"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Required"
+   },
+   {
+    "item": "ED card receipt (immigration and customs)",
+    "note": "Free, online, within 72 hours of travel"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Asked on the form; only sometimes at the border"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Only sometimes required"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from a risk country"
+   }
+  ],
+  "fee": "UNVERIFIED. ED card reported free by secondary sources; Grenada departure or environmental fees not confirmed.",
+  "processing": "Instant receipt on submission (per secondary sources)",
+  "applyEarly": "Within 72 hours before travel; the Prime Minister advised submitting one day before",
+  "biometrics": "UNVERIFIED",
+  "warnings": [
+   "The Grenada Tourism Authority page blocks scripts (403) and edcard.gov.gd rate-limited the check (429), so the India rule and ED card details come from secondary reports. Confirm on the official pages.",
+   "The online ED card started 2 March 2026 (reported by government information service via VisasNews).",
+   "Stay for Indians reported as 90 days; UNVERIFIED on an official page.",
+   "Beware of paid look-alike ED card services."
+  ],
+  "unverified": [
+   "India visa exemption on an official page",
+   "Stay limit",
+   "Fees",
+   "Biometrics",
+   "Official pages block automated checks"
+  ],
+  "sources": [
+   "https://www.gov.gd/documents/immigration",
+   "https://www.puregrenada.com/travel-requirements",
+   "https://edcard.gov.gd"
+  ],
+  "confidence": "thin"
+ },
+ {
+  "route": "visafree",
+  "formLinks": [],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "centres": "Not applicable",
+  "lastChecked": "2026-10-16",
+  "country": "Haiti",
+  "summary": "Indian citizens do not need a visa for tourism in Haiti: the Embassy of Haiti says tourists generally need no entry visa and lists the only 9 nationalities that do (India is not among them). Carry a passport valid at least 6 months and pay a USD 10 tax on arrival at the airport. Check your government's current travel advisory, as security conditions in Haiti are serious.",
+  "applyLinks": [
+   {
+    "label": "Official tourist entry rules (Embassy of Haiti)",
+    "url": "https://www.haiti.org/tourist-visa"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport valid at least 6 months",
+    "note": "Per Embassy of Haiti; keep a blank page"
+   },
+   {
+    "item": "USD 10 airport arrival tax in cash",
+    "note": "Per Embassy of Haiti"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Expected by officers (secondary sources)"
+   },
+   {
+    "item": "Proof of funds and accommodation",
+    "note": "Only sometimes required"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from a risk country"
+   }
+  ],
+  "fee": "USD 10 tax payable on arrival at the airport (Embassy of Haiti page, checked 2026-10-16).",
+  "processing": "Not applicable",
+  "applyEarly": "Not applicable",
+  "biometrics": "UNVERIFIED",
+  "warnings": [
+   "No visa for tourists, but stays over 3 months need a residence permit (Permis de Sejour) from Immigration.",
+   "Flights and borders are often disrupted by insecurity; check advisories and airline operations before booking.",
+   "Exemption has no end date stated on the Embassy page, which is undated.",
+   "India has no embassy-level online form for Haiti; there is no arrival card found."
+  ],
+  "unverified": [
+   "Official stay limit for Indians (90 days from secondary sources)",
+   "Biometrics",
+   "Whether any online arrival form exists"
+  ],
+  "sources": [
+   "https://www.haiti.org/tourist-visa"
+  ],
+  "confidence": "partial"
+ },
+ {
+  "country": "Jamaica",
+  "route": "visafree",
+  "summary": "Indian passport holders do not need a visa for a short tourist visit to Jamaica (Jamaica's own entry table lists India as no visa required, with no day count shown). Before you fly, fill in the free online Immigration/Customs C5 declaration on enterjamaica.gov.jm, then carry your passport, return ticket and accommodation details for the immigration interview. The officer decides the length of stay and stamps the date you must leave.",
+  "applyLinks": [
+   {
+    "label": "Complete the online C5 arrival declaration (free)",
+    "url": "https://enterjamaica.gov.jm/"
+   },
+   {
+    "label": "Official entry requirements (Passport, Immigration and Citizenship Agency)",
+    "url": "https://www.pica.gov.jm/immigration/travel-documents-required"
+   },
+   {
+    "label": "Jamaica Customs: Passenger declaration (C5) information",
+    "url": "https://jca.gov.jm/individual/passenger/"
+   },
+   {
+    "label": "Jamaican Embassy Brussels: visa exemption list (India: none)",
+    "url": "https://jamaica-brussels.be/entry-into-jamaica"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Valid passport",
+    "note": "Valid for your whole stay; 2 blank pages for stamps is the usual rule (GOV.UK summary, not on the Jamaican page I could read)"
+   },
+   {
+    "item": "Completed C5 declaration",
+    "note": "Online form on enterjamaica.gov.jm, mandatory for all arriving passengers since 1 September 2023; keep the confirmation"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Expected by the immigration officer"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Hotel booking or host address, shown on request"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Immigration rules say you must show means to support yourself; bank card or statement, only sometimes asked"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Not required by law as far as found; sensible to carry"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only sometimes required: only if arriving from a yellow fever risk country"
+   }
+  ],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "C5 declaration is free (Jamaica Customs and Visit Jamaica pages, checked 2026-10-16). No visa fee. Departure tax is normally included in the air ticket: UNVERIFIED.",
+  "processing": "C5 declaration is submitted online and is not an approval; no processing time. Not applicable as a permit.",
+  "applyEarly": "Fill in the C5 before you fly (Visit Jamaica advises doing it before arrival; exact earliest window UNVERIFIED).",
+  "biometrics": "UNVERIFIED (officers may take a photo or fingerprints at the airport).",
+  "centres": "Not applicable",
+  "warnings": [
+   "Stay length for Indians is not stated on the pages I could open; the officer decides and stamps the leave-by date. Overstay is an offence.",
+   "Use only the official enterjamaica.gov.jm site. The C5 is free; do not pay third-party sites that charge for it.",
+   "Rule date: Jamaican Embassy table and agency pages read 2026-10-16. No end date for the exemption found.",
+   "Cash of USD 10,000 or more must be declared on the C5."
+  ],
+  "unverified": [
+   "Allowed days of stay for Indian citizens",
+   "Passport blank pages rule on a Jamaican government page",
+   "Departure tax",
+   "Biometrics at border",
+   "visitjamaica.com page blocks automated checks"
+  ],
+  "sources": [
+   "https://www.pica.gov.jm/immigration/travel-documents-required",
+   "https://jca.gov.jm/individual/passenger/",
+   "https://enterjamaica.gov.jm/",
+   "https://jamaica-brussels.be/entry-into-jamaica"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Kazakhstan",
+  "route": "visafree",
+  "summary": "Indian citizens can enter Kazakhstan without a visa for up to 14 continuous days (Government Decree 464 of 7 July 2022), with a cap of 42 days in any 180 days. Before travel, apply for the free Electronic Travel Authorisation (ETA) on the QazETA portal at least 72 hours ahead; it is recommended now and expected to become mandatory for visa-free travellers from November 2026. Carry your passport, return ticket and accommodation details.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Electronic Travel Authorisation (QazETA)",
+    "url": "https://qazeta.kz/en"
+   },
+   {
+    "label": "Official entry requirements: Kazakhstan Ministry of Foreign Affairs visa information",
+    "url": "https://www.gov.kz/memleket/entities/mfa/activities/3053?lang=en"
+   },
+   {
+    "label": "Indian Embassy Astana: visa-free travel for Indians (14 days)",
+    "url": "https://www.indembastana.gov.in/page/kazakhstan-introduced-visa-free-travel-for-citizens-of-india-for-up-to-14-days"
+   },
+   {
+    "label": "Safe Travel Kazakhstan (police visitor information portal)",
+    "url": "https://safetravel.kz"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Valid passport",
+    "note": "Validity of at least 6 months is commonly advised; exact rule UNVERIFIED on an official page"
+   },
+   {
+    "item": "ETA approval (QazETA)",
+    "note": "Recommended now, expected mandatory from November 2026 per GOV.UK; keep the approval on your phone"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Expected at border and by airlines"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Your hotel or host registers your stay through the E-Qonaq system, so have the booking details"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Only sometimes asked"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Only sometimes required; recommended"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from a yellow fever risk country"
+   }
+  ],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "ETA fee: UNVERIFIED (could not open the QazETA fee page). Visa-free entry itself has no fee.",
+  "processing": "UNVERIFIED. GOV.UK says apply at least 72 hours before travel.",
+  "applyEarly": "At least 72 hours before departure; the ETA is reported valid for 180 days (secondary source).",
+  "biometrics": "UNVERIFIED for visa-free arrivals. The new migration rules mention dactyloscopy (fingerprinting) for some entrants; check before you travel.",
+  "centres": "Not applicable",
+  "warnings": [
+   "Stay limit: 14 continuous days, maximum 42 days in any 180 days (Indian Embassy Astana, decree of 7 July 2022). Overstay can bring fines and a ban.",
+   "The ETA is becoming mandatory (expected November 2026, subject to new regulations). Check qazeta.kz before booking.",
+   "Rule date: pages read 2026-10-16. Unilateral Kazakh decision, so it could change; no end date found.",
+   "Staying over 30 days needs registration; foreigners should be notified by the host through E-Qonaq. Use only qazeta.kz and gov.kz sites."
+  ],
+  "unverified": [
+   "ETA fee and processing time",
+   "Passport validity rule",
+   "Fingerprints at border",
+   "vmp.gov.kz did not respond to automated checks"
+  ],
+  "sources": [
+   "https://www.indembastana.gov.in/page/kazakhstan-introduced-visa-free-travel-for-citizens-of-india-for-up-to-14-days",
+   "https://qazeta.kz/en",
+   "https://www.gov.kz/memleket/entities/mfa/activities/3053?lang=en",
+   "https://www.gov.uk/foreign-travel-advice/kazakhstan/entry-requirements"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Malaysia",
+  "route": "visafree",
+  "summary": "Indian passport holders can enter Malaysia without a visa for up to 30 days for tourism, social visits, business meetings or transit, under an exemption reported to run to 31 December 2026. Complete the free Malaysia Digital Arrival Card (MDAC) online up to 3 days before you arrive. Carry your passport, confirmed return ticket and hotel booking for immigration.",
+  "applyLinks": [
+   {
+    "label": "Complete the Malaysia Digital Arrival Card (MDAC)",
+    "url": "https://imigresen-online.imi.gov.my/mdac/main"
+   },
+   {
+    "label": "Malaysian Immigration: visa requirement by country",
+    "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport valid 6 months",
+    "note": "At least 6 months validity from arrival (secondary sources; confirm with your airline)"
+   },
+   {
+    "item": "MDAC submission",
+    "note": "Submitted online within 3 days before arrival; keep the confirmation"
+   },
+   {
+    "item": "Confirmed return or onward ticket",
+    "note": "Checked by immigration and airlines"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Hotel booking or host address"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Only sometimes asked"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Not required; recommended"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from a yellow fever risk country"
+   }
+  ],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "No visa fee and the MDAC is free (secondary sources, official fee page not readable, 2026-10-16). Fee: UNVERIFIED on an official page.",
+  "processing": "MDAC is a declaration, not an approval; usually instant. Exact processing statement UNVERIFIED.",
+  "applyEarly": "Submit within the 3 days (72 hours) before arrival; you cannot do it much earlier.",
+  "biometrics": "UNVERIFIED. Malaysia generally takes fingerprints and a photo at immigration.",
+  "centres": "Not applicable",
+  "warnings": [
+   "END DATE: the visa exemption for Indian citizens is reported to run to 31 December 2026. Trips after that date need a rule check or a visa; see the Immigration Department page before booking.",
+   "Stay limit is 30 days, not extendable by default. Overstay can lead to fines, detention and a ban. Work or study needs a visa beforehand.",
+   "Fake MDAC sites exist. Use only the imigresen-online.imi.gov.my address; the MDAC is free.",
+   "Official Immigration Department pages returned server errors to my automated checks (2026-10-16), so rule details rest on press and EY summaries of the announcement."
+  ],
+  "unverified": [
+   "Official text of the exemption on imi.gov.my (page returned HTTP 500)",
+   "MDAC site returned HTTP 500 to scripts but is the link cited by GOV.UK",
+   "Passport 6 month rule and exact fee on an official page",
+   "Biometrics",
+   "No working official apply link could be confirmed. Search for the official visa page.",
+   "These two official pages returned server errors to an automatic check, though they are the government pages named in official guidance. Open them to confirm. The exemption for Indians was reported to run to 31 December 2026."
+  ],
+  "sources": [
+   "https://www.gov.uk/foreign-travel-advice/malaysia/entry-requirements",
+   "https://www.ey.com/en_gl/technical/tax-alerts/malaysia-extends-visa-exemption-period-for-india-and-china-nationals"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Maldives",
+  "route": "visafree",
+  "summary": "Indians do not need a visa in advance: a free 30 day tourist visa is granted on arrival, but only if you meet the entry conditions. Submit the free IMUGA Traveller Declaration online within 96 hours before arrival and show the QR code at immigration. Carry a passport valid at least 1 month, return ticket, prepaid booking at a registered facility and proof of funds.",
+  "applyLinks": [
+   {
+    "label": "Complete the IMUGA Traveller Declaration (free)",
+    "url": "https://imuga.immigration.gov.mv/traveller"
+   },
+   {
+    "label": "Official entry requirements: Tourist visa on arrival",
+    "url": "https://immigration.gov.mv/visa/tourist-visa"
+   },
+   {
+    "label": "Maldives Immigration home",
+    "url": "https://www.immigration.gov.mv"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport with machine readable zone",
+    "note": "At least 1 month validity; passports with extended validity are not allowed (official page)"
+   },
+   {
+    "item": "IMUGA Traveller Declaration",
+    "note": "Each traveller incl. children needs their own; show the QR code or receipt"
+   },
+   {
+    "item": "Confirmed return journey ticket",
+    "note": "Required on the official page"
+   },
+   {
+    "item": "Prepaid confirmed booking at a registered facility",
+    "note": "Or an approved sponsorship from Maldives Immigration"
+   },
+   {
+    "item": "Sufficient funds",
+    "note": "Required; amount not stated on the page"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from or recently through a risk country; under 1 year exempt"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Not listed as required; only sometimes asked"
+   }
+  ],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "Visa on arrival and IMUGA declaration are free (official pages, checked 2026-10-16).",
+  "processing": "IMUGA is a self declaration, not an approval; submit online and it gives a QR code.",
+  "applyEarly": "Within 96 hours (4 days) before arrival; earlier is not possible.",
+  "biometrics": "UNVERIFIED.",
+  "centres": "Not applicable",
+  "warnings": [
+   "Stay is 30 days on arrival; extensions are applied for through Maldives Immigration. Overstay is penalised.",
+   "You can be refused if you lack a prepaid booking at a registered facility, return ticket or funds.",
+   "The IMUGA form is free. Official site warns about people charging to submit it; use only the .gov.mv address.",
+   "Rule date: official pages read 2026-10-16; no end date. Israeli passports are barred (not relevant to Indians)."
+  ],
+  "unverified": [
+   "Required amount of funds",
+   "Biometrics at arrival",
+   "Stay is 30 days per secondary source and Maldives page snippets; exact day count for Indians not seen as a quoted line on the page I read"
+  ],
+  "sources": [
+   "https://immigration.gov.mv/visa/tourist-visa",
+   "https://imuga.immigration.gov.mv/traveller"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
+ },
+ {
+  "country": "Mauritius",
+  "route": "visafree",
+  "summary": "Indian passport holders do not need a visa for a short tourist visit to Mauritius; the immigration officer decides the stay on arrival (commonly reported as 90 days for Indians; GOV.UK gives 60 days for UK citizens). Fill in the Mauritius All in One travel form online before you fly if it is offered, print the QR code, and carry a return ticket and accommodation proof. If you skip the online form you fill in a paper disembarkation card at the airport.",
+  "applyLinks": [
+   {
+    "label": "Complete the online arrival (All in One travel) form",
+    "url": "https://safemauritius.govmu.org"
+   },
+   {
+    "label": "Official visa requirements (Passport and Immigration Office)",
+    "url": "https://passport.govmu.org/passport/?page_id=605"
+   },
+   {
+    "label": "Passport and Immigration Office home",
+    "url": "https://passport.govmu.org/passport/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Valid passport",
+    "note": "Valid for the stay; exact validity and blank pages UNVERIFIED"
+   },
+   {
+    "item": "Online travel form QR code or paper disembarkation card",
+    "note": "Online form recommended; card filled at the airport otherwise"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Expected by immigration"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Hotel booking or host address"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Only sometimes asked"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Only sometimes asked; recommended"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from a yellow fever risk country"
+   }
+  ],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "Visas and extensions of stay are issued free of charge (Passport and Immigration Office page, 2026-10-16). No arrival card fee found.",
+  "processing": "Not applicable (declaration form, no approval wait).",
+  "applyEarly": "Fill in the online form before travel; exact window UNVERIFIED.",
+  "biometrics": "UNVERIFIED.",
+  "centres": "Not applicable",
+  "warnings": [
+   "The official page does not itself list India by name in the text I could read (the country list is a linked table), and the length of stay is set by the officer. 90 days for Indians comes from secondary sources: confirm with your airline.",
+   "Overstaying is an offence liable to prosecution. A traveller arriving without a needed visa may be sent back at the carrier's cost.",
+   "Use only govmu.org addresses for the travel form; do not pay third parties.",
+   "Rule date: pages read 2026-10-16. No end date found."
+  ],
+  "unverified": [
+   "Length of stay for Indians on an official page",
+   "Current status of the All in One form on safemauritius.govmu.org (page loaded but content not readable)",
+   "Passport validity rule",
+   "Biometrics"
+  ],
+  "sources": [
+   "https://passport.govmu.org/passport/?page_id=605",
+   "https://safemauritius.govmu.org",
+   "https://www.gov.uk/foreign-travel-advice/mauritius/entry-requirements"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Micronesia",
+  "route": "visafree",
+  "summary": "No visa is needed for a tourist visit. The FSM Embassy states that a valid passport, sufficient funds and proof of onward travel are enough for entry for 30 days. Carry a return or onward ticket and note that you must know your island (Pohnpei, Chuuk, Yap or Kosrae) because there are no sea links between them. Rule as stated on the FSM Embassy page, checked 2026-10-16.",
+  "applyLinks": [
+   {
+    "label": "Official entry requirements (FSM Embassy visitors FAQ)",
+    "url": "https://fsmembassy.fm/for-guests-visitors"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid passport; 6 months validity beyond arrival is the usual rule (US State Dept page, which blocks automated checks). Keep blank pages."
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Required"
+   },
+   {
+    "item": "Proof of sufficient funds",
+    "note": "Required; cash or card statements"
+   },
+   {
+    "item": "Accommodation booking",
+    "note": "Only sometimes required, but useful"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from an infected area"
+   },
+   {
+    "item": "Immigration and customs forms",
+    "note": "Handed out on the flight or at the airport"
+   }
+  ],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "No visa fee. A departure tax (reported as about US$15 at some airports) is UNVERIFIED on an official page.",
+  "processing": "Not applicable (no online arrival form found)",
+  "applyEarly": "Not applicable",
+  "biometrics": "UNVERIFIED",
+  "centres": "Not applicable",
+  "warnings": [
+   "Stay limit is 30 days; longer stays need a permit from FSM immigration, so do not overstay.",
+   "Most flights from India connect through Guam or Honolulu (US territory or state). An Indian passport holder normally needs a US visa even to transit there, so check the routing before you book. This is not stated on the FSM page.",
+   "The exemption end date is not stated on the page read; confirm with the airline before flying.",
+   "Entry rules were read on a single embassy page; treat it as the rule as of 2026-10-16."
+  ],
+  "unverified": [
+   "Departure tax amount",
+   "Arrival form requirement",
+   "Whether an Indian-specific rule exists on an FSM immigration page (the official FSM government site did not open)",
+   "Biometrics at the border"
+  ],
+  "sources": [
+   "https://fsmembassy.fm/for-guests-visitors"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Nepal",
+  "route": "visafree",
+  "summary": "Indian citizens do not need a visa to enter Nepal and can stay without a time limit under the 1950 India-Nepal Treaty. Carry a valid photo ID such as an Indian passport or Election Commission voter card. No online form is needed.",
+  "applyLinks": [
+   {
+    "label": "Official entry requirements for Indian nationals (Nepal Tourism Board)",
+    "url": "https://ntb.gov.np/plan-your-trip/before-you-come/tourist-visa"
+   },
+   {
+    "label": "Visa page, Embassy of Nepal in New Delhi",
+    "url": "https://in.nepalembassy.gov.np/pages/Visa-1"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Valid ID",
+    "note": "Indian passport OR Election Commission of India voter card; the NTB page also lists PAN card, driving licence, ration card with photo and age proof for people over 65, and school ID for children under 18"
+   },
+   {
+    "item": "Passport",
+    "note": "Needed if flying (Embassy page: Indians over 10 years travelling by air must carry an ID document)"
+   },
+   {
+    "item": "Return ticket, funds, insurance",
+    "note": "Not required by the official pages read; travel insurance is only a good idea"
+   }
+  ],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "No visa fee. Land border or airport fees: none found on the official pages (UNVERIFIED).",
+  "processing": "Not applicable",
+  "applyEarly": "Not applicable",
+  "biometrics": "UNVERIFIED",
+  "centres": "Not applicable",
+  "warnings": [
+   "Indians do not get a stamp-limited stay, but residence or work for longer periods follows Nepali rules; check with the Department of Immigration.",
+   "Indian banknotes of Rs 500 and 2000 have had limits on carrying into Nepal; check current rules (UNVERIFIED here).",
+   "Rule is from the NTB and Embassy pages read on 2026-10-16."
+  ],
+  "unverified": [
+   "Border fees",
+   "Currency carry limits",
+   "Biometrics",
+   "Nepal Department of Immigration site did not open from this server"
+  ],
+  "sources": [
+   "https://ntb.gov.np/plan-your-trip/before-you-come/tourist-visa",
+   "https://in.nepalembassy.gov.np/pages/Visa-1"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
+ },
+ {
+  "country": "Philippines",
+  "route": "visafree",
+  "summary": "No visa is needed for Indian nationals for up to 14 days (not extendable, not convertible) for tourism or business. Before travel, complete the free eTravel online form and carry a passport valid 6 months beyond your stay, a confirmed hotel booking, proof of funds and a return or onward ticket. With a valid US, Japan, Australia, Canada, Schengen, Singapore or UK visa or residence permit, the stay is 30 days for tourism.",
+  "applyLinks": [
+   {
+    "label": "Official visa exemption policy for Indian nationals (eVisaPH)",
+    "url": "https://evisa.gov.ph/page/policy"
+   },
+   {
+    "label": "Complete the eTravel online arrival form",
+    "url": "https://etravel.gov.ph/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months beyond the intended stay"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Required to next destination"
+   },
+   {
+    "item": "Confirmed hotel booking",
+    "note": "Required for the 14-day entry"
+   },
+   {
+    "item": "Proof of financial capacity",
+    "note": "Required for the 14-day entry"
+   },
+   {
+    "item": "Valid US, Japan, Australia, Canada, Schengen, Singapore or UK visa or residence permit",
+    "note": "Only for the 30-day option"
+   },
+   {
+    "item": "eTravel QR or receipt",
+    "note": "Show on arrival; airlines may ask for it at check-in"
+   }
+  ],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "No visa fee. eTravel is free; no airport tourist fee found on the pages read (UNVERIFIED).",
+  "processing": "eTravel is online; approval is normally immediate (UNVERIFIED on the page read)",
+  "applyEarly": "Submit shortly before departure; the commonly stated window is within 72 hours of arrival (UNVERIFIED on the page read)",
+  "biometrics": "UNVERIFIED",
+  "centres": "Not applicable",
+  "warnings": [
+   "Stay is 14 days and cannot be extended or converted; overstay can mean fines and deportation.",
+   "Only use etravel.gov.ph; fake paid eTravel sites exist.",
+   "The 14-day rule for Indians was read on the official eVisaPH policy page on 2026-10-16; no end date was shown.",
+   "Officers can refuse entry if the hotel booking, funds or onward ticket are missing."
+  ],
+  "unverified": [
+   "eTravel timing window and processing time",
+   "Biometrics at arrival",
+   "Departure fees"
+  ],
+  "sources": [
+   "https://evisa.gov.ph/page/policy",
+   "https://etravel.gov.ph/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Rwanda",
+  "route": "visafree",
+  "summary": "Indians do not need to apply for a visa in advance. Citizens of Commonwealth countries (including India) get a visa on arrival at the border for 30 days with the fee waived. You can also apply ahead on the government Irembo portal.",
+  "applyLinks": [
+   {
+    "label": "Official visa on arrival rules (Rwanda Directorate General of Immigration)",
+    "url": "https://www.migration.gov.rw/visa-on-arrival"
+   },
+   {
+    "label": "Visitors visa details",
+    "url": "https://www.migration.gov.rw/visa/visitors-visa"
+   },
+   {
+    "label": "Optional: apply online before arrival (Irembo)",
+    "url": "https://www.irembo.gov.rw/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months; the usual rule also asks for at least one blank page"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Only sometimes asked for"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Only sometimes asked for"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from a yellow fever risk country; Indian travellers are usually not asked on direct flights (UNVERIFIED)"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Only sometimes required; recommended"
+   }
+  ],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "Visa fee waived for Commonwealth nationals (otherwise up to US$50 single entry) per the immigration page read 2026-10-16.",
+  "processing": "On arrival, same day. Online pre-application: UNVERIFIED",
+  "applyEarly": "Optional; no fixed date found",
+  "biometrics": "UNVERIFIED",
+  "centres": "Not applicable",
+  "warnings": [
+   "Visa on arrival is 30 days; extension is handled by immigration, so overstay risks fines.",
+   "Rwanda was listed on the pages as free for Commonwealth members; the policy has changed before, so confirm before flying.",
+   "Use only migration.gov.rw or Irembo for pre-applications; avoid agent sites that add fees.",
+   "Not a Visit Rwanda or tourism fee: gorilla permits and national park fees are separate."
+  ],
+  "unverified": [
+   "Exact blank page and yellow fever rules for Indians",
+   "Biometrics at the border",
+   "Any arrival form"
+  ],
+  "sources": [
+   "https://www.migration.gov.rw/visa-on-arrival",
+   "https://www.migration.gov.rw/visa/visitors-visa",
+   "https://visitrwanda.com/facts/immigration-visas"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
+ },
+ {
+  "country": "Saint Vincent and the Grenadines",
+  "route": "visafree",
+  "summary": "Indian citizens do not need a visa for tourism or business for up to 30 days (about one month, no extension normally) as listed in the Indian Ministry of External Affairs visa facility list. You must show a return ticket, proof of accommodation and sufficient funds. No online arrival form was confirmed.",
+  "applyLinks": [
+   {
+    "label": "Official Indian MEA list of visa-free countries (SVG: 30 days)",
+    "url": "https://www.mea.gov.in/vffin"
+   },
+   {
+    "label": "SVG tourism authority information",
+    "url": "https://www.svgtourism.com"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months from date of entry"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Required"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Required"
+   },
+   {
+    "item": "Proof of sufficient funds",
+    "note": "Required"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from a risk country"
+   }
+  ],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (no tourist or arrival fee found on an official page)",
+  "processing": "Not applicable (no arrival form confirmed)",
+  "applyEarly": "Not applicable",
+  "biometrics": "UNVERIFIED",
+  "centres": "Not applicable",
+  "warnings": [
+   "Stay is up to 30 days, decided by the immigration officer; no extension in the normal case.",
+   "The SVG government visa page read concerns the entry visa for visa-required nationals, not Indians.",
+   "Flights from India usually connect via Barbados, Trinidad, or a US or UK hub; check transit visa needs on the route.",
+   "The rule comes from the Indian MEA list (read via search snippet, 2026-10-16), and the SVG immigration page was not read."
+  ],
+  "unverified": [
+   "MEA page blocks automated checks",
+   "SVG immigration official statement",
+   "Biometrics",
+   "Fees",
+   "Arrival form"
+  ],
+  "sources": [
+   "https://www.mea.gov.in/vffin"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Samoa",
+  "route": "visafree",
+  "summary": "No visa is needed for Indians for a short tourist stay. India's Ministry of External Affairs lists 60 days without an entry permit, while Samoa's immigration page says a free Visitor Permit is issued on arrival (90 days) from your arrival card. Carry a passport valid 6 months beyond your stay, a confirmed onward ticket, proof of funds and a Samoa contact address, and fill in the arrival card on the flight.",
+  "applyLinks": [
+   {
+    "label": "Official Indian MEA list of visa facilities for Indian nationals (Samoa: 60 days)",
+    "url": "https://www.mea.gov.in/vffin"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months beyond the intended stay, with a blank page for the permit stamp"
+   },
+   {
+    "item": "Confirmed onward or return ticket",
+    "note": "Required by Samoa immigration"
+   },
+   {
+    "item": "Visa or permit for the next country after Samoa",
+    "note": "Listed by Samoa immigration if you continue onward"
+   },
+   {
+    "item": "Proof of sufficient funds",
+    "note": "A recent bank statement is usually accepted"
+   },
+   {
+    "item": "Confirmed residential contact address",
+    "note": "Hotel booking or letter of invitation"
+   },
+   {
+    "item": "Arrival card",
+    "note": "Given on the flight or at arrival; the visitor permit is issued from it"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only sometimes required: only if you arrive from or recently transited a yellow fever risk country"
+   }
+  ],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "Visitor Permit on arrival is free per Samoa immigration (mpmc.gov.ws). Departure tax for travellers aged 12 and over is reported by a travel operator, amount UNVERIFIED on an official page. Checked 2026-10-16.",
+  "processing": "Not applicable (permit issued at the airport)",
+  "applyEarly": "Not applicable",
+  "biometrics": "UNVERIFIED",
+  "centres": "Not applicable",
+  "warnings": [
+   "The stay allowed differs by source: India's MEA table says 60 days, Samoa immigration says a 90-day Visitor Permit on arrival. Plan for 60 days and check the stamp you receive. Rule as read on 2026-10-16.",
+   "Extending beyond the permit needs an application on form MPMC100 with an onward ticket and proof of funds; overstaying risks fines and removal.",
+   "Visa-free entry is for tourism or visiting only; work or study needs an entry permit approved before travel.",
+   "The MEA page blocks automated checks and the Samoa immigration page returned an error to a script, so details were taken from search results."
+  ],
+  "unverified": [
+   "Exact stay for Indian passport holders (60 vs 90 days)",
+   "Departure tax amount",
+   "Whether fingerprints or photos are taken at the border",
+   "Any end date of the exemption (none found)"
+  ],
+  "sources": [
+   "https://mpmc.gov.ws/divisions/immigration/permits-2",
+   "https://www.mea.gov.in/vffin"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Senegal",
+  "route": "visafree",
+  "summary": "Indian passport holders do not need a visa for a tourist stay of up to 90 days according to India's Ministry of External Affairs. Before travel check your passport has 6 months validity, carry a return ticket and accommodation details, and bring a yellow fever certificate if your route requires it. No official online arrival form was found, so do not pay any third-party 'Senegal visa' site.",
+  "applyLinks": [
+   {
+    "label": "Official Indian MEA list of visa facilities for Indian nationals (Senegal: 90 days)",
+    "url": "https://www.mea.gov.in/vffin"
+   },
+   {
+    "label": "Senegal foreign ministry (check entry rules and your nearest Senegal embassy)",
+    "url": "https://www.diplomatie.gouv.sn"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months beyond arrival (rule stated for foreign visitors by the UK government's summary of Senegal rules)"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Expected by border officers"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Hotel booking or host address"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Only sometimes asked for"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Strongly advisable, not confirmed as mandatory"
+   },
+   {
+    "item": "Yellow fever vaccination certificate",
+    "note": "Only sometimes required: needed if arriving from or transiting a yellow fever country; otherwise recommended"
+   }
+  ],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "No entry fee found on an official page for visa-free visitors. UNVERIFIED as of 2026-10-16.",
+  "processing": "Not applicable",
+  "applyEarly": "Not applicable",
+  "biometrics": "UNVERIFIED (Senegal airports are reported to take fingerprints and a photo, not confirmed on an official page)",
+  "centres": "Not applicable",
+  "warnings": [
+   "Stay limit 90 days per the MEA table (as on 2 February 2026 per its disclaimer). No end date for the exemption was found.",
+   "visasenegal.sn is now a parked domain for sale, not an official site. Beware of lookalike 'Senegal e-visa' or arrival-card sites.",
+   "The MEA page blocks automated checks, so the figure came from an official search snippet; confirm with the Senegal embassy before booking.",
+   "Overstay can lead to fines or refusal of future entry."
+  ],
+  "unverified": [
+   "Official Senegal source naming India as visa-exempt",
+   "Fees at the border",
+   "Whether any online pre-registration exists",
+   "Biometrics",
+   "Insurance requirement"
+  ],
+  "sources": [
+   "https://www.diplomatie.gouv.sn",
+   "https://www.gov.uk/foreign-travel-advice/senegal/entry-requirements",
+   "https://www.mea.gov.in/vffin"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Seychelles",
+  "route": "visafree",
+  "summary": "No visa is needed, but every traveller must get an online Seychelles Travel Authorisation (TA) before flying; a visitor's permit is then issued on arrival. Apply on the official Seychelles Electronic Border System up to 10 days before your flight, pay the fee (standard EUR 10.90), and carry your TA approval, return ticket and hotel booking.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Seychelles Travel Authorisation (official)",
+    "url": "https://seychelles.govtas.com/"
+   },
+   {
+    "label": "Official entry requirements (Seychelles foreign ministry)",
+    "url": "https://mfa.gov.sc/travelling-to-seychelles"
+   },
+   {
+    "label": "Official Indian MEA list of visa facilities (Seychelles: 90 days, TA fee EUR 10 to 70)",
+    "url": "https://www.mea.gov.in/vffin"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Valid passport",
+    "note": "Used for the TA; passport validity rule not stated on the page opened, UNVERIFIED"
+   },
+   {
+    "item": "Selfie",
+    "note": "Uploaded with the TA application"
+   },
+   {
+    "item": "Contact and trip information",
+    "note": "Entered in the TA form"
+   },
+   {
+    "item": "Airline booking confirmation",
+    "note": "Upload showing arrival and departure dates"
+   },
+   {
+    "item": "Accommodation booking confirmation",
+    "note": "Hotel or guesthouse name, boat charter, or a letter of invitation if staying with family or friends"
+   },
+   {
+    "item": "Credit or debit card",
+    "note": "To pay the TA fee"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Only sometimes asked for at the border"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only sometimes required: if you resided in or recently visited, or spent over 12 hours in transit in, a yellow fever country"
+   }
+  ],
+  "photo": {
+   "size": "Selfie uploaded in the TA form",
+   "background": "",
+   "format": "",
+   "notes": "Exact selfie specification not read",
+   "status": "unverified"
+  },
+  "fee": "Travel Authorisation: standard application EUR 10.90 per the Seychelles foreign ministry page (checked 2026-10-16). Faster packages cost more; the MEA table says EUR 10 to 70 per person.",
+  "processing": "Depends on the package chosen; a travel operator says up to 24 hours for standard (UNVERIFIED officially)",
+  "applyEarly": "Apply up to 10 days before your flight and as early as possible, per the foreign ministry page",
+  "biometrics": "Selfie uploaded online; border photo or fingerprints UNVERIFIED",
+  "centres": "Not applicable",
+  "warnings": [
+   "The TA is mandatory for everyone, including children, even though no visa is needed. Without it you may be refused boarding.",
+   "Only use seychelles.govtas.com or the official Seychelles E-Border app; copycat sites charge far more.",
+   "Stay allowed: the MEA table says 90 days, a travel site says a 30-day permit on arrival, so UNVERIFIED. Extensions go through the immigration permits portal.",
+   "No end date for the exemption found. Rule as read on 2026-10-16."
+  ],
+  "unverified": [
+   "Stay length for Indians (30 vs 90 days)",
+   "Passport validity requirement",
+   "Selfie specification",
+   "Border biometrics",
+   "TA processing time on an official page"
+  ],
+  "sources": [
+   "https://mfa.gov.sc/travelling-to-seychelles",
+   "https://seychelles.govtas.com/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Trinidad and Tobago",
+  "route": "visafree",
+  "summary": "Indian passport holders do not need a visa for tourism, up to 90 days, per India's Ministry of External Affairs. Carry a passport valid 6 months, a return ticket, proof of funds and accommodation details. No official online arrival form was found, and the official airport authority page I opened did not list India by name.",
+  "applyLinks": [
+   {
+    "label": "Official Indian MEA list of visa facilities (Trinidad and Tobago: 90 days, tourism)",
+    "url": "https://www.mea.gov.in/vffin"
+   },
+   {
+    "label": "Trinidad and Tobago Airports Authority: visa requirements page",
+    "url": "https://tntairports.com/travel/before-you-fly/visa-requirements"
+   },
+   {
+    "label": "TTconnect government services portal",
+    "url": "https://ttconnect.gov.tt"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months beyond arrival (UK government's summary of local rules)"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Required"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Required"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Hotel booking or host address"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Advisable, not confirmed as mandatory"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only sometimes required: if arriving from a yellow fever country"
+   }
+  ],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "No entry fee found on an official page. UNVERIFIED as of 2026-10-16.",
+  "processing": "Not applicable",
+  "applyEarly": "Not applicable",
+  "biometrics": "UNVERIFIED",
+  "centres": "Not applicable",
+  "warnings": [
+   "The MEA table applies to tourism only: employment and education need a visa or permit arranged beforehand.",
+   "The tntairports.com page lists exempt groups (EU, most Commonwealth) but not India explicitly, so confirm with the Trinidad and Tobago High Commission before booking. Immigration Division site did not load.",
+   "Overstaying the permitted period can bring fines or removal.",
+   "No end date for the exemption found. MEA data is dated 2 February 2026 per its disclaimer."
+  ],
+  "unverified": [
+   "Trinidad and Tobago government page naming India as exempt",
+   "Fees",
+   "Any online arrival form",
+   "Biometrics",
+   "Insurance"
+  ],
+  "sources": [
+   "https://tntairports.com/travel/before-you-fly/visa-requirements",
+   "https://www.mea.gov.in/vffin",
+   "https://www.gov.uk/foreign-travel-advice/trinidad-and-tobago/entry-requirements"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Vanuatu",
+  "route": "visafree",
+  "summary": "Vanuatu is treated here as visa-free for Indian tourists, but I could not confirm this on an official page, and a secondary source describes visa on arrival for up to 30 days. Before booking, check the official exempt-countries list on Vanuatu Immigration and carry a passport valid 6 months, an onward ticket, accommodation details and completed arrival and biosecurity forms.",
+  "applyLinks": [
+   {
+    "label": "Vanuatu Immigration: visa-exempted countries (check India)",
+    "url": "https://immigration.gov.vu/visa-exempted-countries/"
+   },
+   {
+    "label": "Vanuatu Immigration: visitor visa information",
+    "url": "https://immigration.gov.vu/visit"
+   },
+   {
+    "label": "Vanuatu Tourism Office: immigration and visas",
+    "url": "https://www.vanuatu.travel/en/things-to-know/travelling-to-vanuatu/immigration-visas"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months beyond your stay"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Officers may ask for it"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Where you will stay"
+   },
+   {
+    "item": "Arrival and biosecurity declarations",
+    "note": "Completed before landing; check current forms on Vanuatu Immigration"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Only sometimes asked for"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Advisable, not confirmed as mandatory"
+   }
+  ],
+  "photo": {
+   "size": "Not needed unless an online form asks for one",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "A visa on request is 5,150 VT through the principal immigration officer per the Vanuatu Tourism Office; whether Indians pay anything on arrival is UNVERIFIED.",
+  "processing": "Not applicable",
+  "applyEarly": "Not applicable",
+  "biometrics": "UNVERIFIED",
+  "centres": "Not applicable",
+  "warnings": [
+   "Status unconfirmed: official site immigration.gov.vu blocks automated access (403). Open the visa-exempted-countries page and check whether India is listed, and how many days.",
+   "Stay limits quoted vary: 120 days for exempt nationalities, 30 days for a visitor visa, 30 days VoA for Indians in a secondary source. Do not assume 120 days.",
+   "Visa-free entry bars work or business activity.",
+   "Rule checked 2026-10-16; no end date found."
+  ],
+  "unverified": [
+   "Whether India is on the official exempt list",
+   "Allowed stay for Indians",
+   "Fees for Indians",
+   "Biometrics",
+   "Arrival form name and link"
+  ],
+  "sources": [
+   "https://www.vanuatu.travel/en/things-to-know/travelling-to-vanuatu/immigration-visas"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
  }
 ]
