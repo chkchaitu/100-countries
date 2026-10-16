@@ -1789,18 +1789,17 @@
    "country": "Qatar",
    "name": "Qatar",
    "trip": "H",
-   "category": "visa_free",
-   "rule": "India is NOT on the Visit Qatar list of nationalities who must pay or apply for a Hayya visa; per the official visitqatar.com text, citizens of over 102 countries get free visa on arrival (visa waiver up to 30 days) and a hotel booking confirmation is needed. Passport valid 3 months minimum, return ticket, confirmed hotel booking through Discover Qatar/Qatar approved. Optional Hayya A1 e-visa QAR 100 (about INR 2,600) in 24 to 48 hours; extension 30 days QAR 100 via MOI; overstay about QAR 200 per day. Secondary site states 30 day visa free for Indians with hotel booking.",
+   "category": "on_arrival",
+   "rule": "Indian passport holders get a visa on arrival, not free entry. Book an approved hotel on the Discover Qatar site before travel (India is on the mandatory list), then pay the QAR 100 fee (about INR 2,600) at the airport, or apply in advance for a Hayya A1 e-visa. Passport valid 3 months, confirmed return ticket. Transit: Qatar Airways passengers with a layover of 6 hours or more who are not visa-free can get a transit visa at the Discover Qatar Transit Desk in Hamad airport. A traveller reports that a Hayya visa was needed for a transit stay beyond 12 hours (first-hand report, not yet confirmed on an official page). Earlier text here claiming free 30-day entry for Indians came from a secondary site and was wrong.",
    "easedBy": [],
-   "status": "confirmed",
+   "status": "probable",
    "sources": [
     "https://visitqatar.com/intl-en/plan-your-trip/visas",
-    "https://hayya.qa/en/faq",
-    "https://btwvisas.com/visa-guide/qatar-tourist-visa-",
-    "https://qic.online/en/blog/exploring-qatar/hayya-tourist-visa-qatar"
+    "https://www.discoverqatar.qa/mandatory-hotels-for-visa-on-arrival",
+    "https://hayya.qa/en/faq"
    ],
    "lastChecked": "2026-10-16",
-   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+   "note": "Probable, not final. The 12 hour transit rule is a traveller report. Confirm on hayya.qa before you fly."
   }
  ]
 }
