@@ -41,6 +41,14 @@ section>.wrap>p.sub{color:var(--mute);max-width:46em;margin:0 0 22px}
 .card:hover{transform:translateY(-3px);border-color:var(--acc2)}
 .card h3{font-size:19px}.card .meta{color:var(--mute);font-size:13px}
 .tag{display:inline-block;font-size:11px;border-radius:6px;padding:2px 7px;margin:2px 3px 2px 0;background:#1d2a55;color:#cfd9ff}
+.planbar{display:flex;align-items:center;gap:26px;flex-wrap:wrap}
+.pb-stat b{display:block;font-family:Georgia,serif;font-size:28px;line-height:1.1;color:var(--acc);white-space:nowrap}
+.pb-stat span{display:block;font-size:12px;color:var(--mute);margin-top:3px}
+.pb-mid{flex:1 1 220px;min-width:200px}
+.plan2{column-count:2;column-gap:34px}
+.plan2 label.ck{break-inside:avoid}
+.plan2 label.ck small{margin-left:auto;padding-left:10px;white-space:nowrap}
+@media(max-width:760px){.plan2{column-count:1}}
 .bar{height:7px;background:#1d2a55;border-radius:6px;overflow:hidden;margin:8px 0}
 .bar i{display:block;height:100%;background:linear-gradient(90deg,var(--acc2),var(--acc))}
 .two{display:grid;grid-template-columns:1fr 1fr;gap:26px}
@@ -103,8 +111,15 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
 
 <section id="planner"><div class="wrap">
  <h2>Plan builder</h2><p class="sub">Tick trips to build your own journey. Totals update as you go, and the globe highlights where you will be.</p>
- <div class="two"><div class="panel"><div id="planList"></div></div>
- <div class="panel"><h3>Your plan</h3><div id="planOut"></div><div class="bar"><i id="planBar" style="width:0%"></i></div><small id="planHint" style="color:var(--mute)"></small></div></div>
+ <div class="panel planbar">
+  <div class="pb-stat"><b id="pbN">0</b><span>new countries</span></div>
+  <div class="pb-stat"><b id="pbD">0</b><span>days</span></div>
+  <div class="pb-stat"><b id="pbC">₹0</b><span>per person, estimate</span></div>
+  <div class="pb-mid"><div class="bar"><i id="planBar" style="width:0%"></i></div><small id="planHint" style="color:var(--mute)">Tick trips below to build your plan.</small></div>
+  <button class="btn ghost" id="planClear" type="button">Clear all</button>
+  <div id="planOut" hidden></div>
+ </div>
+ <div class="panel" style="margin-top:16px"><div id="planList" class="plan2"></div></div>
 </div></section>
 
 <section id="visa"><div class="wrap">
@@ -228,10 +243,14 @@ async function boot(){
  renderTrips();
  // ---------- planner
  const sel=new Set();document.getElementById('planList').innerHTML=TRIPS.map(t=>`<label class="ck"><input type="checkbox" data-c="${t.c}"> ${t.c}. ${t.n}<small>${t.d}d · ₹${fmt(t.lo)}-${fmt(t.hi)}L</small></label>`).join('');
- document.getElementById('planList').onchange=e=>{const c=e.target.dataset.c;e.target.checked?sel.add(c):sel.delete(c);const ts=TRIPS.filter(t=>sel.has(t.c));hl=new Set(ts.flatMap(t=>t.ctry));colorMode=null;if(ts.length)fly(ts[ts.length-1]);
+ const refreshPlan=()=>{const ts=TRIPS.filter(t=>sel.has(t.c));hl=new Set(ts.flatMap(t=>t.ctry));colorMode=null;
   const d=ts.reduce((a,t)=>a+t.d,0),lo=ts.reduce((a,t)=>a+t.lo,0),hi=ts.reduce((a,t)=>a+t.hi,0),n=new Set(ts.flatMap(t=>t.ctry)).size;
-  document.getElementById('planOut').innerHTML=`<p><b style="font-size:28px;color:var(--acc)">${n}</b> new countries · ${d} days<br>₹${fmt(lo)} to ${fmt(hi)} lakh</p>`;
-  document.getElementById('planBar').style.width=Math.min(100,n)+'%';document.getElementById('planHint').textContent=`With these trips you add ${n} countries. Tick the ones you have visited in My progress to see how many remain to reach 100.`};
+  document.getElementById('pbN').textContent=n;document.getElementById('pbD').textContent=d;document.getElementById('pbC').textContent=ts.length?'₹'+fmt(lo)+' to '+fmt(hi)+' lakh':'₹0';
+  document.getElementById('planBar').style.width=Math.min(100,n)+'%';
+  document.getElementById('planHint').textContent=ts.length?`${ts.length} trip${ts.length>1?'s':''} picked. You add ${n} countries. Tick the ones you have visited in My progress to see how many remain to reach 100.`:'Tick trips below to build your plan.';return ts};
+ document.getElementById('planList').onchange=e=>{const c=e.target.dataset.c;if(!c)return;e.target.checked?sel.add(c):sel.delete(c);const ts=refreshPlan();if(ts.length)fly(ts[ts.length-1])};
+ document.getElementById('planClear').onclick=()=>{sel.clear();document.querySelectorAll('#planList input[type=checkbox]').forEach(i=>i.checked=false);refreshPlan()};
+ refreshPlan();
  // ---------- visa checker
  const COL={f:'#5ee08a',e:'#ffd166',r:'#ff6b6b',c:'#7e93d6',l:'#37d6c4'};
  const LABEL={f:'Visa-free or on arrival',e:'E-visa or conditional',r:'Visa needed in advance',l:'Eased by a visa you hold'};
