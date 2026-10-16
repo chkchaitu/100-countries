@@ -10422,5 +10422,698 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin"
+ },
+ {
+  "country": "Nicaragua",
+  "route": "embassy",
+  "summary": "Indian citizens need a visa before travel. The Indian Embassy in Panama advisory says to apply at the nearest Nicaraguan consular representative, in India or a country of residence. The Nicaraguan Embassy in Tokyo is accredited to India, and Nicaragua has honorary consuls general in Delhi and Mumbai. Contact the Tokyo embassy or an honorary consul first to confirm the current process.",
+  "applyLinks": [
+   {
+    "label": "Indian Embassy Panama advisory on Nicaragua visa for Indians",
+    "url": "https://indianembassypanama.gov.in/eoipa_pages/MzEz"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months (secondary sources); blank pages not confirmed"
+   },
+   {
+    "item": "Application form and photo",
+    "note": "Ask the consulate"
+   },
+   {
+    "item": "Funds, itinerary, accommodation",
+    "note": "Usually asked, not confirmed on an official page"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (not found on an official Nicaraguan page)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "No full visa centre in India. Honorary consuls in Delhi and Mumbai (per the Indian Embassy advisory); Embassy of Nicaragua in Tokyo is accredited.",
+  "warnings": [
+   "Indian embassy advisory says category C: visa from a Nicaraguan consulate, 30 days, extendable to 90.",
+   "Some agent sites mention an e-visa; this was not confirmed on an official Nicaraguan page.",
+   "Honorary consuls may not issue visas themselves; confirm before paying anyone."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo rules",
+   "Document list",
+   "Online e-visa availability",
+   "Official Nicaraguan government visa page"
+  ],
+  "sources": [
+   "https://indianembassypanama.gov.in/eoipa_pages/MzEz"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Niger",
+  "route": "embassy",
+  "summary": "Indian citizens need a visa from the Embassy of Niger in New Delhi (per secondary sources). No e-visa was found. Check current status with the embassy before planning, since several sources say Niger visa issuing has been disrupted since 2023.",
+  "applyLinks": [
+   {
+    "label": "Niger embassy in Denmark visa page (example of the embassy process, not for India)",
+    "url": "https://niger.dk/visa-application"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid 6 months (secondary source)"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Reported as mandatory"
+   },
+   {
+    "item": "Photos, form, accommodation or invitation",
+    "note": "Not confirmed on an official page"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (a secondary source says INR 5,000 single entry)",
+  "processing": "UNVERIFIED (secondary source says 2 to 3 working days)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "In person at the embassy in New Delhi (secondary source)",
+  "centres": "New Delhi (secondary source)",
+  "warnings": [
+   "Niger visa issuing and travel conditions are unstable; check your government's travel advice.",
+   "Yellow fever vaccination is reportedly required.",
+   "No official Indian-based Niger page was found, so do not pay agents blindly."
+  ],
+  "unverified": [
+   "Official Niger embassy India page",
+   "Fee",
+   "Processing",
+   "Photo",
+   "Documents",
+   "Embassy address and hours"
+  ],
+  "sources": [
+   "https://niger.dk/visa-application"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Nigeria",
+  "route": "online",
+  "summary": "Apply for the Nigeria e-Visa on the official Nigeria Immigration Service portal. Create an account, choose the tourist (F5A) category, upload documents, pay online and wait for the approval letter by email. Print it and carry it. The embassy route also exists via the High Commission in New Delhi.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Nigeria e-Visa",
+    "url": "https://evisa.immigration.gov.ng/"
+   },
+   {
+    "label": "Tourism visa F5A requirements (NIS)",
+    "url": "https://immigration.gov.ng/info-center/tourism-visa-f5a"
+   },
+   {
+    "label": "How to apply for an e-Visa (NIS FAQ)",
+    "url": "https://immigration.gov.ng/knowledge-base"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months"
+   },
+   {
+    "item": "Passport size photo",
+    "note": "Required"
+   },
+   {
+    "item": "Return ticket",
+    "note": "Evidence required"
+   },
+   {
+    "item": "Hotel booking or host address in Nigeria",
+    "note": "Required"
+   },
+   {
+    "item": "Bank statement",
+    "note": "Evidence of funds, 180 days"
+   },
+   {
+    "item": "Invitation letter",
+    "note": "Sometimes, depending on category"
+   },
+   {
+    "item": "Birth certificate and parental consent",
+    "note": "Only for minors under 18"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "NIS page says passport size photo; exact specs not stated.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED on official pages (secondary sources say US$253 for Indians)",
+  "processing": "UNVERIFIED on official pages (secondary sources say 24 to 48 hours)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Not confirmed; the e-Visa is online. Embassy route may need in-person submission.",
+  "centres": "No application centre needed for the e-Visa; High Commission of Nigeria, New Delhi for the embassy route (secondary source)",
+  "warnings": [
+   "Use only the official NIS portal; many agents add large markups.",
+   "Visa on arrival reportedly discontinued, so get approval before flying.",
+   "Payment must be made before the application is processed (portal text)."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo specs",
+   "Biometrics",
+   "Validity and stay length"
+  ],
+  "sources": [
+   "https://evisa.immigration.gov.ng/",
+   "https://immigration.gov.ng/info-center/tourism-visa-f5a",
+   "https://immigration.gov.ng/knowledge-base"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "North Korea",
+  "route": "agency",
+  "summary": "Tourist visas are arranged only through a travel agency registered with North Korea's tourism authority, as part of a full tour package. The agency lodges the application with a DPRK mission and hands the visa over before you enter. No official application page for Indians was found, and tourism has been largely closed to Western and most foreign tourists since 2020.",
+  "applyLinks": [
+   {
+    "label": "Visa policy overview (Wikipedia, not official)",
+    "url": "https://en.wikipedia.org/wiki/Visa_policy_of_North_Korea"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid; details from the tour operator"
+   },
+   {
+    "item": "Visa application form and photo",
+    "note": "Supplied by the tour agency"
+   },
+   {
+    "item": "Employment details",
+    "note": "Journalists and photographers cannot enter on tourist visas"
+   },
+   {
+    "item": "Full tour package booking",
+    "note": "Required for a tourist visa"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Handled by the agency; embassy appointment may be needed (secondary source)",
+  "centres": "No DPRK embassy in India was confirmed; visas are often collected in China or Russia (secondary source)",
+  "warnings": [
+   "Individual travel is not possible; a registered agency and guide are required.",
+   "Check Indian government travel advice and current border status before booking.",
+   "Do not pay agents that quote low fixed fees without a tour."
+  ],
+  "unverified": [
+   "All fees, timing, photo and document rules",
+   "Official DPRK mission page for India"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Visa_policy_of_North_Korea"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "North Macedonia",
+  "route": "embassy",
+  "summary": "Indian citizens need a short stay visa (type C) unless they qualify for the facilitation for holders of a valid multiple entry Schengen, UK, US or Canadian visa, which allows up to 15 days per entry. Otherwise apply at a North Macedonian mission covering India; check the Ministry of Foreign Affairs consular page for the mission and requirements.",
+  "applyLinks": [
+   {
+    "label": "North Macedonia MFA: entry requirements and visa exemptions",
+    "url": "https://mfa.gov.mk/en-GB/konzularni-uslugi/informacii-za-vlez-vo-rsm"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Validity and pages not confirmed"
+   },
+   {
+    "item": "Multiple entry Schengen, UK, US or Canadian visa",
+    "note": "If you use the 15 day visa-free facilitation, it must be valid 5 days beyond your stay"
+   },
+   {
+    "item": "Itinerary, accommodation, funds, insurance",
+    "note": "Typical, not confirmed"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "No mission in India confirmed on an official page.",
+  "warnings": [
+   "The facilitation decision for UK, US, Canada visas was stated valid to 31 December 2026 (secondary summary); check the MFA page.",
+   "Stay under the facilitation is up to 15 days per entry, within 90 in 180 days.",
+   "Foreigners must register with local police within 24 hours of arrival (per a Serbian MFA note)."
+  ],
+  "unverified": [
+   "Mission and process for Indian applicants",
+   "Fee",
+   "Processing",
+   "Photo",
+   "Documents"
+  ],
+  "sources": [
+   "https://mfa.gov.mk/en-GB/konzularni-uslugi/informacii-za-vlez-vo-rsm"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Pakistan",
+  "route": "embassy",
+  "summary": "Pakistan takes all visa applications through its Pakistan Online Visa System, and the official tourist visa page lists entry visas at 7 to 10 working days. Whether an Indian ordinary passport holder can get a tourist visa at all could not be confirmed: the Pakistan e-visa lists we could see are for other nationalities, and the Pakistan High Commission in New Delhi has been much reduced since April 2025. Check the portal and the High Commission before planning, and expect refusal for ordinary tourism.",
+  "applyLinks": [
+   {
+    "label": "Pakistan Online Visa System, tourist visa page",
+    "url": "https://visa.nadra.gov.pk/tourist-visa"
+   },
+   {
+    "label": "How to apply (official step by step)",
+    "url": "https://visa.nadra.gov.pk/how-to-apply"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Validity and blank pages not confirmed on an official page"
+   },
+   {
+    "item": "Digital photo",
+    "note": "Portal says photo up to 350 KB"
+   },
+   {
+    "item": "Supporting documents for the chosen visa category",
+    "note": "Each visa category has its own list on the portal"
+   },
+   {
+    "item": "Debit or credit card",
+    "note": "For online fee payment"
+   },
+   {
+    "item": "Sponsor or tour operator details",
+    "note": "May be required for Indian nationals; not confirmed"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "JPEG, up to 350 KB (per portal how-to-apply page snippet)",
+   "notes": "Portal has a Photograph Guidelines page that blocked automated access",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "Entry visa for individuals up to 3 months: 7 to 10 working days, per the portal tourist visa page (search result snippet, 2026-10-16)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED (the portal mentions sponsor biometric verification for some categories)",
+  "centres": "UNVERIFIED. Pakistan High Commission, New Delhi is the only mission in India; its visa services status is unconfirmed",
+  "warnings": [
+   "Only apply on visa.nadra.gov.pk; the portal warns that other websites are not official",
+   "India and Pakistan cancelled each other's visas in April 2025, so Indian tourist visas may be unavailable",
+   "Do not pay agents who promise a Pakistan tourist visa",
+   "Land crossing at Wagah may be closed or restricted; check before travel"
+  ],
+  "unverified": [
+   "Eligibility of Indian ordinary passport holders",
+   "Fee",
+   "Photo size and background",
+   "Documents checklist",
+   "Whether the High Commission New Delhi accepts visa applications",
+   "Portal pages return 403 to scripts"
+  ],
+  "sources": [
+   "https://visa.nadra.gov.pk/tourist-visa",
+   "https://visa.nadra.gov.pk/how-to-apply"
+  ],
+  "confidence": "thin",
+  "lastChecked": "2026-10-16"
+ },
+ {
+  "country": "Palau",
+  "route": "online",
+  "summary": "Indians are not on the list of nationalities needing a visa in advance, so you normally get a 30 day tourist visa on arrival. Before you fly, submit the Palau Entry Form online at palautravel.pw (it must be done within 72 hours of arrival) and carry the QR code. At the border you sign the Palau Pledge and show a passport valid 6 months, return or onward ticket and proof of funds.",
+  "applyLinks": [
+   {
+    "label": "Palau Entry Form (required before arrival, QR code)",
+    "url": "https://palautravel.pw/"
+   },
+   {
+    "label": "Palau immigration page (Bureau of Customs and Border Protection)",
+    "url": "https://bcbp.pw/?page_id=165"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months on arrival (Palau immigration page); one or two blank pages advised"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Palau immigration page says you must have a return ticket unless exempt"
+   },
+   {
+    "item": "Proof of sufficient funds",
+    "note": "Stated on the immigration page; exact amount not confirmed on an official page"
+   },
+   {
+    "item": "Palau Entry Form QR code",
+    "note": "Printed or on phone"
+   },
+   {
+    "item": "Hotel booking",
+    "note": "Sometimes asked; not confirmed officially"
+   }
+  ],
+  "photo": {
+   "size": "Not required in advance",
+   "background": "n/a",
+   "format": "n/a",
+   "notes": "Visa is issued on arrival; no photo upload for the entry form was stated",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (arrival visa fee not found on an official page)",
+  "processing": "Visa on arrival, issued at the airport",
+  "applyEarly": "Entry form: within 72 hours before departure/arrival (palautravel.pw). No advance visa application.",
+  "biometrics": "No visit in India needed; border check on arrival in Palau",
+  "centres": "None in India; no Palau embassy in India",
+  "warnings": [
+   "Check with your airline that boarding without a pre-arranged visa is allowed for Indian passports",
+   "Passport must be valid 6 months",
+   "Without return ticket and funds proof you can be refused",
+   "Sign the Palau Pledge on arrival; it is mandatory"
+  ],
+  "unverified": [
+   "Visa on arrival fee",
+   "Exact proof of funds amount",
+   "Indian-specific rules on an official page (inferred from the list of nationalities needing a prior visa)"
+  ],
+  "sources": [
+   "https://palautravel.pw/",
+   "https://bcbp.pw/?page_id=165",
+   "https://www.gov.uk/foreign-travel-advice/palau/entry-requirements"
+  ],
+  "confidence": "partial",
+  "lastChecked": "2026-10-16"
+ },
+ {
+  "country": "Panama",
+  "route": "embassy",
+  "summary": "Indian citizens need a stamped visa, applied for in person at the Consulate General of Panama in Mumbai, the only place that takes applications in India. Fill in the application form, translate and notarise the documents into Spanish, and attend the appointment with originals. If you hold a valid visa or residence from the US, Canada, UK, Schengen, Australia, Japan or South Korea, you may enter without a Panama visa under the 2024 decree, so check that first. The consulate notice says visa services were temporarily suspended in India, so confirm before applying.",
+  "applyLinks": [
+   {
+    "label": "Panama Consulate Mumbai: visa information and requirements",
+    "url": "https://panamamissionindia.com/visa/visa-information"
+   },
+   {
+    "label": "Panama Consulate Mumbai homepage",
+    "url": "https://panamamissionindia.com/"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Visa application form (PDF, Indian nationals and residents)",
+    "url": "https://panamamissionindia.com/wp-content/uploads/2022/06/Visa-Application-Form.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Application form",
+    "note": "Completed, from the consulate"
+   },
+   {
+    "item": "Passport",
+    "note": "Photocopy of all pages; at least 6 months validity; one entire blank page; first and last page copies notarised"
+   },
+   {
+    "item": "Aadhaar card",
+    "note": "Translated into Spanish by an authorised translator and notarised"
+   },
+   {
+    "item": "Travel itinerary or e-ticket",
+    "note": "Required"
+   },
+   {
+    "item": "Hotel reservation",
+    "note": "If applicable"
+   },
+   {
+    "item": "3 passport photos",
+    "note": "35 x 45 mm"
+   },
+   {
+    "item": "Proof of economic solvency, at least USD 500",
+    "note": "Bank draft or bank certificate with last 3 months statement, in Spanish and notarised, converted to USD"
+   },
+   {
+    "item": "Employment letter with latest payslip",
+    "note": "Complementary documents"
+   },
+   {
+    "item": "Invitation letter and host documents",
+    "note": "Only if invited by a Panama resident or company"
+   }
+  ],
+  "photo": {
+   "size": "35 mm wide x 45 mm high, 3 copies",
+   "background": "White, colour, not glossy",
+   "format": "Printed",
+   "notes": "Neutral face, forehead and ears visible, no glasses, no light or white clothing, no hoodies",
+   "status": "verified"
+  },
+  "fee": "USD 60 (USD 50 visa plus USD 10 consular charge), paid by bank wire on the day of the appointment, per the consulate page read 2026-10-16",
+  "processing": "Up to 3 months per the consulate page",
+  "applyEarly": "Arrange the appointment well before travel, as processing can take up to 3 months",
+  "biometrics": "Applicant must submit documents personally; no third parties or agents accepted",
+  "centres": "Mumbai only (Consulate General of Panama)",
+  "warnings": [
+   "The consulate does not issue e-visas through any website or agent; ignore sites that offer them",
+   "All documents except the passport must be translated into Spanish and notarised; machine translations are rejected",
+   "The site notice says visa services in India were temporarily suspended; email the consulate before applying",
+   "Valid US, Canada, UK, Schengen, Australia, Japan or South Korea visa may let you enter without a Panama visa"
+  ],
+  "unverified": [
+   "Current status of the visa service suspension notice",
+   "Appointment booking method",
+   "Exact list of countries and conditions for the visa free entry (taken from the Indian Embassy in Panama advisory)"
+  ],
+  "sources": [
+   "https://panamamissionindia.com/visa/visa-information",
+   "https://indianembassypanama.gov.in/eoipa_pages/MzEz"
+  ],
+  "confidence": "official",
+  "lastChecked": "2026-10-16"
+ },
+ {
+  "country": "Papua New Guinea",
+  "route": "online",
+  "summary": "Apply for the visitor eVisa on the official ICA portal (evisa.ica.gov.pg) if your nationality is eligible, or download the paper visitor visa form from the ICA visitor visa page. Papua New Guinea has no visa centre in India, so applications go straight to the Immigration and Citizenship Authority. The ICA portal blocks automated access, so whether Indian passports are in the eVisa and visa on arrival list could not be confirmed here.",
+  "applyLinks": [
+   {
+    "label": "Apply for the PNG eVisa (ICA portal)",
+    "url": "https://evisa.ica.gov.pg"
+   },
+   {
+    "label": "ICA Visitor visa page with paper form and how to apply",
+    "url": "https://ica.gov.pg/visa/visit/visitor"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Paper visitor visa form, at the bottom of the ICA visitor visa page",
+    "url": "https://ica.gov.pg/visa/visit/visitor"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Commonly 6 months validity; not confirmed on an official page"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Usually required"
+   },
+   {
+    "item": "Proof of funds and accommodation",
+    "note": "ICA may ask for evidence of genuine tourist intent"
+   },
+   {
+    "item": "Digital photo and passport scan",
+    "note": "For the online form"
+   },
+   {
+    "item": "Sponsor letter",
+    "note": "Only if visiting friends or family or on organised trips"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Portal blocked automated access",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (Australian High Commission page says fees are on the ICA fee schedule)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "None in India; apply direct to ICA PNG",
+  "warnings": [
+   "Only use the ICA portal; many lookalike agent sites charge extra",
+   "Eligibility of Indians for visa on arrival or eVisa should be checked on the ICA list",
+   "ICA says you must show you are a genuine visitor who will leave at end of stay",
+   "Submit the digital arrival card up to 72 hours before arrival"
+  ],
+  "unverified": [
+   "Fee",
+   "Photo rules",
+   "Processing time",
+   "Indian eligibility for eVisa/visa on arrival",
+   "Document checklist",
+   "ICA site returns 403 to scripts"
+  ],
+  "sources": [
+   "https://ica.gov.pg/visa/visit/visitor",
+   "https://ica.gov.pg/",
+   "https://canada.embassy.gov.au/otwa/PNGPNG.html"
+  ],
+  "confidence": "thin",
+  "lastChecked": "2026-10-16"
+ },
+ {
+  "country": "Paraguay",
+  "route": "embassy",
+  "summary": "Indian citizens need a visa. Complete the online non resident visa application form (linked from the Embassy of Paraguay in New Delhi consular page, which goes to the Paraguay foreign ministry) and upload the documents. The embassy in Vasant Vihar, New Delhi handles applications for India. The visa fee of USD 100 is paid only after approval, in Indian rupees by bank deposit.",
+  "applyLinks": [
+   {
+    "label": "Paraguay Embassy New Delhi consular section (visa info and links)",
+    "url": "https://paraguayembassy.in/consular-section/"
+   },
+   {
+    "label": "Paraguay foreign ministry online visa form",
+    "url": "https://www.mre.gov.py/visasenlinea/"
+   },
+   {
+    "label": "Visa requirements 2025 PDF from the embassy",
+    "url": "https://paraguayembassy.in/wp-content/uploads/2025/07/VISA_REQUIREMENTS-_2025.pdf"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Visa requirements PDF 2026 (embassy)",
+    "url": "https://paraguayembassy.in/vip-docs/VISA_REQUIREMENTS_2026.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Online application form",
+    "note": "Complete and upload documents"
+   },
+   {
+    "item": "Passport",
+    "note": "At least 2 blank pages, valid 6 months from entry"
+   },
+   {
+    "item": "Round trip reservation or itinerary",
+    "note": "Dates for entry and exit"
+   },
+   {
+    "item": "Colour photo",
+    "note": "2x2 inches white background (2020 embassy PDF)"
+   },
+   {
+    "item": "Other valid visas",
+    "note": "Copies if held"
+   },
+   {
+    "item": "Invitation or hotel booking, funds proof",
+    "note": "Details in the embassy PDF; not fully read"
+   },
+   {
+    "item": "Yellow fever vaccination",
+    "note": "For arrivals from Brazil, Bolivia, Colombia and Peru"
+   }
+  ],
+  "photo": {
+   "size": "2 x 2 inches (older 2020 embassy PDF; check the current form)",
+   "background": "White",
+   "format": "Colour, recent, full face",
+   "notes": "Current online upload specification not verified",
+   "status": "unverified"
+  },
+  "fee": "USD 100, valid for multiple entries, paid only after approval, deposit in Indian rupees (embassy requirements PDF, 2025)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "Submit at least 30 days before travel (embassy 2025 PDF)",
+  "biometrics": "UNVERIFIED",
+  "centres": "New Delhi (embassy) only",
+  "warnings": [
+   "Do not pay until the visa officer confirms approval",
+   "Apply at least 30 days before travel",
+   "Passport needs 6 months validity and 2 blank pages",
+   "Ministry site blocks scripts; open it in a normal browser"
+  ],
+  "unverified": [
+   "Processing time",
+   "Current photo upload spec",
+   "Full document list for 2026",
+   "mre.gov.py page returns 403 to scripts",
+   "Visa free or conditional rules"
+  ],
+  "sources": [
+   "https://paraguayembassy.in/consular-section/",
+   "https://paraguayembassy.in/wp-content/uploads/2025/07/VISA_REQUIREMENTS-_2025.pdf",
+   "https://paraguayembassy.in/vip-docs/VISA_REQUIREMENTS_2026.pdf"
+  ],
+  "confidence": "partial",
+  "lastChecked": "2026-10-16"
  }
 ]
