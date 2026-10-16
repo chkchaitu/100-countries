@@ -11115,5 +11115,342 @@
   ],
   "confidence": "partial",
   "lastChecked": "2026-10-16"
+ },
+ {
+  "country": "Romania",
+  "route": "embassy",
+  "summary": "Indian citizens need a short-stay (type C) visa. Residents of India apply through the Embassy of Romania in New Delhi, which handles applications for residents of India, Nepal, Bangladesh and Bhutan. Start the application on the Romanian online visa portal E-VIZA, then follow the Embassy's instructions on its Visas page for the appointment and document submission.",
+  "applyLinks": [
+   {
+    "label": "Romania online visa application portal (E-VIZA)",
+    "url": "https://eviza.mae.ro"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid, with blank pages; check validity rules on the Embassy page"
+   },
+   {
+    "item": "Visa application form (completed on E-VIZA)",
+    "note": "Printed and signed"
+   },
+   {
+    "item": "Photographs",
+    "note": "Recent passport-style photos"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Schengen rules require cover for the whole stay"
+   },
+   {
+    "item": "Return or onward ticket and accommodation proof",
+    "note": "Itinerary and hotel booking or invitation"
+   },
+   {
+    "item": "Proof of funds and employment/income",
+    "note": "Bank statements, employer letter; exact list not confirmed"
+   },
+   {
+    "item": "Invitation letter",
+    "note": "Only if visiting friends, family or on business"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Not confirmed on an official page.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "Schengen rules allow applying up to 6 months before travel; check the Embassy page for its own limit.",
+  "biometrics": "Fingerprints are normally collected for Schengen visas; exact in-person process at the Embassy not confirmed.",
+  "centres": "New Delhi (Embassy). Other Indian cities UNVERIFIED.",
+  "warnings": [
+   "Rules change, so always read the Embassy page for current requirements.",
+   "Apply only through the Embassy and E-VIZA; avoid agents charging extra for a normal application.",
+   "Incomplete insurance or unclear travel purpose are common refusal reasons."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo size and format",
+   "Exact document checklist",
+   "Whether VFS or another centre is used in India",
+   "Embassy page could not be opened from our server (connection timeout); content known only from the official search result"
+  ],
+  "sources": [
+   "https://eviza.mae.ro",
+   "https://newdelhi.mae.ro/en/node/871 (search result snippet only)"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Saint Kitts and Nevis",
+  "route": "online",
+  "summary": "Indian citizens do not need a visa for short tourist visits (secondary sources say up to 90 days). Every visitor must have an approved Electronic Travel Authorisation (eTA) before the journey. Apply on the official Electronic Border Management System website or its mobile app, choosing the tourist option, before you fly.",
+  "applyLinks": [
+   {
+    "label": "Apply for the eTA and online immigration form (official portal)",
+    "url": "https://www.knatravelform.kn/en"
+   },
+   {
+    "label": "SKN government announcement on the eTA",
+    "url": "https://www.sknis.gov.kn/2025/05/22/saint-kitts-and-nevis-introduces-effortless-digital-entry-enhanced-security-smoother-travel-for-visitors"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months after arrival (UK government advice; confirm on the portal)"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Usually checked"
+   },
+   {
+    "item": "Accommodation details",
+    "note": "Address of stay"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Sometimes asked at the border"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Portal asks for a passport scan and may ask for a photo; specifications not confirmed.",
+   "status": "unverified"
+  },
+  "fee": "eTA service charge applies; amount UNVERIFIED (not read on an official page).",
+  "processing": "Online; usually quick but UNVERIFIED.",
+  "applyEarly": "An official video says the earliest to apply is 3 months before travel (secondary summary); apply as soon as you can.",
+  "biometrics": "None in India. Border check on arrival.",
+  "centres": "Online only, no centres in India.",
+  "warnings": [
+   "Do not travel without an approved eTA; airlines will check.",
+   "Use only the official portal; copycat sites charge extra.",
+   "Visa-free status for Indians comes from secondary sources and should be confirmed on the portal."
+  ],
+  "unverified": [
+   "eTA fee",
+   "Processing time",
+   "Photo rules",
+   "Visa-free stay length for Indians on an official page",
+   "Official portal text for Indian nationals"
+  ],
+  "sources": [
+   "https://www.knatravelform.kn/en",
+   "https://www.sknis.gov.kn/2025/05/22/saint-kitts-and-nevis-introduces-effortless-digital-entry-enhanced-security-smoother-travel-for-visitors"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Saint Lucia",
+  "route": "online",
+  "summary": "Saint Lucia appears on the Indian Ministry of External Affairs list of countries giving Indian ordinary passport holders visa-free entry, for up to 6 weeks. A return ticket is required. If your nationality or situation needs a visa, the Government portal says to submit the form to the Immigration Department at least 2 weeks before travel; check before booking.",
+  "applyLinks": [
+   {
+    "label": "Government of Saint Lucia: Non-Immigrant Visa service page",
+    "url": "https://www.govt.lc/services/apply-for-saint-lucia-non-immigrant-visa"
+   },
+   {
+    "label": "Ministry of External Affairs: Visiting Saint Lucia (entry rules)",
+    "url": "http://externalaffairs.gov.lc/visiting-saint-lucia"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid for at least 6 months"
+   },
+   {
+    "item": "Return ticket",
+    "note": "Required for all visitors"
+   },
+   {
+    "item": "Accommodation proof and itinerary",
+    "note": "Hotel or host address"
+   },
+   {
+    "item": "2 passport photos",
+    "note": "Only if a visa is needed"
+   },
+   {
+    "item": "Invitation letter",
+    "note": "Only if staying with friends or family"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Visa route asks for 2 certified passport-size photographs; no size given.",
+   "status": "unverified"
+  },
+  "fee": "Visa-free for Indians per MEA list. If a visa were needed, the Government page lists EC$125 single entry and EC$190 multiple entry (search result snippet, date UNVERIFIED).",
+  "processing": "If a visa is needed, 5 working days (Government page snippet).",
+  "applyEarly": "At least 2 weeks before travel if a visa is needed.",
+  "biometrics": "None for visa-free entry.",
+  "centres": "Online or on arrival; no centre in India.",
+  "warnings": [
+   "Visa-free status for Indians comes from the MEA list (page blocks scripts, seen via search result); some visa aggregators say visa on arrival, so confirm with the Saint Lucia Immigration Department before booking.",
+   "Entry needs a return ticket.",
+   "Stay is limited to 6 weeks."
+  ],
+  "unverified": [
+   "MEA page could not be opened (403)",
+   "Fee and processing for Indians",
+   "Photo rules",
+   "Whether any online pre-arrival form is required now"
+  ],
+  "sources": [
+   "https://www.govt.lc/services/apply-for-saint-lucia-non-immigrant-visa",
+   "http://externalaffairs.gov.lc/visiting-saint-lucia",
+   "https://www.mea.gov.in/vffin (search result snippet only)"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "San Marino",
+  "route": "embassy",
+  "summary": "San Marino has no border control and cannot be reached except through Italy, so an Indian traveller needs a Schengen short-stay visa, normally applied for through the Italian mission in India. Use the Italian Ministry of Foreign Affairs visa portal to fill the application, then follow the Italian Embassy instructions for appointment and submission. San Marino does not issue its own tourist visa.",
+  "applyLinks": [
+   {
+    "label": "Italy visa application portal (Vistoperitalia)",
+    "url": "https://vistoperitalia.esteri.it/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid beyond the planned stay, with blank pages"
+   },
+   {
+    "item": "Schengen visa application form",
+    "note": "Completed on Vistoperitalia"
+   },
+   {
+    "item": "Photographs",
+    "note": "Schengen standard photos"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Schengen rules require cover"
+   },
+   {
+    "item": "Itinerary and accommodation",
+    "note": "Show Italy as entry point"
+   },
+   {
+    "item": "Proof of funds and employment",
+    "note": "Bank statements, employer letter"
+   },
+   {
+    "item": "Flight reservation",
+    "note": "Return or onward"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Not confirmed on an official page.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "Schengen rules allow applying up to 6 months before travel.",
+  "biometrics": "Fingerprints normally taken at the visa centre.",
+  "centres": "Italian visa centres in India: UNVERIFIED (official VFS page did not open).",
+  "warnings": [
+   "San Marino is not in Schengen but uses Italian visa practice; apply to the country where you spend most nights, normally Italy.",
+   "Do not pay agents extra for a standard application.",
+   "Weak itinerary or insurance are common refusal reasons."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing",
+   "Photo rules",
+   "Italian Embassy in India page (did not open)",
+   "Visa centre cities and booking link"
+  ],
+  "sources": [
+   "https://vistoperitalia.esteri.it/",
+   "https://www.visahq.com/san-marino (secondary lead only)"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Sao Tome and Principe",
+  "route": "online",
+  "summary": "Indian citizens need a visa in advance. The country offers a 30-day tourist e-Visa applied for online; applications are checked in about 5 business days and the approval letter is shown at check-in and at the airport, where the visa is stamped and a stamping fee is paid. The portal listed in the FAQ is www.smf.st, which did not open from our server.",
+  "applyLinks": [],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 1 year"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Required"
+   },
+   {
+    "item": "Hotel booking or invitation",
+    "note": "Usual for tourist e-Visa"
+   },
+   {
+    "item": "Yellow fever vaccination certificate",
+    "note": "Commonly required; confirm"
+   },
+   {
+    "item": "Visa approval letter",
+    "note": "Print and carry"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Not confirmed on an official page.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (a visa stamping fee is paid on arrival, amount not confirmed).",
+  "processing": "5 business days (visa guide site FAQ).",
+  "applyEarly": "3 to 4 weeks before travel suggested by the FAQ.",
+  "biometrics": "No fingerprints in India for the e-Visa; visa is stamped on arrival.",
+  "centres": "No centres in India for e-Visa.",
+  "warnings": [
+   "Check which site is the official one: the portal listed in the FAQ is www.smf.st, which we could not open.",
+   "Visa guide sites may be run by private operators; compare with the Sao Tome embassy before paying.",
+   "Carry the printed approval letter; airlines check it."
+  ],
+  "unverified": [
+   "Official government portal not opened",
+   "Fee and stamping fee",
+   "Photo rules",
+   "Document list for Indians",
+   "Sites above returned 406 to scripts but opened in a text fetch",
+   "No working official apply link could be confirmed. Search for the official visa page."
+  ],
+  "sources": [
+   "https://saotomeislands.com/evisa/faq.html",
+   "https://saotomeislands.com/evisa/visa-policy.html"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
  }
 ]
