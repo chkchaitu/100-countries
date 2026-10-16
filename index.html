@@ -103,6 +103,9 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
 .chk{list-style:none;padding-left:0!important}.chk li{padding-left:22px;position:relative}.chk li::before{content:'\2610';position:absolute;left:0;color:var(--acc2)}
 .photobox{background:var(--bg2);border:1px dashed var(--line);border-radius:10px;padding:10px 12px;font-size:13.5px}
 .arow{display:grid;grid-template-columns:96px 1fr;gap:10px;padding:6px 0;border-bottom:1px solid var(--line);font-size:13.5px}.arow span{color:var(--mute)}
+.retnote{border-radius:10px;padding:10px 12px;font-size:13.5px;margin:6px 0;line-height:1.45}
+.retnote.warn{background:rgba(255,107,107,.1);border:1px solid rgba(255,107,107,.45);color:#ffd0d0}
+.retnote.ok{background:rgba(94,224,138,.08);border:1px solid rgba(94,224,138,.35);color:#c9f5d6}
 .unv{margin-top:12px;background:rgba(255,209,102,.08);border:1px solid rgba(255,209,102,.35);border-radius:10px;padding:9px 12px;font-size:12.5px;color:#f0d79a}
 .sheet ul{margin:4px 0;padding-left:18px}.sheet li{margin:3px 0}.nbtn{background:var(--bg2);border:1px solid var(--line);color:var(--ink);border-radius:8px;padding:3px 9px;margin:2px;cursor:pointer;font-size:13px}
 .mo{display:grid;grid-template-columns:repeat(12,1fr);gap:3px;margin:6px 0}.mo div{text-align:center;font-size:11px;padding:6px 0;border-radius:6px;background:#1a2447;color:var(--mute)}.mo div.hi{background:var(--acc2);color:#04201d;font-weight:700}
@@ -237,10 +240,10 @@ function fly(t){target=[-t.lon,t.lat*.8]}
 loop();
 async function loadJSON(p){const r=await fetch(p,{cache:'no-cache'});if(!r.ok)throw new Error(p+' '+r.status);return r.json()}
 async function boot(){
- let T,X,R,Vi,Cp,Tr,Ap;
- try{[T,X,R,Vi,Cp,Tr,Ap]=await Promise.all([loadJSON('data/trips.json'),loadJSON('data/experiences.json'),loadJSON('data/records.json'),loadJSON('data/visa.json'),loadJSON('data/countries.json'),loadJSON('data/territories.json').catch(()=>[]),loadJSON('data/apply.json').catch(()=>[])])}
+ let T,X,R,Vi,Cp,Tr,Ap,Hl,Hg;
+ try{[T,X,R,Vi,Cp,Tr,Ap,Hl,Hg]=await Promise.all([loadJSON('data/trips.json'),loadJSON('data/experiences.json'),loadJSON('data/records.json'),loadJSON('data/visa.json'),loadJSON('data/countries.json'),loadJSON('data/territories.json').catch(()=>[]),loadJSON('data/apply.json').catch(()=>[]),loadJSON('data/health.json').catch(()=>[]),loadJSON('data/health-global.json').catch(()=>({}))])}
  catch(err){document.querySelector('header .lead').insertAdjacentHTML('afterend','<div class="note">Could not load the data files ('+esc(err.message)+'). Open this page from its web address, not as a local file.</div>');return}
- DATAINFO={trips:T,exp:X,rec:R,visa:Vi};const APPLY={};Ap.forEach(a=>{APPLY[a.country]=a});Cp.forEach(c=>{PROFILES[c.country]=c});Tr.forEach(t=>{PROFILES[t.country]=t;VREC[t.country]=Object.assign({country:t.country},t.visa)});
+ DATAINFO={trips:T,exp:X,rec:R,visa:Vi};const APPLY={};Ap.forEach(a=>{APPLY[a.country]=a});const HEALTH={};Hl.forEach(a=>{HEALTH[a.country]=a});Cp.forEach(c=>{PROFILES[c.country]=c});Tr.forEach(t=>{PROFILES[t.country]=t;VREC[t.country]=Object.assign({country:t.country},t.visa)});
  TRIPS=T.trips.map(t=>({c:t.code,n:t.name,d:t.days,lo:t.budgetLakh.low,hi:t.budgetLakh.high,lat:t.lat,lon:t.lon,m:t.bestMonths,tags:t.tags,ctry:t.countries,note:t.note,checked:t.lastChecked,src:t.sources}));
  EXP=X.items.map(e=>({n:e.name,t:e.type,p:e.priceInr,place:e.place,trip:e.trip,checked:e.lastChecked,src:e.sources}));
  REC=R.items.map(r=>[r.value,r.text,r.lastChecked,r.sources]);
@@ -333,6 +336,29 @@ async function boot(){
   ${a.warnings&&a.warnings.length?`<h4>Watch out for</h4><ul>${a.warnings.map(w=>`<li>${esc(w)}</li>`).join('')}</ul>`:''}
   ${a.unverified&&a.unverified.length?`<div class="unv"><b>Could not verify:</b> ${a.unverified.map(esc).join('; ')}</div>`:''}
   <p class="meta" style="font-size:11.5px;margin-top:10px">Typical checklist. Confirm on the official page before you pay or book. Checked ${esc(a.lastChecked)} · ${srcLinks(a.sources)}</p></div>`}
+ function healthHtml(n){const a=HEALTH[n];if(!a)return'';const yf=a.yellowFever||{};
+  const li=(arr)=>(arr||[]).filter(Boolean).map(x=>`<li>${esc(x)}</li>`).join('');
+  const req=(a.requiredVaccines||[]).map(v=>`<li><b>${esc(v.vaccine)}</b>${v.when?': '+esc(v.when):''}${v.note?` <span class="meta">${esc(v.note)}</span>`:''}</li>`).join('');
+  return `<h3>Vaccinations and health</h3><div class="applybox"><p><span class="tag ${a.confidence==='official'?'okt':''}">${esc(CONFL[a.confidence]||a.confidence)}</span></p>
+  <h4 style="margin-top:6px">Required to enter</h4>${req?`<ul>${req}</ul>`:'<p class="meta">No vaccine is legally required for a traveller flying directly from India.</p>'}
+  <div class="arows">${yf.entryRule?`<div class="arow"><span>Yellow fever</span><div>${esc(yf.entryRule)}</div></div>`:''}${yf.riskInCountry?`<div class="arow"><span>Risk there</span><div>${esc(yf.riskInCountry)}${yf.vaccineAdvised?' · vaccine advised: '+esc(yf.vaccineAdvised):''}</div></div>`:''}${a.malaria?`<div class="arow"><span>Malaria</span><div>${esc(a.malaria)}</div></div>`:''}</div>
+  ${(a.recommendedVaccines||[]).length?`<h4>Recommended</h4><ul>${li(a.recommendedVaccines)}</ul>`:''}
+  ${(a.otherHealth||[]).length?`<h4>Other health notes</h4><ul>${li(a.otherHealth)}</ul>`:''}
+  ${(a.unverified||[]).length?`<div class="unv"><b>Could not verify:</b> ${a.unverified.map(esc).join('; ')}</div>`:''}
+  <p class="meta" style="font-size:11.5px;margin-top:10px">Check with a doctor or a travel clinic 6 to 8 weeks before you go. Checked ${esc(a.lastChecked)} · ${srcLinks(a.sources)}</p></div>`}
+ function returnHtml(n){const g=Hg||{};if(!g.returnRules)return'';const yf=(g.yellowFeverRiskCountries||[]).includes(n),po=(g.polioCountries||[]).includes(n);
+  const rr=t=>(g.returnRules||[]).find(r=>r.title.toLowerCase().includes(t));
+  const note=[];
+  if(yf){const r=rr('yellow fever');note.push(`<div class="retnote warn"><b>Yellow fever: ${esc(n)} is on India's risk list.</b> ${r?esc(r.detail):''}</div>`)}
+  if(po){const r=rr('polio');note.push(`<div class="retnote warn"><b>Polio: ${esc(n)} is on India's polio advisory list.</b> ${r?esc(r.detail):''}</div>`)}
+  if(!yf&&!po)note.push(`<div class="retnote ok">${esc(n)} is not on India's yellow fever risk list or polio advisory list, so no health certificate is asked on return. This follows India's published lists, which could not be checked against the latest update.</div>`);
+  const c=g.customs||{};
+  const rows=[['Duty-free',c.dutyFreeAllowance],['Currency',c.currencyLimits],['Declaration',c.declaration],['Not allowed',c.prohibited]].filter(r=>r[1]).map(r=>`<div class="arow"><span>${r[0]}</span><div>${esc(r[1])}</div></div>`).join('');
+  const src=[...new Set([...(c.sources||[]),...(g.returnRules||[]).flatMap(r=>r.sources||[])])].slice(0,5).map(u=>({url:u}));
+  return `<h3>Returning to India</h3><div class="applybox">${note.join('')}<h4>Customs and declarations</h4><div class="arows">${rows}</div>
+  ${(g.other||[]).length?`<h4>Other</h4><ul>${g.other.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`:''}
+  ${(g.unverified||[]).length?`<div class="unv"><b>Could not verify:</b> ${g.unverified.map(esc).join('; ')}</div>`:''}
+  <p class="meta" style="font-size:11.5px;margin-top:10px">Rules for Indian residents returning by air. Confirm on the Indian customs and health ministry sites before you travel. Checked ${esc(g.lastChecked||'')} · ${srcLinks(src.map(s=>s.url))}</p></div>`}
  function flagImg(p){return p&&p.iso?`<img class="flag" src="https://flagcdn.com/w40/${p.iso}.png" srcset="https://flagcdn.com/w80/${p.iso}.png 2x" alt="" loading="lazy" onerror="this.remove()">`:''}
  function openCountry(n){const p=PROFILES[n],v=VREC[n],tr=TRIPS.find(t=>t.ctry.includes(n));const box=document.getElementById('cbody');
   if(!p&&!v){box.innerHTML=`<h2>${esc(n)}</h2><p class="meta">${esc(n)} is a territory or disputed area, not one of the 195 countries in the atlas.</p>`}else{
@@ -340,6 +366,7 @@ async function boot(){
   els.push(`<h2>${flagImg(p)}${esc(n)}${p&&p.currency?`<span class="cur">${p.currency.symbol?`<b class="sym">${esc(p.currency.symbol)}</b> `:''}${esc(p.currency.name)} (${esc(p.currency.code)})</span>`:''}</h2><p class="meta">${esc((p&&p.region)||'')}${p&&p.capital?' · capital '+esc(p.capital):''}${tr?` · <a href="#trips" data-trip="${esc(tr.c)}">Trip ${esc(tr.c)}: ${esc(tr.n)}</a>`:(p&&p.trip==='H'?' · visited hub':(p&&p.trip==='X'?' · added on request, thin profile':''))}</p>`);
   if(v)els.push(`<h3>Visa for an Indian passport</h3><p><span class="tag">${esc(CATL[v.category]||'')}</span><span class="tag">${esc(v.status)}</span></p><p>${esc(v.rule)}</p>${v.easedBy&&v.easedBy.length?`<p class="meta">Eased by: ${v.easedBy.map(k=>esc((DATAINFO.visa.visaKeys||{})[k]||k)).join(', ')}.</p>`:''}<p class="meta" style="font-size:12px">Checked ${esc(v.lastChecked)} · ${srcLinks(v.sources)}<br>${esc(v.note||'')}</p>`);
   els.push(applyHtml(n,v));
+  if(!(p&&p.territory)){els.push(healthHtml(n));els.push(returnHtml(n))}
   if(p&&p.places&&p.places.length)els.push(`<h3>Places to visit</h3><ul>${p.places.map(x=>`<li><b>${esc(x.name)}</b>${x.note?': '+esc(x.note):''}${x.fee?` <span class="meta">(${esc(x.fee)})</span>`:''}</li>`).join('')}</ul>`);
   if(mo.length)els.push(`<h3>Best months for a low budget</h3><div class="mo">${MN.map((m,i)=>`<div class="${mo.includes(i+1)?'hi':''}">${m}</div>`).join('')}</div>`);
   if(p&&p.dailyBudgetInr)els.push(`<h3>Typical daily budget</h3><p>${rs(p.dailyBudgetInr.low)} to ${rs(p.dailyBudgetInr.high)} per person for a mid-range stay, food and local transport. Estimate.</p>`);

@@ -20,6 +20,10 @@ Map shapes come from Natural Earth via the `world-atlas` package (public domain)
 
 Issues and pull requests that correct a fact should include an official source link.
 
+## What each country page shows
+
+Flag and currency, visa rule for an Indian passport, how to apply (official links, documents, photo, fee), places, best months, budget, transport, unique experiences, cautions, vaccinations and health, and what to do when returning to India. Items marked unverified could not be confirmed on an official page.
+
 ## Vision
 
 The goal today is to help people who dream of visiting 100 countries. The aim is a one-stop planner for anyone travelling from India to any country in the world: visa requirements, places to visit, itineraries, best months, budgets and practical tips, all with sources and a last-checked date. Countries are added a few at a time.

@@ -1,0 +1,138 @@
+{
+ "returnRules": [
+  {
+   "title": "Yellow fever certificate if you were in a risk country in the last 6 days",
+   "detail": "Travellers aged 9 months or older arriving from, or who stayed or transited outside the airport transit area in, one of the 42 countries on India's yellow fever list must hold a valid yellow fever vaccination certificate (international certificate, IHR 2005 Annex 6, issued by an authorised centre). It becomes valid 10 days after vaccination and is valid for life. Without a valid certificate you are quarantined until it becomes valid or until 6 days from the last possible exposure, whichever is first. Photocopies, scans and digital copies are not accepted. A medical exemption letter does not waive quarantine. Applies to Indian citizens too.",
+   "appliesTo": "from yellow fever risk countries",
+   "sources": [
+    "https://www.ihpoe.mohfw.gov.in/vaccination.php",
+    "https://indembassysuriname.gov.in/public_files/assets/pdf/YELLOW_FEVER_VACCINATION.pdf",
+    "https://hcigeorgetown.gov.in/pages/NzA3"
+   ]
+  },
+  {
+   "title": "Polio vaccination for arrivals from polio-affected countries",
+   "detail": "Per the MoHFW revised advisory (office order dated June 2024), anyone arriving in India with a passport of, or a travel history in the last year to, the 11 listed polio-affected countries needs a polio vaccine dose (OPV or IPV) at least 4 weeks before travel, with a certificate valid for one year. It applies to Indian nationals and NRIs from these countries too. Travellers without a certificate must receive OPV at the arrival airport. Indian nationals travelling to these countries need it for outbound travel as well.",
+   "appliesTo": "from polio-affected countries",
+   "sources": [
+    "https://ihpoe.mohfw.gov.in/assets/pdf/advisory_Poliovirus_guideline_for_travellers_from_Endemic_Countries.pdf"
+   ]
+  },
+  {
+   "title": "Customs: duty-free allowance and declaration",
+   "detail": "Baggage Rules 2026 (effective 2 Feb 2026) give an Indian resident returning by air or sea a general duty-free allowance of Rs 75,000 on articles (previously Rs 50,000). Allowances cannot be pooled between passengers. Above the allowance, duty applies and goods go through the red channel.",
+   "appliesTo": "if carrying goods or cash",
+   "sources": [
+    "https://kolkatacustoms.gov.in/storage/uploads/forms_letter_status/20260206163228.pdf",
+    "https://www.referencer.in/Baggage_Rules/FAQ_Baggage_Rules_2026.aspx"
+   ]
+  },
+  {
+   "title": "Foreign currency declaration",
+   "detail": "Declare on a Currency Declaration Form if foreign currency notes exceed USD 5,000, or total foreign exchange (notes, banknotes, travellers cheques) exceeds USD 10,000, or equivalent.",
+   "appliesTo": "if carrying goods or cash",
+   "sources": [
+    "https://www.cbic.gov.in/resources/htdocs-cbec/customs_clearance_of_passengers_at_a_glance.pdf",
+    "https://www.hcisingapore.gov.in/pdf/guide_travelers_to_india.pdf"
+   ]
+  },
+  {
+   "title": "Indian rupees",
+   "detail": "Import of Indian currency is prohibited in general, but residents returning from abroad can bring up to Rs 25,000 (per an older Indian High Commission guide, current figure not re-confirmed on CBIC).",
+   "appliesTo": "if carrying goods or cash",
+   "sources": [
+    "https://www.hcisingapore.gov.in/pdf/guide_travelers_to_india.pdf"
+   ]
+  },
+  {
+   "title": "Jewellery allowance",
+   "detail": "A resident or tourist of Indian origin who stayed abroad more than one year may bring jewellery up to 40 g (women) or 20 g (others) duty free in bona fide baggage.",
+   "appliesTo": "if carrying goods or cash",
+   "sources": [
+    "https://kolkatacustoms.gov.in/storage/uploads/forms_letter_status/20260206163228.pdf"
+   ]
+  }
+ ],
+ "yellowFeverRiskCountries": [
+  "Angola",
+  "Benin",
+  "Burkina Faso",
+  "Burundi",
+  "Cameroon",
+  "Central African Republic",
+  "Chad",
+  "Congo",
+  "Côte d'Ivoire",
+  "Democratic Republic of the Congo",
+  "Equatorial Guinea",
+  "Ethiopia",
+  "Gabon",
+  "Gambia",
+  "Ghana",
+  "Guinea",
+  "Guinea-Bissau",
+  "Kenya",
+  "Liberia",
+  "Mali",
+  "Mauritania",
+  "Niger",
+  "Nigeria",
+  "Senegal",
+  "Sierra Leone",
+  "Sudan",
+  "South Sudan",
+  "Togo",
+  "Uganda",
+  "Argentina",
+  "Bolivia",
+  "Brazil",
+  "Colombia",
+  "Ecuador",
+  "Guyana",
+  "Panama",
+  "Paraguay",
+  "Peru",
+  "Suriname",
+  "Trinidad and Tobago",
+  "Venezuela"
+ ],
+ "polioCountries": [
+  "Afghanistan",
+  "Pakistan",
+  "Cameroon",
+  "Nigeria",
+  "Malawi",
+  "Mozambique",
+  "Madagascar",
+  "Congo",
+  "Democratic Republic of the Congo",
+  "Somalia",
+  "Syria"
+ ],
+ "polioSourceNote": "India MoHFW revised polio advisory, office order dated June 2024 (text read by OCR). Endemic: Afghanistan, Pakistan. Circulating poliovirus: Cameroon, Nigeria, Malawi, Mozambique, Madagascar, Congo, DR Congo, Somalia, Syria. MoHFW says the list may be amended from time to time. WHO Polio IHR Emergency Committee 44th statement is dated 4 March 2026; it discussed Afghanistan, Angola, Germany, Laos, Namibia, Pakistan and Papua New Guinea, but the current full WHO list was not opened, so India's list may be out of date.",
+ "yellowFeverIndiaRule": "MoHFW (Airport Health Organisation portal): passengers travelling to and from yellow fever risk countries must hold a valid certificate from an authorised centre, including those who leave the airport transit area in a risk country. Without a valid or mature certificate they are quarantined until the certificate becomes valid or for up to 6 days from last possible exposure, whichever is first. India's list has 42 countries, based on WHO list updated 3 Jan 2023. Africa: Angola, Benin, Burkina Faso, Burundi, Cameroon, Central African Republic, Chad, Congo, Cote d'Ivoire, DR Congo, Equatorial Guinea, Ethiopia, Gabon, Gambia, Ghana, Guinea, Guinea-Bissau, Kenya, Liberia, Mali, Mauritania, Niger, Nigeria, Senegal, Sierra Leone, Sudan, South Sudan, Togo, Uganda. Americas: Argentina, Bolivia, Brazil, Colombia, Ecuador, French Guiana (not in atlas), Guyana, Panama, Paraguay, Peru, Suriname, Trinidad and Tobago, Venezuela. Not on India's list: Tanzania, Zambia, Rwanda, Eritrea, Sao Tome and Principe, Somalia. Source: https://www.ihpoe.mohfw.gov.in/vaccination.php and Indian missions' MoHFW guideline notices.",
+ "customs": {
+  "dutyFreeAllowance": "Rs 75,000 general free allowance for a resident returning by air or sea (Baggage Rules 2026, effective 2 Feb 2026). Used personal effects separate. Jewellery 40 g women or 20 g others after more than 1 year abroad. Alcohol and cigarette quantities (reported secondary as 2 litres and 100 cigarettes) UNVERIFIED on an official page.",
+  "currencyLimits": "Foreign currency: declare if notes exceed USD 5,000 or total including travellers cheques exceeds USD 10,000 (no upper cap). Indian rupees: up to Rs 25,000 for returning residents per older HCI guide, UNVERIFIED as current.",
+  "declaration": "Use the red channel if carrying dutiable goods above the allowance, prohibited or restricted items, or currency above the limits. Fill a Currency Declaration Form for foreign currency above the limits.",
+  "prohibited": "Per CBIC passenger guide: gold and silver other than ornaments (import), Indian and foreign currency above prescribed limits, satellite phones, drones, radio transmitters not approved for normal use. Also narcotics, weapons (general).",
+  "sources": [
+   "https://kolkatacustoms.gov.in/storage/uploads/forms_letter_status/20260206163228.pdf",
+   "https://www.referencer.in/Baggage_Rules/FAQ_Baggage_Rules_2026.aspx",
+   "https://www.cbic.gov.in/resources/htdocs-cbec/customs_clearance_of_passengers_at_a_glance.pdf",
+   "https://www.hcisingapore.gov.in/pdf/guide_travelers_to_india.pdf"
+  ]
+ },
+ "other": [
+  "Indian passport holders do not need the e-Arrival Card; it is mandatory since 1 April 2026 for foreign nationals and OCI cardholders (reported by the Indian Embassy in Cairo post and US Embassy notice, Indian citizens exempt per secondary source trip.com). Source: https://in.usembassy.gov/indias-new-digital-arrival-system",
+  "Emigration Check Not Required (ECNR) and Air Suvidha style health declaration: not verified, nothing found about a current health declaration form for Indian arrivals."
+ ],
+ "lastChecked": "2026-10-16",
+ "unverified": [
+  "Official WHO current yellow fever risk list (WHO ITH page not opened). Atlas list uses India MoHFW list (WHO Jan 2023) cross-checked with secondary lists; newer WHO list may differ, e.g. Tanzania, Zambia, Rwanda, Eritrea, Somalia, Sao Tome appear only as low potential exposure on CDC.",
+  "Current WHO polio emergency list beyond India's June 2024 list; whether India updated its list after June 2024.",
+  "Alcohol and cigarette allowance, official CBIC wording of Baggage Rules 2026 not opened directly (read via Kolkata Customs PDF snippet and referencer.in).",
+  "Current Indian rupee import limit.",
+  "Bureau of Immigration page itself not opened; ECNR notes and any health declaration form not verified."
+ ]
+}

@@ -11,3 +11,7 @@ Every record carries `lastChecked` (ISO date) and `sources` (links). The site re
 Rules for editing: never delete `lastChecked` or `sources`; change `status` to `uncertain` when sources disagree; keep prices as estimates; no personal data of any kind.
 
 Known gaps (16 Oct 2026): many visa records cite Wikipedia's "Visa requirements for Indian citizens" or one official page, and `trips.json`, `experiences.json` and `records.json` have empty `sources` lists that still need links.
+
+- `apply.json`: how to apply for a visa from India, per country where a visa or pre-approval is needed: route, official apply and form links, documents checklist, photo spec, fee, processing, warnings, unverified items, confidence.
+- `health.json`: per country entry vaccination rules for a traveller arriving directly from India (yellow fever entry rule, required and recommended vaccines, malaria, other notes), sources, confidence.
+- `health-global.json`: rules for returning to India (yellow fever and polio lists, customs allowance, currency declaration), with the lists of yellow fever risk and polio advisory countries.

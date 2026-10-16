@@ -38,6 +38,19 @@ if os.path.exists('data/apply.json'):
             for u in a.get(k,[]):
                 if not str(u.get('url','')).startswith('http'):err.append(f'apply: {c} bad url in {k}')
         if _re.search('[\u2014\u2013]',json.dumps(a,ensure_ascii=False)):err.append(f'apply: {c} has em or en dash')
+
+# health.json: per-country vaccination info
+if os.path.exists('data/health.json'):
+    for a in L('data/health.json'):
+        c=a.get('country')
+        if c not in pr:err.append(f'health: {c} not in countries.json')
+        if not a.get('lastChecked'):err.append(f'health: {c} missing lastChecked')
+        if a.get('confidence') not in('official','partial','thin'):err.append(f'health: {c} bad confidence')
+        if _re.search('[\u2014\u2013]',json.dumps(a,ensure_ascii=False)):err.append(f'health: {c} has em or en dash')
+if os.path.exists('data/health-global.json'):
+    g=L('data/health-global.json')
+    for k in g.get('yellowFeverRiskCountries',[])+g.get('polioCountries',[]):
+        if k not in pr:err.append(f'health-global: {k} not in countries.json')
 # stale (visa rules go stale after 45 days, profiles after 180)
 stale=[]
 for c,r in vr.items():
