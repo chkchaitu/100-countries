@@ -595,5 +595,26 @@
     "https://www.shoreexcursionsgroup.com/tour/snorkeling-sculpture-park-grenada/cagredtartsnk"
    ]
   }
- ]
+ ],
+ "hubs": {
+  "name": "Visited hubs",
+  "about": "Countries many travellers already visit or use as hubs. They are not part of the 18 trips but count toward 100 in the tracker.",
+  "countries": [
+   "Malaysia",
+   "Singapore",
+   "Nepal",
+   "Thailand",
+   "South Korea",
+   "Canada",
+   "United States of America",
+   "United Arab Emirates",
+   "Georgia",
+   "Germany",
+   "Luxembourg",
+   "Belgium",
+   "Netherlands",
+   "Qatar"
+  ],
+  "lastChecked": "2026-10-16"
+ }
 }

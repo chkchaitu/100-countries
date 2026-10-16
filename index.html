@@ -61,74 +61,26 @@ table{width:100%;border-collapse:collapse;font-size:14px}th,td{padding:8px;borde
 .rec .card b{font-family:Georgia,serif;font-size:26px;color:var(--acc);display:block}
 footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(--line)}
 .note{background:#241c10;border:1px solid #5a4318;color:#f5d596;border-radius:12px;padding:10px 14px;font-size:13px;margin:12px 0}
+.modal{position:fixed;inset:0;background:rgba(5,8,20,.78);display:none;z-index:60;overflow:auto;padding:22px 12px}.modal.on{display:block}
+.sheet{max-width:860px;margin:0 auto;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px;position:relative}
+.sheet h2{font-size:30px}.sheet h3{font-size:17px;margin:18px 0 6px;color:var(--acc)}.xbtn{position:absolute;right:14px;top:12px;background:transparent;border:1px solid var(--line);color:var(--ink);border-radius:8px;padding:4px 10px;cursor:pointer}
+.sheet ul{margin:4px 0;padding-left:18px}.sheet li{margin:3px 0}.nbtn{background:var(--bg2);border:1px solid var(--line);color:var(--ink);border-radius:8px;padding:3px 9px;margin:2px;cursor:pointer;font-size:13px}
+.mo{display:grid;grid-template-columns:repeat(12,1fr);gap:3px;margin:6px 0}.mo div{text-align:center;font-size:11px;padding:6px 0;border-radius:6px;background:#1a2447;color:var(--mute)}.mo div.hi{background:var(--acc2);color:#04201d;font-weight:700}
+.navsearch{margin-left:auto;min-width:170px;padding:6px 10px;font-size:13px}.ibtn{display:inline-block;margin-left:6px;border:1px solid var(--line);border-radius:50%;width:16px;height:16px;line-height:14px;font-size:10px;text-align:center;color:var(--acc2);font-style:normal}
 @media(max-width:860px){.hero,.two{grid-template-columns:1fr}.hero{min-height:auto}}
 </style></head><body>
-<nav><div class="wrap"><b>100 Countries</b><a href="#trips">Trips</a><a href="#planner">Plan builder</a><a href="#visa">Visa checker</a><a href="#finder">Experiences</a><a href="#months">Best months</a><a href="#records">Records</a><a href="#tracker">My progress</a></div></nav>
+<nav><div class="wrap"><b>100 Countries</b><a href="#trips">Trips</a><a href="#planner">Plan builder</a><a href="#visa">Visa checker</a><a href="#finder">Experiences</a><a href="#months">Best months</a><a href="#records">Records</a><a href="#tracker">My progress</a><input class="navsearch" id="navSearch" list="countryList" type="text" placeholder="Find any country"><datalist id="countryList"></datalist></div></nav>
 
 <header class="wrap hero">
  <div>
   <span class="pill">Built for Indian passport holders</span>
   <h1>The world, one affordable trip at a time.</h1>
-  <p class="lead">An atlas of <span id="sTripsLead">18</span> low-budget trips that add <span id="sCountriesLead">101</span> countries, with visa rules for an Indian passport, cheapest months, day-by-day plans, and the odd experiences worth a detour.</p>
+  <p class="lead">Plan your way to 100 countries. <span id="sAtlasLead">115</span> countries with visa rules for an Indian passport, cheapest months, day-by-day plans, places to visit and the odd experiences worth a detour.</p>
   <p><a class="btn" href="#trips">Explore the trips</a> <a class="btn ghost" href="#visa">Check where my visas work</a></p>
-  <div class="stats"><div><b id="sCountries">101</b><span>countries</span></div><div><b id="sTrips">18</b><span>trips</span></div><div><b id="sDays">248</b><span>travel days</span></div><div><b id="sBudget">₹42 to 65 lakh</b><span>for everything</span></div></div>
-  <div class="legend" id="globeLegend"></div>
- </div>
- <div id="globeBox"><canvas id="globe" width="1100" height="1100"></canvas><div class="globeTip">Drag to spin. Tap a trip below to fly there.</div></div>
-</header>
-
-<section id="trips"><div class="wrap">
- <h2>Pick a trip</h2><p class="sub">Each trip is built around cheap start cities, overland hops and one day per country where that is enough.</p>
- <div class="chips" id="tripFilter"></div>
- <div class="grid" id="tripGrid"></div>
+  <div class="stats"><div><b id="sCountries">115</b><span>countries in the atlas</span></div><div><b id="sTrips">18</b><span>trips</span></div><div><b id="sNew">101</b><span>countries the trips add</span></div><div><b id="sDays">248</b><span>travel days</span></div><div><b id="sBudget">₹42 to 65 lakh</b><span>for all trips</span></div></div>
 </div></section>
 
-<section id="planner"><div class="wrap">
- <h2>Plan builder</h2><p class="sub">Tick trips to build your own journey. Totals update as you go, and the globe highlights where you will be.</p>
- <div class="two"><div class="panel"><div id="planList"></div></div>
- <div class="panel"><h3>Your plan</h3><div id="planOut"></div><div class="bar"><i id="planBar" style="width:0%"></i></div><small id="planHint" style="color:var(--mute)"></small></div></div>
-</div></section>
-
-<section id="visa"><div class="wrap">
- <h2>Visa checker for an Indian passport</h2><p class="sub">Tell us which visas you hold. The map and list show where they ease entry. Rules are summarised from research on 16 October 2026 and are probable, not final.</p>
- <div class="two"><div class="panel">
-  <b>Visas I hold</b>
-  <label class="ck"><input type="checkbox" id="vUS"> US visa (valid, multiple entry)</label>
-  <label class="ck"><input type="checkbox" id="vSC"> Schengen visa (valid, multiple entry)</label>
-  <label class="ck"><input type="checkbox" id="vUK"> UK visa</label>
-  <label class="ck"><input type="checkbox" id="vCA"> Canada visa</label>
-  <label class="ck"><input type="checkbox" id="vOT"> Australia, NZ, Japan or Korea visa</label>
-  <div style="margin:12px 0"><input type="text" id="vSearch" placeholder="Search a country" style="width:100%"></div>
-  <div class="legend" id="visaLegend"></div>
-  <div class="note">Not legal advice. Confirm every rule on the destination's official site 2 to 3 months before you travel.</div>
- </div><div class="panel res" id="visaList"></div></div>
-</div></section>
-
-<section id="finder"><div class="wrap">
- <h2>Experience finder</h2><p class="sub">Filter odd and wonderful things by type and budget.</p>
- <div class="chips" id="expFilter"></div>
- <label style="font-size:13px;color:var(--mute)">Max price: <b id="expPriceLbl" style="color:var(--ink)">₹1,00,000</b></label>
- <input type="range" id="expPrice" min="500" max="500000" step="500" value="100000">
- <div class="grid" id="expGrid" style="margin-top:12px"></div>
-</div></section>
-
-<section id="months"><div class="wrap">
- <h2>Best months for a low budget</h2><p class="sub">Slide to a month and see which trips are cheap and still comfortable then.</p>
- <input type="range" id="monthSlider" min="1" max="12" value="3"><div class="tl" id="monthTl"></div>
- <div class="grid" id="monthGrid"></div>
-</div></section>
-
-<section id="records"><div class="wrap">
- <h2>Records and bucket-list moments</h2><p class="sub">Longest, highest, fastest, deepest, found along the routes. Claims are from search results and should be checked before you plan around one.</p>
- <div class="rec" id="recGrid"></div>
-</div></section>
-
-<section id="tracker"><div class="wrap">
- <h2>My progress to 100</h2><p class="sub">Tap the countries you have visited. Your list stays in your browser and is never uploaded.</p>
- <div class="two"><div class="panel"><div class="prog" id="prog"><div><span><b id="progN">0</b>of 100</span></div></div><p id="progMsg" style="text-align:center;color:var(--mute)"></p><button class="btn ghost" id="resetTick" style="display:block;margin:auto">Reset</button></div>
- <div class="panel"><b>Tap to mark visited</b><div class="tick" id="tickGrid"></div></div></div>
-</div></section>
-
+<div class="modal" id="cmodal"><div class="sheet" id="csheet"><button class="xbtn" id="cclose">Close</button><div id="cbody"></div></div></div>
 <footer><div class="wrap"><p id="dataStamp" style="margin:0 0 8px"></p>Prices, rules and hours are estimates from research on 16 October 2026 and must be confirmed with official sources before booking. Nothing here is a booking, visa or legal service. Map data: Natural Earth via world-atlas (public domain).</div></footer>
 
 <script>
@@ -138,7 +90,7 @@ const WORLD={"type":"Topology","objects":{"countries":{"type":"GeometryCollectio
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const host=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch(e){return u}};
 const srcLinks=a=>(a&&a.length)?a.map(u=>`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))}</a>`).join(' · '):'no source link yet';
-let TRIPS=[],EXP=[],REC=[],V={},LEV={US:[],SC:[],UK:[],CA:[],OT:[]},LEVTXT={},VREC={},CITIES={},ALLC=[],DATAINFO={};
+let openCountryFn=null,PROFILES={},TRIPS=[],EXP=[],REC=[],V={},LEV={US:[],SC:[],UK:[],CA:[],OT:[]},LEVTXT={},VREC={},CITIES={},ALLC=[],DATAINFO={};
 const MN=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 // ---------- topojson decode
 function decode(topo){const k=topo.transform.scale,t=topo.transform.translate;let arcs=topo.arcs.map(a=>{let x=0,y=0;return a.map(p=>{x+=p[0];y+=p[1];return [x*k[0]+t[0],y*k[1]+t[1]]})});
@@ -157,27 +109,31 @@ function draw(){ctx.clearRect(0,0,cv.width,cv.height);const g=ctx.createRadialGr
  for(const[n,[lo,la]]of Object.entries(MARK)){const[x,y,z]=proj(lo,la);if(z>0){ctx.fillStyle=colorMode&&colorMode(n)?colorMode(n):(hl.has(n)?'#ff9f45':'#7e93d6');ctx.beginPath();ctx.arc(CX+x*R,CY-y*R,hl.has(n)?7:5,0,7);ctx.fill()}}
  ctx.strokeStyle='rgba(55,214,196,.5)';ctx.lineWidth=3;ctx.beginPath();ctx.arc(CX,CY,R,0,7);ctx.stroke()}
 function loop(){if(target){rot[0]+=(target[0]-rot[0])*.08;rot[1]+=(target[1]-rot[1])*.08;if(Math.abs(target[0]-rot[0])+Math.abs(target[1]-rot[1])<.3)target=null}else if(auto&&!drag)rot[0]+=.12;draw();requestAnimationFrame(loop)}
-cv.addEventListener('pointerdown',e=>{drag=[e.clientX,e.clientY,rot[0],rot[1]];auto=false;target=null;cv.setPointerCapture(e.pointerId)});
+let clk=null;cv.addEventListener('pointerdown',e=>{clk=[e.clientX,e.clientY];drag=[e.clientX,e.clientY,rot[0],rot[1]];auto=false;target=null;cv.setPointerCapture(e.pointerId)});
 cv.addEventListener('pointermove',e=>{if(!drag)return;rot[0]=drag[2]+(e.clientX-drag[0])*.4;rot[1]=Math.max(-80,Math.min(80,drag[3]-(e.clientY-drag[1])*.4))});
-cv.addEventListener('pointerup',()=>{drag=null;setTimeout(()=>auto=true,4000)});
+function pip(r,x,y){let ins=false;for(let i=0,j=r.length-1;i<r.length;j=i++){const xi=r[i][0],yi=r[i][1],xj=r[j][0],yj=r[j][1];if(((yi>y)!==(yj>y))&&(x<(xj-xi)*(y-yi)/(yj-yi)+xi))ins=!ins}return ins}
+function pick(px,py){const b=cv.getBoundingClientRect();const x=((px-b.left)*cv.width/b.width-CX)/R,y=-((py-b.top)*cv.height/b.height-CY)/R;if(x*x+y*y>1)return null;const z=Math.sqrt(1-x*x-y*y),c1=Math.cos(rot[1]*D),s1=Math.sin(rot[1]*D);const sp=y*c1+z*s1,zc=z*c1-y*s1,lat=Math.asin(Math.max(-1,Math.min(1,sp)))/D;let lon=Math.atan2(x,zc)/D-rot[0];lon=((lon+540)%360)-180;
+ let best=null,bd=4;for(const[n,[lo,la]]of Object.entries(MARK)){const d=Math.hypot(lo-lon,la-lat);if(d<bd){bd=d;best=n}}if(best)return best;
+ for(const c of GEO){for(const r of c.rings){if(pip(r,lon,lat))return c.name}}return null}
+cv.addEventListener('pointerup',e=>{const moved=clk&&Math.hypot(e.clientX-clk[0],e.clientY-clk[1])>6;drag=null;setTimeout(()=>auto=true,4000);if(!moved&&clk){const n=pick(e.clientX,e.clientY);if(n&&openCountryFn)openCountryFn(n)}clk=null});
 function fly(t){target=[-t.lon,-t.lat*.8]}
 loop();
 async function loadJSON(p){const r=await fetch(p,{cache:'no-cache'});if(!r.ok)throw new Error(p+' '+r.status);return r.json()}
 async function boot(){
- let T,X,R,Vi;
- try{[T,X,R,Vi]=await Promise.all([loadJSON('data/trips.json'),loadJSON('data/experiences.json'),loadJSON('data/records.json'),loadJSON('data/visa.json')])}
+ let T,X,R,Vi,Cp;
+ try{[T,X,R,Vi,Cp]=await Promise.all([loadJSON('data/trips.json'),loadJSON('data/experiences.json'),loadJSON('data/records.json'),loadJSON('data/visa.json'),loadJSON('data/countries.json')])}
  catch(err){document.querySelector('header .lead').insertAdjacentHTML('afterend','<div class="note">Could not load the data files ('+esc(err.message)+'). Open this page from its web address, not as a local file.</div>');return}
- DATAINFO={trips:T,exp:X,rec:R,visa:Vi};
+ DATAINFO={trips:T,exp:X,rec:R,visa:Vi};Cp.forEach(c=>{PROFILES[c.country]=c});
  TRIPS=T.trips.map(t=>({c:t.code,n:t.name,d:t.days,lo:t.budgetLakh.low,hi:t.budgetLakh.high,lat:t.lat,lon:t.lon,m:t.bestMonths,tags:t.tags,ctry:t.countries,note:t.note,checked:t.lastChecked,src:t.sources}));
  EXP=X.items.map(e=>({n:e.name,t:e.type,p:e.priceInr,place:e.place,trip:e.trip,checked:e.lastChecked,src:e.sources}));
  REC=R.items.map(r=>[r.value,r.text,r.lastChecked,r.sources]);
  const CAT={visa_free:'f',on_arrival:'f',evisa:'e',conditional:'e',visa_required:'r',unknown:'c'};
  Vi.records.forEach(r=>{VREC[r.country]=r;V[r.country]=CAT[r.category]||'c';LEVTXT[r.country]=r.rule;r.easedBy.forEach(k=>{(LEV[k]=LEV[k]||[]).push(r.country)})});
  for(const t of TRIPS)for(const c of t.ctry)CITIES[c]=t.c;
- ALLC=[...new Set(TRIPS.flatMap(t=>t.ctry))].sort();
- document.getElementById('sCountries').textContent=new Set(TRIPS.flatMap(t=>t.ctry)).size;
+ ALLC=[...new Set([...TRIPS.flatMap(t=>t.ctry),...(T.hubs?T.hubs.countries:[]),...Cp.map(c=>c.country)])].sort();
+ document.getElementById('sCountries').textContent=ALLC.length;document.getElementById('sAtlasLead').textContent=ALLC.length;
  document.getElementById('sDays').textContent=TRIPS.reduce((a,t)=>a+t.d,0);
- const nC=new Set(TRIPS.flatMap(t=>t.ctry)).size;document.getElementById('sCountriesLead').textContent=nC;document.getElementById('sTripsLead').textContent=TRIPS.length;document.getElementById('sTrips').textContent=TRIPS.length;
+ document.getElementById('sNew').textContent=new Set(TRIPS.flatMap(t=>t.ctry)).size;document.getElementById('sTrips').textContent=TRIPS.length;
  const bl=TRIPS.reduce((a,t)=>a+t.lo,0),bh=TRIPS.reduce((a,t)=>a+t.hi,0);document.getElementById('sBudget').textContent='₹'+Math.round(bl)+' to '+Math.round(bh)+' lakh';
  // ---------- trips
  const fmt=n=>n.toFixed(1).replace(/\.0$/,'');
@@ -192,7 +148,7 @@ async function boot(){
  document.getElementById('planList').onchange=e=>{const c=e.target.dataset.c;e.target.checked?sel.add(c):sel.delete(c);const ts=TRIPS.filter(t=>sel.has(t.c));hl=new Set(ts.flatMap(t=>t.ctry));colorMode=null;if(ts.length)fly(ts[ts.length-1]);
   const d=ts.reduce((a,t)=>a+t.d,0),lo=ts.reduce((a,t)=>a+t.lo,0),hi=ts.reduce((a,t)=>a+t.hi,0),n=new Set(ts.flatMap(t=>t.ctry)).size;
   document.getElementById('planOut').innerHTML=`<p><b style="font-size:28px;color:var(--acc)">${n}</b> new countries · ${d} days<br>₹${fmt(lo)} to ${fmt(hi)} lakh</p>`;
-  document.getElementById('planBar').style.width=Math.min(100,n/90*100)+'%';document.getElementById('planHint').textContent=`${Math.max(0,100-n)} more countries to reach 100 on this plan alone. Add the ones you have already visited in My progress.`};
+  document.getElementById('planBar').style.width=Math.min(100,n)+'%';document.getElementById('planHint').textContent=`With these trips you add ${n} countries. Tick the ones you have visited in My progress to see how many remain to reach 100.`};
  // ---------- visa checker
  const COL={f:'#5ee08a',e:'#ffd166',r:'#ff6b6b',c:'#7e93d6',l:'#37d6c4'};
  const LABEL={f:'Visa-free or on arrival',e:'E-visa or conditional',r:'Visa needed in advance',l:'Eased by a visa you hold'};
@@ -201,7 +157,7 @@ async function boot(){
  function visaStatus(n){return eased(n)?'l':(V[n]||'c')}
  function renderVisa(){const q=document.getElementById('vSearch').value.toLowerCase();colorMode=n=>{const s=visaStatus(n);return V[n]||eased(n)?COL[s]:null};hl=new Set();
   document.getElementById('visaLegend').innerHTML=Object.entries(LABEL).map(([k,v])=>`<span><i style="background:${COL[k]}"></i>${v}</span>`).join('');
-  document.getElementById('visaList').innerHTML=ALLC.filter(n=>n.toLowerCase().includes(q)).map(n=>{const s=visaStatus(n);const r=VREC[n]||{};return`<div class="row" style="flex-wrap:wrap"><span class="dot" style="background:${COL[s]}"></span><b>${esc(n)}</b><span class="tag" style="margin-left:6px">${esc(r.status||'unknown')}</span><span style="color:var(--mute);margin-left:auto;text-align:right;max-width:62%">${eased(n)?'<b style="color:var(--acc2)">Eased by your visa.</b> ':''}${esc(r.rule||LABEL[V[n]||'e'])}</span><span class="meta" style="flex-basis:100%;font-size:11px;padding-left:20px">Checked ${esc(r.lastChecked||'')} · ${srcLinks(r.sources)}</span></div>`}).join('')}
+  document.getElementById('visaList').innerHTML=ALLC.filter(n=>n.toLowerCase().includes(q)).map(n=>{const s=visaStatus(n);const r=VREC[n]||{};return`<div class="row" style="flex-wrap:wrap"><span class="dot" style="background:${COL[s]}"></span><b>${esc(n)}</b><i class="ibtn" data-info="${esc(n)}" title="Country details">i</i><span class="tag" style="margin-left:6px">${esc(r.status||'unknown')}</span><span style="color:var(--mute);margin-left:auto;text-align:right;max-width:62%">${eased(n)?'<b style="color:var(--acc2)">Eased by your visa.</b> ':''}${esc(r.rule||LABEL[V[n]||'e'])}</span><span class="meta" style="flex-basis:100%;font-size:11px;padding-left:20px">Checked ${esc(r.lastChecked||'')} · ${srcLinks(r.sources)}</span></div>`}).join('')}
  document.getElementById('visa').addEventListener('input',renderVisa);renderVisa();
  // ---------- experience finder
  let expT='All';const et=['All',...new Set(EXP.map(e=>e.t))];document.getElementById('expFilter').innerHTML=et.map(t=>`<span class="chip${t==='All'?' on':''}" data-t="${t}">${t}</span>`).join('');
@@ -215,12 +171,59 @@ async function boot(){
  // ---------- records
  document.getElementById('recGrid').innerHTML=REC.map(r=>`<div class="card"><b>${r[0]}</b><span class="meta">${r[1]}</span><div class="meta" style="font-size:11px">Checked ${r[2]}</div></div>`).join('');
  // ---------- tracker
- let mine=new Set(JSON.parse(localStorage.getItem('mine100')||'[]'));const POOL=[...new Set([...ALLC,...Object.keys(MARK),'Nepal','Thailand','Malaysia','Singapore','South Korea','Canada','USA','UAE','Georgia','Germany','Luxembourg','Belgium','Netherlands','Qatar'])].sort();
- function renderTick(){document.getElementById('tickGrid').innerHTML=POOL.map(n=>`<button class="${mine.has(n)?'on':''}" data-n="${n}">${n}</button>`).join('');const k=mine.size;document.getElementById('progN').textContent=k;document.getElementById('prog').style.setProperty('--p',k);document.getElementById('progMsg').textContent=k>=100?'You did it!':`${100-k} to go.`;localStorage.setItem('mine100',JSON.stringify([...mine]))}
- document.getElementById('tickGrid').onclick=e=>{const n=e.target.dataset.n;if(!n)return;mine.has(n)?mine.delete(n):mine.add(n);renderTick()};document.getElementById('resetTick').onclick=()=>{mine=new Set();renderTick()};renderTick();
+ const HUBS=['Malaysia','Singapore','Nepal','Thailand','South Korea','Canada','United States of America','United Arab Emirates','Georgia','Germany','Luxembourg','Belgium','Netherlands','Qatar'];
+ const POOL=[...new Set([...ALLC,...HUBS])].sort();
+ let mine=new Set(JSON.parse(localStorage.getItem('mine100')||'[]').filter(n=>POOL.includes(n)));
+ const REGION=n=>{const r=(PROFILES[n]&&PROFILES[n].region)||'';return r||'Other'};
+ const regs=[...new Set(POOL.map(REGION))].sort();document.getElementById('tickRegion').innerHTML='<option value="">All regions</option>'+regs.map(r=>`<option>${esc(r)}</option>`).join('');
+ function route100(){const need=Math.max(0,100-mine.size);const box=document.getElementById('routeTo100');
+  if(need===0){box.innerHTML='<p><b style="color:var(--ok)">You have reached 100.</b> Use the visa checker to plan the next ones.</p>';return}
+  let have=new Set(mine),left=need,picks=[],cost=[0,0],days=0;const used=new Set();
+  while(left>0){let best=null;for(const t of TRIPS){if(used.has(t.c))continue;const nw=t.ctry.filter(c=>!have.has(c)).length;if(!nw)continue;const sc=nw/((t.lo+t.hi)/2);if(!best||sc>best.sc)best={t,nw,sc}}
+   if(!best)break;used.add(best.t.c);picks.push(best);best.t.ctry.forEach(c=>have.add(c));left-=best.nw;cost[0]+=best.t.lo;cost[1]+=best.t.hi;days+=best.t.d}
+  box.innerHTML=`<b>Cheapest way to the last ${need}</b><p class="meta" style="margin:4px 0 8px">Trips picked by new countries per rupee, given what you have ticked.</p>`+picks.map(p=>`<div class="row"><b>${esc(p.t.c)}</b> ${esc(p.t.n)}<span style="margin-left:auto;color:var(--mute)">+${p.nw} · ₹${fmt(p.t.lo)}-${fmt(p.t.hi)}L</span></div>`).join('')+(left>0?`<p class="meta">The atlas runs out of new countries ${left} short of 100. More countries are coming.</p>`:`<p class="meta" style="margin-top:8px">${days} days · ₹${fmt(cost[0])} to ${fmt(cost[1])} lakh in total</p>`)}
+ function renderTick(){const q=document.getElementById('tickSearch').value.toLowerCase(),rg=document.getElementById('tickRegion').value;
+  document.getElementById('tickGrid').innerHTML=POOL.filter(n=>n.toLowerCase().includes(q)&&(!rg||REGION(n)===rg)).map(n=>`<button class="${mine.has(n)?'on':''}" data-n="${esc(n)}">${esc(n)}<i class="ibtn" data-info="${esc(n)}" title="Country details">i</i></button>`).join('')||'<span class="meta">No match.</span>';
+  const k=mine.size;document.getElementById('progN').textContent=k;document.getElementById('prog').style.setProperty('--p',Math.min(100,k));
+  document.getElementById('remN').textContent=Math.max(0,100-k);document.getElementById('atlasN').textContent=POOL.length;
+  document.getElementById('progMsg').textContent=k>=100?'You did it.':(k?`${100-k} to go. ${Math.round(k)}% there.`:'Tick the countries you have visited to start.');
+  localStorage.setItem('mine100',JSON.stringify([...mine]));route100()}
+ document.getElementById('tickGrid').onclick=e=>{if(e.target.dataset.info){e.stopPropagation();openCountry(e.target.dataset.info);return}const n=e.target.dataset.n;if(!n)return;mine.has(n)?mine.delete(n):mine.add(n);renderTick()};
+ document.getElementById('resetTick').onclick=()=>{mine=new Set();renderTick()};
+ document.getElementById('exportTick').onclick=()=>{const t=[...mine].sort().join(', ');navigator.clipboard&&navigator.clipboard.writeText(t);document.getElementById('progMsg').textContent='Copied '+mine.size+' countries.'};
+ document.getElementById('tickSearch').oninput=renderTick;document.getElementById('tickRegion').onchange=renderTick;
+ renderTick();
  document.getElementById('globeLegend').innerHTML='<span class="pill">Orange: your trip</span><span class="pill">Visa colours appear when you use the checker</span>';
 
-  document.getElementById('dataStamp').textContent='Data last checked '+Vi.lastChecked+'. '+Vi.about;
+ 
+ // ---------- country panel
+ const CATL={visa_free:'Visa-free',on_arrival:'Visa on arrival',evisa:'E-visa',conditional:'Conditional: depends on a visa you hold',visa_required:'Visa needed in advance',unknown:'Check the rule'};
+ function openCountry(n){const p=PROFILES[n],v=VREC[n],tr=TRIPS.find(t=>t.ctry.includes(n));const box=document.getElementById('cbody');
+  if(!p&&!v){box.innerHTML=`<h2>${esc(n)}</h2><p class="meta">This country is not in the atlas yet. More are coming.</p>`}else{
+  const mo=(p&&p.bestMonths)||[];const els=[];
+  els.push(`<h2>${esc(n)}</h2><p class="meta">${esc((p&&p.region)||'')}${p&&p.capital?' · capital '+esc(p.capital):''}${tr?` · <a href="#trips" data-trip="${esc(tr.c)}">Trip ${esc(tr.c)}: ${esc(tr.n)}</a>`:(p&&p.trip==='H'?' · visited hub':'')}</p>`);
+  if(v)els.push(`<h3>Visa for an Indian passport</h3><p><span class="tag">${esc(CATL[v.category]||'')}</span><span class="tag">${esc(v.status)}</span></p><p>${esc(v.rule)}</p>${v.easedBy&&v.easedBy.length?`<p class="meta">Eased by: ${v.easedBy.map(k=>esc((DATAINFO.visa.visaKeys||{})[k]||k)).join(', ')}.</p>`:''}<p class="meta" style="font-size:12px">Checked ${esc(v.lastChecked)} · ${srcLinks(v.sources)}<br>${esc(v.note||'')}</p>`);
+  if(p&&p.places&&p.places.length)els.push(`<h3>Places to visit</h3><ul>${p.places.map(x=>`<li><b>${esc(x.name)}</b>${x.note?': '+esc(x.note):''}${x.fee?` <span class="meta">(${esc(x.fee)})</span>`:''}</li>`).join('')}</ul>`);
+  if(mo.length)els.push(`<h3>Best months for a low budget</h3><div class="mo">${MN.map((m,i)=>`<div class="${mo.includes(i+1)?'hi':''}">${m}</div>`).join('')}</div>`);
+  if(p&&p.dailyBudgetInr)els.push(`<h3>Typical daily budget</h3><p>${rs(p.dailyBudgetInr.low)} to ${rs(p.dailyBudgetInr.high)} per person for a mid-range stay, food and local transport. Estimate.</p>`);
+  if(p&&p.transport)els.push(`<h3>Getting there and around</h3><p>${esc(p.transport)}</p>`);
+  if(p&&p.experiences&&p.experiences.length)els.push(`<h3>Unusual experiences</h3><ul>${p.experiences.map(x=>`<li><b>${esc(x.name)}</b>${x.note?': '+esc(x.note):''}${x.priceInr?` <span class="meta">(about ${rs(x.priceInr)})</span>`:''}</li>`).join('')}</ul>`);
+  if(p&&p.cautions&&p.cautions.length)els.push(`<h3>Good to know</h3><ul>${p.cautions.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`);
+  if(p&&p.neighbours&&p.neighbours.length)els.push(`<h3>Nearby countries by land or ferry</h3><p>${p.neighbours.map(x=>`<button class="nbtn" data-go="${esc(x)}">${esc(x)}</button>`).join('')}</p>`);
+  els.push(`<p style="margin-top:16px"><button class="btn ghost" data-mark="${esc(n)}">${mine.has(n)?'Remove from my visited list':'Mark as visited'}</button></p>`);
+  if(p)els.push(`<p class="meta" style="font-size:11px">Profile checked ${esc(p.lastChecked)} (${esc(p.confidence||'')}) · ${srcLinks(p.sources)}. Prices and hours are estimates. Confirm with official sources before booking.</p>`);
+  box.innerHTML=els.join('')}
+  document.getElementById('cmodal').classList.add('on');if(p&&p.lat)fly(p);const pp=tr||null;}
+ openCountryFn=openCountry;
+ document.getElementById('cclose').onclick=()=>document.getElementById('cmodal').classList.remove('on');
+ document.getElementById('cmodal').onclick=e=>{if(e.target.id==='cmodal')e.currentTarget.classList.remove('on')};
+ document.getElementById('cbody').onclick=e=>{const g=e.target.dataset.go,m=e.target.dataset.mark,t=e.target.dataset.trip;if(g){openCountry(g);document.getElementById('csheet').scrollIntoView({block:'start'})}if(m){mine.has(m)?mine.delete(m):mine.add(m);renderTick();openCountry(m)}if(t){e.preventDefault();document.getElementById('cmodal').classList.remove('on');const tt=TRIPS.find(x=>x.c===t);hl=new Set(tt.ctry);colorMode=null;fly(tt);document.getElementById('trips').scrollIntoView({behavior:'smooth'})}};
+ document.getElementById('visaList').addEventListener('click',e=>{const n=e.target.dataset.info;if(n)openCountry(n)});
+ document.addEventListener('keydown',e=>{if(e.key==='Escape')document.getElementById('cmodal').classList.remove('on')});
+ document.getElementById('countryList').innerHTML=ALLC.map(c=>`<option value="${esc(c)}">`).join('');
+ const ns=document.getElementById('navSearch');const goSearch=()=>{const q=ns.value.trim().toLowerCase();if(!q)return;const hit=ALLC.find(c=>c.toLowerCase()===q)||ALLC.find(c=>c.toLowerCase().startsWith(q))||ALLC.find(c=>c.toLowerCase().includes(q));if(hit){openCountry(hit);ns.value=''}};
+ ns.addEventListener('change',goSearch);ns.addEventListener('keydown',e=>{if(e.key==='Enter')goSearch()});
+ document.getElementById('dataStamp').textContent='Data last checked '+Vi.lastChecked+'. '+Vi.about;
 }
 boot();
 </script></body></html>

@@ -2,7 +2,7 @@
 
 A static, interactive atlas for Indian passport holders: low-budget multi-country trips, visa rules, best months, day-by-day plans and unusual experiences.
 
-**Status:** early version. The visa checker covers 101 countries across 18 trips; the experiences and records lists are still partial. Prices, visa rules and opening hours are estimates from research on 16 October 2026 and must be confirmed with official sources before booking. This is not legal, visa or travel advice.
+**Status:** early version. The atlas covers 115 countries: the 101 that the 18 trips add, plus 14 popular hub countries. Each has a visa rule for an Indian passport with sources and a check date, and a profile with places, best months, budget, transport and cautions. Experiences and records lists are still partial. Prices, visa rules and opening hours are estimates from research on 16 October 2026 and must be confirmed with official sources before booking. This is not legal, visa or travel advice.
 
 ## Run it
 
@@ -19,3 +19,7 @@ Map shapes come from Natural Earth via the `world-atlas` package (public domain)
 ## Contributing
 
 Issues and pull requests that correct a fact should include an official source link.
+
+## Vision
+
+The goal today is to help people who dream of visiting 100 countries. The aim is a one-stop planner for anyone travelling from India to any country in the world: visa requirements, places to visit, itineraries, best months, budgets and practical tips, all with sources and a last-checked date. Countries are added a few at a time.

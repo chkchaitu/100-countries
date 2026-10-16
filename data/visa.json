@@ -1559,6 +1559,248 @@
    ],
    "lastChecked": "2026-10-16",
    "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Malaysia",
+   "name": "Malaysia",
+   "trip": "H",
+   "category": "visa_free",
+   "rule": "Indian ordinary passport: visa exempt for up to 30 days (tourism, business, social visit, transit) until 31 Dec 2026. Needs passport valid 6 months, return ticket, accommodation proof. Malaysia Digital Arrival Card (MDAC) must be filed online within 3 days before landing, free. Work or study needs a visa. Rule ends 31 Dec 2026 unless renewed: trips spanning January 2027 are UNCERTAIN; a paid eVisa fallback (RM 100 reported by a secondary site) is UNVERIFIED.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://www.kln.gov.my/web/ind_new-delhi/requirement_foreigner",
+    "https://www.ey.com/en_gl/technical/tax-alerts/malaysia-extends-visa-exemption-period-for-india-and-china-nationals",
+    "https://www.visa-requirements.io/visa-requirements/malaysia",
+    "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Singapore",
+   "name": "Singapore",
+   "trip": "H",
+   "category": "evisa",
+   "rule": "ICA lists India among nationalities that need a valid entry visa; apply online through the ICA Entry Visa e-service via a Singapore based authorised agent; SG Arrival Card (SGAC) free, submit within 3 days before arrival. Stay is set by e-Pass at the checkpoint (commonly 30 days, UNVERIFIED). Visa fee about SGD 30 to 40 plus agent charge, UNVERIFIED. No easing found for a US, UK, Schengen or Canada visa, UNVERIFIED. Transit without visa rules not checked.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+    "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/sg-arrival-card",
+    "https://visament.com/blog/singapore-arrival-card"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Nepal",
+   "name": "Nepal",
+   "trip": "H",
+   "category": "visa_free",
+   "rule": "No visa for Indian citizens. Carry a valid passport or Election Commission voter ID card (government photo ID also accepted per old MHA guidance); persons above 65 and below 15 exempt from ID with other photo document; air entry requires ID. No fee. Stay limit and registration after long stays UNVERIFIED. Nepal bans larger INR notes (INR 200 and above per older guidance, UNVERIFIED): carry INR 100 notes or less, or use cards, UPI is partly usable.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://www.mha.gov.in/PDF_Other/AnnexI_01022018.pdf",
+    "https://www.goindigo.in/information/visa-information/nepal-np-visa.html",
+    "https://www.magicalnepal.com/blog/nepal-visa-requirements"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Thailand",
+   "name": "Thailand",
+   "trip": "H",
+   "category": "visa_free",
+   "rule": "From 15 Sep 2026 Indian ordinary passport holders get 30 days visa free for tourism (previously 60 days). Extension once by up to 30 days at immigration, fee reported 1,900 THB. Visa exempt land border entries capped at 2 per calendar year. Entered before 15 Sep keeps the 60 days stamped. Thailand Digital Arrival Card (TDAC) free, submit within 3 days before arrival (beware copycat sites). Visa on arrival no longer applies to India. Onward ticket and funds can be asked.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://www.visa-requirements.io/visa-requirements/thailand/from/indian-passport-holders/visa-exemption-2026",
+    "https://visasnews.com/en/thailand-introduces-new-visa-free-and-visa-on-arrival-rules-on-september-15-2026",
+    "https://www.envoyglobal.com/news-alert/thailand-reduces-visa-exempt-stay-periods-starting-september-2026"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "South Korea",
+   "name": "South Korea",
+   "trip": "H",
+   "category": "visa_required",
+   "rule": "Indian ordinary passport: Korean short stay visa (C-3-9) needed. K-ETA exemption (to 31 Dec 2026) covers only 22 listed jurisdictions (US, Canada, Singapore, UK, Germany etc.), not India; K-ETA is for visa free nationals only. Visa fee INR 3,600 single entry to 90 days, INR 8,100 multiple (effective 1 Aug 2026, via visa application centre, plus service charge about INR 1,100). Processing about 10 working days. Group tourist visa route also exists. e-Arrival Card online before arrival. Easing by US, UK, Schengen or Canada visa for Indians: UNVERIFIED, not found. Visa free Jeju not available to Indians (UNVERIFIED).",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://www.visaforkorea-ce.com/visa-type.html",
+    "https://btwvisas.com/visa-guide/south-korea-visa",
+    "https://globaltaxnews.ey.com/news/2026-0101-korea-extends-temporary-electronic-travel-authorization-exemption-until-31-december-2026",
+    "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=251923"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Canada",
+   "name": "Canada",
+   "trip": "H",
+   "category": "visa_required",
+   "rule": "Indian citizens need a Temporary Resident Visa (visitor visa), CAD 100 plus biometrics CAD 85 (valid 10 years; family cap CAD 170); stay up to 6 months; processing reported about 3 to 8 weeks (secondary sites). eTA is not available to Indian passport holders: the conditional eTA list (valid US visa or recent Canadian visa) covers 17 countries and does not include India, so a valid US visa does NOT waive the Canadian visa for Indians. Single and multiple entry visas decided by officer; may need ITRs and funds proof.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://immigration.ca/electronic-travel-authorization",
+    "https://www.canadavisa.com/electronic-travel-authorization-eta-canadian-immigration-visitor-visa-exemptions.html",
+    "https://www.visa-requirements.io/visa-requirements/canada/from/indian-passport-holders/visitor-visa-2026",
+    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "United States of America",
+   "name": "United States of America",
+   "trip": "H",
+   "category": "visa_required",
+   "rule": "B1/B2 visitor visa needed (stay set by CBP up to 6 months). MRV application fee about USD 185 (not re-verified today, UNVERIFIED); a new USD 250 Visa Integrity Fee was enacted 4 Jul 2025 and collection start was uncertain through 2026 (UNCERTAIN, check consulate). Visa bond pilot (USD 5,000 to 15,000) covers designated countries; India not listed in snippets found, UNVERIFIED; the programme was formalised by a Federal Register rule dated 3 Aug 2026. Apply in country of residence/nationality; interview waiver rules tightened (UNVERIFIED). US consular exchange rate 98 INR per USD from 25 May 2026. ESTA not available for Indians. Wait times for appointments vary.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://in.usembassy.gov/visas",
+    "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program",
+    "https://visasnews.com/en/new-250-visa-integrity-fee-what-it-means-for-b1-b2-applicants",
+    "https://www.ellis.com/resources/visa-integrity-fee"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "United Arab Emirates",
+   "name": "United Arab Emirates",
+   "trip": "H",
+   "category": "conditional",
+   "rule": "Standard route: pre-arranged tourist e-visa (30 days single entry about USD 90 via airline/agent, 60 days about USD 177 per Emirates table, 96 hour transit USD 49, 48 hour USD 10). Conditional visa on arrival for Indian ordinary passport holders: 14 days AED 100, extendable once 14 days for AED 250; or 60 day AED 250 non extendable (Envoy), requires valid US visa or green card, UK residence permit or EU residence permit (official GDRFA/UAE embassy wording is green card or residence permit; some secondary sites say visa), documents valid 6 months, confirmed return ticket. Canada, Singapore, Japan, Korea, Australia, NZ: only residence permit qualifies, not a visitor visa. Schengen visa only: UNCERTAIN, probably does not qualify; confirm with airline. Indians with such eligibility may also apply online pre-arrival (GDRFA service fee AED 253).",
+   "easedBy": [
+    "US",
+    "UK",
+    "SC"
+   ],
+   "status": "probable",
+   "sources": [
+    "https://www.uae-embassy.org/visas-for-non-us-citizens",
+    "https://gdrfad.gov.ae/en/services/727c91b1-52eb-11ea-0320-0050569629e8",
+    "https://www.emirates.com/us/english/before-you-fly/visa-passport-information/uae-visa-information",
+    "https://www.envoyglobal.com/news-alert/united-arab-emirates-expands-visa-on-arrival-eligibility-for-nationals-of-six-countries"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Georgia",
+   "name": "Georgia",
+   "trip": "H",
+   "category": "evisa",
+   "rule": "Indian citizens need a visa unless they hold a valid visa or residence permit from US, UK, Schengen, Canada (and Australia, Japan, Korea, NZ, Israel, Ireland, GCC states per secondary lists): then visa free up to 90 days in any 180 days. Qualifying visa must be valid at entry. Otherwise eVisa at evisa.gov.ge: consular fee from USD 20 plus DuVerify step USD 15 (total about USD 35; secondary source), minimum about 5 working days. From 1 Jan 2026 tourists must hold health/accident insurance (minimum cover reported inconsistently: GEL 30,000 vs USD 30,000, UNCERTAIN).",
+   "easedBy": [
+    "US",
+    "SC",
+    "UK",
+    "CA"
+   ],
+   "status": "probable",
+   "sources": [
+    "https://btwvisas.com/visa-guide/georgia-visa",
+    "https://www.traveldoc.aero/en/news-travel-guides/travel-guides/the-complete-georgia-visa-breakdown-visa-free-evisa-immigration-visas",
+    "https://www.goindigo.in/information/visa-information/georgia-ge-visa.html",
+    "https://www.godigit.com/international-travel-insurance/visa/e-visa-countries-for-indians"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Germany",
+   "name": "Germany",
+   "trip": "H",
+   "category": "visa_required",
+   "rule": "Schengen short stay (type C) visa required, up to 90 days in any 180 days. Fee EUR 90 (about INR 9,590) plus visa centre service charge about INR 400 to 3,125 and travel insurance (about EUR 30,000 cover). Apply 6 months to 15 days before travel at the consulate or VFS/other centre; apply at the country of main destination. A US, UK or Canada visa does NOT waive the Schengen visa for Indians. ETIAS does not apply to Indians (visa required nationals). EES biometric entry system live since 10 Apr 2026 per a secondary source (probable).",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en",
+    "https://www.atlys.com/blog/schengen-visa-fees-2026",
+    "https://www.atlys.com/blog/schengen-visa",
+    "https://newdelhi.mae.lu/en/service_citoyens/visa-immigration/short-term-schengen-visa.html"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Luxembourg",
+   "name": "Luxembourg",
+   "trip": "H",
+   "category": "visa_required",
+   "rule": "Schengen short stay (type C) visa required, up to 90 days in any 180 days. Fee EUR 90 (about INR 9,590) plus visa centre service charge about INR 400 to 3,125 and travel insurance (about EUR 30,000 cover). Apply 6 months to 15 days before travel at the consulate or VFS/other centre; apply at the country of main destination. A US, UK or Canada visa does NOT waive the Schengen visa for Indians. ETIAS does not apply to Indians (visa required nationals). EES biometric entry system live since 10 Apr 2026 per a secondary source (probable). Luxembourg embassy page lists the fee as EUR 90 (INR 9,900 at the embassy rate).",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en",
+    "https://www.atlys.com/blog/schengen-visa-fees-2026",
+    "https://www.atlys.com/blog/schengen-visa",
+    "https://newdelhi.mae.lu/en/service_citoyens/visa-immigration/short-term-schengen-visa.html"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Belgium",
+   "name": "Belgium",
+   "trip": "H",
+   "category": "visa_required",
+   "rule": "Schengen short stay (type C) visa required, up to 90 days in any 180 days. Fee EUR 90 (about INR 9,590) plus visa centre service charge about INR 400 to 3,125 and travel insurance (about EUR 30,000 cover). Apply 6 months to 15 days before travel at the consulate or VFS/other centre; apply at the country of main destination. A US, UK or Canada visa does NOT waive the Schengen visa for Indians. ETIAS does not apply to Indians (visa required nationals). EES biometric entry system live since 10 Apr 2026 per a secondary source (probable).",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en",
+    "https://www.atlys.com/blog/schengen-visa-fees-2026",
+    "https://www.atlys.com/blog/schengen-visa"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Netherlands",
+   "name": "Netherlands",
+   "trip": "H",
+   "category": "visa_required",
+   "rule": "Schengen short stay (type C) visa required, up to 90 days in any 180 days. Fee EUR 90 (about INR 9,590) plus visa centre service charge about INR 400 to 3,125 and travel insurance (about EUR 30,000 cover). Apply 6 months to 15 days before travel at the consulate or VFS/other centre; apply at the country of main destination. A US, UK or Canada visa does NOT waive the Schengen visa for Indians. ETIAS does not apply to Indians (visa required nationals). EES biometric entry system live since 10 Apr 2026 per a secondary source (probable).",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en",
+    "https://www.atlys.com/blog/schengen-visa-fees-2026",
+    "https://www.atlys.com/blog/schengen-visa"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Qatar",
+   "name": "Qatar",
+   "trip": "H",
+   "category": "visa_free",
+   "rule": "India is NOT on the Visit Qatar list of nationalities who must pay or apply for a Hayya visa; per the official visitqatar.com text, citizens of over 102 countries get free visa on arrival (visa waiver up to 30 days) and a hotel booking confirmation is needed. Passport valid 3 months minimum, return ticket, confirmed hotel booking through Discover Qatar/Qatar approved. Optional Hayya A1 e-visa QAR 100 (about INR 2,600) in 24 to 48 hours; extension 30 days QAR 100 via MOI; overstay about QAR 200 per day. Secondary site states 30 day visa free for Indians with hotel booking.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://visitqatar.com/intl-en/plan-your-trip/visas",
+    "https://hayya.qa/en/faq",
+    "https://btwvisas.com/visa-guide/qatar-tourist-visa-",
+    "https://qic.online/en/blog/exploring-qatar/hayya-tourist-visa-qatar"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
   }
  ]
 }

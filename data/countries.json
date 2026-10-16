@@ -1,0 +1,7666 @@
+[
+ {
+  "country": "Indonesia",
+  "trip": "A",
+  "region": "Asia",
+  "capital": "Jakarta",
+  "places": [
+   {
+    "name": "Borobudur and Prambanan",
+    "note": "Near Yogyakarta",
+    "fee": "about ₹2,000 to ₹2,500 each for foreigners"
+   },
+   {
+    "name": "Bali temples",
+    "note": "Listed in the trip A details",
+    "fee": ""
+   },
+   {
+    "name": "Barelang Bridge",
+    "note": "Batam day trip from Singapore",
+    "fee": ""
+   },
+   {
+    "name": "Nagoya Hill Mall",
+    "note": "Batam market stop",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   3,
+   10,
+   11,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 3500,
+   "high": 6000
+  },
+  "transport": "In trip A it is a Batam day trip by ferry from HarbourFront Ferry Terminal in Singapore (about 50 min, about ₹1,900 to ₹3,000 plus port fees each way). Java and Bali are extensions.",
+  "experiences": [
+   {
+    "name": "Mount Bromo sunrise, Ijen blue fire crater, Komodo dragons",
+    "note": "If you extend to Java or Bali",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Not on the Batam day trip: Java and Bali need extra days",
+   "Check the e visa rule before you go"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Indonesia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Vietnam",
+  "trip": "A",
+  "region": "Asia",
+  "capital": "Hanoi",
+  "places": [
+   {
+    "name": "Ha Long Bay",
+    "note": "Cruises ₹5,000 to ₹15,000",
+    "fee": "ticket about ₹1,000"
+   },
+   {
+    "name": "Hoi An old town",
+    "note": "",
+    "fee": "old town ticket about ₹400"
+   },
+   {
+    "name": "Hue Imperial City",
+    "note": "",
+    "fee": "about ₹700"
+   },
+   {
+    "name": "War Remnants Museum",
+    "note": "Ho Chi Minh City",
+    "fee": "about ₹300"
+   },
+   {
+    "name": "Cu Chi Tunnels",
+    "note": "Half day from Ho Chi Minh City",
+    "fee": ""
+   },
+   {
+    "name": "Ben Thanh Market",
+    "note": "Ho Chi Minh City",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   3,
+   10,
+   11,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 3500,
+   "high": 6000
+  },
+  "transport": "Fly Singapore to Ho Chi Minh City (about 2h, about ₹4,000 to ₹7,000), then bus to Phnom Penh (about 6h to 7h, about ₹800 to ₹1,200). Hanoi to Ho Chi Minh City by train is about ₹3,500 to ₹6,000 and 30 hours.",
+  "experiences": [
+   {
+    "name": "Kayak among the Ha Long or Lan Ha Bay karsts",
+    "note": "",
+    "priceInr": 2000
+   },
+   {
+    "name": "Reunification Express",
+    "note": "About 32 to 36 hours of coast",
+    "priceInr": null
+   },
+   {
+    "name": "Nha Trang boat dive or Discover Scuba",
+    "note": "Rainbow Divers Vietnam, about US$50 a dive",
+    "priceInr": 4750
+   }
+  ],
+  "cautions": [
+   "Central coast typhoons Sep to Nov",
+   "Tet (Jan or Feb) is a travel crush"
+  ],
+  "neighbours": [
+   "Cambodia"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vietnam"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Cambodia",
+  "trip": "A",
+  "region": "Asia",
+  "capital": "Phnom Penh",
+  "places": [
+   {
+    "name": "Angkor Wat",
+    "note": "Sunrise, Bayon, Ta Prohm",
+    "fee": "pass about US$37 for one day, US$62 for three, US$72 for seven"
+   },
+   {
+    "name": "Royal Palace",
+    "note": "Phnom Penh",
+    "fee": "about ₹850"
+   },
+   {
+    "name": "Tuol Sleng Genocide Museum",
+    "note": "Phnom Penh",
+    "fee": "about ₹850"
+   },
+   {
+    "name": "Pub Street night market",
+    "note": "Siem Reap",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   3,
+   10,
+   11,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 3500,
+   "high": 6000
+  },
+  "transport": "Bus Ho Chi Minh City to Phnom Penh (about 6h to 7h, about ₹800 to ₹1,200), then bus to Siem Reap (about 6h, about ₹800 to ₹1,200). Fly Siem Reap to Bangkok (about 1h, about ₹4,000 to ₹7,000).",
+  "experiences": [
+   {
+    "name": "Angkor sunrise by bicycle",
+    "note": "Hire about ₹300 to ₹500",
+    "priceInr": 300
+   },
+   {
+    "name": "Zipline over the Angkor forest",
+    "note": "",
+    "priceInr": 4500
+   },
+   {
+    "name": "Bamboo train at Battambang",
+    "note": "Check it is running",
+    "priceInr": null
+   },
+   {
+    "name": "Ethical elephant sanctuary walk, Mondulkiri",
+    "note": "Elephant Valley Project, no riding, best about Nov to Apr",
+    "priceInr": 9500
+   }
+  ],
+  "cautions": [
+   "Khmer New Year (13 to 15 Apr) raises prices and shuts some places",
+   "Check the e visa rule"
+  ],
+  "neighbours": [
+   "Vietnam"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cambodia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Laos",
+  "trip": "A",
+  "region": "Asia",
+  "capital": "Vientiane",
+  "places": [
+   {
+    "name": "Luang Prabang",
+    "note": "Alms giving from a respectful distance",
+    "fee": ""
+   },
+   {
+    "name": "Kuang Si Falls",
+    "note": "",
+    "fee": "about ₹200 to ₹300"
+   },
+   {
+    "name": "Pha That Luang",
+    "note": "Vientiane",
+    "fee": ""
+   },
+   {
+    "name": "Patuxai",
+    "note": "Vientiane",
+    "fee": ""
+   },
+   {
+    "name": "Mount Phousi",
+    "note": "Sunset, Luang Prabang",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   3,
+   10,
+   11,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 3500,
+   "high": 6000
+  },
+  "transport": "Cross the Friendship Bridge by shuttle bus from Nong Khai to Vientiane (about 30 min to 1h, about ₹100 to ₹300). The fast train Vientiane to Luang Prabang takes about 2h (about ₹2,500 to ₹3,500).",
+  "experiences": [
+   {
+    "name": "Tubing and kayaking at Vang Vieng",
+    "note": "",
+    "priceInr": 1500
+   },
+   {
+    "name": "Gibbon Experience in Bokeo",
+    "note": "3 day Classic, a detour, book ahead",
+    "priceInr": 26000
+   },
+   {
+    "name": "Elephant conservation half day walk",
+    "note": "MandaLao, Luang Prabang, no riding",
+    "priceInr": 14300
+   },
+   {
+    "name": "Mekong slow boat",
+    "note": "Huay Xai to Luang Prabang",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Lao New Year (13 to 15 Apr) raises prices",
+   "Check the e visa rule"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Laos"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Brunei",
+  "trip": "A",
+  "region": "Asia",
+  "capital": "Bandar Seri Begawan",
+  "places": [
+   {
+    "name": "Omar Ali Saifuddien Mosque",
+    "note": "Bandar Seri Begawan",
+    "fee": "free"
+   },
+   {
+    "name": "Kampong Ayer water village",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Royal Regalia Museum",
+    "note": "",
+    "fee": "free"
+   }
+  ],
+  "bestMonths": [
+   3,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 7000,
+   "high": 9500
+  },
+  "transport": "Take the bus from Miri in Sarawak to Bandar Seri Begawan (3 to 4 hours including the border, about ₹1,000 to ₹2,000) instead of a flight of about ₹5,000 to ₹9,000.",
+  "experiences": [
+   {
+    "name": "Ulu Temburong rainforest canopy walk",
+    "note": "By longboat, as a tour",
+    "priceInr": 6000
+   },
+   {
+    "name": "Proboscis monkey river cruise",
+    "note": "From Bandar Seri Begawan",
+    "priceInr": 1500
+   }
+  ],
+  "cautions": [
+   "Visa required before travel (Brunei High Commission, New Delhi)",
+   "Few budget hotels: expect ₹6,000 to ₹8,000 a night",
+   "Sarawak and Brunei are wettest Nov to Feb"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brunei"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Sri Lanka",
+  "trip": "B",
+  "region": "Asia",
+  "capital": "Sri Jayawardenepura Kotte",
+  "places": [
+   {
+    "name": "Sigiriya Rock",
+    "note": "Early start",
+    "fee": "about US$35"
+   },
+   {
+    "name": "Temple of the Tooth",
+    "note": "Kandy",
+    "fee": "about ₹550"
+   },
+   {
+    "name": "Gangaramaya Temple",
+    "note": "Colombo",
+    "fee": ""
+   },
+   {
+    "name": "Galle Face Green",
+    "note": "Colombo, sunset",
+    "fee": ""
+   },
+   {
+    "name": "Yala safari jeep",
+    "note": "",
+    "fee": "₹6,000 to ₹9,000"
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   11,
+   12
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Fly Chennai to Colombo (about 1h30, about ₹5,000 to ₹10,000). Train Colombo to Kandy (3h, about ₹300 to ₹1,000); Kandy to Ella train takes about 7 hours.",
+  "experiences": [
+   {
+    "name": "Kandy to Ella train",
+    "note": "Book seats early",
+    "priceInr": 300
+   },
+   {
+    "name": "Whale watching from Mirissa",
+    "note": "About Nov to Apr",
+    "priceInr": 5000
+   },
+   {
+    "name": "White water rafting at Kitulgala",
+    "note": "",
+    "priceInr": 3000
+   },
+   {
+    "name": "Udawalawe Elephant Transit Home",
+    "note": "Feeding viewed from behind a barrier",
+    "priceInr": 540
+   }
+  ],
+  "cautions": [
+   "May to Oct is the southwest monsoon on the coasts",
+   "Plan food at about ₹1,200 to ₹2,000 a day"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sri_Lanka"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Maldives",
+  "trip": "B",
+  "region": "Asia",
+  "capital": "Male",
+  "places": [
+   {
+    "name": "Maafushi",
+    "note": "Local island: snorkelling, sandbank trip",
+    "fee": ""
+   },
+   {
+    "name": "Hukuru Miskiy",
+    "note": "Male",
+    "fee": ""
+   },
+   {
+    "name": "South Ari Atoll",
+    "note": "Whale shark snorkel",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   11,
+   12
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Fly Colombo to Male (about 1h30, about ₹8,000 to ₹14,000), then ferry to Maafushi (about ₹300 by ferry to ₹2,000 by speedboat). Use a local island guesthouse (₹5,000 to ₹9,000 a night); a resort costs ₹30,000 or more.",
+  "experiences": [
+   {
+    "name": "Snorkel with whale sharks at South Ari Atoll",
+    "note": "",
+    "priceInr": 6000
+   },
+   {
+    "name": "Manta rays at Hanifaru Bay",
+    "note": "About May to Nov",
+    "priceInr": null
+   },
+   {
+    "name": "Sandbank picnic and bioluminescent beaches",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "May to Oct is monsoon: rain and rough seas",
+   "Resorts cost ₹30,000 or more a night"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Maldives"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Bangladesh",
+  "trip": "B2",
+  "region": "Asia",
+  "capital": "Dhaka",
+  "places": [
+   {
+    "name": "Lalbagh Fort",
+    "note": "Dhaka",
+    "fee": "about ₹100 to ₹500"
+   },
+   {
+    "name": "Ahsan Manzil",
+    "note": "Dhaka",
+    "fee": ""
+   },
+   {
+    "name": "National Parliament House",
+    "note": "Dhaka",
+    "fee": ""
+   },
+   {
+    "name": "Sadarghat",
+    "note": "Old Dhaka river boats",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   11,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 2700,
+   "high": 4700
+  },
+  "transport": "Bus from Kolkata to Dhaka across Petrapole and Benapole (10h to 12h incl border, about ₹1,500 to ₹3,000). The Maitree, Bandhan and Mitali trains have been suspended since 2024, so it is bus only.",
+  "experiences": [
+   {
+    "name": "Sundarbans mangrove boat safari",
+    "note": "2 to 3 nights, tigers rarely seen",
+    "priceInr": 10000
+   },
+   {
+    "name": "Sadarghat river boat and cycle rickshaw ride",
+    "note": "Old Dhaka",
+    "priceInr": null
+   },
+   {
+    "name": "Cox's Bazar and St Martin's Island",
+    "note": "Need extra days",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "The Ministry of External Affairs has a standing advisory against travel; read it first",
+   "Tourist visa issuance was reported paused around Feb 2026 and resuming Oct 2026: confirm it is open",
+   "Visa is free with a service charge of about ₹825"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bangladesh"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Bhutan",
+  "trip": "B2",
+  "region": "Asia",
+  "capital": "Thimphu",
+  "places": [
+   {
+    "name": "Tashichho Dzong",
+    "note": "Thimphu",
+    "fee": ""
+   },
+   {
+    "name": "Buddha Dordenma",
+    "note": "Thimphu",
+    "fee": ""
+   },
+   {
+    "name": "Paro Taktsang (Tiger's Nest)",
+    "note": "Hike of 4 to 6 hours",
+    "fee": ""
+   },
+   {
+    "name": "Paro Dzong",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Punakha Dzong",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Dochula Pass",
+    "note": "108 memorial chortens",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   9,
+   10,
+   11,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 3700,
+   "high": 7200
+  },
+  "transport": "Go by road from West Bengal: train Kolkata to Hasimara, taxi to Phuentsholing, cross at Jaigaon (permit needed), then 170 km to Thimphu (5h to 6h, about ₹3,000 to ₹5,000 taxi). Thimphu to Paro is about 1h30 (₹1,500 to ₹2,500 taxi).",
+  "experiences": [
+   {
+    "name": "Archery",
+    "note": "The national sport",
+    "priceInr": null
+   },
+   {
+    "name": "Hot stone bath at a farmhouse",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Druk Path trek",
+    "note": "Adds 5 to 6 days",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Indians pay a Sustainable Development Fee of about ₹1,200 a night and need a permit",
+   "Jun to Aug monsoon: leeches and landslides",
+   "Paro Tsechu and Thimphu Tshechu are busy"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bhutan"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Oman",
+  "trip": "C",
+  "region": "Middle East",
+  "capital": "Muscat",
+  "places": [
+   {
+    "name": "Sultan Qaboos Grand Mosque",
+    "note": "Muscat",
+    "fee": "free"
+   },
+   {
+    "name": "Nizwa Fort",
+    "note": "",
+    "fee": "about ₹1,100"
+   },
+   {
+    "name": "Mutrah Souq",
+    "note": "Muscat",
+    "fee": ""
+   },
+   {
+    "name": "Wahiba Sands",
+    "note": "Desert camp",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   3,
+   4,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 6500,
+   "high": 12500
+  },
+  "transport": "Mumbai has direct flights to Muscat. Muscat to Nizwa is about 170 km, 2h, about ₹4,000 to ₹6,000 by taxi.",
+  "experiences": [
+   {
+    "name": "Wadi Shab swim and scramble",
+    "note": "Boat fee about ₹230 plus taxi",
+    "priceInr": 230
+   },
+   {
+    "name": "Dolphin cruise from Muscat",
+    "note": "",
+    "priceInr": 3500
+   },
+   {
+    "name": "Dune bashing and desert night in Wahiba Sands",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Jebel Shams balcony walk",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Gulf conflict since 28 Feb 2026 has not ended; US advisory Level 3; read mea.gov.in before booking",
+   "Visa on arrival is limited to holders of certain visas: check the rule",
+   "EASA airspace warnings ran to 16 Nov 2026"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Oman"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Bahrain",
+  "trip": "C",
+  "region": "Middle East",
+  "capital": "Manama",
+  "places": [
+   {
+    "name": "Bahrain Fort",
+    "note": "",
+    "fee": "about ₹200"
+   },
+   {
+    "name": "Bahrain National Museum",
+    "note": "",
+    "fee": "about ₹200"
+   },
+   {
+    "name": "Manama Souq",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Al Fateh Grand Mosque",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   3,
+   4,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 6500,
+   "high": 12500
+  },
+  "transport": "An easy two day stop on the Gulf route. Muscat to Bahrain is a short flight.",
+  "experiences": [
+   {
+    "name": "Track experience at Bahrain International Circuit",
+    "note": "Check availability",
+    "priceInr": null
+   },
+   {
+    "name": "UNESCO Pearling Path and pearl diving trip",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Tree of Life",
+    "note": "In the desert",
+    "priceInr": null
+   },
+   {
+    "name": "Bahrain Grand Prix",
+    "note": "12 to 14 Mar 2027, about 2026 three day grandstand",
+    "priceInr": 17700
+   }
+  ],
+  "cautions": [
+   "Gulf conflict since 28 Feb 2026 has not ended; US advisory Level 3; read mea.gov.in before booking",
+   "Ramadan runs about 8 Feb to 8 Mar 2027, with Eid on 9 Mar: opening hours change"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bahrain"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Saudi Arabia",
+  "trip": "C",
+  "region": "Middle East",
+  "capital": "Riyadh",
+  "places": [
+   {
+    "name": "Diriyah",
+    "note": "Heritage site",
+    "fee": "tickets from about ₹2,000 to ₹3,000"
+   },
+   {
+    "name": "AlUla",
+    "note": "Heritage sites",
+    "fee": "tickets from about ₹2,000 to ₹3,000"
+   },
+   {
+    "name": "Al Khobar Corniche",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Ithra",
+    "note": "Cultural centre",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   3,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 6500,
+   "high": 12500
+  },
+  "transport": "Optional leg of trip C. The plan routes it from Bahrain on the Khobar side.",
+  "experiences": [
+   {
+    "name": "Edge of the World cliffs",
+    "note": "Guided 4x4 day trip if you add Riyadh",
+    "priceInr": null
+   },
+   {
+    "name": "AlUla hot air balloon",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Gulf conflict since 28 Feb 2026 has not ended; US advisory Level 3; read mea.gov.in before booking",
+   "Unclear whether an Indian can get a plain tourist eVisa; budget about ₹12,000 for visa with insurance",
+   "IndiGo cancelled Riyadh, Jeddah, Dammam and Madinah flights; Houthi missiles hit Riyadh airport in Oct 2026"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saudi_Arabia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Jordan",
+  "trip": "C",
+  "region": "Middle East",
+  "capital": "Amman",
+  "places": [
+   {
+    "name": "Petra",
+    "note": "",
+    "fee": "about ₹5,900 one day ticket, or ₹9,000 to ₹10,000 Jordan Pass"
+   },
+   {
+    "name": "Wadi Rum",
+    "note": "Jeep tour and camp",
+    "fee": ""
+   },
+   {
+    "name": "Dead Sea",
+    "note": "Float",
+    "fee": ""
+   },
+   {
+    "name": "Amman Citadel",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Roman Theatre",
+    "note": "Amman",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   3,
+   4,
+   5,
+   9,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 5500,
+   "high": 9500
+  },
+  "transport": "Bus Amman to Petra (about 3h30, about ₹1,500 to ₹2,500). Taxi Petra to Wadi Rum about 1h30 (₹3,000 to ₹4,500), then Wadi Rum to the Dead Sea about 4h (₹6,000 to ₹8,000).",
+  "experiences": [
+   {
+    "name": "Wadi Rum camp night",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Siq Trail at Wadi Mujib",
+    "note": "Wet canyon, about Apr to Oct",
+    "priceInr": 2500
+   },
+   {
+    "name": "Petra by Night",
+    "note": "Sunday to Thursday, tickets only on site, about 30 JOD",
+    "priceInr": 3700
+   },
+   {
+    "name": "Aqaba snorkel or dive",
+    "note": "",
+    "priceInr": 3500
+   }
+  ],
+  "cautions": [
+   "Gulf conflict since 28 Feb 2026 has not ended; US advisory Level 3; read mea.gov.in before booking",
+   "Jun to Sep is hot in Petra",
+   "I could not open a current MEA advisory for Jordan"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jordan"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Kazakhstan",
+  "trip": "D",
+  "region": "Asia",
+  "capital": "Astana",
+  "places": [
+   {
+    "name": "Medeu",
+    "note": "Rink",
+    "fee": "about ₹1,000"
+   },
+   {
+    "name": "Charyn Canyon",
+    "note": "Valley of Castles",
+    "fee": "about ₹300"
+   },
+   {
+    "name": "Kok Tobe",
+    "note": "Almaty",
+    "fee": ""
+   },
+   {
+    "name": "Zenkov Cathedral",
+    "note": "Almaty",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 3100,
+   "high": 6000
+  },
+  "transport": "Direct flights from Delhi to Almaty. Almaty to Bishkek is a short bus hop (about ₹700 to ₹1,500).",
+  "experiences": [
+   {
+    "name": "Shymbulak gondola",
+    "note": "Above Almaty",
+    "priceInr": null
+   },
+   {
+    "name": "Big Almaty Lake",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Kolsai Lakes",
+    "note": "2 to 3 day trip",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Nov to Mar is cold and many mountain roads close",
+   "Visa free 14 days for Indians per the plan"
+  ],
+  "neighbours": [
+   "Kyrgyzstan"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kazakhstan"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Kyrgyzstan",
+  "trip": "D",
+  "region": "Asia",
+  "capital": "Bishkek",
+  "places": [
+   {
+    "name": "Ala Archa park",
+    "note": "",
+    "fee": "about ₹100"
+   },
+   {
+    "name": "Ala Too Square",
+    "note": "Bishkek",
+    "fee": ""
+   },
+   {
+    "name": "Lake Issyk Kul",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Osh Bazaar",
+    "note": "Bishkek",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 3100,
+   "high": 6000
+  },
+  "transport": "Almaty to Bishkek by bus (about ₹700 to ₹1,500).",
+  "experiences": [
+   {
+    "name": "Song Kol yurt stay and horse trek",
+    "note": "About Jun to Sep",
+    "priceInr": null
+   },
+   {
+    "name": "Eagle hunting demonstration",
+    "note": "Near Issyk Kul",
+    "priceInr": null
+   },
+   {
+    "name": "Skazka Canyon",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Song Kol is closed outside about Jun to Sep",
+   "Check the e visa rule"
+  ],
+  "neighbours": [
+   "Kazakhstan"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kyrgyzstan"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Uzbekistan",
+  "trip": "D",
+  "region": "Asia",
+  "capital": "Tashkent",
+  "places": [
+   {
+    "name": "Registan",
+    "note": "Samarkand",
+    "fee": "site tickets about ₹800 to ₹1,000"
+   },
+   {
+    "name": "Bukhara old town",
+    "note": "Ark of Bukhara",
+    "fee": ""
+   },
+   {
+    "name": "Khiva old town",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Gur e Amir",
+    "note": "Samarkand",
+    "fee": ""
+   },
+   {
+    "name": "Chorsu Bazaar",
+    "note": "Tashkent",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 3100,
+   "high": 6000
+  },
+  "transport": "Direct flights from Delhi to Tashkent. The Afrosiyob high speed train does Tashkent to Samarkand in 2h15 to 2h30 (economy about ₹2,200 to ₹2,500); tickets go on sale about 60 days ahead.",
+  "experiences": [
+   {
+    "name": "Afrosiyob high speed train",
+    "note": "Up to about 250 km/h",
+    "priceInr": 2200
+   },
+   {
+    "name": "Registan light show",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Yurt camp and camel ride at Aydarkul",
+    "note": "Kyzylkum desert",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "30 days visa free only with a multiple entry visa from US, UK, Schengen, Canada and others plus onward ticket (from 1 Sep 2026); otherwise eVisa about US$25"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Uzbekistan"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Azerbaijan",
+  "trip": "D",
+  "region": "Asia",
+  "capital": "Baku",
+  "places": [
+   {
+    "name": "Icherisheher (Baku old city)",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Gobustan National Park",
+    "note": "Rock art",
+    "fee": "about ₹750"
+   },
+   {
+    "name": "Heydar Aliyev Center",
+    "note": "Baku",
+    "fee": ""
+   },
+   {
+    "name": "Ateshgah Fire Temple",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 3100,
+   "high": 6000
+  },
+  "transport": "Baku to Gobustan is about 65 km, 1h, about ₹2,000 by taxi. Tbilisi to Baku by bus or flight; the train costs about ₹4,200 to ₹9,800 and may not be open to Indians.",
+  "experiences": [
+   {
+    "name": "Yanar Dag",
+    "note": "Hillside burning natural gas",
+    "priceInr": null
+   },
+   {
+    "name": "Mud volcanoes near Gobustan",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Flame Towers at night",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "The Armenia and Azerbaijan border is closed: route through Georgia"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Azerbaijan"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Armenia",
+  "trip": "D",
+  "region": "Asia",
+  "capital": "Yerevan",
+  "places": [
+   {
+    "name": "Garni and Geghard",
+    "note": "",
+    "fee": "about ₹300"
+   },
+   {
+    "name": "Republic Square",
+    "note": "Yerevan",
+    "fee": ""
+   },
+   {
+    "name": "Matenadaran",
+    "note": "Yerevan",
+    "fee": ""
+   },
+   {
+    "name": "Cascade Complex",
+    "note": "Yerevan",
+    "fee": ""
+   },
+   {
+    "name": "Lake Sevan",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 3100,
+   "high": 6000
+  },
+  "transport": "Tbilisi to Yerevan by minibus (about ₹1,000 to ₹1,500). Fly home Yerevan to Delhi (about ₹15,000 to ₹28,000 one way).",
+  "experiences": [
+   {
+    "name": "Wings of Tatev cable car",
+    "note": "About 5.7 km; plus about ₹8,000 for a day taxi from Yerevan",
+    "priceInr": 2200
+   },
+   {
+    "name": "Brandy tasting in Yerevan",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Hot air balloon over the Ararat plain",
+    "note": "Check season",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "The Armenia and Azerbaijan border is closed: route through Georgia"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Armenia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Japan",
+  "trip": "E",
+  "region": "Asia",
+  "capital": "Tokyo",
+  "places": [
+   {
+    "name": "Kinkaku ji",
+    "note": "Kyoto",
+    "fee": "about ₹280"
+   },
+   {
+    "name": "Tokyo Skytree",
+    "note": "",
+    "fee": "about ₹1,200"
+   },
+   {
+    "name": "Fushimi Inari",
+    "note": "Kyoto",
+    "fee": "free"
+   },
+   {
+    "name": "Senso ji",
+    "note": "Tokyo",
+    "fee": ""
+   },
+   {
+    "name": "Osaka Castle",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2
+  ],
+  "dailyBudgetInr": {
+   "low": 8500,
+   "high": 15000
+  },
+  "transport": "Most direct flights from Delhi land in Tokyo or Osaka. Tokyo to Kyoto by Shinkansen is about 2h15 (about ₹7,500 to ₹8,500); a night bus is ₹3,000 to ₹5,000.",
+  "experiences": [
+   {
+    "name": "Gattan Go rail bike",
+    "note": "Kamioka, Hida City, closed Wednesdays",
+    "priceInr": 3000
+   },
+   {
+    "name": "Shimanami Kaido cycle route",
+    "note": "About 70 km",
+    "priceInr": null
+   },
+   {
+    "name": "Jigokudani snow monkeys",
+    "note": "JPY 800, best Dec to Mar",
+    "priceInr": 480
+   },
+   {
+    "name": "Mount Fuji climb",
+    "note": "Jul to early Sep, about JPY 4,000 fee",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Avoid Lunar New Year, Golden Week (29 Apr to 5 May) and Obon",
+   "Cherry blossom and autumn leaves are expensive",
+   "Sep is typhoon season"
+  ],
+  "neighbours": [
+   "Taiwan"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Japan"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Taiwan",
+  "trip": "E",
+  "region": "Asia",
+  "capital": "Taipei",
+  "places": [
+   {
+    "name": "Taipei 101 observatory",
+    "note": "",
+    "fee": "about ₹1,600"
+   },
+   {
+    "name": "Jiufen Old Street",
+    "note": "Bus from Taipei about ₹300 to ₹500",
+    "fee": ""
+   },
+   {
+    "name": "Shilin Night Market",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Taroko Gorge",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Taipei to Jiufen is a bus (about 1h15, ₹300 to ₹500). The high speed rail runs at 300 km/h.",
+  "experiences": [
+   {
+    "name": "Sky lantern at Shifen",
+    "note": "",
+    "priceInr": 300
+   },
+   {
+    "name": "Alishan forest railway",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Sun Moon Lake cycling",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Many famous Taroko Gorge trails are still closed: check before going",
+   "Free TAC needs a qualifying US, Canada, UK or Schengen visa; apply before you fly",
+   "Sep is typhoon season"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Taiwan"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Philippines",
+  "trip": "E",
+  "region": "Asia",
+  "capital": "Manila",
+  "places": [
+   {
+    "name": "Fort Santiago",
+    "note": "Intramuros",
+    "fee": "cheap"
+   },
+   {
+    "name": "Rizal Park",
+    "note": "Manila",
+    "fee": ""
+   },
+   {
+    "name": "El Nido island hopping",
+    "note": "",
+    "fee": "about ₹2,700 to ₹3,500 with eco fee and lagoon entry"
+   },
+   {
+    "name": "Puerto Princesa Underground River",
+    "note": "UNESCO",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Fly in from Taiwan; home from Manila to Delhi (about 8h to 11h with a stop).",
+  "experiences": [
+   {
+    "name": "El Nido or Coron island hopping",
+    "note": "",
+    "priceInr": 2700
+   },
+   {
+    "name": "Chocolate Hills, Bohol",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Donsol whale shark snorkel",
+    "note": "Season Nov to Jun, regulated, no touching",
+    "priceInr": 1330
+   },
+   {
+    "name": "Jeepney ride in Manila",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "14 days visa free (30 with US or Schengen visa)",
+   "Sep is typhoon season"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Philippines"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Switzerland",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Bern",
+  "places": [
+   {
+    "name": "Lucerne and lake towns",
+    "note": "Cheap",
+    "fee": ""
+   },
+   {
+    "name": "Zurich Old Town",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Mount Pilatus",
+    "note": "Steepest cogwheel railway",
+    "fee": "about ₹9,500 return"
+   },
+   {
+    "name": "Jungfraujoch",
+    "note": "Skip it",
+    "fee": "about ₹25,000 to ₹29,000"
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 10500,
+   "high": 19000
+  },
+  "transport": "Train Frankfurt to Zurich (about 4h, about ₹4,000 to ₹8,000), then on to Liechtenstein and France.",
+  "experiences": [
+   {
+    "name": "Glacier Express",
+    "note": "About 8 hours, second class about ₹23,000",
+    "priceInr": 23000
+   },
+   {
+    "name": "Verzasca Dam bungee",
+    "note": "220 m",
+    "priceInr": 25000
+   },
+   {
+    "name": "Pilatus cogwheel railway",
+    "note": "48 percent gradient",
+    "priceInr": 9500
+   }
+  ],
+  "cautions": [
+   "Pilatus cable cars closed for maintenance 19 Oct to 27 Nov 2026",
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026",
+   "Costly: hotels ₹8,000 to ₹15,000"
+  ],
+  "neighbours": [
+   "Liechtenstein",
+   "France",
+   "Italy",
+   "Austria"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Switzerland"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Liechtenstein",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Vaduz",
+  "places": [
+   {
+    "name": "Vaduz Castle",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Vaduz Cathedral",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": null,
+  "transport": "A short stop on the Zurich to France leg.",
+  "experiences": [
+   {
+    "name": "Furstensteig mountain path",
+    "note": "Hike above Vaduz",
+    "priceInr": null
+   },
+   {
+    "name": "Passport stamp",
+    "note": "Tourist office, small fee",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026"
+  ],
+  "neighbours": [
+   "Switzerland",
+   "Austria"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Liechtenstein"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "France",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Paris",
+  "places": [
+   {
+    "name": "Eiffel Tower",
+    "note": "Summit",
+    "fee": "about ₹3,500"
+   },
+   {
+    "name": "Louvre",
+    "note": "",
+    "fee": "about ₹3,400"
+   },
+   {
+    "name": "Montmartre",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Promenade des Anglais",
+    "note": "Nice",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 10500,
+   "high": 19000
+  },
+  "transport": "Train Paris Gare de Lyon to Nice (about 5h30, about ₹5,000 to ₹10,000). TGV runs at up to 320 km/h.",
+  "experiences": [
+   {
+    "name": "Paris catacombs",
+    "note": "EUR 31",
+    "priceInr": 3100
+   },
+   {
+    "name": "Train des Pignes",
+    "note": "Nice to Digne",
+    "priceInr": null
+   },
+   {
+    "name": "Aiguille du Midi",
+    "note": "Detour from Geneva",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026",
+   "Costly: hotels ₹8,000 to ₹15,000"
+  ],
+  "neighbours": [
+   "Switzerland",
+   "Italy",
+   "Monaco"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/France"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Monaco",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Monaco",
+  "places": [
+   {
+    "name": "Prince's Palace",
+    "note": "",
+    "fee": "about ₹1,400"
+   },
+   {
+    "name": "Monte Carlo Casino",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Oceanographic Museum",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": null,
+  "transport": "A short stop reached from Nice by train.",
+  "experiences": [
+   {
+    "name": "Grand Prix circuit walk",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Changing of the guard",
+    "note": "11:55 daily",
+    "priceInr": null
+   },
+   {
+    "name": "Monaco Grand Prix Rocher general admission",
+    "note": "4 to 6 Jun 2027",
+    "priceInr": 26600
+   }
+  ],
+  "cautions": [
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026",
+   "Monaco Grand Prix dates differ between sources: recheck"
+  ],
+  "neighbours": [
+   "France",
+   "Italy"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Monaco"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Italy",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Rome",
+  "places": [
+   {
+    "name": "Colosseum and Forum",
+    "note": "",
+    "fee": "about ₹1,800 to ₹2,400"
+   },
+   {
+    "name": "Duomo di Milano",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Trevi Fountain",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Galleria Vittorio Emanuele II",
+    "note": "Milan",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 10500,
+   "high": 19000
+  },
+  "transport": "Milan to Rome by Frecciarossa or Italo at 300 km/h. Walk or metro from Roma Termini to the Vatican.",
+  "experiences": [
+   {
+    "name": "Colosseum arena floor or underground ticket",
+    "note": "",
+    "priceInr": 2500
+   },
+   {
+    "name": "Last Supper",
+    "note": "Book months ahead",
+    "priceInr": null
+   },
+   {
+    "name": "Gondola ride in Venice",
+    "note": "30 minutes",
+    "priceInr": 8000
+   },
+   {
+    "name": "Vespa tour in Rome",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026",
+   "Easter week is pricey"
+  ],
+  "neighbours": [
+   "Vatican",
+   "San Marino",
+   "Switzerland",
+   "France",
+   "Slovenia",
+   "Monaco"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Italy"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Vatican",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Vatican City",
+  "places": [
+   {
+    "name": "St Peter's Basilica",
+    "note": "Entry free",
+    "fee": "free"
+   },
+   {
+    "name": "Vatican Museums",
+    "note": "",
+    "fee": "about ₹2,000 to ₹2,500"
+   },
+   {
+    "name": "St Peter's dome",
+    "note": "",
+    "fee": "about ₹800 to ₹1,500"
+   },
+   {
+    "name": "Sistine Chapel",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Walk from Roma Termini to St Peter's Square (about 5 km, 1h walk or 20 min metro, about ₹100).",
+  "experiences": [
+   {
+    "name": "Climb the dome of St Peter's",
+    "note": "",
+    "priceInr": 800
+   },
+   {
+    "name": "Wednesday papal audience",
+    "note": "Ask about free tickets",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026"
+  ],
+  "neighbours": [
+   "Italy"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vatican_City"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "San Marino",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "San Marino",
+  "places": [
+   {
+    "name": "Guaita Tower",
+    "note": "",
+    "fee": "about ₹600"
+   },
+   {
+    "name": "Three Towers on Monte Titano",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Piazza della Libertà",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": null,
+  "transport": "A short stop in the Italy leg.",
+  "experiences": [
+   {
+    "name": "Cable car from Borgo Maggiore",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Passport stamp",
+    "note": "",
+    "priceInr": 500
+   }
+  ],
+  "cautions": [
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026"
+  ],
+  "neighbours": [
+   "Italy"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/San_Marino"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Slovenia",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Ljubljana",
+  "places": [
+   {
+    "name": "Lake Bled",
+    "note": "",
+    "fee": "pletna boat to the island about ₹1,500"
+   },
+   {
+    "name": "Postojna Cave",
+    "note": "",
+    "fee": "about ₹3,000"
+   },
+   {
+    "name": "Ljubljana Castle",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Vintgar Gorge",
+    "note": "",
+    "fee": "about ₹800"
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 4200,
+   "high": 6000
+  },
+  "transport": "Reached by train and bus from Italy; onward to Zagreb.",
+  "experiences": [
+   {
+    "name": "Soca rafting at Bovec",
+    "note": "Spring to autumn",
+    "priceInr": 5000
+   },
+   {
+    "name": "Bovec zipline",
+    "note": "About EUR 70",
+    "priceInr": 7000
+   },
+   {
+    "name": "Skocjan Caves",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026"
+  ],
+  "neighbours": [
+   "Italy",
+   "Croatia",
+   "Hungary",
+   "Austria"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Slovenia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Croatia",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Zagreb",
+  "places": [
+   {
+    "name": "Plitvice Lakes",
+    "note": "",
+    "fee": "about ₹4,000 peak, about ₹2,400 in Apr, May and Oct"
+   },
+   {
+    "name": "Zagreb Cathedral",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "St. Mark's Church",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 4200,
+   "high": 6000
+  },
+  "transport": "Bus Zagreb to Plitvice Lakes (about 2h, about ₹1,000 to ₹1,500).",
+  "experiences": [
+   {
+    "name": "Cetina canyon zip line at Omis",
+    "note": "About EUR 80",
+    "priceInr": 8000
+   },
+   {
+    "name": "Dubrovnik sea kayaking",
+    "note": "",
+    "priceInr": 4000
+   },
+   {
+    "name": "Museum of Broken Relationships",
+    "note": "Zagreb",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Some Adriatic attractions shut Nov to Mar",
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026"
+  ],
+  "neighbours": [
+   "Slovenia",
+   "Hungary",
+   "Bosnia and Herz.",
+   "Serbia",
+   "Montenegro"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Croatia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Hungary",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Budapest",
+  "places": [
+   {
+    "name": "Parliament",
+    "note": "",
+    "fee": "about ₹1,200"
+   },
+   {
+    "name": "Szechenyi baths",
+    "note": "",
+    "fee": "about ₹3,000"
+   },
+   {
+    "name": "Fisherman's Bastion",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 4200,
+   "high": 6000
+  },
+  "transport": "Bus or train from Zagreb, then on to Slovakia.",
+  "experiences": [
+   {
+    "name": "Thermal baths and ruin bars",
+    "note": "Budapest",
+    "priceInr": null
+   },
+   {
+    "name": "Danube cycle path",
+    "note": "EuroVelo 6",
+    "priceInr": null
+   },
+   {
+    "name": "Buda Castle labyrinth caves",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026"
+  ],
+  "neighbours": [
+   "Slovakia",
+   "Austria",
+   "Croatia",
+   "Serbia",
+   "Slovenia"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Hungary"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Slovakia",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Bratislava",
+  "places": [
+   {
+    "name": "Bratislava Castle",
+    "note": "",
+    "fee": "about ₹1,000"
+   },
+   {
+    "name": "Michael's Gate",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 4200,
+   "high": 6000
+  },
+  "transport": "Short hop from Budapest; Bratislava is close to Vienna.",
+  "experiences": [
+   {
+    "name": "Treetop walk at Bachledova Dolina",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "UFO observation deck",
+    "note": "Bratislava bridge",
+    "priceInr": null
+   },
+   {
+    "name": "Cycle the Danube to Vienna",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026"
+  ],
+  "neighbours": [
+   "Austria",
+   "Hungary",
+   "Czechia",
+   "Poland"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Slovakia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Austria",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Vienna",
+  "places": [
+   {
+    "name": "Schonbrunn Palace",
+    "note": "",
+    "fee": "about ₹3,200 Imperial Tour to ₹4,500 Grand Tour"
+   },
+   {
+    "name": "Belvedere",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "St. Stephen's Cathedral",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Naschmarkt",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Reached by train from Bratislava; the plan suggests splitting the loop at Vienna if 36 days is too long.",
+  "experiences": [
+   {
+    "name": "Semmering railway",
+    "note": "UNESCO line, Vienna to Graz",
+    "priceInr": null
+   },
+   {
+    "name": "Prater Ferris wheel",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Grossglockner High Alpine Road",
+    "note": "If you hire a car",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026",
+   "Christmas markets in late Nov to Dec"
+  ],
+  "neighbours": [
+   "Slovakia",
+   "Czechia",
+   "Hungary",
+   "Slovenia",
+   "Switzerland",
+   "Liechtenstein",
+   "Italy"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Austria"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Czechia",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Prague",
+  "places": [
+   {
+    "name": "Prague Castle",
+    "note": "",
+    "fee": "about ₹1,950 main circuit, about ₹3,200 with the Story exhibition"
+   },
+   {
+    "name": "Charles Bridge",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Old Town Square",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 4200,
+   "high": 6000
+  },
+  "transport": "Train or bus from Vienna, then on to Krakow.",
+  "experiences": [
+   {
+    "name": "Beer spa in Prague",
+    "note": "",
+    "priceInr": 3500
+   },
+   {
+    "name": "Sedlec Bone Church",
+    "note": "Near Kutna Hora",
+    "priceInr": null
+   },
+   {
+    "name": "Petrin lookout and funicular",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026"
+  ],
+  "neighbours": [
+   "Austria",
+   "Slovakia",
+   "Poland"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Czech_Republic"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Poland",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Warsaw",
+  "places": [
+   {
+    "name": "Auschwitz Birkenau",
+    "note": "Free entry, guided visit about ₹2,300",
+    "fee": "free"
+   },
+   {
+    "name": "Wieliczka Salt Mine",
+    "note": "",
+    "fee": "about ₹3,000 to ₹3,500"
+   },
+   {
+    "name": "Wawel Castle",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Main Market Square",
+    "note": "Krakow",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 4200,
+   "high": 6000
+  },
+  "transport": "Fly Krakow to Belgrade to start the Balkan buses.",
+  "experiences": [
+   {
+    "name": "Trabant tour of Nowa Huta",
+    "note": "Krakow",
+    "priceInr": 3000
+   },
+   {
+    "name": "Kasprowy Wierch cable car",
+    "note": "Zakopane, 2 hours from Krakow",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026"
+  ],
+  "neighbours": [
+   "Czechia",
+   "Slovakia"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Poland"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Serbia",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Belgrade",
+  "places": [
+   {
+    "name": "Belgrade Fortress",
+    "note": "Free",
+    "fee": "free"
+   },
+   {
+    "name": "Temple of Saint Sava",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Knez Mihailova Street",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 4200,
+   "high": 6000
+  },
+  "transport": "Fly Krakow to Belgrade, then bus through Serbia, Bosnia, Montenegro, Albania and North Macedonia.",
+  "experiences": [
+   {
+    "name": "Sargan Eight heritage railway",
+    "note": "Seasonal",
+    "priceInr": null
+   },
+   {
+    "name": "Belgrade floating river clubs",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Drvengrad",
+    "note": "Kusturica's village",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Serbia is outside Schengen: check its own visa rule"
+  ],
+  "neighbours": [
+   "Bosnia and Herz.",
+   "Montenegro",
+   "Hungary",
+   "Croatia",
+   "North Macedonia",
+   "Kosovo"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Serbia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Bosnia and Herz.",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Sarajevo",
+  "places": [
+   {
+    "name": "Stari Most (Mostar Old Bridge)",
+    "note": "Free",
+    "fee": "free"
+   },
+   {
+    "name": "Kravice waterfalls",
+    "note": "",
+    "fee": "about ₹500"
+   },
+   {
+    "name": "Bascarsija",
+    "note": "Sarajevo",
+    "fee": ""
+   },
+   {
+    "name": "Latin Bridge",
+    "note": "Sarajevo",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 4200,
+   "high": 6000
+  },
+  "transport": "Bus from Belgrade, then on to Montenegro.",
+  "experiences": [
+   {
+    "name": "Una river rafting at Bihac",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Trebevic bobsled track",
+    "note": "Abandoned 1984 Olympic track",
+    "priceInr": null
+   },
+   {
+    "name": "Sarajevo War Tunnel Museum",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Mostar bridge diving: sources disagree whether tourists can try it and some call it unsafe, so only watch",
+   "Bosnia allows 30 days per stay only with a valid multiple entry Schengen, EU or US visa"
+  ],
+  "neighbours": [
+   "Serbia",
+   "Montenegro",
+   "Croatia"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bosnia_and_Herzegovina"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Montenegro",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Podgorica",
+  "places": [
+   {
+    "name": "Kotor fortress walls",
+    "note": "",
+    "fee": "about ₹1,500"
+   },
+   {
+    "name": "Kotor Old Town",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Perast",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Fortress of St John",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 4200,
+   "high": 6000
+  },
+  "transport": "Bus from Bosnia, then on to Albania.",
+  "experiences": [
+   {
+    "name": "Tara river rafting",
+    "note": "Canyon about 1,300 m deep",
+    "priceInr": 5000
+   },
+   {
+    "name": "Kotor serpentine road",
+    "note": "25 hairpins",
+    "priceInr": null
+   },
+   {
+    "name": "Boat to Our Lady of the Rocks",
+    "note": "Perast",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026"
+  ],
+  "neighbours": [
+   "Bosnia and Herz.",
+   "Albania",
+   "Serbia",
+   "Croatia",
+   "Kosovo"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Montenegro"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Albania",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Tirana",
+  "places": [
+   {
+    "name": "Bunk'Art",
+    "note": "Tirana",
+    "fee": ""
+   },
+   {
+    "name": "Skanderbeg Square",
+    "note": "Tirana",
+    "fee": ""
+   },
+   {
+    "name": "Butrint",
+    "note": "Add if time allows",
+    "fee": "about ₹1,000"
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 4200,
+   "high": 6000
+  },
+  "transport": "Bus from Montenegro, then on to North Macedonia.",
+  "experiences": [
+   {
+    "name": "Dajti Express cable car",
+    "note": "Tirana",
+    "priceInr": null
+   },
+   {
+    "name": "Koman Lake ferry",
+    "note": "Detour from Shkoder",
+    "priceInr": null
+   },
+   {
+    "name": "Osum Canyon rafting",
+    "note": "Near Berat, spring",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Outside Schengen: check its own visa rule"
+  ],
+  "neighbours": [
+   "Montenegro",
+   "North Macedonia",
+   "Kosovo"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Albania"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "North Macedonia",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Skopje",
+  "places": [
+   {
+    "name": "Ohrid Old Town",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Church of St. John at Kaneo",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Skopje Old Bazaar",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Stone Bridge",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 4200,
+   "high": 6000
+  },
+  "transport": "Bus from Albania, then fly Skopje to Istanbul.",
+  "experiences": [
+   {
+    "name": "Matka Canyon kayak",
+    "note": "",
+    "priceInr": 1500
+   },
+   {
+    "name": "Vodno cable car",
+    "note": "To the Millennium Cross",
+    "priceInr": null
+   },
+   {
+    "name": "Swim in Lake Ohrid",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Needs a multiple entry Schengen C visa; a US, UK or Canada visa works only until 31 Dec 2026 (temporary decision)"
+  ],
+  "neighbours": [
+   "Albania",
+   "Kosovo",
+   "Serbia"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/North_Macedonia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Turkey",
+  "trip": "FGH",
+  "region": "Europe",
+  "capital": "Ankara",
+  "places": [
+   {
+    "name": "Hagia Sophia",
+    "note": "",
+    "fee": "about ₹2,500"
+   },
+   {
+    "name": "Blue Mosque",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Topkapi Palace",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Basilica Cistern",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Fly Skopje to Istanbul, then home from Istanbul to Delhi (about 6h, about ₹22,000 to ₹38,000 one way).",
+  "experiences": [
+   {
+    "name": "Hammam",
+    "note": "",
+    "priceInr": 2500
+   },
+   {
+    "name": "Cappadocia balloon flight",
+    "note": "Plus a flight and a night",
+    "priceInr": 15000
+   },
+   {
+    "name": "Bosphorus ferry",
+    "note": "To the Asian side",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Turkey has required a valid US, UK, Schengen or Irish visa for its e visa"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Turkey"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Finland",
+  "trip": "I",
+  "region": "Europe",
+  "capital": "Helsinki",
+  "places": [
+   {
+    "name": "Suomenlinna",
+    "note": "Helsinki",
+    "fee": ""
+   },
+   {
+    "name": "Helsinki Cathedral",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Santa Claus Village",
+    "note": "Rovaniemi",
+    "fee": "free entry"
+   },
+   {
+    "name": "Kilpisjarvi",
+    "note": "Aurora trip I2",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   2,
+   3,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 13500,
+   "high": 23500
+  },
+  "transport": "Finnair flies Delhi to Helsinki. Helsinki to Tallinn by ferry (about ₹1,500 to ₹3,000).",
+  "experiences": [
+   {
+    "name": "Sauna at Loyly and Allas Sea Pool",
+    "note": "Helsinki",
+    "priceInr": null
+   },
+   {
+    "name": "Husky or reindeer sleigh in Lapland",
+    "note": "About Sep to Mar, costly",
+    "priceInr": null
+   },
+   {
+    "name": "Northern lights from Tromso",
+    "note": "Trip I2, day trip toward Kilpisjarvi",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Rovaniemi at Christmas is the costliest time",
+   "Midsummer (20 to 24 Jun) closes shops"
+  ],
+  "neighbours": [
+   "Estonia",
+   "Norway",
+   "Sweden"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Finland"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Estonia",
+  "trip": "I",
+  "region": "Europe",
+  "capital": "Tallinn",
+  "places": [
+   {
+    "name": "Tallinn Old Town",
+    "note": "Free to walk",
+    "fee": "free"
+   },
+   {
+    "name": "Alexander Nevsky Cathedral",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   2,
+   3,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 7000,
+   "high": 10000
+  },
+  "transport": "Ferry Helsinki to Tallinn, then Lux Express buses through the Baltics.",
+  "experiences": [
+   {
+    "name": "Edge Walk, Tallinn TV Tower",
+    "note": "175 m",
+    "priceInr": 4100
+   },
+   {
+    "name": "Bog shoe walk in Lahemaa or Soomaa",
+    "note": "",
+    "priceInr": 2500
+   }
+  ],
+  "cautions": [
+   "Midsummer closes shops"
+  ],
+  "neighbours": [
+   "Latvia",
+   "Finland"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Estonia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Latvia",
+  "trip": "I",
+  "region": "Europe",
+  "capital": "Riga",
+  "places": [
+   {
+    "name": "Riga Old Town",
+    "note": "Free to walk",
+    "fee": "free"
+   },
+   {
+    "name": "Riga Central Market",
+    "note": "In Zeppelin hangars",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   2,
+   3,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 7000,
+   "high": 10000
+  },
+  "transport": "Lux Express bus from Tallinn.",
+  "experiences": [
+   {
+    "name": "Sigulda bungee from the cable car",
+    "note": "About May to Oct",
+    "priceInr": 8900
+   },
+   {
+    "name": "Summer bobsled at Sigulda",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Midsummer closes shops"
+  ],
+  "neighbours": [
+   "Estonia",
+   "Lithuania"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Latvia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Lithuania",
+  "trip": "I",
+  "region": "Europe",
+  "capital": "Vilnius",
+  "places": [
+   {
+    "name": "Trakai Island Castle",
+    "note": "",
+    "fee": "about ₹1,000"
+   },
+   {
+    "name": "Gediminas Tower",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Gate of Dawn",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Hill of Crosses",
+    "note": "Day trip",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   2,
+   3,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 7000,
+   "high": 10000
+  },
+  "transport": "Train Vilnius to Trakai (about 30 min, about ₹200). Fly Vilnius to Copenhagen next.",
+  "experiences": [
+   {
+    "name": "Hot air balloon over Vilnius",
+    "note": "Check season and price",
+    "priceInr": null
+   },
+   {
+    "name": "Uzupis",
+    "note": "Declares independence each 1 April",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Midsummer closes shops"
+  ],
+  "neighbours": [
+   "Latvia"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lithuania"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Denmark",
+  "trip": "I",
+  "region": "Europe",
+  "capital": "Copenhagen",
+  "places": [
+   {
+    "name": "Tivoli Gardens",
+    "note": "",
+    "fee": "about ₹1,900"
+   },
+   {
+    "name": "Nyhavn",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   2,
+   3,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 13500,
+   "high": 23500
+  },
+  "transport": "Fly from Vilnius to Copenhagen, then on to Sweden.",
+  "experiences": [
+   {
+    "name": "CopenHill",
+    "note": "Ski and hiking slope on a power plant",
+    "priceInr": 1500
+   },
+   {
+    "name": "Cykelslangen bicycle snake bridge",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Christiania",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Costly: hotels ₹10,000 to ₹18,000"
+  ],
+  "neighbours": [
+   "Sweden"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Denmark"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Sweden",
+  "trip": "I",
+  "region": "Europe",
+  "capital": "Stockholm",
+  "places": [
+   {
+    "name": "Vasa Museum",
+    "note": "",
+    "fee": "about ₹1,700"
+   },
+   {
+    "name": "Gamla Stan",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Malmo Central",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   2,
+   3,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 13500,
+   "high": 23500
+  },
+  "transport": "Reached from Copenhagen, then on to Oslo.",
+  "experiences": [
+   {
+    "name": "Stockholm metro art",
+    "note": "Free to look from the train",
+    "priceInr": null
+   },
+   {
+    "name": "SkyView glass gondola",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Icehotel",
+    "note": "Winter only, very costly",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Costly: hotels ₹10,000 to ₹18,000"
+  ],
+  "neighbours": [
+   "Denmark",
+   "Norway",
+   "Finland"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sweden"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Norway",
+  "trip": "I",
+  "region": "Europe",
+  "capital": "Oslo",
+  "places": [
+   {
+    "name": "Fjord cruise",
+    "note": "",
+    "fee": "₹5,000 to ₹7,000"
+   },
+   {
+    "name": "Oslo Opera House",
+    "note": "Roof walk free",
+    "fee": "free"
+   },
+   {
+    "name": "Viking Ship Museum",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Tromso",
+    "note": "Aurora base for trip I2",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   2,
+   3,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 13500,
+   "high": 23500
+  },
+  "transport": "Fly Oslo to Keflavik (about 3h, about ₹10,000 to ₹20,000). For aurora trip I2, fly Oslo to Tromso (about 1h50, ₹5,000 to ₹12,000).",
+  "experiences": [
+   {
+    "name": "Flam Railway",
+    "note": "",
+    "priceInr": 3500
+   },
+   {
+    "name": "Preikestolen or Trolltunga hikes",
+    "note": "About Jun to Sep",
+    "priceInr": null
+   },
+   {
+    "name": "Aurora chase from Tromso",
+    "note": "Sep to Mar",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Aurora needs a clear sky: keep a spare night"
+  ],
+  "neighbours": [
+   "Sweden",
+   "Finland"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Norway"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Iceland",
+  "trip": "I",
+  "region": "Europe",
+  "capital": "Reykjavik",
+  "places": [
+   {
+    "name": "Blue Lagoon",
+    "note": "",
+    "fee": "about ₹8,400 to ₹12,900"
+   },
+   {
+    "name": "Hallgrimskirkja",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Thingvellir",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Gullfoss",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   2,
+   3,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 13500,
+   "high": 23500
+  },
+  "transport": "Fly Oslo to Keflavik; Reykjavik to Keflavik Airport is about 50 km (about ₹3,000 by taxi).",
+  "experiences": [
+   {
+    "name": "Snorkel in Silfra",
+    "note": "Dry suit included",
+    "priceInr": 11000
+   },
+   {
+    "name": "Glacier hike or ice cave",
+    "note": "Ice caves about Nov to Mar",
+    "priceInr": 8000
+   },
+   {
+    "name": "Whale watching at Husavik",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Puffins",
+    "note": "About May to Aug",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Highest prices in Jun to Aug"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Iceland"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Spain",
+  "trip": "J",
+  "region": "Europe",
+  "capital": "Madrid",
+  "places": [
+   {
+    "name": "Sagrada Familia",
+    "note": "Barcelona",
+    "fee": "about ₹2,600 to ₹4,000"
+   },
+   {
+    "name": "Alhambra",
+    "note": "",
+    "fee": "about ₹2,300"
+   },
+   {
+    "name": "Royal Palace of Madrid",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Seville Cathedral",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Park Guell",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 8000,
+   "high": 15500
+  },
+  "transport": "Fly Mumbai or Delhi to Madrid. Bus Seville to Tarifa (about 3h30, about ₹1,200 to ₹2,000); fly Malaga to Barcelona (about 1h30, about ₹3,000 to ₹6,000).",
+  "experiences": [
+   {
+    "name": "Caminito del Rey",
+    "note": "Near Malaga, book months ahead",
+    "priceInr": 1200
+   },
+   {
+    "name": "Flamenco show in Seville",
+    "note": "",
+    "priceInr": 2500
+   },
+   {
+    "name": "Kitesurf or windsurf lesson at Tarifa",
+    "note": "",
+    "priceInr": 4000
+   }
+  ],
+  "cautions": [
+   "Seville Semana Santa and Feria (Apr) are costly",
+   "Avoid Jul and Aug (hot, peak prices), Easter week and Christmas"
+  ],
+  "neighbours": [
+   "Portugal",
+   "Andorra",
+   "Morocco",
+   "France"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Spain"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Portugal",
+  "trip": "J",
+  "region": "Europe",
+  "capital": "Lisbon",
+  "places": [
+   {
+    "name": "Belem Tower",
+    "note": "",
+    "fee": "about ₹1,200"
+   },
+   {
+    "name": "Pena Palace",
+    "note": "",
+    "fee": "about ₹1,400"
+   },
+   {
+    "name": "Praca do Comercio",
+    "note": "Lisbon",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 8000,
+   "high": 15500
+  },
+  "transport": "Train Lisbon Rossio to Sintra (about 40 min, about ₹200).",
+  "experiences": [
+   {
+    "name": "Tram 28 in Lisbon",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Fado evening in Alfama",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Surf lesson at Peniche or Cascais",
+    "note": "",
+    "priceInr": 2500
+   }
+  ],
+  "cautions": [
+   "Avoid Jul and Aug (hot, peak prices), Easter week and Christmas"
+  ],
+  "neighbours": [
+   "Spain"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Portugal"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Morocco",
+  "trip": "J",
+  "region": "Africa",
+  "capital": "Rabat",
+  "places": [
+   {
+    "name": "Tangier Medina",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Chefchaouen",
+    "note": "The blue town, bus about ₹300 to ₹500",
+    "fee": ""
+   },
+   {
+    "name": "Cap Spartel",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Hassan II Mosque",
+    "note": "Casablanca",
+    "fee": "about ₹1,200"
+   },
+   {
+    "name": "Majorelle Garden",
+    "note": "Marrakech",
+    "fee": "about ₹1,350"
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 8000,
+   "high": 15500
+  },
+  "transport": "Ferry Tarifa to Tangier (about 1h, about ₹3,000 to ₹4,500), so no flight to Africa is needed. Bus Tangier to Chefchaouen is about 2h30.",
+  "experiences": [
+   {
+    "name": "Caves of Hercules",
+    "note": "Near Tangier",
+    "priceInr": null
+   },
+   {
+    "name": "Camel trek in Merzouga",
+    "note": "If you extend",
+    "priceInr": null
+   },
+   {
+    "name": "Toubkal",
+    "note": "4,167 m, if you extend",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Ramadan about 8 Feb to 8 Mar 2027 changes hours",
+   "Official e visa required"
+  ],
+  "neighbours": [
+   "Spain"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Morocco"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Andorra",
+  "trip": "J",
+  "region": "Europe",
+  "capital": "Andorra la Vella",
+  "places": [
+   {
+    "name": "Caldea spa",
+    "note": "",
+    "fee": "about ₹4,000"
+   },
+   {
+    "name": "Andorra la Vella",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 8000,
+   "high": 15500
+  },
+  "transport": "Reached by road from Spain or France; bus Andorra la Vella to Barcelona about 3h, about ₹1,200 to ₹2,000.",
+  "experiences": [
+   {
+    "name": "Tobotronc alpine slide at Naturlandia",
+    "note": "About 5.3 km",
+    "priceInr": 3000
+   },
+   {
+    "name": "Ski slopes",
+    "note": "Winter",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Avoid Jul and Aug (hot, peak prices), Easter week and Christmas"
+  ],
+  "neighbours": [
+   "Spain",
+   "France"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Andorra"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Malta",
+  "trip": "J",
+  "region": "Europe",
+  "capital": "Valletta",
+  "places": [
+   {
+    "name": "St John's Co Cathedral",
+    "note": "Valletta",
+    "fee": "about ₹1,500"
+   },
+   {
+    "name": "Hypogeum",
+    "note": "Book early",
+    "fee": "about ₹3,500"
+   },
+   {
+    "name": "Upper Barrakka Gardens",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 8000,
+   "high": 15500
+  },
+  "transport": "Reached by flight in the Mediterranean leg after Barcelona.",
+  "experiences": [
+   {
+    "name": "Comino Blue Lagoon swim",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Blue Hole dive try dive, Gozo",
+    "note": "About EUR 75",
+    "priceInr": 7500
+   }
+  ],
+  "cautions": [
+   "Avoid Jul and Aug (hot, peak prices), Easter week and Christmas"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Malta"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Greece",
+  "trip": "J",
+  "region": "Europe",
+  "capital": "Athens",
+  "places": [
+   {
+    "name": "Acropolis",
+    "note": "",
+    "fee": "about ₹3,000"
+   },
+   {
+    "name": "Temple of Poseidon",
+    "note": "Sounion",
+    "fee": ""
+   },
+   {
+    "name": "Plaka",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 8000,
+   "high": 15500
+  },
+  "transport": "Bus Athens to Sounion (about 1h45, about ₹500). Fly home Athens to Mumbai (about ₹25,000 to ₹40,000 one way).",
+  "experiences": [
+   {
+    "name": "Sunset at the Temple of Poseidon",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Athens Riviera swim",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Avoid Jul and Aug (hot, peak prices), Easter week and Christmas"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Greece"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "United Kingdom",
+  "trip": "K",
+  "region": "Europe",
+  "capital": "London",
+  "places": [
+   {
+    "name": "Tower of London",
+    "note": "",
+    "fee": "about ₹5,200"
+   },
+   {
+    "name": "Stonehenge",
+    "note": "",
+    "fee": "about ₹3,000 to ₹4,100"
+   },
+   {
+    "name": "British Museum",
+    "note": "",
+    "fee": "free"
+   },
+   {
+    "name": "Westminster Abbey",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Oxford",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 15000,
+   "high": 24500
+  },
+  "transport": "Many nonstop flights to London. Bus London to Stonehenge about 2h30 (₹1,500 to ₹3,000, tour ₹6,000).",
+  "experiences": [
+   {
+    "name": "Climb over the roof of The O2",
+    "note": "",
+    "priceInr": 4500
+   },
+   {
+    "name": "Harry Potter Studio Tour",
+    "note": "Book ahead",
+    "priceInr": 6500
+   },
+   {
+    "name": "Jacobite steam train",
+    "note": "Glenfinnan Viaduct, if you extend",
+    "priceInr": 7000
+   }
+  ],
+  "cautions": [
+   "Needs its own visa, about 127 GBP; confirm on gov.uk",
+   "Cold, wet and short daylight in the cheap months",
+   "Many castles and heritage railways open only Apr to Oct"
+  ],
+  "neighbours": [
+   "Ireland"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/United_Kingdom"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Ireland",
+  "trip": "K",
+  "region": "Europe",
+  "capital": "Dublin",
+  "places": [
+   {
+    "name": "Guinness Storehouse",
+    "note": "",
+    "fee": "about ₹3,000"
+   },
+   {
+    "name": "Cliffs of Moher",
+    "note": "",
+    "fee": "about ₹1,200"
+   },
+   {
+    "name": "Trinity College",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Kilmainham Gaol",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 15000,
+   "high": 24500
+  },
+  "transport": "Bus Dublin to the Cliffs of Moher (about 3h30, about ₹2,500 to ₹4,000). Fly home from Dublin.",
+  "experiences": [
+   {
+    "name": "Great Western Greenway cycle",
+    "note": "Hire about ₹1,200",
+    "priceInr": 1200
+   },
+   {
+    "name": "Viking Splash tour",
+    "note": "Dublin",
+    "priceInr": 3000
+   },
+   {
+    "name": "Boat under the Cliffs of Moher",
+    "note": "",
+    "priceInr": 2500
+   }
+  ],
+  "cautions": [
+   "Needs a separate visa; British Irish Visa Scheme may cover it if you enter the UK first"
+  ],
+  "neighbours": [
+   "United Kingdom"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ireland"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Kenya",
+  "trip": "L",
+  "region": "Africa",
+  "capital": "Nairobi",
+  "places": [
+   {
+    "name": "Maasai Mara",
+    "note": "Game drives",
+    "fee": "park fees about ₹9,000 to ₹17,000 a day"
+   },
+   {
+    "name": "Nairobi National Park",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Giraffe Centre",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 5000,
+   "high": 9800
+  },
+  "transport": "Mumbai has direct flights to Nairobi. Road Nairobi to Maasai Mara is about 5h to 6h (about ₹8,000 to ₹12,000 shared); bus Nairobi to Arusha about 6h to 8h (₹2,500 to ₹3,500).",
+  "experiences": [
+   {
+    "name": "Hot air balloon over the Mara",
+    "note": "",
+    "priceInr": 40000
+   },
+   {
+    "name": "Hell's Gate cycling",
+    "note": "Entry about US$50 plus bike hire",
+    "priceInr": 5500
+   },
+   {
+    "name": "Madaraka Express to Mombasa",
+    "note": "About 5 to 6 hours",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Travel authorisation needed",
+   "Check advisories before booking"
+  ],
+  "neighbours": [
+   "Tanzania",
+   "Uganda"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kenya"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Tanzania",
+  "trip": "L",
+  "region": "Africa",
+  "capital": "Dodoma",
+  "places": [
+   {
+    "name": "Serengeti",
+    "note": "",
+    "fee": "park fee about ₹7,000 to ₹8,000 a day"
+   },
+   {
+    "name": "Ngorongoro Crater",
+    "note": "",
+    "fee": "vehicle fee about US$295"
+   },
+   {
+    "name": "Arusha Clock Tower",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Bus Nairobi to Arusha, then road Arusha to Ngorongoro (about 3h30, ₹8,000 to ₹15,000 tour). Safari packages run US$200 to US$400 a day.",
+  "experiences": [
+   {
+    "name": "Great Migration river crossings",
+    "note": "About Jul to Oct",
+    "priceInr": null
+   },
+   {
+    "name": "Zanzibar Stone Town and spice tour",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Kilimanjaro",
+    "note": "Separate trip",
+    "priceInr": 120000
+   }
+  ],
+  "cautions": [
+   "Tanzania e visa about US$50"
+  ],
+  "neighbours": [
+   "Kenya",
+   "Rwanda",
+   "Uganda"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tanzania"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Rwanda",
+  "trip": "L",
+  "region": "Africa",
+  "capital": "Kigali",
+  "places": [
+   {
+    "name": "Volcanoes National Park",
+    "note": "Gorilla trek",
+    "fee": "permit about US$1,500"
+   },
+   {
+    "name": "Kigali Genocide Memorial",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Kimironko Market",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Fly in from Tanzania; road Kigali to Musanze about 2h (about ₹3,000 taxi).",
+  "experiences": [
+   {
+    "name": "Mountain gorilla trek",
+    "note": "Permit about US$1,500",
+    "priceInr": 130000
+   },
+   {
+    "name": "Golden monkey trek",
+    "note": "About US$100",
+    "priceInr": null
+   },
+   {
+    "name": "Nyungwe canopy walkway",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Lake Kivu kayaking",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Pick one of Rwanda or Uganda for gorillas if budget is tight"
+  ],
+  "neighbours": [
+   "Uganda"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Rwanda"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Uganda",
+  "trip": "L",
+  "region": "Africa",
+  "capital": "Kampala",
+  "places": [
+   {
+    "name": "Source of the Nile",
+    "note": "Jinja",
+    "fee": ""
+   },
+   {
+    "name": "Kasubi Tombs",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Uganda Museum",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Bwindi",
+    "note": "Gorilla trek",
+    "fee": "permit about US$800"
+   }
+  ],
+  "bestMonths": [
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Road Kampala to Jinja about 2h (about ₹2,000 taxi).",
+  "experiences": [
+   {
+    "name": "Gorilla trek at Bwindi",
+    "note": "Permit about US$800",
+    "priceInr": 70000
+   },
+   {
+    "name": "White water rafting on the Nile at Jinja",
+    "note": "Grade 5",
+    "priceInr": 10000
+   },
+   {
+    "name": "Bungee over the Nile",
+    "note": "About 44 m",
+    "priceInr": 9000
+   },
+   {
+    "name": "Chimpanzee trek at Kibale",
+    "note": "About US$250",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "US CDC advised enhanced precautions on 28 Aug 2026 (Bundibugyo virus outbreak in the DRC); check CDC and MEA"
+  ],
+  "neighbours": [
+   "Rwanda",
+   "Kenya",
+   "Tanzania"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Uganda"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Ethiopia",
+  "trip": "L",
+  "region": "Africa",
+  "capital": "Addis Ababa",
+  "places": [
+   {
+    "name": "National Museum of Ethiopia",
+    "note": "Lucy",
+    "fee": ""
+   },
+   {
+    "name": "Entoto Hill",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Mercato",
+    "note": "Addis Ababa",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Direct flights from Mumbai to Addis Ababa. Stay in Addis Ababa only. Ethiopian via Addis is often the cheapest way home.",
+  "experiences": [
+   {
+    "name": "Entoto Hill and National Museum",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "US, Canada and Australia advise against travel to the Amhara region and parts of Afar (Lalibela, Simien, Danakil): do not plan them",
+   "No Indian MEA advisory found: check before booking",
+   "Land borders need an embassy visa"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ethiopia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Mauritius",
+  "trip": "M",
+  "region": "Africa",
+  "capital": "Port Louis",
+  "places": [
+   {
+    "name": "Chamarel Seven Coloured Earth",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Port Louis Central Market",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Grand Bassin",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Caudan Waterfront",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   10,
+   11
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Nonstop Mumbai to Mauritius only. Stay is ₹5,000 to ₹10,000 a night.",
+  "experiences": [
+   {
+    "name": "Casela Nature Park ziplines and quad bikes",
+    "note": "",
+    "priceInr": 3000
+   },
+   {
+    "name": "Dolphin swim at Tamarin",
+    "note": "Early morning",
+    "priceInr": 3000
+   },
+   {
+    "name": "Le Morne underwater waterfall helicopter view",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Cyclone risk Dec to Apr"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mauritius"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Madagascar",
+  "trip": "M",
+  "region": "Africa",
+  "capital": "Antananarivo",
+  "places": [
+   {
+    "name": "Avenue of the Baobabs",
+    "note": "",
+    "fee": "free"
+   },
+   {
+    "name": "Isalo park",
+    "note": "",
+    "fee": "about ₹1,000"
+   },
+   {
+    "name": "Rova of Antananarivo",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Ambohimanga",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Fly in from Mauritius. Antananarivo to Ambohimanga is about 25 km, 1h, about ₹1,500 by taxi. The Baobabs near Morondava need a long road or flight.",
+  "experiences": [
+   {
+    "name": "Indri at Andasibe",
+    "note": "Two day trip",
+    "priceInr": null
+   },
+   {
+    "name": "Lemurs' Park",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Dry May to Oct",
+   "Check the e visa rule"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Madagascar"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "South Africa",
+  "trip": "M",
+  "region": "Africa",
+  "capital": "Pretoria",
+  "places": [
+   {
+    "name": "Table Mountain cable car",
+    "note": "",
+    "fee": "about ₹2,300"
+   },
+   {
+    "name": "Kruger",
+    "note": "",
+    "fee": "daily fee about ₹2,400"
+   },
+   {
+    "name": "Apartheid Museum",
+    "note": "Johannesburg",
+    "fee": ""
+   },
+   {
+    "name": "Soweto",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Constitution Hill",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 6500,
+   "high": 14500
+  },
+  "transport": "Johannesburg is the hub. Buses to Maseru and Mbabane run about 5h to 6h (₹2,000 to ₹3,500 each way); fly OR Tambo to Victoria Falls (about 2h, ₹10,000 to ₹18,000).",
+  "experiences": [
+   {
+    "name": "Bloukrans bungee",
+    "note": "216 m",
+    "priceInr": 8000
+   },
+   {
+    "name": "Great white cage dive at Gansbaai",
+    "note": "",
+    "priceInr": 12000
+   },
+   {
+    "name": "Orlando Towers swing",
+    "note": "Soweto",
+    "priceInr": 3500
+   },
+   {
+    "name": "Soweto bicycle tour",
+    "note": "",
+    "priceInr": 2000
+   }
+  ],
+  "cautions": [
+   "ETA about R500, airport only",
+   "Re entry to South Africa by land after Lesotho or Eswatini is unverified"
+  ],
+  "neighbours": [
+   "Lesotho",
+   "eSwatini"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/South_Africa"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Lesotho",
+  "trip": "M",
+  "region": "Africa",
+  "capital": "Maseru",
+  "places": [
+   {
+    "name": "Thaba Bosiu",
+    "note": "Quick stop",
+    "fee": ""
+   },
+   {
+    "name": "Maletsunyane Falls",
+    "note": "Abseil",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 6500,
+   "high": 14500
+  },
+  "transport": "Bus Johannesburg to Maseru (about 5h to 6h, about ₹2,000 to ₹3,500).",
+  "experiences": [
+   {
+    "name": "Pony trekking near Semonkong",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Maletsunyane Falls abseil",
+    "note": "204 m, 3 hours from Maseru",
+    "priceInr": 6000
+   }
+  ],
+  "cautions": [
+   "Needs a visa arranged in advance; the e visa portal showed suspended on 16 Oct 2026, apply by email",
+   "Optional: re entry to South Africa by land is unverified"
+  ],
+  "neighbours": [
+   "South Africa"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lesotho"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "eSwatini",
+  "trip": "M",
+  "region": "Africa",
+  "capital": "Mbabane",
+  "places": [
+   {
+    "name": "Mantenga Cultural Village",
+    "note": "",
+    "fee": "about ₹700"
+   },
+   {
+    "name": "Mlilwane Wildlife Sanctuary",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Sibebe Rock",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 6500,
+   "high": 14500
+  },
+  "transport": "Bus Johannesburg to Mbabane (about 5h to 6h, about ₹2,000 to ₹3,500).",
+  "experiences": [
+   {
+    "name": "Mlilwane cycling among zebras and hippos",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Malolotja canopy tour",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Reed Dance",
+    "note": "Aug or Sep",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Visa on arrival suspended; visas only through missions",
+   "Optional: re entry to South Africa by land is unverified"
+  ],
+  "neighbours": [
+   "South Africa"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Eswatini"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Zimbabwe",
+  "trip": "M",
+  "region": "Africa",
+  "capital": "Harare",
+  "places": [
+   {
+    "name": "Victoria Falls",
+    "note": "",
+    "fee": "about ₹5,000 on the Zimbabwe side"
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   8,
+   9,
+   10,
+   11,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 6500,
+   "high": 14500
+  },
+  "transport": "Fly OR Tambo to Victoria Falls (about 2h, ₹10,000 to ₹18,000). Short road transfers link Livingstone, Victoria Falls and Kasane.",
+  "experiences": [
+   {
+    "name": "Victoria Falls Bridge bungee",
+    "note": "111 m",
+    "priceInr": 17000
+   },
+   {
+    "name": "Zambezi white water rafting",
+    "note": "Best Aug to Dec",
+    "priceInr": 8000
+   },
+   {
+    "name": "Flight of Angels",
+    "note": "Helicopter or microlight",
+    "priceInr": 12000
+   }
+  ],
+  "cautions": [
+   "Falls fullest Mar to May, lowest Sep to Dec",
+   "Budget about US$50 for visas; KAZA Univisa eligibility for Indians not confirmed"
+  ],
+  "neighbours": [
+   "Zambia",
+   "Botswana"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zimbabwe"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Zambia",
+  "trip": "M",
+  "region": "Africa",
+  "capital": "Lusaka",
+  "places": [
+   {
+    "name": "Victoria Falls",
+    "note": "Zambia side",
+    "fee": "about ₹1,750"
+   },
+   {
+    "name": "Mosi oa Tunya National Park",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Victoria Falls Bridge",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10,
+   11,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 6500,
+   "high": 14500
+  },
+  "transport": "Short road transfers link Livingstone, Victoria Falls and Kasane.",
+  "experiences": [
+   {
+    "name": "Devil's Pool",
+    "note": "About Sep to Dec, with breakfast",
+    "priceInr": 7000
+   },
+   {
+    "name": "Knife Edge Bridge walk",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Devil's Pool closed when the water is high (Mar to May)",
+   "Budget a Zambia e visa"
+  ],
+  "neighbours": [
+   "Zimbabwe",
+   "Botswana"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Zambia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Botswana",
+  "trip": "M",
+  "region": "Africa",
+  "capital": "Gaborone",
+  "places": [
+   {
+    "name": "Chobe National Park",
+    "note": "River safari",
+    "fee": "about ₹5,000 to ₹10,000"
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 6500,
+   "high": 14500
+  },
+  "transport": "Road Livingstone to Kasane about 70 km, 1h30, about ₹3,000 taxi.",
+  "experiences": [
+   {
+    "name": "Chobe river cruise",
+    "note": "",
+    "priceInr": 5000
+   },
+   {
+    "name": "Okavango Delta mokoro",
+    "note": "Separate trip, flood peak Jun to Aug",
+    "priceInr": null
+   },
+   {
+    "name": "Makgadikgadi salt pans quad bikes",
+    "note": "About Jun to Oct",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Botswana e visa at evisa.gov.bw"
+  ],
+  "neighbours": [
+   "Zambia",
+   "Zimbabwe",
+   "Namibia"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Botswana"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Namibia",
+  "trip": "M",
+  "region": "Africa",
+  "capital": "Windhoek",
+  "places": [
+   {
+    "name": "Sossusvlei",
+    "note": "Dead Vlei, Big Daddy dune",
+    "fee": ""
+   },
+   {
+    "name": "Etosha",
+    "note": "Safari about Jun to Oct",
+    "fee": ""
+   },
+   {
+    "name": "Independence Memorial Museum",
+    "note": "Windhoek",
+    "fee": ""
+   },
+   {
+    "name": "Christuskirche",
+    "note": "Windhoek",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 6500,
+   "high": 14500
+  },
+  "transport": "Fly in from Botswana; Swakopmund is 4 hours from Windhoek.",
+  "experiences": [
+   {
+    "name": "Big Daddy dune sunrise climb",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Swakopmund sandboarding and quad bikes",
+    "note": "If you extend",
+    "priceInr": null
+   },
+   {
+    "name": "Fish River Canyon",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "A visa for Namibia needs checking in advance"
+  ],
+  "neighbours": [
+   "Botswana"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Namibia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Seychelles",
+  "trip": "M",
+  "region": "Africa",
+  "capital": "Victoria",
+  "places": [
+   {
+    "name": "Vallee de Mai",
+    "note": "",
+    "fee": "about ₹2,100"
+   },
+   {
+    "name": "Anse Source d'Argent",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 9500,
+   "high": 17500
+  },
+  "transport": "Fly Windhoek to Seychelles; Seychelles to Mumbai is direct (about 4h30 to 6h, ₹20,000 to ₹35,000).",
+  "experiences": [
+   {
+    "name": "Coco de mer palms",
+    "note": "Vallee de Mai",
+    "priceInr": null
+   },
+   {
+    "name": "Aldabra tortoises",
+    "note": "Curieuse Island",
+    "priceInr": null
+   },
+   {
+    "name": "Morne Seychellois hike",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Costly: stay ₹8,000 to ₹15,000",
+   "Travel Authorisation about EUR 10.90, apply up to 10 days ahead"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Seychelles"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Egypt",
+  "trip": "N",
+  "region": "Africa",
+  "capital": "Cairo",
+  "places": [
+   {
+    "name": "Giza Pyramids",
+    "note": "",
+    "fee": "about ₹1,300"
+   },
+   {
+    "name": "Grand Egyptian Museum",
+    "note": "",
+    "fee": "about ₹3,200"
+   },
+   {
+    "name": "Valley of the Kings",
+    "note": "",
+    "fee": "about ₹1,700"
+   },
+   {
+    "name": "Karnak Temple",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Khan el Khalili",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   10,
+   11,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 4200,
+   "high": 8000
+  },
+  "transport": "Direct flights from Mumbai to Cairo. Overnight sleeper train to Luxor.",
+  "experiences": [
+   {
+    "name": "Hot air balloon over Luxor",
+    "note": "",
+    "priceInr": 7000
+   },
+   {
+    "name": "Camel ride at Giza",
+    "note": "",
+    "priceInr": 500
+   },
+   {
+    "name": "Nile felucca at Aswan",
+    "note": "If you extend",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Ramadan about 8 Feb to 8 Mar 2027",
+   "May to Sep is very hot (40C or more in Luxor)",
+   "Expect aggressive haggling"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Egypt"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Tunisia",
+  "trip": "N",
+  "region": "Africa",
+  "capital": "Tunis",
+  "places": [
+   {
+    "name": "Carthage",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Sidi Bou Said",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Tunis Medina",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Bardo Museum",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   3,
+   4,
+   5,
+   6,
+   9,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 4200,
+   "high": 8000
+  },
+  "transport": "Fly in from Egypt; home from Tunis to Mumbai via a hub. TGM tram links Tunis to Carthage and Sidi Bou Said.",
+  "experiences": [
+   {
+    "name": "Sahara camel trek at Douz",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Star Wars sets near Tozeur and Matmata",
+    "note": "If you extend south",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Visa from the embassy",
+   "The Lezard Rouge train is believed not running",
+   "Ramadan about 8 Feb to 8 Mar 2027"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Tunisia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Australia",
+  "trip": "O",
+  "region": "Oceania",
+  "capital": "Canberra",
+  "places": [
+   {
+    "name": "Sydney Opera House",
+    "note": "Tour",
+    "fee": "about ₹2,900"
+   },
+   {
+    "name": "Great Barrier Reef trip",
+    "note": "",
+    "fee": "₹14,000 and up"
+   },
+   {
+    "name": "Uluru",
+    "note": "",
+    "fee": "about ₹2,200 for a 3 day pass"
+   },
+   {
+    "name": "Bondi Beach",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Circular Quay",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   5,
+   10,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 11000,
+   "high": 19500
+  },
+  "transport": "Chennai connects through Singapore to Sydney. Fly Sydney to Auckland (about 3h, about ₹20,000 to ₹40,000).",
+  "experiences": [
+   {
+    "name": "Sydney BridgeClimb",
+    "note": "",
+    "priceInr": 17000
+   },
+   {
+    "name": "Bondi to Coogee coastal walk",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Skyrail and Kuranda Scenic Railway",
+    "note": "Cairns, if you extend",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Visitor visa subclass 600, AUD 250 (about ₹14,300), apply 1 to 2 months ahead"
+  ],
+  "neighbours": [
+   "New Zealand"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Australia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "New Zealand",
+  "trip": "O",
+  "region": "Oceania",
+  "capital": "Wellington",
+  "places": [
+   {
+    "name": "Hobbiton",
+    "note": "",
+    "fee": "about ₹6,600"
+   },
+   {
+    "name": "Sky Tower",
+    "note": "Auckland",
+    "fee": ""
+   },
+   {
+    "name": "Rotorua",
+    "note": "Zorbing",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   5,
+   10,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 11000,
+   "high": 19500
+  },
+  "transport": "Fly Sydney to Auckland. Rental cars are the best way to see the countryside. Auckland to Matamata is about 160 km, 2h (₹8,000 to ₹15,000 tour).",
+  "experiences": [
+   {
+    "name": "SkyJump from Auckland Sky Tower",
+    "note": "192 m",
+    "priceInr": 14000
+   },
+   {
+    "name": "Zorbing at Rotorua",
+    "note": "",
+    "priceInr": 3000
+   },
+   {
+    "name": "Kawarau Bridge bungee",
+    "note": "Queenstown, 43 m",
+    "priceInr": 16300
+   },
+   {
+    "name": "Shotover Jet",
+    "note": "Queenstown",
+    "priceInr": 10100
+   }
+  ],
+  "cautions": [
+   "Visitor visa about NZD 441 plus levy NZD 100 (about ₹23,000 to ₹28,000 in total; confirm on the INZ fee page)"
+  ],
+  "neighbours": [
+   "Australia"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/New_Zealand"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Samoa",
+  "trip": "O",
+  "region": "Oceania",
+  "capital": "Apia",
+  "places": [
+   {
+    "name": "To Sua Ocean Trench",
+    "note": "Apia is about 75 km, 1h45, about ₹4,000 taxi",
+    "fee": ""
+   },
+   {
+    "name": "Papaseea Sliding Rocks",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Robert Louis Stevenson Museum",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Lalomanu beach fale",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Small and remote: needs flights through Fiji or Auckland.",
+  "experiences": [
+   {
+    "name": "Swim in To Sua Ocean Trench",
+    "note": "Via a ladder",
+    "priceInr": null
+   },
+   {
+    "name": "Fire knife dance",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Avoid Jan to Mar (cyclone season)"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Samoa"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Fiji",
+  "trip": "O",
+  "region": "Oceania",
+  "capital": "Suva",
+  "places": [
+   {
+    "name": "Mamanuca Islands",
+    "note": "Island hopping, ferry about ₹3,000 to ₹6,000",
+    "fee": ""
+   },
+   {
+    "name": "Garden of the Sleeping Giant",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Sri Siva Subramaniya Temple",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Sigatoka sand dunes",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Visa free with a free visitor permit on arrival for up to 4 months. Ferry Port Denarau to the Mamanuca Islands (about 1h). Resorts cost ₹10,000 to ₹25,000 a night.",
+  "experiences": [
+   {
+    "name": "Beqa Lagoon shark dive",
+    "note": "Two tank trip",
+    "priceInr": 20000
+   },
+   {
+    "name": "Cloud 9 floating bar",
+    "note": "With transfers",
+    "priceInr": 6000
+   },
+   {
+    "name": "Upper Navua river rafting",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Kava ceremony",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Avoid Jan to Mar (cyclone season)"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Fiji"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Vanuatu",
+  "trip": "O",
+  "region": "Oceania",
+  "capital": "Port Vila",
+  "places": [
+   {
+    "name": "Mount Yasur volcano",
+    "note": "Tanna, a detour",
+    "fee": ""
+   },
+   {
+    "name": "Mele Cascades",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Hideaway Island",
+    "note": "Underwater post office",
+    "fee": ""
+   },
+   {
+    "name": "Port Vila Market",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Small and remote: needs flights through Fiji or Auckland. Fly home from Port Vila to Bengaluru (about 16h to 24h with stops).",
+  "experiences": [
+   {
+    "name": "Night walk to the Yasur rim",
+    "note": "With flights",
+    "priceInr": 8000
+   },
+   {
+    "name": "Land diving on Pentecost",
+    "note": "Saturdays, about Apr to Jun",
+    "priceInr": 7000
+   },
+   {
+    "name": "SS President Coolidge dive",
+    "note": "Espiritu Santo",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Avoid Jan to Mar (cyclone season)",
+   "Land diving is a respectful visit, remote"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Vanuatu"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Bahamas",
+  "trip": "P",
+  "region": "Central America and Caribbean",
+  "capital": "Nassau",
+  "places": [
+   {
+    "name": "Queen's Staircase",
+    "note": "Nassau",
+    "fee": ""
+   },
+   {
+    "name": "Cable Beach",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Atlantis",
+    "note": "Skip unless you want it",
+    "fee": "day pass about US$150 and up"
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 10500,
+   "high": 22000
+  },
+  "transport": "Fly Miami to Nassau; island hopping flights are expensive, so group close islands.",
+  "experiences": [
+   {
+    "name": "Swim with the pigs at Exuma",
+    "note": "",
+    "priceInr": 12000
+   },
+   {
+    "name": "Junkanoo parade",
+    "note": "26 Dec and 1 Jan",
+    "priceInr": null
+   },
+   {
+    "name": "Leap of Faith slide, Atlantis",
+    "note": "",
+    "priceInr": 13000
+   }
+  ],
+  "cautions": [
+   "Hurricane season Jun to Nov, highest risk Aug to Oct: buy flexible tickets and insurance"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bahamas"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Jamaica",
+  "trip": "P",
+  "region": "Central America and Caribbean",
+  "capital": "Kingston",
+  "places": [
+   {
+    "name": "Dunn's River Falls",
+    "note": "",
+    "fee": "about ₹2,100"
+   },
+   {
+    "name": "Blue Mountains",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Bob Marley Museum",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 10500,
+   "high": 22000
+  },
+  "transport": "Fly between islands; island hopping flights are expensive.",
+  "experiences": [
+   {
+    "name": "Rainforest bobsled at Mystic Mountain",
+    "note": "Ocho Rios",
+    "priceInr": 5000
+   },
+   {
+    "name": "Blue Mountain coffee tour",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Negril cliff sunsets",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Hurricane season Jun to Nov, highest risk Aug to Oct: buy flexible tickets and insurance"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jamaica"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Dominican Rep.",
+  "trip": "P",
+  "region": "Central America and Caribbean",
+  "capital": "Santo Domingo",
+  "places": [
+   {
+    "name": "Zona Colonial",
+    "note": "Santo Domingo",
+    "fee": ""
+   },
+   {
+    "name": "Alcazar de Colon",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Punta Cana beaches",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 10500,
+   "high": 22000
+  },
+  "transport": "Fly between islands; island hopping flights are expensive.",
+  "experiences": [
+   {
+    "name": "27 Charcos waterfalls at Damajagua",
+    "note": "Day trip from Puerto Plata",
+    "priceInr": 3500
+   },
+   {
+    "name": "Humpback whale watching at Samana",
+    "note": "About Jan to Mar",
+    "priceInr": null
+   },
+   {
+    "name": "Kitesurfing at Cabarete",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Hurricane season Jun to Nov, highest risk Aug to Oct: buy flexible tickets and insurance"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dominican_Republic"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Barbados",
+  "trip": "P",
+  "region": "Central America and Caribbean",
+  "capital": "Bridgetown",
+  "places": [
+   {
+    "name": "Oistins Fish Fry",
+    "note": "Friday",
+    "fee": ""
+   },
+   {
+    "name": "Bridgetown",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Harrison's Cave",
+    "note": "Tram",
+    "fee": "about ₹3,500"
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 10500,
+   "high": 22000
+  },
+  "transport": "Fly between islands; island hopping flights are expensive. Barbados to Saint Lucia is a flight only.",
+  "experiences": [
+   {
+    "name": "Swim with turtles at Carlisle Bay",
+    "note": "",
+    "priceInr": 3000
+   },
+   {
+    "name": "Mount Gay rum tour",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Harrison's Cave tram",
+    "note": "",
+    "priceInr": 3500
+   }
+  ],
+  "cautions": [
+   "Hurricane season Jun to Nov, highest risk Aug to Oct: buy flexible tickets and insurance"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Barbados"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Trinidad and Tobago",
+  "trip": "P",
+  "region": "Central America and Caribbean",
+  "capital": "Port of Spain",
+  "places": [
+   {
+    "name": "Maracas Bay",
+    "note": "Bake and shark",
+    "fee": ""
+   },
+   {
+    "name": "Queen's Park Savannah",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Pitch Lake",
+    "note": "La Brea",
+    "fee": ""
+   },
+   {
+    "name": "Caroni scarlet ibis tour",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 10500,
+   "high": 22000
+  },
+  "transport": "Fly between islands; Caribbean Airlines links to nearby islands.",
+  "experiences": [
+   {
+    "name": "Carnival",
+    "note": "Monday and Tuesday before Ash Wednesday, peak prices",
+    "priceInr": null
+   },
+   {
+    "name": "Scarlet ibis boat tour at Caroni",
+    "note": "Sunset",
+    "priceInr": null
+   },
+   {
+    "name": "Nylon Pool, Tobago",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Hurricane season Jun to Nov, highest risk Aug to Oct: buy flexible tickets and insurance",
+   "Carnival (Feb or Mar) and Christmas are expensive"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Panama",
+  "trip": "P",
+  "region": "Central America and Caribbean",
+  "capital": "Panama City",
+  "places": [
+   {
+    "name": "Miraflores Locks",
+    "note": "",
+    "fee": "about ₹1,700"
+   },
+   {
+    "name": "Casco Viejo",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Cinta Costera",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 10500,
+   "high": 22000
+  },
+  "transport": "Bus Panama City to San Jose in Costa Rica (16 to 17 hours, about ₹5,000 to ₹6,100); carry a ticket out of Costa Rica and compare with a cheap flight.",
+  "experiences": [
+   {
+    "name": "Panama Canal Railway to Colon",
+    "note": "About 1 hour, weekdays only",
+    "priceInr": 2200
+   },
+   {
+    "name": "San Blas islands",
+    "note": "Guna people",
+    "priceInr": null
+   },
+   {
+    "name": "Volcan Baru dawn climb",
+    "note": "Night start",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Hurricane season Jun to Nov, highest risk Aug to Oct: buy flexible tickets and insurance",
+   "Entry rules depend on your US and Canada visa history"
+  ],
+  "neighbours": [
+   "Costa Rica"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Panama"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Costa Rica",
+  "trip": "P",
+  "region": "Central America and Caribbean",
+  "capital": "San Jose",
+  "places": [
+   {
+    "name": "Arenal Volcano",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Poas Volcano",
+    "note": "Taxi about 55 km, ₹4,000",
+    "fee": ""
+   },
+   {
+    "name": "National Theatre of Costa Rica",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 10500,
+   "high": 22000
+  },
+  "transport": "Bus from Panama City (16 to 17 hours). Taxi San Jose to Poas Volcano about 1h30 (₹4,000).",
+  "experiences": [
+   {
+    "name": "Monteverde zipline and canopy tour",
+    "note": "",
+    "priceInr": 4500
+   },
+   {
+    "name": "Pacuare river rafting",
+    "note": "",
+    "priceInr": 6000
+   },
+   {
+    "name": "Tortuguero green turtles",
+    "note": "About Jul to Oct",
+    "priceInr": null
+   },
+   {
+    "name": "Manuel Antonio sloths",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Indians need a multiple entry US visa with at least 6 months left",
+   "Hurricane season Jun to Nov, highest risk Aug to Oct: buy flexible tickets and insurance"
+  ],
+  "neighbours": [
+   "Panama"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Costa_Rica"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Mexico",
+  "trip": "P",
+  "region": "North America",
+  "capital": "Mexico City",
+  "places": [
+   {
+    "name": "Chichen Itza",
+    "note": "",
+    "fee": "about ₹3,000 to ₹3,500"
+   },
+   {
+    "name": "Teotihuacan",
+    "note": "Bus about ₹300 to ₹600",
+    "fee": ""
+   },
+   {
+    "name": "Zocalo",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "National Museum of Anthropology",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 10500,
+   "high": 22000
+  },
+  "transport": "Bus Mexico City to Teotihuacan (about 1h15). Fly Mexico City to Cancun (about 2h30, ₹5,000 to ₹9,000), home from Cancun.",
+  "experiences": [
+   {
+    "name": "Teotihuacan hot air balloon",
+    "note": "",
+    "priceInr": 10000
+   },
+   {
+    "name": "Lucha libre at Arena Mexico",
+    "note": "Friday",
+    "priceInr": 1500
+   },
+   {
+    "name": "Cenote swim",
+    "note": "Yucatan",
+    "priceInr": 800
+   },
+   {
+    "name": "Day of the Dead",
+    "note": "31 Oct to 2 Nov, crowds",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Hurricane season Jun to Nov, highest risk Aug to Oct: buy flexible tickets and insurance",
+   "Day of the Dead draws crowds"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mexico"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Colombia",
+  "trip": "Q",
+  "region": "South America",
+  "capital": "Bogota",
+  "places": [
+   {
+    "name": "Castillo San Felipe",
+    "note": "Cartagena",
+    "fee": "about ₹700"
+   },
+   {
+    "name": "Cartagena Old Town",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Monserrate",
+    "note": "Bogota",
+    "fee": ""
+   },
+   {
+    "name": "La Candelaria",
+    "note": "Bogota",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "dailyBudgetInr": {
+   "low": 5800,
+   "high": 13500
+  },
+  "transport": "Flights from India usually connect through Doha, Dubai or Istanbul. Fly between cities (Cartagena to Quito).",
+  "experiences": [
+   {
+    "name": "Medellin Metrocable",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Salt Cathedral at Zipaquira",
+    "note": "",
+    "priceInr": 1500
+   },
+   {
+    "name": "Cocora Valley",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Lost City trek",
+    "note": "4 to 6 days",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "US advisory Level 3: check it"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Colombia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Ecuador",
+  "trip": "Q",
+  "region": "South America",
+  "capital": "Quito",
+  "places": [
+   {
+    "name": "Quito Old Town",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "TeleferiQo",
+    "note": "",
+    "fee": "about ₹1,500"
+   },
+   {
+    "name": "Mitad del Mundo",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Galapagos",
+    "note": "Optional extra",
+    "fee": "park fee about US$200 (₹17,000)"
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "dailyBudgetInr": {
+   "low": 5800,
+   "high": 13500
+  },
+  "transport": "Visa required in advance. Quito to Lima is possible by bus but about 30 hours.",
+  "experiences": [
+   {
+    "name": "Devil's Nose railway at Alausi",
+    "note": "Thursday to Sunday only since Jun 2026, about US$30",
+    "priceInr": null
+   },
+   {
+    "name": "Cotopaxi day hike",
+    "note": "",
+    "priceInr": 5000
+   },
+   {
+    "name": "Banos swing and zipline",
+    "note": "",
+    "priceInr": 800
+   }
+  ],
+  "cautions": [
+   "Visa required in advance"
+  ],
+  "neighbours": [
+   "Peru"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Ecuador"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Peru",
+  "trip": "Q",
+  "region": "South America",
+  "capital": "Lima",
+  "places": [
+   {
+    "name": "Machu Picchu",
+    "note": "",
+    "fee": "about ₹3,500, ₹4,600 with Huayna Picchu, train ₹3,000 to ₹7,500 one way"
+   },
+   {
+    "name": "Larco Museum",
+    "note": "Lima",
+    "fee": ""
+   },
+   {
+    "name": "Plaza de Armas Cusco",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Pisac",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "dailyBudgetInr": {
+   "low": 5800,
+   "high": 13500
+  },
+  "transport": "Fly Lima to Cusco (about 1h30, about ₹4,000 to ₹8,000), then train Ollantaytambo to Aguas Calientes (about 1h30).",
+  "experiences": [
+   {
+    "name": "Miraflores paragliding",
+    "note": "",
+    "priceInr": 6000
+   },
+   {
+    "name": "Walk the tracks from Hidroelectrica to Aguas Calientes",
+    "note": "About 10 km",
+    "priceInr": null
+   },
+   {
+    "name": "Huacachina sandboarding and dune buggy",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Rainbow Mountain",
+    "note": "About 5,000 m, altitude sickness risk",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Book Machu Picchu permits months ahead",
+   "Nov to Mar rainy; Inca Trail closes in Feb"
+  ],
+  "neighbours": [
+   "Ecuador"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Peru"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Argentina",
+  "trip": "Q",
+  "region": "South America",
+  "capital": "Buenos Aires",
+  "places": [
+   {
+    "name": "Iguazu Falls",
+    "note": "Argentine side",
+    "fee": "about ₹3,000"
+   },
+   {
+    "name": "Recoleta Cemetery",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Plaza de Mayo",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   9,
+   10,
+   11,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 5800,
+   "high": 13500
+  },
+  "transport": "Fly Buenos Aires to Iguazu (about 2h, about ₹6,000 to ₹12,000). Colonia ferry to Uruguay is an optional add on.",
+  "experiences": [
+   {
+    "name": "Gran Aventura boat ride under Iguazu",
+    "note": "",
+    "priceInr": 9700
+   },
+   {
+    "name": "Tango milonga",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Boca Juniors match",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "Tren a las Nubes",
+    "note": "Check it is running",
+    "priceInr": null
+   }
+  ],
+  "cautions": [],
+  "neighbours": [
+   "Brazil"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Argentina"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Brazil",
+  "trip": "Q",
+  "region": "South America",
+  "capital": "Brasilia",
+  "places": [
+   {
+    "name": "Christ the Redeemer",
+    "note": "",
+    "fee": "about ₹1,700"
+   },
+   {
+    "name": "Iguacu Falls Brazil",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 5800,
+   "high": 13500
+  },
+  "transport": "Bus Puerto Iguazu to Foz do Iguacu (about 20 km, 1h, ₹600 to ₹1,000).",
+  "experiences": [
+   {
+    "name": "Hang glide from Pedra Bonita",
+    "note": "",
+    "priceInr": 9000
+   },
+   {
+    "name": "Helicopter over Iguacu Falls",
+    "note": "",
+    "priceInr": 10000
+   },
+   {
+    "name": "Sugarloaf cable car",
+    "note": "",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Indians need a Brazilian visa even with a US visa, or keep to the Argentine side of Iguazu",
+   "Avoid Carnival (Feb or Mar) and Christmas to New Year"
+  ],
+  "neighbours": [
+   "Argentina"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Brazil"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Chile",
+  "trip": "Q",
+  "region": "South America",
+  "capital": "Santiago",
+  "places": [
+   {
+    "name": "Torres del Paine",
+    "note": "",
+    "fee": "park fee about ₹3,000 to ₹4,000"
+   },
+   {
+    "name": "Plaza de Armas Santiago",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Cerro San Cristobal",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Atacama desert",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   9,
+   10,
+   11,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 5800,
+   "high": 13500
+  },
+  "transport": "Fly home from Santiago to Delhi (about 24h to 30h with stops). Easter Island is a separate flight from Santiago.",
+  "experiences": [
+   {
+    "name": "Atacama stargazing",
+    "note": "",
+    "priceInr": null
+   },
+   {
+    "name": "El Tatio geysers at sunrise",
+    "note": "About 4,300 m",
+    "priceInr": null
+   },
+   {
+    "name": "Torres del Paine W trek",
+    "note": "5 days, about Nov to Mar",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Check visa rules for Indians"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Chile"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Kosovo",
+  "trip": "R",
+  "region": "Europe",
+  "capital": "Pristina",
+  "places": [
+   {
+    "name": "Pristina old town",
+    "note": "Newborn monument",
+    "fee": ""
+   },
+   {
+    "name": "Prizren old bridge and fortress",
+    "note": "Day trip, entry fee not confirmed",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "dailyBudgetInr": null,
+  "transport": "Bus Skopje to Pristina (90 km, about 2h, about ₹900 to ₹1,070); bus Pristina to Sofia about ₹3,400 to ₹3,900.",
+  "experiences": [
+   {
+    "name": "Prizren day trip",
+    "note": "Price not confirmed",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Needs a visa, but a valid multiple entry Schengen visa gives visa free entry up to 15 days"
+  ],
+  "neighbours": [
+   "North Macedonia",
+   "Bulgaria"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Kosovo"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Bulgaria",
+  "trip": "R",
+  "region": "Europe",
+  "capital": "Sofia",
+  "places": [
+   {
+    "name": "Alexander Nevsky Cathedral",
+    "note": "Sofia",
+    "fee": "free"
+   },
+   {
+    "name": "Seven Rila Lakes",
+    "note": "Chairlift EUR 16 return, shuttle EUR 30 return, no Mondays",
+    "fee": ""
+   },
+   {
+    "name": "Rila Monastery museum",
+    "note": "",
+    "fee": "EUR 4.50"
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 3700,
+   "high": 6700
+  },
+  "transport": "Bus Pristina to Sofia (about EUR 36). Sofia to Bucharest by bus (about ₹2,500 to ₹3,900); Sofia to Bucharest rail has had track works since 2024.",
+  "experiences": [
+   {
+    "name": "Seven Rila Lakes chairlift and hike",
+    "note": "",
+    "priceInr": 4900
+   },
+   {
+    "name": "Black Sea coast (Varna)",
+    "note": "Not priced",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Schengen visa needed",
+   "Rila trails are snowy outside about Jul to Sep"
+  ],
+  "neighbours": [
+   "Kosovo",
+   "Romania"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Bulgaria",
+   "https://bulgariaguidebook.com"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Romania",
+  "trip": "R",
+  "region": "Europe",
+  "capital": "Bucharest",
+  "places": [
+   {
+    "name": "Bran Castle",
+    "note": "Brasov",
+    "fee": "from RON 40 official"
+   },
+   {
+    "name": "Palace of Parliament",
+    "note": "Bucharest",
+    "fee": "fee not confirmed"
+   },
+   {
+    "name": "Peles area",
+    "note": "Fee not confirmed",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 3700,
+   "high": 6700
+  },
+  "transport": "Bus or train Sofia to Bucharest (about 6.5 to 7h15). Fly Bucharest to Larnaca (2h20, from RON 139).",
+  "experiences": [
+   {
+    "name": "Bran Castle and Brasov",
+    "note": "Guided Fast Pass from RON 110 to 150",
+    "priceInr": 3462
+   }
+  ],
+  "cautions": [
+   "Schengen visa needed",
+   "Bran Castle Halloween event 24 Oct to 1 Nov 2026 brings crowds"
+  ],
+  "neighbours": [
+   "Bulgaria"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Romania",
+   "https://www.bran-castle.com"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Cyprus",
+  "trip": "R",
+  "region": "Europe",
+  "capital": "Nicosia",
+  "places": [
+   {
+    "name": "Kolossi Castle",
+    "note": "Larnaca, fee not confirmed",
+    "fee": ""
+   },
+   {
+    "name": "Troodos mountains",
+    "note": "Day trip, fees not confirmed",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 3700,
+   "high": 6700
+  },
+  "transport": "Fly Bucharest to Larnaca (2h20, Wizz Air, fares from RON 139).",
+  "experiences": [
+   {
+    "name": "Troodos mountains day",
+    "note": "Fees not confirmed",
+    "priceInr": null
+   }
+  ],
+  "cautions": [
+   "Accepts a double or multiple entry Schengen visa for up to 90 days; single entry visas do not work",
+   "Hot and busy in Jul and Aug"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Cyprus",
+   "https://www.gov.cy"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Saint Lucia",
+  "trip": "S",
+  "region": "Central America and Caribbean",
+  "capital": "Castries",
+  "places": [
+   {
+    "name": "Gros Piton",
+    "note": "4 hour hike with guide",
+    "fee": "USD 50 permit"
+   },
+   {
+    "name": "Soufriere Pitons",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Sulphur Springs",
+    "note": "Fee not confirmed",
+    "fee": ""
+   },
+   {
+    "name": "Castries market",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "dailyBudgetInr": {
+   "low": 6800,
+   "high": 12000
+  },
+  "transport": "Fly Bridgetown to Castries (45 min). Ferry L'Express des Iles runs Castries to Roseau via Martinique (about 4h30, EUR 69 to 99).",
+  "experiences": [
+   {
+    "name": "Gros Piton hike",
+    "note": "USD 50 with guide; Petit Piton USD 100",
+    "priceInr": 4760
+   }
+  ],
+  "cautions": [
+   "Entry rule sources conflict; confirm with stlucia.org",
+   "Hurricane season 1 Jun to 30 Nov, peak mid Sep to Oct",
+   "Pay EC$33 sea departure tax at the counter"
+  ],
+  "neighbours": [
+   "Dominica"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saint_Lucia"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Saint Vincent and the Grenadines",
+  "trip": "S",
+  "region": "Central America and Caribbean",
+  "capital": "Kingstown",
+  "places": [
+   {
+    "name": "Kingstown",
+    "note": "La Soufriere trail or Fort Charlotte, fees not confirmed",
+    "fee": ""
+   },
+   {
+    "name": "Bequia",
+    "note": "Day trip by ferry from Kingstown, EC$25 each way",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "dailyBudgetInr": {
+   "low": 6800,
+   "high": 12000
+  },
+  "transport": "Flights only between Saint Lucia, Saint Vincent and Grenada; no verified passenger ferry. Ferry Kingstown to Bequia is about 1h (EC$25).",
+  "experiences": [
+   {
+    "name": "Bequia day trip",
+    "note": "Ferry EC$25 each way",
+    "priceInr": 880
+   }
+  ],
+  "cautions": [
+   "Hurricane season 1 Jun to 30 Nov"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Grenada",
+  "trip": "S",
+  "region": "Central America and Caribbean",
+  "capital": "St. George's",
+  "places": [
+   {
+    "name": "Molinere Underwater Sculpture Park",
+    "note": "",
+    "fee": "USD 93 to 104 tour, plus USD 3.50 park fee"
+   },
+   {
+    "name": "St George's",
+    "note": "",
+    "fee": ""
+   },
+   {
+    "name": "Grand Anse",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4
+  ],
+  "dailyBudgetInr": {
+   "low": 6800,
+   "high": 12000
+  },
+  "transport": "Fly Saint Vincent to Grenada (no ferry confirmed). Optional ferry to Carriacou: Osprey Lines daily, about 2h, EC$80 one way.",
+  "experiences": [
+   {
+    "name": "Underwater Sculpture Park snorkel",
+    "note": "",
+    "priceInr": 5700
+   },
+   {
+    "name": "Carriacou ferry",
+    "note": "Osprey or Dolly C car ferry",
+    "priceInr": 2800
+   }
+  ],
+  "cautions": [
+   "Hurricane season 1 Jun to 30 Nov"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Grenada"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Dominica",
+  "trip": "S",
+  "region": "Central America and Caribbean",
+  "capital": "Roseau",
+  "places": [
+   {
+    "name": "Boiling Lake",
+    "note": "6 to 8 hour hike, guide required",
+    "fee": "from EC$135"
+   },
+   {
+    "name": "Trafalgar Falls",
+    "note": "Fee not confirmed",
+    "fee": ""
+   },
+   {
+    "name": "Champagne Reef",
+    "note": "Snorkel, fee not confirmed",
+    "fee": ""
+   },
+   {
+    "name": "Roseau",
+    "note": "",
+    "fee": ""
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "dailyBudgetInr": {
+   "low": 6800,
+   "high": 12000
+  },
+  "transport": "Ferry L'Express des Iles from Castries to Roseau via Martinique (about 4h30, EUR 69 to 99). Sailings can be cancelled for weather.",
+  "experiences": [
+   {
+    "name": "Boiling Lake hike",
+    "note": "Guide required",
+    "priceInr": 4750
+   }
+  ],
+  "cautions": [
+   "Hurricane season 1 Jun to 30 Nov",
+   "Ferry schedules can change without notice"
+  ],
+  "neighbours": [
+   "Saint Lucia"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Dominica"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "plan"
+ },
+ {
+  "country": "Malaysia",
+  "region": "Asia",
+  "capital": "Kuala Lumpur",
+  "trip": "H",
+  "places": [
+   {
+    "name": "Kuala Lumpur Petronas Towers and KLCC park",
+    "note": "Icon plus free park and fountain show; use the skybridge ticket only if cheap",
+    "fee": "Observation deck about MYR 98 UNVERIFIED; park free"
+   },
+   {
+    "name": "Batu Caves",
+    "note": "Hindu cave temple, monkeys, 272 steps, KTM Komuter train from KL Sentral",
+    "fee": "Free; Dark Cave tour about MYR 35 UNVERIFIED"
+   },
+   {
+    "name": "George Town, Penang",
+    "note": "UNESCO street art and hawker food, free CAT bus",
+    "fee": "Free to walk; Penang Hill funicular about MYR 30 UNVERIFIED"
+   },
+   {
+    "name": "Melaka historic city",
+    "note": "Dutch square, river, night market on Jonker Street",
+    "fee": "Mostly free; museums about MYR 5 to 20 UNVERIFIED"
+   },
+   {
+    "name": "Taman Negara",
+    "note": "Ancient rainforest, canopy walk, jungle trekking",
+    "fee": "Entry permit about MYR 1 to 5, canopy walk about MYR 5 to 10 UNVERIFIED"
+   },
+   {
+    "name": "Cameron Highlands",
+    "note": "Tea estates and cool air; bus from KL",
+    "fee": "Tea estate entry free, tea paid; cost UNVERIFIED"
+   },
+   {
+    "name": "Kuala Selangor fireflies",
+    "note": "Unusual: boat trip among fireflies at night",
+    "fee": "About MYR 15 to 25 per person UNVERIFIED"
+   },
+   {
+    "name": "Langkawi",
+    "note": "Island with cable car and mangrove tours, duty free",
+    "fee": "SkyCab about MYR 60 to 100 UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   2,
+   3,
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "dailyBudgetInr": {
+   "low": 2500,
+   "high": 4500
+  },
+  "transport": "Entry: KUL (AirAsia hub), Penang, Langkawi, Kota Kinabalu. Use KL MRT/LRT/Monorail with Touch n Go card or MyRapid app, KTM Komuter, free GoKL city bus, Grab, ETS intercity train, long distance buses via TBS terminal (cheap, comfortable). Ferry to Langkawi from Kuala Perlis/Kuala Kedah.",
+  "experiences": [],
+  "cautions": [
+   "Strict drug laws, death penalty for trafficking; vaping has rules and state bans; carry passport copy",
+   "Dress modestly in mosques and Kelantan/Terengganu; alcohol costly and limited in some states",
+   "Taxi and Grab surge scams at KUL; always use metered or app fare; keep MDAC receipt"
+  ],
+  "neighbours": [
+   "Singapore",
+   "Thailand",
+   "Indonesia",
+   "Brunei"
+  ],
+  "sources": [
+   "https://www.kln.gov.my/web/ind_new-delhi/requirement_foreigner",
+   "https://www.ey.com/en_gl/technical/tax-alerts/malaysia-extends-visa-exemption-period-for-india-and-china-nationals"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "research",
+  "notes": "Land via Johor Bahru causeway to Singapore (bus/train), KTM or bus to Hat Yai Thailand, ferry from Penang/Melaka to Indonesia (Sumatra), Kuching to Brunei by bus. Singapore needs its own visa for Indians. MDAC only; no embassy fee. Best months low budget: [2, 3, 5, 6, 9]; best weather: [2, 3, 6, 7, 8]. Warnings: West coast wet Apr to Oct monsoon peaks Sep to Oct; east coast (Perhentian, Taman Negara) monsoon Nov to Feb and many islands close; haze Aug to Sep possible; flash floods Nov to Jan. Budget pieces: Stay hostel or budget hotel INR 1,000 to 2,200; food INR 600 to 1,200; local transport INR 300 to 600; sights INR 300 to 500 (estimate) MEA: UNVERIFIED: MEA lists no travel advisory for Malaysia on https://www.mea.gov.in/travel-advisories (Tavily snippet shows list of other countries); Indian High Commission Kuala Lumpur issues occasional notices."
+ },
+ {
+  "country": "Singapore",
+  "region": "Asia",
+  "capital": "Singapore",
+  "trip": "H",
+  "places": [
+   {
+    "name": "Gardens by the Bay",
+    "note": "Supertree grove, free outdoor area at night light show",
+    "fee": "Outdoor free; domes about SGD 59 (INR 4,400) UNVERIFIED"
+   },
+   {
+    "name": "Little India and Chinatown",
+    "note": "Hawker food, temples (Sri Veeramakaliamman), Tekka Centre",
+    "fee": "Free; meals SGD 4 to 7"
+   },
+   {
+    "name": "Marina Bay and Merlion",
+    "note": "Skyline walk, Helix Bridge, Spectra show",
+    "fee": "Free"
+   },
+   {
+    "name": "Pulau Ubin",
+    "note": "Rustic island by bumboat, cycling, mangroves",
+    "fee": "Bumboat about SGD 4 to 5 each way; bike hire about SGD 10 to 15 UNVERIFIED"
+   },
+   {
+    "name": "Singapore Botanic Gardens",
+    "note": "UNESCO garden, Orchid Garden",
+    "fee": "Gardens free; National Orchid Garden about SGD 15 UNVERIFIED"
+   },
+   {
+    "name": "Southern Ridges and Henderson Waves",
+    "note": "Free canopy and bridge walk",
+    "fee": "Free"
+   },
+   {
+    "name": "Sentosa beaches",
+    "note": "Beaches and Siloso; walk over boardwalk to save fare",
+    "fee": "Beaches free; Sentosa entry via Express about SGD 4 UNVERIFIED"
+   },
+   {
+    "name": "Night Safari or Haw Par Villa",
+    "note": "Unusual: free hell themed sculpture park Haw Par Villa; Night Safari is pricey",
+    "fee": "Haw Par Villa free; Night Safari about SGD 55 UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   2,
+   3,
+   4,
+   6,
+   7,
+   8
+  ],
+  "dailyBudgetInr": {
+   "low": 6500,
+   "high": 10000
+  },
+  "transport": "Entry: Changi (SIN), Woodlands and Tuas land checkpoints from Johor Bahru. MRT, buses, EZ-Link or tap with bank card (SimplyGo), Tourist Day pass about SGD 10 to 16 UNVERIFIED; taxis expensive.",
+  "experiences": [],
+  "cautions": [
+   "Chewing gum import ban, vaping illegal, littering fines, strict drug laws with death penalty",
+   "Do not drink alcohol in public after 10:30 pm (liquor control hours) and only in licensed places",
+   "Drones need permits; no eating or drinking on MRT; jaywalking fines"
+  ],
+  "neighbours": [
+   "Malaysia",
+   "Indonesia"
+  ],
+  "sources": [
+   "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements",
+   "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/sg-arrival-card"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "research",
+  "notes": "Cheap land route: bus 170 or Causeway Link from Woodlands to Johor Bahru, KTM Shuttle Tebrau. Ferry from HarbourFront/Tanah Merah to Batam and Bintan (Indonesia): Indonesia visa on arrival status for Indians not checked. Visa requirement is a major cost item; budget time to apply. Best months low budget: [2, 3, 6]; best weather: [2, 3, 4, 7, 8]. Warnings: Humid all year; heavy rain Nov to Jan northeast monsoon; haze from Indonesian fires Aug to Oct possible; no typhoons. Budget pieces: Hostel dorm or budget room INR 3,000 to 5,500; hawker meals INR 800 to 1,500; MRT/bus INR 400 to 700; sights INR 300 to 1,500 (estimate) MEA: UNVERIFIED: no MEA advisory found in search; check Indian High Commission Singapore."
+ },
+ {
+  "country": "Nepal",
+  "region": "Asia",
+  "capital": "Kathmandu",
+  "trip": "H",
+  "places": [
+   {
+    "name": "Kathmandu Durbar Square and Swayambhunath",
+    "note": "Old palaces, stupa with monkeys",
+    "fee": "Durbar Square about NPR 1,000 for foreigners (Indians pay SAARC rate about NPR 150 UNVERIFIED)"
+   },
+   {
+    "name": "Pashupatinath and Boudhanath",
+    "note": "Cremation ghats and Tibetan stupa",
+    "fee": "Pashupatinath about NPR 100 for Indians UNVERIFIED; Boudhanath about NPR 400 UNVERIFIED"
+   },
+   {
+    "name": "Pokhara and Phewa lake",
+    "note": "Lake, paragliding, Peace Stupa, cheap hostels",
+    "fee": "Boat about NPR 300 to 500; paragliding about NPR 10,000 to 12,000 UNVERIFIED"
+   },
+   {
+    "name": "Chitwan National Park",
+    "note": "Rhinos and jungle safari near Sauraha",
+    "fee": "Park permit about NPR 1,000 for SAARC UNVERIFIED"
+   },
+   {
+    "name": "Annapurna Poon Hill trek",
+    "note": "Short 4 to 5 day trek, tea houses",
+    "fee": "ACAP permit about NPR 1,000 SAARC UNVERIFIED; TIMS rules change, UNVERIFIED"
+   },
+   {
+    "name": "Bhaktapur and Patan",
+    "note": "Newari medieval towns, pottery",
+    "fee": "Bhaktapur entry about NPR 500 for SAARC UNVERIFIED"
+   },
+   {
+    "name": "Lumbini",
+    "note": "Buddha birthplace, monastery zone",
+    "fee": "Entry about NPR 200 SAARC UNVERIFIED"
+   },
+   {
+    "name": "Kathmandu to Nagarkot or Bandipur village",
+    "note": "Unusual: Himalayan sunrise ridge, Newari hill town",
+    "fee": "Free to low cost"
+   }
+  ],
+  "bestMonths": [
+   3,
+   4,
+   5,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 1800,
+   "high": 3500
+  },
+  "transport": "Entry: TIA Kathmandu, Pokhara and Bhairahawa airports; land crossings Raxaul-Birgunj, Sunauli-Bhairahawa, Banbasa-Mahendranagar, Jogbani-Biratnagar. Microbuses, tourist buses Kathmandu to Pokhara (about NPR 800 to 1,500 UNVERIFIED), local buses, inDrive and Pathao ride apps, safa tempo electric three wheelers.",
+  "experiences": [],
+  "cautions": [
+   "Mountain weather and altitude sickness; use licensed guides and insurance; check road landslide news",
+   "Cannabis is illegal despite appearances; do not carry drugs; do not fly drones in national parks or near airports without permit",
+   "Scams: fake trekking agencies, taxis without meter; tipping 10 percent customary for guides"
+  ],
+  "neighbours": [
+   "India",
+   "China (Tibet)"
+  ],
+  "sources": [
+   "https://www.mha.gov.in/PDF_Other/AnnexI_01022018.pdf",
+   "https://www.goindigo.in/information/visa-information/nepal-np-visa.html"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "research",
+  "notes": "Only India border is open by land for ordinary passport holders; Tibet needs Chinese visa and permits (not checked). Easy 'second country' from India by bus or train to border towns. Nepal is the cheapest passport stamp on this list. Best months low budget: [3, 4, 5, 10, 11]; best weather: [10, 11, 3, 4]. Warnings: Monsoon Jun to Sep: landslides on highways, leeches, flight delays at Lukla; heat in Terai Apr to Jun; earthquake zone; trekking cold Dec to Feb above 3,000 m. Budget pieces: Guesthouse INR 700 to 1,800; dal bhat and cafes INR 500 to 1,000; local bus or microbus INR 150 to 400; sights INR 200 to 500 (estimate, Indians pay lower SAARC rates) MEA: UNVERIFIED: no MEA advisory found; Indian Embassy Kathmandu issues notices on border and events. Check mea.gov.in travel advisories."
+ },
+ {
+  "country": "Thailand",
+  "region": "Asia",
+  "capital": "Bangkok",
+  "trip": "H",
+  "places": [
+   {
+    "name": "Bangkok Grand Palace and Wat Pho",
+    "note": "Royal palace and reclining Buddha",
+    "fee": "Grand Palace THB 500 (INR 1,400); Wat Pho about THB 300 UNVERIFIED"
+   },
+   {
+    "name": "Chatuchak market and Chinatown Yaowarat",
+    "note": "Street food and weekend market",
+    "fee": "Free; food THB 40 to 120"
+   },
+   {
+    "name": "Chiang Mai old city and temples",
+    "note": "Doi Suthep, night bazaar, cooking classes",
+    "fee": "Doi Suthep about THB 50 for foreigners UNVERIFIED"
+   },
+   {
+    "name": "Ayutthaya",
+    "note": "Ruined capital by train from Bangkok",
+    "fee": "Train third class about THB 20; temple tickets THB 50 each UNVERIFIED"
+   },
+   {
+    "name": "Krabi and Railay",
+    "note": "Limestone cliffs, climbing, longtail boats",
+    "fee": "Boat THB 100 to 200 UNVERIFIED"
+   },
+   {
+    "name": "Kanchanaburi and Erawan Falls",
+    "note": "Bridge on the River Kwai, waterfalls, death railway",
+    "fee": "Erawan about THB 300 UNVERIFIED"
+   },
+   {
+    "name": "Pai or Chiang Rai",
+    "note": "Mountain towns, White Temple",
+    "fee": "White Temple about THB 100 UNVERIFIED"
+   },
+   {
+    "name": "Khao Sok National Park lake",
+    "note": "Unusual: floating bungalows among limestone karsts",
+    "fee": "Park about THB 300 UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   5,
+   6,
+   9,
+   10,
+   11,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 3000,
+   "high": 5500
+  },
+  "transport": "Entry: BKK and DMK airports, Chiang Mai, Phuket, Krabi; land from Malaysia and Laos. BTS Skytrain, MRT, Chao Phraya express boat, songthaews, Bolt and Grab apps, 3rd class and sleeper trains, long distance VIP buses; tuktuks quote high, negotiate first.",
+  "experiences": [],
+  "cautions": [
+   "Cannabis rules tightened, public smoking fined; vapes illegal; strict drug laws",
+   "Lese majeste: do not insult the monarchy; dress covered at temples; remove shoes",
+   "Tuktuk gem shop scams, jet ski rental damage claims, rigged meters; drones need permits"
+  ],
+  "neighbours": [
+   "Malaysia",
+   "Laos",
+   "Cambodia",
+   "Myanmar"
+  ],
+  "sources": [
+   "https://www.visa-requirements.io/visa-requirements/thailand/from/indian-passport-holders/visa-exemption-2026",
+   "https://visasnews.com/en/thailand-introduces-new-visa-free-and-visa-on-arrival-rules-on-september-15-2026"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "research",
+  "notes": "Land crossings: Nong Khai to Vientiane (Laos, Friendship Bridge, train), Aranyaprathet to Poipet (Cambodia, scam prone), Hat Yai to Malaysia (Padang Besar). Myanmar land travel restricted. Count land border entries (max 2 per year visa free). Best months low budget: [5, 6, 9, 10]; best weather: [11, 12, 1, 2]. Warnings: Monsoon May to Oct; southern Andaman coast rough seas and ferry cuts May to Oct; Gulf islands better in those months; heat and burning haze in north Mar to Apr; floods Sep to Nov; typhoon spillover rare. Budget pieces: Hostel or guesthouse INR 1,000 to 2,500; street food INR 700 to 1,300; BTS/MRT, songthaew, tuktuk INR 400 to 800; sights INR 400 to 900 (estimate) MEA: UNVERIFIED: MEA advisories exist on cyber scam jobs in Thailand and Myanmar border (job scam trafficking). Search confirmation needed; check https://www.mea.gov.in/travel-advisories."
+ },
+ {
+  "country": "South Korea",
+  "region": "Asia",
+  "capital": "Seoul",
+  "trip": "H",
+  "places": [
+   {
+    "name": "Gyeongbokgung Palace, Seoul",
+    "note": "Royal palace; hanbok wearers enter free",
+    "fee": "KRW 3,000 (INR about 200)"
+   },
+   {
+    "name": "Bukchon and Insadong",
+    "note": "Hanok village and tea houses",
+    "fee": "Free"
+   },
+   {
+    "name": "Namsan Tower and DMZ viewpoints",
+    "note": "City view; guided DMZ tours from Seoul",
+    "fee": "Namsan cable car about KRW 14,000; DMZ tour about KRW 50,000 to 80,000 UNVERIFIED"
+   },
+   {
+    "name": "Busan Gamcheon Culture Village and Haeundae",
+    "note": "Colourful hill village, fish market, beach",
+    "fee": "Free; Gamcheon map KRW 2,000 UNVERIFIED"
+   },
+   {
+    "name": "Gyeongju",
+    "note": "Silla royal tombs, Bulguksa temple",
+    "fee": "Bulguksa about KRW 6,000 UNVERIFIED"
+   },
+   {
+    "name": "Seoraksan National Park",
+    "note": "Mountains, cable car, autumn leaves",
+    "fee": "Entry about KRW 5,000 UNVERIFIED"
+   },
+   {
+    "name": "Jeju Island",
+    "note": "Volcanic island, Hallasan, lava tubes",
+    "fee": "Hallasan free; lava tube about KRW 4,000 UNVERIFIED"
+   },
+   {
+    "name": "Jjimjilbang (Korean bathhouse) stay",
+    "note": "Unusual: sauna and sleeping hall about KRW 12,000 to 20,000 per night as cheap bed",
+    "fee": "About KRW 12,000 to 20,000 UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   3,
+   4,
+   5,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 6500,
+   "high": 10000
+  },
+  "transport": "Entry: ICN and Gimpo (Seoul), Busan Gimhae, Jeju. T-money card works on subway, buses, taxis; KTX and ITX trains (Korail Pass for foreigners, UNVERIFIED price); intercity express buses cheaper; KORAIL tickets via Letskorail app.",
+  "experiences": [],
+  "cautions": [
+   "Strict drug laws even for cannabis used abroad; prescription medicines need documentation",
+   "Do not photograph military sites; follow DMZ rules; drone permits needed",
+   "Taxi without meter and illegal tours rare; keep cash and card, tipping not expected; Wi-Fi and e-SIM easy"
+  ],
+  "neighbours": [
+   "Japan (ferry from Busan)",
+   "China (ferry from Incheon)",
+   "North Korea (closed)"
+  ],
+  "sources": [
+   "https://www.visaforkorea-ce.com/visa-type.html",
+   "https://btwvisas.com/visa-guide/south-korea-visa"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "research",
+  "notes": "Ferries Busan to Fukuoka/Shimonoseki Japan (Indian visa needed for Japan) and Incheon to Chinese ports (check status). Visa is the main hurdle for Indian passports; US or Schengen visa may help approval odds only informally (UNVERIFIED). Best months low budget: [3, 4, 5, 10, 11]; best weather: [4, 5, 10]. Warnings: Rainy season (jangma) late Jun to Jul; typhoons Aug to Sep; very cold Dec to Feb; fine dust spring; heat waves Jul to Aug; autumn is peak and pricey. Budget pieces: Hostel or guesthouse INR 2,800 to 5,000; food INR 1,500 to 2,500; T-money subway and bus INR 400 to 700; sights INR 300 to 1,000 (estimate) MEA: UNVERIFIED: no MEA advisory found; Indian Embassy Seoul publishes notices."
+ },
+ {
+  "country": "Canada",
+  "region": "North America",
+  "capital": "Ottawa",
+  "trip": "H",
+  "places": [
+   {
+    "name": "Niagara Falls (Ontario side)",
+    "note": "Falls and boat; bus from Toronto",
+    "fee": "Walking free; Hornblower boat about CAD 30 to 35 UNVERIFIED"
+   },
+   {
+    "name": "Toronto CN Tower and Kensington Market",
+    "note": "City views, multicultural food",
+    "fee": "CN Tower about CAD 45 to 50 UNVERIFIED"
+   },
+   {
+    "name": "Banff and Lake Louise",
+    "note": "Rockies, turquoise lakes, hiking",
+    "fee": "Parks Canada day pass about CAD 11 per adult UNVERIFIED"
+   },
+   {
+    "name": "Vancouver Stanley Park and Granville Island",
+    "note": "Seawall cycling, markets",
+    "fee": "Free; bike hire about CAD 10 per hour UNVERIFIED"
+   },
+   {
+    "name": "Quebec City old town",
+    "note": "Walled French city, Chateau Frontenac",
+    "fee": "Free to walk; funicular about CAD 4 UNVERIFIED"
+   },
+   {
+    "name": "Montreal Old Port and Mont Royal",
+    "note": "Culture, food, bagels",
+    "fee": "Free"
+   },
+   {
+    "name": "Jasper and Icefields Parkway",
+    "note": "Glaciers, wildlife",
+    "fee": "Parks pass as above UNVERIFIED"
+   },
+   {
+    "name": "Churchill polar bears or Northern lights Yellowknife",
+    "note": "Unusual: aurora tours Aug to Apr",
+    "fee": "Tours about CAD 150 to 300 UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 10000,
+   "high": 15000
+  },
+  "transport": "Entry: YYZ Toronto, YVR Vancouver, YUL Montreal, YYC Calgary. City transit passes (TTC, Translink Compass, Opus), Megabus and FlixBus intercity, VIA Rail (Corridor) discount fares, Greyhound largely gone, ferry BC. Car needed for Rockies unless using tours.",
+  "experiences": [],
+  "cautions": [
+   "Wildlife safety: bears and bear spray; do not approach elk or bison",
+   "Tipping 15 to 20 percent expected in restaurants; sales tax added at till",
+   "Cannabis legal but not in public or across borders; carry valid visa and proof of funds and return ticket; do not overstay (6 months)"
+  ],
+  "neighbours": [
+   "United States of America"
+  ],
+  "sources": [
+   "https://immigration.ca/electronic-travel-authorization",
+   "https://www.canadavisa.com/electronic-travel-authorization-eta-canadian-immigration-visitor-visa-exemptions.html"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "research",
+  "notes": "USA by land or train: Amtrak Maple Leaf Toronto to New York, bus from Vancouver to Seattle. US visa required for the USA. Note: the user context assumption 'visa-exempt with a valid US visa' is NOT supported by sources for Indians. Best months low budget: [5, 9, 10]; best weather: [6, 7, 8, 9]. Warnings: Winter Nov to Mar: heavy snow, minus 20 to minus 40 in prairies; wildfire smoke Jun to Sep in west; Atlantic coast storms Sep to Oct; summer is peak and expensive. Budget pieces: Hostel or budget hotel INR 5,000 to 8,500; food INR 2,500 to 4,500; transit INR 800 to 1,500; sights INR 1,000 to 2,500 (estimate) MEA: UNVERIFIED: MEA has issued advisories for Indians in Canada in past years (hate crimes, 2023) but a current 2026 advisory was not found; check https://www.mea.gov.in/travel-advisories."
+ },
+ {
+  "country": "United States of America",
+  "region": "North America",
+  "capital": "Washington, D.C.",
+  "trip": "H",
+  "places": [
+   {
+    "name": "New York City: Statue of Liberty ferry, Central Park, Brooklyn Bridge",
+    "note": "Classic first trip; Staten Island Ferry free views",
+    "fee": "Staten Island Ferry free; Statue Cruises about USD 25 UNVERIFIED"
+   },
+   {
+    "name": "Washington DC Smithsonian museums and monuments",
+    "note": "Dozens of free museums",
+    "fee": "Free"
+   },
+   {
+    "name": "Grand Canyon South Rim",
+    "note": "Canyon vistas and rim walks",
+    "fee": "Park pass about USD 35 per car UNVERIFIED"
+   },
+   {
+    "name": "Yellowstone National Park",
+    "note": "Geysers and wildlife",
+    "fee": "About USD 35 per vehicle UNVERIFIED"
+   },
+   {
+    "name": "San Francisco and Golden Gate Bridge",
+    "note": "Cable cars, fog, Alcatraz island",
+    "fee": "Alcatraz about USD 45 UNVERIFIED"
+   },
+   {
+    "name": "Las Vegas Strip or Red Rock Canyon",
+    "note": "Free spectacles, desert loop drive",
+    "fee": "Free strip; Red Rock about USD 15 UNVERIFIED"
+   },
+   {
+    "name": "New Orleans French Quarter",
+    "note": "Jazz and Creole food",
+    "fee": "Free"
+   },
+   {
+    "name": "Route 66 or Death Valley",
+    "note": "Unusual: road trip heritage; lowest point in North America",
+    "fee": "Death Valley about USD 30 per vehicle UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 11000,
+   "high": 17000
+  },
+  "transport": "Entry: JFK/EWR New York, LAX, SFO, ORD, MIA. City metros (NYC subway, DC Metro) with weekly passes; Greyhound, FlixBus, Megabus, Amtrak rail pass (USA Rail Pass about USD 500 UNVERIFIED), Greyhound, Uber/Lyft; renting a car for parks needs International Driving Permit plus Indian licence, UNVERIFIED.",
+  "experiences": [],
+  "cautions": [
+   "Tipping 18 to 22 percent in restaurants, 15 to 20 percent in taxis is a norm; prices shown exclude tax",
+   "Open container and drink rules vary by state; cannabis laws vary; carry ID, 21 plus alcohol age; do not fly drones in national parks",
+   "CBP can question and search devices; keep return ticket and funds proof; avoid visa overstays and unauthorised work; check state laws (guns, speeding)"
+  ],
+  "neighbours": [
+   "Canada",
+   "Mexico",
+   "Bahamas",
+   "Cuba"
+  ],
+  "sources": [
+   "https://in.usembassy.gov/visas",
+   "https://www.federalregister.gov/documents/2026/08/03/2026-15726/visas-visa-bond-program"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "research",
+  "notes": "Land to Mexico (Tijuana, Cancun not by land) and Canada (Niagara Rainbow Bridge, bus). Bahamas has e-visa/visa on arrival for Indians with US visa (not verified here). A valid US B1/B2 visa helps with many third country concessions (e.g. UAE conditional, Georgia waiver). Fees and bond policy volatile. Best months low budget: [4, 5, 9, 10]; best weather: [5, 6, 9, 10]. Warnings: Atlantic hurricanes Jun to Nov (Florida, Gulf); tornado season Apr to Jun in Plains; extreme heat Jun to Aug in southwest and Las Vegas; winter storms Dec to Mar; wildfires west Aug to Oct. Budget pieces: Hostel or motel INR 6,000 to 10,000; food INR 3,000 to 5,000; transit INR 800 to 1,500 (cities), car rental extra; sights INR 1,000 to 2,000 (estimate, taxes and tips extra) MEA: UNVERIFIED: MEA has issued advisories for Indian students and visitors on US laws and safety; current 2026 advisory not confirmed in search; check https://www.mea.gov.in/travel-advisories. Also US Presidential Proclamation 10998 (entry limits, 39 countries from 1 Jan 2026) does not list India per snippet, UNVERIFIED."
+ },
+ {
+  "country": "United Arab Emirates",
+  "region": "Middle East",
+  "capital": "Abu Dhabi",
+  "trip": "H",
+  "places": [
+   {
+    "name": "Burj Khalifa and Dubai Mall fountain",
+    "note": "Skyscraper and free fountain show",
+    "fee": "Fountain free; At the Top about AED 170 to 200 UNVERIFIED"
+   },
+   {
+    "name": "Old Dubai: Al Fahidi, Gold and Spice Souk, abra ride",
+    "note": "Creek crossing by abra",
+    "fee": "Abra AED 1; souks free"
+   },
+   {
+    "name": "Sheikh Zayed Grand Mosque, Abu Dhabi",
+    "note": "Marble mosque, modest dress",
+    "fee": "Free"
+   },
+   {
+    "name": "Louvre Abu Dhabi",
+    "note": "Art museum on water",
+    "fee": "About AED 63 UNVERIFIED"
+   },
+   {
+    "name": "Jebel Jais, Ras Al Khaimah",
+    "note": "Mountain drive and long zipline",
+    "fee": "Zipline about AED 600 to 650 UNVERIFIED"
+   },
+   {
+    "name": "Hatta",
+    "note": "Mountain town with dam and kayaking",
+    "fee": "Free to AED 100 UNVERIFIED"
+   },
+   {
+    "name": "Sharjah Heritage and Arts Area",
+    "note": "Museums, calmer and cheaper",
+    "fee": "Museum pass about AED 20 UNVERIFIED"
+   },
+   {
+    "name": "Dune bashing in Liwa or Dubai desert safari",
+    "note": "Unusual: desert camp, camel ride",
+    "fee": "About AED 100 to 200 UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   10,
+   11,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 6000,
+   "high": 9500
+  },
+  "transport": "Entry: DXB, DWC, AUH, Sharjah. Dubai Metro, tram, buses with Nol card (about AED 25 per full day cap UNVERIFIED); Abu Dhabi buses; intercity E100/E101 bus Dubai to Abu Dhabi about AED 25 UNVERIFIED; Careem and Uber; stay in Sharjah to cut cost.",
+  "experiences": [],
+  "cautions": [
+   "Strict drug laws: even trace amounts; many OTC medicines (codeine) restricted",
+   "Alcohol only in licensed venues; public displays of affection, swearing and photographing people can be offences; dress modestly in public places",
+   "Drones need permits; do not overstay (daily fines); keep return ticket and hotel booking for conditional visa"
+  ],
+  "neighbours": [
+   "Oman",
+   "Saudi Arabia",
+   "Qatar"
+  ],
+  "sources": [
+   "https://www.uae-embassy.org/visas-for-non-us-citizens",
+   "https://gdrfad.gov.ae/en/services/727c91b1-52eb-11ea-0320-0050569629e8"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "research",
+  "notes": "Land by bus to Oman (Muscat) from Dubai possible; Oman visa for Indians (eVisa) not verified here. Qatar by air only (Saudi border). This conditional visa is a strong reason to keep a US/UK/EU stamp. Best months low budget: [10, 11, 4]; best weather: [11, 12, 1, 2, 3]. Warnings: Extreme heat above 45 C Jun to Sep; humidity, summer flash floods possible Mar to Apr; sandstorms Mar to Jun; Ramadan changes opening hours. Budget pieces: Budget hotel or hostel INR 3,000 to 5,500; food INR 1,200 to 2,200; Dubai Metro/Nol card INR 500 to 900; sights INR 500 to 1,000 (estimate) MEA: UNVERIFIED: MEA has not issued a standing UAE advisory in found sources; Indian Consulate Dubai and Embassy Abu Dhabi issue advisories on visa and overstay."
+ },
+ {
+  "country": "Georgia",
+  "region": "Asia",
+  "capital": "Tbilisi",
+  "trip": "H",
+  "places": [
+   {
+    "name": "Tbilisi Old Town and Abanotubani sulphur baths",
+    "note": "Balconies, bathhouses, Narikala fortress cable car",
+    "fee": "Cable car GEL 2.5 (Metromoney); baths GEL 30 to 100 UNVERIFIED"
+   },
+   {
+    "name": "Kazbegi (Stepantsminda) and Gergeti Trinity Church",
+    "note": "Caucasus peaks, Military Highway, Gudauri",
+    "fee": "Marshrutka GEL 15 to 20 UNVERIFIED; church free"
+   },
+   {
+    "name": "Mtskheta and Jvari Monastery",
+    "note": "Ancient capital, 20 min from Tbilisi",
+    "fee": "Free to small donation"
+   },
+   {
+    "name": "Kakheti wine region",
+    "note": "Qvevri wine, Sighnaghi, Bodbe",
+    "fee": "Tasting GEL 20 to 60 UNVERIFIED"
+   },
+   {
+    "name": "Kutaisi, Prometheus Cave and Martvili Canyon",
+    "note": "Caves and canyon boats",
+    "fee": "Cave about GEL 35 to 50; Martvili about GEL 30 UNVERIFIED"
+   },
+   {
+    "name": "Mestia and Ushguli, Svaneti",
+    "note": "Medieval towers, high villages",
+    "fee": "Free; marshrutka GEL 25 to 40 UNVERIFIED"
+   },
+   {
+    "name": "Batumi seaside",
+    "note": "Black Sea boulevard, Botanical Garden",
+    "fee": "Garden about GEL 15 UNVERIFIED"
+   },
+   {
+    "name": "Vardzia cave city and Rabati castle, Akhaltsikhe",
+    "note": "Unusual: monastery cut into a cliff",
+    "fee": "Vardzia about GEL 15; Rabati about GEL 15 UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 3500,
+   "high": 6000
+  },
+  "transport": "Entry: Tbilisi (TBS, Wizz and Air Arabia hubs), Kutaisi (KUT, cheap Wizz flights), Batumi (BUS). Tbilisi Metro and buses with Metromoney card GEL 1 flat; marshrutkas (minibuses) between towns; Bolt app for taxis; Georgian Railway Tbilisi to Batumi (Stadler express, UNVERIFIED fares).",
+  "experiences": [],
+  "cautions": [
+   "Drive carefully; mountain roads and wandering animals; taxi apps Bolt and Yandex safer than street cabs",
+   "Cannabis decriminalised for personal use but not public use; keep ID; border areas with Abkhazia and South Ossetia are off limits",
+   "Tipping 10 percent in restaurants; supra toasts and strong wine; insurance now required at entry (UNCERTAIN limits)"
+  ],
+  "neighbours": [
+   "Armenia",
+   "Azerbaijan",
+   "Turkey",
+   "Russia"
+  ],
+  "sources": [
+   "https://btwvisas.com/visa-guide/georgia-visa",
+   "https://www.traveldoc.aero/en/news-travel-guides/travel-guides/the-complete-georgia-visa-breakdown-visa-free-evisa-immigration-visas"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "research",
+  "notes": "Land to Armenia (Sadakhlo, marshrutka Tbilisi to Yerevan about GEL 35 to 40 UNVERIFIED), Azerbaijan (Red Bridge, e-visa needed), Turkey at Sarpi near Batumi. Russia crossing at Upper Lars not recommended. Indian visa waivers via US/UK/Schengen apply. Best months low budget: [4, 5, 9, 10]; best weather: [5, 6, 9, 10]. Warnings: Heat in Tbilisi Jul to Aug; heavy snow and Kazbegi road closures Nov to Mar; spring rain in Batumi; landslide risk on mountain roads; check political protest news in Tbilisi. Budget pieces: Guesthouse or hostel INR 1,500 to 3,000; food INR 1,000 to 1,800; marshrutka and metro INR 300 to 700; sights INR 300 to 700 (estimate) MEA: UNVERIFIED: no current MEA advisory found; Indian Embassy Tbilisi exists (check for notices)."
+ },
+ {
+  "country": "Germany",
+  "region": "Europe",
+  "capital": "Berlin",
+  "trip": "H",
+  "places": [
+   {
+    "name": "Berlin Brandenburg Gate, Reichstag dome, East Side Gallery",
+    "note": "History walk; Reichstag dome free with registration",
+    "fee": "Dome free (registration); East Side Gallery free"
+   },
+   {
+    "name": "Neuschwanstein Castle and Fussen",
+    "note": "Fairytale castle, Bavaria",
+    "fee": "About EUR 21 UNVERIFIED"
+   },
+   {
+    "name": "Munich Marienplatz and Englischer Garten",
+    "note": "Old town and surf wave river",
+    "fee": "Free"
+   },
+   {
+    "name": "Cologne Cathedral",
+    "note": "Gothic landmark",
+    "fee": "Free; tower about EUR 6 UNVERIFIED"
+   },
+   {
+    "name": "Heidelberg castle and old bridge",
+    "note": "Romantic university town",
+    "fee": "Castle about EUR 9 UNVERIFIED"
+   },
+   {
+    "name": "Rhine Valley (Bacharach, Loreley)",
+    "note": "Castles, regional train ticket",
+    "fee": "Regional train covered by Deutschlandticket"
+   },
+   {
+    "name": "Black Forest and Triberg waterfalls",
+    "note": "Hiking and cuckoo clocks",
+    "fee": "Waterfalls about EUR 7 UNVERIFIED"
+   },
+   {
+    "name": "Hamburg Miniatur Wunderland and Speicherstadt",
+    "note": "Unusual: world largest model railway",
+    "fee": "About EUR 22 UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 7500,
+   "high": 11500
+  },
+  "transport": "Entry: FRA Frankfurt, MUC Munich, BER Berlin, DUS, HAM. Deutschlandticket (about EUR 63 per month, UNVERIFIED) covers all regional trains and city transit; FlixBus and FlixTrain cheapest intercity; Sparpreis DB tickets in advance; day tickets in cities. Metro U-Bahn and S-Bahn; ticket validation required (fine EUR 60).",
+  "experiences": [],
+  "cautions": [
+   "Fare dodging fine about EUR 60 and sunday shop closures; keep tickets validated",
+   "Tipping about 5 to 10 percent rounded up; many places cash only; recycle deposit (Pfand) bottles",
+   "Do not use Nazi symbols or deny Holocaust (illegal); drones restricted; EES fingerprints at first entry; quiet hours on Sunday"
+  ],
+  "neighbours": [
+   "Netherlands",
+   "Belgium",
+   "Luxembourg",
+   "France",
+   "Switzerland",
+   "Austria",
+   "Czechia",
+   "Poland",
+   "Denmark"
+  ],
+  "sources": [
+   "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en",
+   "https://www.atlys.com/blog/schengen-visa-fees-2026"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "research",
+  "notes": "Land hub: Netherlands, Belgium, Luxembourg, France, Switzerland, Austria, Czechia, Poland, Denmark by train or Flixbus within Schengen; the 90 days limit is shared across all Schengen countries. Germany also offers other free entry regimes via other EU states. Best months low budget: [3, 4, 10, 11]; best weather: [5, 6, 7, 8, 9]. Warnings: Winter Dec to Feb cold and short days; summer heatwaves Jul to Aug increasing; floods in west/south Jun to Jul; Christmas markets Nov to Dec. Budget pieces: Hostel or budget hotel INR 4,000 to 6,500; food INR 1,800 to 3,000; transit INR 600 to 1,000; sights INR 500 to 1,000 (estimate) MEA: UNVERIFIED: no MEA travel advisory for Germany found; Indian embassy Berlin notices."
+ },
+ {
+  "country": "Luxembourg",
+  "region": "Europe",
+  "capital": "Luxembourg City",
+  "trip": "H",
+  "places": [
+   {
+    "name": "Luxembourg City Old Quarter, Bock Casemates",
+    "note": "UNESCO fortress tunnels, Grund valley",
+    "fee": "Casemates about EUR 8 UNVERIFIED"
+   },
+   {
+    "name": "Adolphe Bridge and Pfaffenthal panorama lift",
+    "note": "Free lift and views",
+    "fee": "Free"
+   },
+   {
+    "name": "Vianden Castle",
+    "note": "Medieval castle in Ardennes",
+    "fee": "About EUR 10 UNVERIFIED"
+   },
+   {
+    "name": "Mullerthal Trail (Little Switzerland)",
+    "note": "Rock formation hiking, Echternach",
+    "fee": "Free"
+   },
+   {
+    "name": "Moselle valley wine route and Schengen village",
+    "note": "Wine tasting and the 1985 Schengen museum",
+    "fee": "European Museum Schengen about EUR 6 UNVERIFIED"
+   },
+   {
+    "name": "Mudam and Philharmonie",
+    "note": "Modern art and concerts",
+    "fee": "About EUR 7 UNVERIFIED"
+   },
+   {
+    "name": "Diekirch and Clervaux (Family of Man photo exhibition)",
+    "note": "Castle exhibits",
+    "fee": "About EUR 7 UNVERIFIED"
+   },
+   {
+    "name": "Free public transport day trips",
+    "note": "Unusual: all buses, trams, trains free nationwide since 2020",
+    "fee": "Free"
+   }
+  ],
+  "bestMonths": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 8500,
+   "high": 12500
+  },
+  "transport": "Entry: LUX airport or by train from Brussels, Metz, Trier. Public transport (buses, trams, trains) is free nationwide for all; 1st class rail small fee. Cheapest to stay across border (Trier, Metz, Arlon) and take free trains.",
+  "experiences": [],
+  "cautions": [
+   "Keep the Schengen 90 days limit; restaurant prices high; tipping not required (service included)",
+   "No scams as such; pickpockets at Gare; cannabis personal use legal at home only in 2023 law, UNVERIFIED for tourists",
+   "Official three languages; carry passport"
+  ],
+  "neighbours": [
+   "Belgium",
+   "Germany",
+   "France"
+  ],
+  "sources": [
+   "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en",
+   "https://www.atlys.com/blog/schengen-visa-fees-2026"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "research",
+  "notes": "Luxembourg is the cheapest of the four to move through because transport is free; train to Brussels about 3 hours, Trier 50 minutes. The Embassy of Luxembourg in New Delhi accepts applications: Indians apply there (via official site). Best months low budget: [3, 4, 5, 9, 10]; best weather: [5, 6, 7, 8, 9]. Warnings: Mild; wet winters; heatwaves Jul to Aug; occasional Ardennes floods Jul 2021 style; Christmas markets Dec. Budget pieces: Hostel or budget hotel INR 5,500 to 8,500; food INR 2,000 to 3,200; transport free (about INR 0); sights INR 300 to 800 (estimate; prices highest of the four) MEA: UNVERIFIED: no MEA advisory for Luxembourg found; Indian Embassy Brussels is accredited."
+ },
+ {
+  "country": "Belgium",
+  "region": "Europe",
+  "capital": "Brussels",
+  "trip": "H",
+  "places": [
+   {
+    "name": "Brussels Grand Place and Manneken Pis",
+    "note": "UNESCO guild square",
+    "fee": "Free"
+   },
+   {
+    "name": "Atomium and Mini Europe",
+    "note": "Bizarre 1958 structure",
+    "fee": "Atomium about EUR 16 UNVERIFIED"
+   },
+   {
+    "name": "Bruges canals and belfry",
+    "note": "Medieval town; canal tour about EUR 12",
+    "fee": "Belfry about EUR 15 UNVERIFIED"
+   },
+   {
+    "name": "Ghent Gravensteen and graffiti street",
+    "note": "Castle and street art",
+    "fee": "Castle about EUR 14 UNVERIFIED"
+   },
+   {
+    "name": "Antwerp Central Station and diamond district",
+    "note": "Train cathedral station",
+    "fee": "Free"
+   },
+   {
+    "name": "Ardennes: Dinant and Durbuy",
+    "note": "Citadel and nature hiking",
+    "fee": "Dinant citadel about EUR 10 UNVERIFIED"
+   },
+   {
+    "name": "Waterloo battlefield",
+    "note": "Napoleon site",
+    "fee": "About EUR 17 UNVERIFIED"
+   },
+   {
+    "name": "Belgian beer abbey tour (Rochefort or Orval) or chocolate workshop",
+    "note": "Unusual: beer culture UNESCO",
+    "fee": "Workshops about EUR 40 to 60 UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 7500,
+   "high": 11500
+  },
+  "transport": "Entry: BRU Brussels, Charleroi (Ryanair), Antwerp; Eurostar and Thalys from Paris/Amsterdam/London. SNCB Rail Pass, 'Standard Multi' 10 journey card (about EUR 90 UNVERIFIED) or 10 trips; STIB metro in Brussels; De Lijn buses and trams; Youth and Weekend tickets (discounts Fri to Sun, UNVERIFIED).",
+  "experiences": [],
+  "cautions": [
+   "Brussels petty theft and metro pickpockets; avoid Anneessens area at night; keep valuables close",
+   "Tipping not required but small rounding up appreciated; public drinking limited in some zones",
+   "Carry passport; drones need approval; reservations for chocolates and beer tours"
+  ],
+  "neighbours": [
+   "Netherlands",
+   "Luxembourg",
+   "Germany",
+   "France"
+  ],
+  "sources": [
+   "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en",
+   "https://www.atlys.com/blog/schengen-visa-fees-2026"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "research",
+  "notes": "Belgium is the central hub: train to Amsterdam 2 hours, Luxembourg 3 hours, Paris 1.5 hours, Cologne 2 hours. Also an EU/NATO capital where Indian Embassy is based. Best months low budget: [3, 4, 5, 9, 10]; best weather: [5, 6, 7, 8, 9]. Warnings: Rain frequent year round; cool winters; heatwaves in July; Flanders floods possible; Christmas markets Dec. Budget pieces: Hostel or budget hotel INR 4,500 to 7,000; food INR 1,800 to 3,000; transit INR 600 to 1,000; sights INR 500 to 900 (estimate) MEA: UNVERIFIED: no MEA advisory for Belgium found; Indian Embassy Brussels."
+ },
+ {
+  "country": "Netherlands",
+  "region": "Europe",
+  "capital": "Amsterdam",
+  "trip": "H",
+  "places": [
+   {
+    "name": "Amsterdam canals, Anne Frank House (book weeks ahead), Jordaan",
+    "note": "Canal ring walk",
+    "fee": "Anne Frank House about EUR 16 UNVERIFIED"
+   },
+   {
+    "name": "Rijksmuseum and Van Gogh Museum",
+    "note": "Art",
+    "fee": "About EUR 25 to 26 UNVERIFIED"
+   },
+   {
+    "name": "Keukenhof gardens",
+    "note": "Tulips Mar to May",
+    "fee": "About EUR 20 UNVERIFIED"
+   },
+   {
+    "name": "Kinderdijk windmills",
+    "note": "UNESCO windmills by water bus",
+    "fee": "About EUR 10 to 15 UNVERIFIED"
+   },
+   {
+    "name": "Utrecht, Delft and Leiden",
+    "note": "Day trips by train",
+    "fee": "Free to walk"
+   },
+   {
+    "name": "Giethoorn village",
+    "note": "Car free canals by whisper boat",
+    "fee": "Boat about EUR 15 UNVERIFIED"
+   },
+   {
+    "name": "Zaanse Schans",
+    "note": "Windmills and clogs",
+    "fee": "Free entry; mills about EUR 5 UNVERIFIED"
+   },
+   {
+    "name": "Wadden Sea mudflat walking (wadlopen)",
+    "note": "Unusual: walk across the sea floor at low tide",
+    "fee": "About EUR 20 to 40 per person UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 8500,
+   "high": 12500
+  },
+  "transport": "Entry: AMS Schiphol (hub), Eindhoven, Rotterdam. Use OV-chipkaart or contactless bank card on NS trains and GVB metro/tram; day tickets (GVB 1 to 7 days); OV-fiets bicycle hire about EUR 4 per day, UNVERIFIED; FlixBus cheap; NS Off Peak tickets (about 40 percent cheaper, UNVERIFIED).",
+  "experiences": [],
+  "cautions": [
+   "Bike lanes are for bikes: do not walk in them; theft of bikes and phones common; lock everything",
+   "Cannabis coffeeshops: only for 18 plus and tourist use; hard drugs illegal; Red light district rules limit photography",
+   "Tipping 5 to 10 percent optional; payment mainly by card (some places refuse cash)"
+  ],
+  "neighbours": [
+   "Belgium",
+   "Germany",
+   "Luxembourg"
+  ],
+  "sources": [
+   "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en",
+   "https://www.atlys.com/blog/schengen-visa-fees-2026"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "research",
+  "notes": "Train from Amsterdam to Brussels (about 2 hours), Cologne (3 hours), Antwerp. Netherlands Schengen visa processed via VFS Global in India (not verified today). Dutch overseas parts (Aruba, Curacao) separate visa rules not checked. Best months low budget: [3, 4, 10, 11]; best weather: [5, 6, 7, 8, 9]. Warnings: Rain and wind year round; cool winters; tulips Apr; storms Oct to Mar; heatwaves Jul; cycling season peak. Budget pieces: Hostel or budget hotel INR 5,000 to 8,000; food INR 2,000 to 3,500; OV-chipkaart transit INR 700 to 1,200; sights INR 500 to 1,000 (estimate; Amsterdam high) MEA: UNVERIFIED: no MEA advisory for Netherlands found; Indian Embassy The Hague."
+ },
+ {
+  "country": "Qatar",
+  "region": "Middle East",
+  "capital": "Doha",
+  "trip": "H",
+  "places": [
+   {
+    "name": "Souq Waqif, Doha",
+    "note": "Old market, spice and falcon souk, cafes",
+    "fee": "Free"
+   },
+   {
+    "name": "Museum of Islamic Art and MIA Park",
+    "note": "Iconic IM Pei building",
+    "fee": "Free for most galleries UNVERIFIED"
+   },
+   {
+    "name": "National Museum of Qatar",
+    "note": "Desert rose building",
+    "fee": "About QAR 50 UNVERIFIED"
+   },
+   {
+    "name": "The Pearl and Katara Cultural Village",
+    "note": "Waterfront and amphitheatre",
+    "fee": "Free to walk"
+   },
+   {
+    "name": "Msheireb Downtown and Souq Al Wakra",
+    "note": "Heritage buildings, quiet fishing village",
+    "fee": "Free"
+   },
+   {
+    "name": "Al Zubarah Fort (UNESCO)",
+    "note": "Desert fort, northern Qatar",
+    "fee": "About QAR 10 UNVERIFIED"
+   },
+   {
+    "name": "Inland Sea (Khor Al Adaid)",
+    "note": "Unusual: desert meets sea dunes",
+    "fee": "Safari about QAR 200 to 300 UNVERIFIED"
+   },
+   {
+    "name": "Corniche and dhow ride",
+    "note": "Skyline cruise",
+    "fee": "About QAR 30 to 50 UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   1,
+   2,
+   3,
+   4,
+   10,
+   11,
+   12
+  ],
+  "dailyBudgetInr": {
+   "low": 6500,
+   "high": 10000
+  },
+  "transport": "Entry: Hamad International DOH (Qatar Airways hub, long layovers with free tours). Doha Metro (red, gold, green lines) and Karwa buses with Travel Card (about QAR 10 day pass, UNVERIFIED), Uber and Karwa taxis; metro covers most tourist areas.",
+  "experiences": [],
+  "cautions": [
+   "Alcohol only in licensed hotels; public intoxication and drug possession severely punished; do not carry medication without prescription",
+   "Dress modestly; public displays of affection and photography of locals limited; Friday prayers shopping hours; Ramadan day fasting in public",
+   "Drones banned without permit; respect LGBTQ and religion laws; keep hotel booking printouts"
+  ],
+  "neighbours": [
+   "Saudi Arabia",
+   "Bahrain",
+   "United Arab Emirates"
+  ],
+  "sources": [
+   "https://visitqatar.com/intl-en/plan-your-trip/visas",
+   "https://hayya.qa/en/faq"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "research",
+  "notes": "Only land border is Saudi Arabia (Abu Samra) and entry needs a Saudi visa (not checked). Practical country adding: flights to Bahrain, Muscat, Dubai. Free 'Doha Stopover' tour via Qatar Airways transit is common, UNVERIFIED. Best months low budget: [10, 11, 3, 4]; best weather: [11, 12, 1, 2, 3]. Warnings: Extreme heat 45 plus C Jun to Sep, humid; sandstorms Mar to Jun; Ramadan hours; no hurricanes; rare floods. Budget pieces: Budget hotel INR 3,500 to 6,000; food INR 1,200 to 2,200; metro and bus INR 300 to 700; sights INR 300 to 800 (estimate) MEA: UNVERIFIED: no MEA advisory for Qatar found; Indian Embassy Doha publishes notices. Gulf region security notices occasional."
+ }
+]
