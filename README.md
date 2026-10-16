@@ -1,4 +1,4 @@
-# 100 Countries
+# World Atlas for Indian passport holders (100 Countries goal)
 
 A static, interactive atlas for Indian passport holders: low-budget multi-country trips, visa rules, best months, day-by-day plans and unique experiences.
 
