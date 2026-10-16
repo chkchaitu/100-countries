@@ -210,7 +210,7 @@ const WORLD={"type":"Topology","objects":{"countries":{"type":"GeometryCollectio
 // ---------- data
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const host=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch(e){return u}};
-const SUGGEST={form:'',countryEntry:''};// form = public Google Form link; countryEntry = the entry.NNN id used to prefill the country
+const SUGGEST={form:'https://docs.google.com/forms/d/e/1FAIpQLSdo2_lS1AdHSOOhL3TIneZcpUytRuCJ_xQ-eUGA7bj55UkG_Q/viewform',countryEntry:'entry.1608074560'};// form = public Google Form link; countryEntry = the entry.NNN id used to prefill the country
 const suggestUrl=(n)=>{if(!SUGGEST.form)return'';let u=SUGGEST.form+(SUGGEST.form.includes('?')?'&':'?')+'usp=pp_url';if(n&&SUGGEST.countryEntry)u+='&'+SUGGEST.countryEntry+'='+encodeURIComponent(n);return u};
 const srcLinks=a=>(a&&a.length)?a.map(u=>`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))}</a>`).join(' · '):'no source link yet';
 let openCountryFn=null,PROFILES={},TRIPS=[],EXP=[],REC=[],V={},LEV={US:[],SC:[],UK:[],CA:[],AU:[],NZ:[],JP:[],KR:[]},LEVTXT={},VREC={},CITIES={},ALLC=[],DATAINFO={};
