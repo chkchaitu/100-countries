@@ -77,7 +77,9 @@ select,input[type=text]{background:var(--bg2);color:var(--ink);border:1px solid 
 .prog{--p:0;width:150px;height:150px;border-radius:50%;background:conic-gradient(var(--acc) calc(var(--p)*1%),#1d2a55 0);display:grid;place-items:center;margin:auto}
 .prog div{width:116px;height:116px;border-radius:50%;background:var(--card);display:grid;place-items:center;text-align:center;font-family:Georgia,serif}
 .prog b{font-size:34px;color:var(--acc);display:block;line-height:1}
-.tick{display:flex;flex-wrap:wrap;gap:6px;max-height:260px;overflow:auto;margin-top:10px}
+.tick{display:flex;flex-wrap:wrap;align-content:flex-start;gap:6px;max-height:260px;overflow:auto;margin-top:10px}
+#tracker .two>.panel:last-child{display:flex;flex-direction:column}
+#tracker .tick{flex:1 1 0;min-height:420px;max-height:none;contain:size}
 .tick button{background:var(--bg2);border:1px solid var(--line);color:var(--mute);border-radius:8px;padding:4px 9px;font-size:12px;cursor:pointer}
 .tick button.on{background:var(--ok);color:#06210f;border-color:var(--ok);font-weight:600}
 table{width:100%;border-collapse:collapse;font-size:14px}th,td{padding:8px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}th{color:var(--mute);font-weight:600;font-size:12px}
@@ -176,7 +178,7 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
  </div>
  <div class="panel"><div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px"><input type="text" id="tickSearch" placeholder="Search a country" style="flex:1;min-width:140px"><select id="tickRegion"><option value="">All regions</option></select></div>
  <div class="legend" style="margin:0 0 6px"><span>Tap to mark visited. Orange outline: counted toward your 100.</span></div>
- <div class="tick" id="tickGrid" style="max-height:420px"></div></div></div>
+ <div class="tick" id="tickGrid"></div></div></div>
 </div></section>
 
 <div class="modal" id="cmodal"><div class="sheet" id="csheet"><button class="xbtn" id="cclose">Close</button><div id="cbody"></div></div></div>
