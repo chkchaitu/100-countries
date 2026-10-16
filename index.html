@@ -108,7 +108,10 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
   <label class="ck"><input type="checkbox" id="vSC"> Schengen visa (valid, multiple entry)</label>
   <label class="ck"><input type="checkbox" id="vUK"> UK visa</label>
   <label class="ck"><input type="checkbox" id="vCA"> Canada visa</label>
-  <label class="ck"><input type="checkbox" id="vOT"> Australia, NZ, Japan or Korea visa</label>
+  <label class="ck"><input type="checkbox" id="vAU"> Australia visa</label>
+  <label class="ck"><input type="checkbox" id="vNZ"> New Zealand visa</label>
+  <label class="ck"><input type="checkbox" id="vJP"> Japan visa</label>
+  <label class="ck"><input type="checkbox" id="vKR"> South Korea visa</label>
   <div class="note">Not legal advice. Confirm every rule on the destination's official site 2 to 3 months before you travel.</div>
  </div><div class="panel">
   <input type="text" id="vSearch" placeholder="Search a country" style="width:100%;margin-bottom:10px">
@@ -160,7 +163,7 @@ const WORLD={"type":"Topology","objects":{"countries":{"type":"GeometryCollectio
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 const host=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch(e){return u}};
 const srcLinks=a=>(a&&a.length)?a.map(u=>`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))}</a>`).join(' · '):'no source link yet';
-let openCountryFn=null,PROFILES={},TRIPS=[],EXP=[],REC=[],V={},LEV={US:[],SC:[],UK:[],CA:[],OT:[]},LEVTXT={},VREC={},CITIES={},ALLC=[],DATAINFO={};
+let openCountryFn=null,PROFILES={},TRIPS=[],EXP=[],REC=[],V={},LEV={US:[],SC:[],UK:[],CA:[],AU:[],NZ:[],JP:[],KR:[]},LEVTXT={},VREC={},CITIES={},ALLC=[],DATAINFO={};
 const MN=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 // ---------- topojson decode
 function decode(topo){const k=topo.transform.scale,t=topo.transform.translate;let arcs=topo.arcs.map(a=>{let x=0,y=0;return a.map(p=>{x+=p[0];y+=p[1];return [x*k[0]+t[0],y*k[1]+t[1]]})});
@@ -225,7 +228,7 @@ async function boot(){
  // ---------- visa checker
  const COL={f:'#5ee08a',e:'#ffd166',r:'#ff6b6b',c:'#7e93d6',l:'#37d6c4'};
  const LABEL={f:'Visa-free or on arrival',e:'E-visa or conditional',r:'Visa needed in advance',l:'Eased by a visa you hold'};
- function held(){return['US','SC','UK','CA','OT'].filter(k=>document.getElementById('v'+k).checked)}
+ function held(){return['US','SC','UK','CA','AU','NZ','JP','KR'].filter(k=>document.getElementById('v'+k).checked)}
  function eased(n){return held().some(k=>LEV[k].includes(n))}
  function visaStatus(n){return eased(n)?'l':(V[n]||'c')}
  function renderVisa(){const q=document.getElementById('vSearch').value.toLowerCase();colorMode=n=>{const s=visaStatus(n);return V[n]||eased(n)?COL[s]:null};hl=new Set();

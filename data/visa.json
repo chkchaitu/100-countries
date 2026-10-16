@@ -7,7 +7,10 @@
   "SC": "Schengen visa",
   "UK": "UK visa",
   "CA": "Canada visa",
-  "OT": "Australia, NZ, Japan or Korea visa"
+  "AU": "Australia visa",
+  "NZ": "New Zealand visa",
+  "JP": "Japan visa",
+  "KR": "South Korea visa"
  },
  "records": [
   {
@@ -149,8 +152,9 @@
     "US",
     "UK",
     "CA",
-    "OT",
-    "SC"
+    "SC",
+    "AU",
+    "JP"
    ],
    "status": "confirmed",
    "sources": [
@@ -250,7 +254,10 @@
     "SC",
     "UK",
     "CA",
-    "OT"
+    "AU",
+    "NZ",
+    "JP",
+    "KR"
    ],
    "status": "confirmed",
    "sources": [
@@ -285,7 +292,7 @@
     "SC",
     "UK",
     "CA",
-    "OT"
+    "JP"
    ],
    "status": "confirmed",
    "sources": [
@@ -320,7 +327,10 @@
     "SC",
     "UK",
     "CA",
-    "OT"
+    "AU",
+    "NZ",
+    "JP",
+    "KR"
    ],
    "status": "confirmed",
    "sources": [
@@ -341,7 +351,8 @@
     "SC",
     "UK",
     "CA",
-    "OT"
+    "AU",
+    "JP"
    ],
    "status": "confirmed",
    "sources": [
@@ -1278,8 +1289,10 @@
     "US",
     "UK",
     "CA",
-    "OT",
-    "SC"
+    "SC",
+    "AU",
+    "JP",
+    "KR"
    ],
    "status": "confirmed",
    "sources": [
@@ -1315,7 +1328,7 @@
     "CA",
     "UK",
     "SC",
-    "OT"
+    "JP"
    ],
    "status": "confirmed",
    "sources": [
@@ -1366,7 +1379,7 @@
     "UK",
     "CA",
     "SC",
-    "OT"
+    "AU"
    ],
    "status": "confirmed",
    "sources": [
