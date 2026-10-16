@@ -10104,5 +10104,323 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "partial"
+ },
+ {
+  "country": "Mongolia",
+  "route": "online",
+  "summary": "Apply for the tourist e-visa (type K2) at evisa.mn: fill in the form, upload documents, pay online. The Immigration Agency says it reviews applications within 3 working days (72 hours) and emails an ETA, which you print or save on your phone and show at the Mongolian border. Check on the portal that Indian passports are on the eligible list before paying.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Mongolia e-visa",
+    "url": "https://evisa.mn/en/apply"
+   },
+   {
+    "label": "Immigration Agency e-visa instructions",
+    "url": "https://immigration.gov.mn/articles/124"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 180 days from the date of travel; carry the same passport you applied with"
+   },
+   {
+    "item": "Passport scan and photo",
+    "note": "Uploaded to the portal; exact specs not confirmed"
+   },
+   {
+    "item": "Itinerary and accommodation details",
+    "note": "Possibly requested on the form; not confirmed"
+   },
+   {
+    "item": "Printed e-visa ETA",
+    "note": "Carry a copy during the stay and show at arrival"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "",
+   "format": "",
+   "notes": "Portal asks for a photo upload; specification not confirmed",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (paid online during the application; amount not read)",
+  "processing": "Within 3 working days / 72 hours per the Immigration Agency of Mongolia",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "No visit in India; biometrics are captured at the Mongolian border on arrival (per evisa.mn notice)",
+  "centres": "Not applicable (online)",
+  "warnings": [
+   "The fee is non-refundable even if the visa is denied or withdrawn",
+   "E-visa is non-extendable and non-convertible",
+   "Entry can still be refused at the border; stick to the stated purpose",
+   "The host or hotel must register you within 48 hours of arrival"
+  ],
+  "unverified": [
+   "Whether Indian citizens are on the e-visa eligible list (shown only inside the portal)",
+   "Fee",
+   "Photo specs",
+   "Maximum stay",
+   "Early application window"
+  ],
+  "sources": [
+   "https://evisa.mn/en/apply",
+   "https://immigration.gov.mn/articles/124"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Montenegro",
+  "route": "agency",
+  "summary": "Indian citizens need a visa for Montenegro. Montenegro has no resident mission in India; per its foreign ministry page, applications are submitted at VFS Global centres in India (New Delhi, Mumbai, Kolkata, Kochi). Holders of a valid Schengen, US, UK or Irish visa can enter for up to 30 days without a Montenegrin visa.",
+  "applyLinks": [
+   {
+    "label": "Montenegro MFA page: visa rules for Indians and VFS centre addresses",
+    "url": "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/india"
+   },
+   {
+    "label": "VFS Global India country list (find Montenegro)",
+    "url": "https://www.vfsglobal.com/en/individuals/countries/india"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Validity and blank pages not confirmed on an official page"
+   },
+   {
+    "item": "Application form and photos",
+    "note": "Typical; not confirmed"
+   },
+   {
+    "item": "Accommodation, return ticket, bank statements",
+    "note": "Typical; not confirmed"
+   },
+   {
+    "item": "Valid Schengen, US, UK or Irish visa",
+    "note": "Only for the visa-free route: up to 30 days, not beyond that visa's expiry"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "",
+   "format": "",
+   "notes": "Not confirmed",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Applications are lodged in person at a VFS centre; biometric requirement UNVERIFIED",
+  "centres": "VFS centres in New Delhi, Mumbai, Kolkata and Kochi (per Montenegro MFA)",
+  "warnings": [
+   "Montenegro has no resident embassy in India (ambassador is non-resident, based in Strasbourg)",
+   "VFS usually charges a separate service fee on top of the visa fee",
+   "If you hold a valid Schengen, US, UK or Irish visa you may not need a Montenegrin visa",
+   "Avoid unofficial agents promising guaranteed visas"
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Document checklist",
+   "Photo rules",
+   "Direct VFS Montenegro booking page"
+  ],
+  "sources": [
+   "https://www.gov.me/en/diplomatic-missions/embassies-and-consulates-of-montenegro/india"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Mozambique",
+  "route": "online",
+  "summary": "Apply on the official eVisa/eTA portal evisa.gov.mz (new platform launched 11 February 2026, run with VFS Global). Fill in the application, upload documents, pay the fee, then download and print the approved eVisa to show at boarding and on arrival. The tourist eVisa covers stays of 90 days or less.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Mozambique eVisa / eTA",
+    "url": "https://evisa.gov.mz/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Use the passport you will travel with; validity rule not confirmed"
+   },
+   {
+    "item": "Supporting documents uploaded on the portal",
+    "note": "List depends on visa type; not confirmed"
+   },
+   {
+    "item": "Printed eVisa PDF",
+    "note": "Needed for boarding and arrival"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "",
+   "format": "",
+   "notes": "Not confirmed",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (paid on the portal; amount not read)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "Not applicable (online)",
+  "warnings": [
+   "The old platform was discontinued; if you applied earlier and have no decision, do not file a new application",
+   "Use only evisa.gov.mz; lookalike sites such as mozambique-evisa.com are not the government portal",
+   "Keep a printed copy of the approval",
+   "Check inside the portal that Indian nationals qualify for the eVisa"
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo specs",
+   "Document list",
+   "Indian eligibility details",
+   "Early application window"
+  ],
+  "sources": [
+   "https://evisa.gov.mz/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Myanmar",
+  "route": "online",
+  "summary": "Apply for the tourist e-visa on the official Myanmar eVisa site: create an account, fill in the form, upload a photo and pay online. Official-site search snippets list the tourist visa at US$50 for 28 days. The tourist notice and fee pages returned no readable text to my tools, so details come from those snippets.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Myanmar e-visa",
+    "url": "https://evisa.moip.gov.mm/"
+   },
+   {
+    "label": "Notice to tourists (requirements)",
+    "url": "https://evisa.moip.gov.mm/notice/tourist"
+   },
+   {
+    "label": "Visa fees and process",
+    "url": "https://evisa.moip.gov.mm/notice/visa-process"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "At least 6 months validity (official snippet)"
+   },
+   {
+    "item": "Colour photo",
+    "note": "4.6 cm x 3.8 cm, taken in the last 3 months (official snippet)"
+   },
+   {
+    "item": "Travel details and accommodation",
+    "note": "Typical; not confirmed"
+   }
+  ],
+  "photo": {
+   "size": "4.6 cm x 3.8 cm",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Taken within the last 3 months, from official notice snippet",
+   "status": "unverified"
+  },
+  "fee": "US$50 for a tourist e-visa, 28 days (official site search snippet, seen 2026-10-16; page body did not render)",
+  "processing": "UNVERIFIED (a secondary source says 3 to 5 working days)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED; no centre visit needed for the online route",
+  "centres": "Not applicable (online)",
+  "warnings": [
+   "Check current travel advisories and which entry points accept e-visas before booking",
+   "The fee is non-refundable",
+   "Use only evisa.moip.gov.mm; many lookalike agent sites exist",
+   "Do not rely on visa on arrival; rules are unclear and change"
+  ],
+  "unverified": [
+   "Full page text (pages did not render for my tools)",
+   "Processing time",
+   "Eligibility of Indian passports for e-visa",
+   "Early application window",
+   "Photo background and format"
+  ],
+  "sources": [
+   "https://evisa.moip.gov.mm/",
+   "https://evisa.moip.gov.mm/notice/tourist",
+   "https://evisa.moip.gov.mm/notice/visa-process"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Nauru",
+  "route": "embassy",
+  "summary": "No Nauru mission in India was found. Visitors use the Department of Justice and Border Control visitor visa form, completed in English, with supporting documents and the application fee, submitted to Nauru Immigration or a Nauruan mission. Contact Nauru Immigration before applying to confirm how an applicant in India should submit.",
+  "applyLinks": [
+   {
+    "label": "Visitor visa application form (PDF, Nauru Justice Department)",
+    "url": "https://justice.gov.nr/wp-content/uploads/2023/12/Application-Form-Visitor-Visa.pdf"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Application for Visitor Visa (PDF)",
+    "url": "https://justice.gov.nr/wp-content/uploads/2023/12/Application-Form-Visitor-Visa.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Completed visitor visa application form",
+    "note": "In English, all questions answered"
+   },
+   {
+    "item": "Supporting documents",
+    "note": "List is on the form; not read in detail"
+   },
+   {
+    "item": "Proof of fee payment",
+    "note": "Per the form: cash at Nauru Revenue Office or a Nauruan mission, or bank transfer with receipt; non-refundable"
+   },
+   {
+    "item": "Passport",
+    "note": "A secondary source says 3 months validity; unconfirmed"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "",
+   "format": "",
+   "notes": "Not confirmed",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (amount not read)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "UNVERIFIED (no Nauru mission in India confirmed)",
+  "warnings": [
+   "Flights to Nauru are very limited; confirm the visa before booking",
+   "The application fee is non-refundable",
+   "The form links to old naurugov.nr pages that may be dead; contact Nauru Immigration directly",
+   "Proof of accommodation and onward travel may be required; not confirmed"
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Which mission or email accepts applications from India",
+   "Photo specs",
+   "Full document list",
+   "Early application window"
+  ],
+  "sources": [
+   "https://justice.gov.nr/wp-content/uploads/2023/12/Application-Form-Visitor-Visa.pdf"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
  }
 ]
