@@ -205,7 +205,7 @@ function draw(){ctx.clearRect(0,0,cv.width,cv.height);const g=ctx.createRadialGr
  for(const c of GEO){ctx.fillStyle=col(c.name);ctx.strokeStyle='rgba(120,150,230,.35)';ctx.lineWidth=1;for(const r of c.rings){ctx.beginPath();let any=false;for(let i=0;i<r.length;i++){let[x,y,z]=proj(r[i][0],r[i][1]);if(z<0){const m=Math.hypot(x,y)||1;x/=m;y/=m}else any=true;const px=CX+x*R,py=CY-y*R;i?ctx.lineTo(px,py):ctx.moveTo(px,py)}if(any){ctx.fill();ctx.stroke()}}}
  for(const[n,[lo,la]]of Object.entries(MARK)){const[x,y,z]=proj(lo,la);if(z>0){ctx.fillStyle=colorMode&&colorMode(n)?colorMode(n):(hl.has(n)?'#ff9f45':'#7e93d6');ctx.beginPath();ctx.arc(CX+x*R,CY-y*R,hl.has(n)?7:5,0,7);ctx.fill()}}
  ctx.strokeStyle='rgba(55,214,196,.5)';ctx.lineWidth=3;ctx.beginPath();ctx.arc(CX,CY,R,0,7);ctx.stroke()}
-function loop(){if(target){rot[0]+=(target[0]-rot[0])*.08;rot[1]+=(target[1]-rot[1])*.08;if(Math.abs(target[0]-rot[0])+Math.abs(target[1]-rot[1])<.3)target=null}else if(auto&&!drag)rot[0]-=.12;draw();requestAnimationFrame(loop)}
+function loop(){if(target){rot[0]+=(target[0]-rot[0])*.08;rot[1]+=(target[1]-rot[1])*.08;if(Math.abs(target[0]-rot[0])+Math.abs(target[1]-rot[1])<.3)target=null}else if(auto&&!drag)rot[0]+=.12;draw();requestAnimationFrame(loop)}
 cv.addEventListener('pointerdown',e=>{drag=[e.clientX,e.clientY,rot[0],rot[1]];auto=false;target=null;cv.setPointerCapture(e.pointerId)});
 cv.addEventListener('pointermove',e=>{if(!drag)return;rot[0]=drag[2]+(e.clientX-drag[0])*.4;rot[1]=Math.max(-80,Math.min(80,drag[3]-(e.clientY-drag[1])*.4))});
 cv.addEventListener('pointerup',()=>{drag=null;setTimeout(()=>auto=true,4000)});
