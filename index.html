@@ -69,9 +69,9 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
  <div>
   <span class="pill">Built for Indian passport holders</span>
   <h1>The world, one affordable trip at a time.</h1>
-  <p class="lead">An atlas of 16 low-budget trips that add 90 countries, with visa rules for an Indian passport, cheapest months, day-by-day plans, and the odd experiences worth a detour.</p>
+  <p class="lead">An atlas of <span id="sTripsLead">18</span> low-budget trips that add <span id="sCountriesLead">101</span> countries, with visa rules for an Indian passport, cheapest months, day-by-day plans, and the odd experiences worth a detour.</p>
   <p><a class="btn" href="#trips">Explore the trips</a> <a class="btn ghost" href="#visa">Check where my visas work</a></p>
-  <div class="stats"><div><b id="sCountries">93</b><span>new countries</span></div><div><b>16</b><span>trips</span></div><div><b id="sDays">221</b><span>travel days</span></div><div><b>₹38 to 59 lakh</b><span>for everything</span></div></div>
+  <div class="stats"><div><b id="sCountries">101</b><span>countries</span></div><div><b id="sTrips">18</b><span>trips</span></div><div><b id="sDays">248</b><span>travel days</span></div><div><b id="sBudget">₹42 to 65 lakh</b><span>for everything</span></div></div>
   <div class="legend" id="globeLegend"></div>
  </div>
  <div id="globeBox"><canvas id="globe" width="1100" height="1100"></canvas><div class="globeTip">Drag to spin. Tap a trip below to fly there.</div></div>
@@ -146,7 +146,7 @@ function decode(topo){const k=topo.transform.scale,t=topo.transform.translate;le
  return topo.objects.countries.geometries.map(g=>{let polys=g.type==='Polygon'?[g.arcs]:g.arcs;return{name:g.properties.name,rings:polys.flatMap(p=>p.map(ring))}})}
 const GEO=decode(WORLD);
 // small countries missing from 110m: markers
-const MARK={Maldives:[73.5,3.2],Bahrain:[50.55,26.1],Monaco:[7.42,43.74],Malta:[14.4,35.9],Mauritius:[57.5,-20.3],Seychelles:[55.5,-4.7],Samoa:[-172.1,-13.8],Barbados:[-59.55,13.2],Andorra:[1.55,42.55],Liechtenstein:[9.55,47.15],'San Marino':[12.45,43.94],Vatican:[12.45,41.9],'North Macedonia':[21.7,41.6]};
+const MARK={'Saint Lucia':[-60.98,13.9],'Saint Vincent and the Grenadines':[-61.2,13.25],Grenada:[-61.68,12.12],Dominica:[-61.37,15.42],Maldives:[73.5,3.2],Bahrain:[50.55,26.1],Monaco:[7.42,43.74],Malta:[14.4,35.9],Mauritius:[57.5,-20.3],Seychelles:[55.5,-4.7],Samoa:[-172.1,-13.8],Barbados:[-59.55,13.2],Andorra:[1.55,42.55],Liechtenstein:[9.55,47.15],'San Marino':[12.45,43.94],Vatican:[12.45,41.9],'North Macedonia':[21.7,41.6]};
 // ---------- globe
 const cv=document.getElementById('globe'),ctx=cv.getContext('2d');let rot=[-80,-22],target=null,drag=null,auto=true,hl=new Set(),colorMode=null;
 const R=cv.width/2-6,CX=cv.width/2,CY=cv.height/2,D=Math.PI/180;
@@ -177,6 +177,8 @@ async function boot(){
  ALLC=[...new Set(TRIPS.flatMap(t=>t.ctry))].sort();
  document.getElementById('sCountries').textContent=new Set(TRIPS.flatMap(t=>t.ctry)).size;
  document.getElementById('sDays').textContent=TRIPS.reduce((a,t)=>a+t.d,0);
+ const nC=new Set(TRIPS.flatMap(t=>t.ctry)).size;document.getElementById('sCountriesLead').textContent=nC;document.getElementById('sTripsLead').textContent=TRIPS.length;document.getElementById('sTrips').textContent=TRIPS.length;
+ const bl=TRIPS.reduce((a,t)=>a+t.lo,0),bh=TRIPS.reduce((a,t)=>a+t.hi,0);document.getElementById('sBudget').textContent='₹'+Math.round(bl)+' to '+Math.round(bh)+' lakh';
  // ---------- trips
  const fmt=n=>n.toFixed(1).replace(/\.0$/,'');
  let tripTag='All';const tagSet=['All',...new Set(TRIPS.flatMap(t=>t.tags))];
@@ -190,7 +192,7 @@ async function boot(){
  document.getElementById('planList').onchange=e=>{const c=e.target.dataset.c;e.target.checked?sel.add(c):sel.delete(c);const ts=TRIPS.filter(t=>sel.has(t.c));hl=new Set(ts.flatMap(t=>t.ctry));colorMode=null;if(ts.length)fly(ts[ts.length-1]);
   const d=ts.reduce((a,t)=>a+t.d,0),lo=ts.reduce((a,t)=>a+t.lo,0),hi=ts.reduce((a,t)=>a+t.hi,0),n=new Set(ts.flatMap(t=>t.ctry)).size;
   document.getElementById('planOut').innerHTML=`<p><b style="font-size:28px;color:var(--acc)">${n}</b> new countries · ${d} days<br>₹${fmt(lo)} to ${fmt(hi)} lakh</p>`;
-  document.getElementById('planBar').style.width=Math.min(100,n/90*100)+'%';document.getElementById('planHint').textContent=`${Math.max(0,100-n)} more countries to reach 100 (add the ones you have already visited in My progress).`};
+  document.getElementById('planBar').style.width=Math.min(100,n/90*100)+'%';document.getElementById('planHint').textContent=`${Math.max(0,100-n)} more countries to reach 100 on this plan alone. Add the ones you have already visited in My progress.`};
  // ---------- visa checker
  const COL={f:'#5ee08a',e:'#ffd166',r:'#ff6b6b',c:'#7e93d6',l:'#37d6c4'};
  const LABEL={f:'Visa-free or on arrival',e:'E-visa or conditional',r:'Visa needed in advance',l:'Eased by a visa you hold'};

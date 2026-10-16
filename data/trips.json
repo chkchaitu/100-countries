@@ -1,6 +1,6 @@
 {
  "lastChecked": "2026-10-16",
- "about": "Sixteen low-budget multi-country trips. Budgets are in lakh of rupees for one person, mid-range, and are estimates. Months are the cheaper good windows.",
+ "about": "Eighteen low-budget multi-country trips. Budgets are in lakh of rupees for one person, mid-range, and are estimates. Months are the cheaper good windows.",
  "currency": "INR lakh",
  "basis": "Research plan of 16 October 2026 (flights, transport, hotels, food, entry fees, visas, insurance). Fares and prices are estimates, not quotes.",
  "sources": [
@@ -473,6 +473,7 @@
     "Jamaica",
     "Dominican Rep.",
     "Barbados",
+    "Trinidad and Tobago",
     "Panama",
     "Costa Rica",
     "Mexico"
@@ -512,6 +513,87 @@
    "note": "Machu Picchu, Iguazú. Brazil needs a visa.",
    "lastChecked": "2026-10-16",
    "sources": []
+  },
+  {
+   "code": "R",
+   "name": "Balkans and Black Sea",
+   "days": 14,
+   "budgetLakh": {
+    "low": 1.45,
+    "high": 2.1
+   },
+   "bestMonths": [
+    4,
+    5,
+    6,
+    9
+   ],
+   "lat": 42.0,
+   "lon": 24.0,
+   "tags": [
+    "Overland",
+    "Castles",
+    "Schengen visa needed"
+   ],
+   "countries": [
+    "Kosovo",
+    "Bulgaria",
+    "Romania",
+    "Cyprus"
+   ],
+   "note": "Bus from Skopje to Pristina, Sofia and Bucharest then a Wizz Air flight to Larnaca, and a multiple entry Schengen visa is needed for Kosovo and Cyprus.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://travel.gjirafa.com/en/bus/skopje-to-prishtina",
+    "https://travel.gjirafa.com/en/bus/prishtina-to-sofia",
+    "https://www.flixbus.com/bus-routes/bus-sofia-bucharest",
+    "https://www.wizzair.com/en-gb/cheap-flights-from-romania",
+    "https://www.flightsfrom.com/OTP-LCA",
+    "https://www.expedia.com/lp/flights/del/sof/delhi-to-sofia",
+    "https://bulgariaguidebook.com/attractions/seven-rila-lakes",
+    "https://bran-castle.com/pages/tickets"
+   ]
+  },
+  {
+   "code": "S",
+   "name": "Eastern Caribbean islands",
+   "days": 13,
+   "budgetLakh": {
+    "low": 2.5,
+    "high": 4.2
+   },
+   "bestMonths": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "lat": 13.5,
+   "lon": -61.2,
+   "tags": [
+    "Islands",
+    "Hiking",
+    "Ferries"
+   ],
+   "countries": [
+    "Saint Lucia",
+    "Saint Vincent and the Grenadines",
+    "Grenada",
+    "Dominica"
+   ],
+   "note": "Fly from Barbados to Saint Lucia, take the FRS Express ferry to Dominica, then fly on to Saint Vincent and Grenada with a Bequia ferry day trip.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.frs-express.com/horaires-tarifs/sainte-lucie-horaires-tarifs",
+    "https://www.insandoutsofsvg.com/articles/ferry-schedule",
+    "https://bequiaexpress.com/schedules",
+    "https://flysvgair.com/",
+    "https://www.monde-du-voyage.com/en/saint-lucia/flight/departure-barbados/intercaribbean-airways",
+    "https://travel.usnews.com/Dominica/Things_To_Do/Boiling_Lake_21992",
+    "https://travel.usnews.com/St_Lucia/Things_To_Do/The_Pitons_61729",
+    "https://www.shoreexcursionsgroup.com/tour/snorkeling-sculpture-park-grenada/cagredtartsnk"
+   ]
   }
  ]
 }

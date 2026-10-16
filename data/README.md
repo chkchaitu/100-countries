@@ -3,7 +3,7 @@
 Every record carries `lastChecked` (ISO date) and `sources` (links). The site reads these files at load time, so updating a file updates the site with no code change.
 
 - `visa.json`: one record per country for an Indian ordinary passport. Fields: `country`, `trip`, `category` (visa_free, on_arrival, evisa, conditional, visa_required, unknown), `rule`, `easedBy` (US, SC, UK, CA, OT: which visas a traveller may hold that ease entry), `status` (confirmed, probable, uncertain), `sources`, `lastChecked`.
-- `trips.json`: 16 trips with days, budget range in lakh of rupees, best months, countries, coordinates, tags.
+- `trips.json`: 18 trips (101 countries) with days, budget range in lakh of rupees, best months, countries, coordinates, tags.
 - `experiences.json`: adventures, wildlife, stays and similar, with approximate rupee prices.
 - `records.json`: record and bucket-list claims.
 

@@ -1420,6 +1420,145 @@
    ],
    "lastChecked": "2026-10-16",
    "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Kosovo",
+   "name": "Kosovo",
+   "trip": "R",
+   "category": "conditional",
+   "rule": "Visa required for Indian passports. Exempt for up to 15 days with a valid multiple entry Schengen visa or Schengen residence permit per Kosovo MFA as quoted by Wikipedia. Register address with police within 3 days. Check US or UK visa easing with Kosovo MFA before relying on it.",
+   "easedBy": [
+    "SC"
+   ],
+   "status": "probable",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+    "https://xk.usembassy.gov/message-for-u-s-citizens-u-s-citizen-town-hall-on-december-12-2025-at-u-s-embassy-pristina-kosovo-2",
+    "https://www.visitplane.com/visa/India/Kosovo",
+    "https://travel.gc.ca/travelling/advisories"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Bulgaria",
+   "name": "Bulgaria",
+   "trip": "R",
+   "category": "visa_required",
+   "rule": "Schengen visa required. Bulgaria is a full Schengen member since 1 Jan 2025 (land borders), so a valid Schengen short stay visa covers entry. 90 days in 180 shared across the area. Standard Schengen fee 90 euro, about 15 days processing.",
+   "easedBy": [
+    "SC"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy_en",
+    "https://etias.com/articles/what-is-the-schengen-area",
+    "https://adambernards.co.uk/blog/countries-you-can-travel-with-a-schengen-visa-2026-full-list",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Romania",
+   "name": "Romania",
+   "trip": "R",
+   "category": "visa_required",
+   "rule": "Schengen visa required. Romania is a full Schengen member since 1 Jan 2025 (land borders), so a valid Schengen short stay visa covers entry. 90 days in 180 shared across the area. Standard Schengen fee 90 euro, about 15 days processing.",
+   "easedBy": [
+    "SC"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy_en",
+    "https://etias.com/articles/what-is-the-schengen-area",
+    "https://adambernards.co.uk/blog/countries-you-can-travel-with-a-schengen-visa-2026-full-list",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Cyprus",
+   "name": "Cyprus",
+   "trip": "R",
+   "category": "conditional",
+   "rule": "EU but not Schengen. National visa required, but a valid double or multiple entry Schengen C visa (or Bulgarian, Croatian, Romanian national visa) gives entry up to 90 days in 180. Days in Cyprus do not count in Schengen. US or UK visa does not ease entry.",
+   "easedBy": [
+    "SC"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://cyprusinuk.com/visa-information",
+    "https://gk-lawfirm.com/publications/travel-with-cyprus-residence-permit",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Saint Lucia",
+   "name": "Saint Lucia",
+   "trip": "S",
+   "category": "on_arrival",
+   "rule": "Visa on arrival up to 6 weeks per MEA and Wikipedia, but the Saint Lucia government portal still lists a visa for some nationalities (EC$125 single, EC$190 multiple, 5 working days, return ticket, hotel proof). Confirm with airline before flying.",
+   "easedBy": [],
+   "status": "uncertain",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+    "https://www.govt.lc/services/apply-for-saint-lucia-non-immigrant-visa"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Saint Vincent and the Grenadines",
+   "name": "Saint Vincent and the Grenadines",
+   "trip": "S",
+   "category": "visa_free",
+   "rule": "Visa not required. MEA says 30 days (tourist and business, no extension), Wikipedia says 3 months; officers decide on arrival. Need passport valid 6 months, return ticket, accommodation proof, funds.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+    "https://security.gov.vc/security/index.php?option=com_content&view=article&id=708%3Aentry-visa-application-form&catid=70&Itemid=426"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Grenada",
+   "name": "Grenada",
+   "trip": "S",
+   "category": "visa_free",
+   "rule": "Visa not required, 90 days per MEA (Wikipedia says 3 months). Need passport valid 6 months and return or onward ticket. Check for an airline requested electronic immigration form before travel.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+    "https://www.puregrenada.com/travel-requirements"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Dominica",
+   "name": "Dominica",
+   "trip": "S",
+   "category": "visa_free",
+   "rule": "Visa not required, up to 180 days per MEA (Wikipedia says 6 months). Need passport, return ticket, accommodation proof and funds. Ferry arrivals from Guadeloupe, Martinique or Saint Lucia clear immigration with an entry form.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+    "https://www.chronic-wanderlust.com/caribbean-ferry"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
   }
  ]
 }
