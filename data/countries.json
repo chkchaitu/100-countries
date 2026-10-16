@@ -8343,5 +8343,1576 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "X"
+ },
+ {
+  "country": "Kuwait",
+  "region": "Middle East",
+  "capital": "Kuwait City",
+  "places": [
+   {
+    "name": "Kuwait Towers",
+    "note": "Iconic landmark with viewing deck and restaurant",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Grand Mosque",
+    "note": "Largest mosque in Kuwait, visitors welcomed outside prayer times",
+    "fee": "Free"
+   },
+   {
+    "name": "Liberation Tower",
+    "note": "Tall telecom tower with city views",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Souq Al Mubarakiya",
+    "note": "Traditional market, food, shisha and spices",
+    "fee": "Free entry"
+   },
+   {
+    "name": "Failaka Island",
+    "note": "Ferry trip, ruins and abandoned village",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Tareq Rajab Museum",
+    "note": "Islamic art and costume collection",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "dailyBudgetInr": {
+   "low": 6000,
+   "high": 16000
+  },
+  "transport": "No reliable fact checked on direct flights; Kuwait Airways, Jazeera and IndiGo are commonly reported to fly from Indian metros (UNVERIFIED). Around the country: taxis, ride apps, rental cars; no metro.",
+  "experiences": [
+   "Dining at souqs and malls",
+   "Desert camping in winter",
+   "Dhow cruise"
+  ],
+  "cautions": [
+   "Summer heat above 45C",
+   "Alcohol is banned",
+   "Visa rules for Indians have shifted often, recheck before booking"
+  ],
+  "neighbours": [
+   "Iraq",
+   "Saudi Arabia"
+  ],
+  "sources": [
+   "https://kuwaitvisa.moi.gov.kw/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Pakistan",
+  "region": "Asia",
+  "capital": "Islamabad",
+  "places": [
+   {
+    "name": "Lahore Fort and Badshahi Mosque",
+    "note": "Mughal heritage in Lahore",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Hunza Valley",
+    "note": "Mountain valley on the Karakoram Highway",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Skardu",
+    "note": "Gateway to K2 area and Shangrila lake",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Mohenjo-daro",
+    "note": "Indus Valley Civilisation ruins",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Taxila",
+    "note": "Buddhist Gandhara ruins",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Fairy Meadows",
+    "note": "Nanga Parbat viewpoint trek",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   6,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 4000,
+   "high": 12000
+  },
+  "transport": "Flights from India are not a normal option (direct flights suspended, airspace restricted, UNVERIFIED); Indians may only use designated entry points. Inside Pakistan: domestic flights, buses, Karakoram Highway.",
+  "experiences": [
+   "Karakoram Highway road trip",
+   "Trekking in the north",
+   "Lahore food streets"
+  ],
+  "cautions": [
+   "Indians get no tourist visa and face entry point limits",
+   "Security risks in Balochistan and KP border regions",
+   "Landslides and floods in monsoon (Jul to Sep)"
+  ],
+  "neighbours": [
+   "Afghanistan",
+   "China",
+   "India",
+   "Iran"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Visa_policy_of_Pakistan"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Myanmar",
+  "region": "Asia",
+  "capital": "Nay Pyi Taw",
+  "places": [
+   {
+    "name": "Bagan",
+    "note": "Thousands of temples on the Irrawaddy plain",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Shwedagon Pagoda, Yangon",
+    "note": "Gilded stupa and main landmark",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Inle Lake",
+    "note": "Floating gardens and leg rowers",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Mandalay",
+    "note": "Royal city, U Bein bridge",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Mrauk U",
+    "note": "Ancient Rakhine temple city, security sensitive",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Kyaiktiyo Golden Rock",
+    "note": "Pilgrimage boulder",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "dailyBudgetInr": {
+   "low": 3500,
+   "high": 9000
+  },
+  "transport": "Flights to Yangon via Bangkok, Kolkata or Singapore; direct flights from India reported (UNVERIFIED). Inside: domestic flights, buses, trains, restricted areas.",
+  "experiences": [
+   "Balloon or sunrise at Bagan",
+   "Inle lake boat trip",
+   "Temple trails"
+  ],
+  "cautions": [
+   "Active armed conflict in many regions",
+   "Domestic flights and roads can be disrupted",
+   "Restricted areas require permits"
+  ],
+  "neighbours": [
+   "Bangladesh",
+   "China",
+   "India",
+   "Laos",
+   "Thailand"
+  ],
+  "sources": [
+   "https://www.mofa.gov.mm/consular-information/on-arrival-visa-information"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Tajikistan",
+  "region": "Asia",
+  "capital": "Dushanbe",
+  "places": [
+   {
+    "name": "Pamir Highway",
+    "note": "One of the world's great road trips",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Iskanderkul",
+    "note": "Alpine lake near Dushanbe",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Fann Mountains",
+    "note": "Trekking and seven lakes",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Wakhan Valley",
+    "note": "Views of Afghanistan and forts",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Khorog",
+    "note": "Pamir hub town, needs GBAO permit",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Dushanbe",
+    "note": "Capital with museums and parks",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "dailyBudgetInr": {
+   "low": 3000,
+   "high": 8000
+  },
+  "transport": "Flights to Dushanbe via Delhi (some reported direct links, UNVERIFIED), or via Dubai, Istanbul and Almaty. Inside: shared taxis, 4x4 hire, marshrutkas.",
+  "experiences": [
+   "Pamir Highway drive",
+   "Trekking",
+   "Homestays"
+  ],
+  "cautions": [
+   "Altitude sickness in the Pamirs",
+   "Road conditions and closures",
+   "Border with Afghanistan is sensitive"
+  ],
+  "neighbours": [
+   "Afghanistan",
+   "China",
+   "Kyrgyzstan",
+   "Uzbekistan"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Visa_policy_of_Tajikistan"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Timor-Leste",
+  "region": "Asia",
+  "capital": "Dili",
+  "places": [
+   {
+    "name": "Dili",
+    "note": "Cristo Rei statue, Resistance Museum, waterfront and cafes",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Atauro Island",
+    "note": "Ferry or boat from Dili, world class reef diving and snorkelling",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Mount Ramelau",
+    "note": "Highest peak, sunrise hike from Hatubuilico",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Jaco Island",
+    "note": "Remote white sand island off the eastern tip, day trips from Tutuala",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Baucau",
+    "note": "Old Portuguese town, beaches and caves",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Maubisse",
+    "note": "Cool highland town with colonial pousada",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Com and Lospalos",
+    "note": "Quiet beach village and eastern culture",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 5000,
+   "high": 12000
+  },
+  "transport": "No direct India flights. Usually via Singapore, Denpasar (Bali), Kuala Lumpur or Darwin to Dili with Air Timor, Citilink or Scoot style connections (verify current schedules). Around the country: shared minibuses (microlets), rented 4x4 and motorbikes, ferry to Atauro. Roads are rough.",
+  "experiences": [
+   "Diving and snorkelling at Atauro",
+   "Sunrise hike up Mount Ramelau",
+   "Timorese coffee farm visits",
+   "Whale and dolphin watching off Dili in season",
+   "Tais weaving markets"
+  ],
+  "cautions": [
+   "Costs are high for the region and the economy is largely USD cash; ATMs are few outside Dili",
+   "Rough roads and landslides in the wet season, long travel times",
+   "Medical facilities are limited; carry travel insurance with evacuation and malaria and dengue precautions"
+  ],
+  "neighbours": [
+   "Indonesia",
+   "Australia"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Visa_policy_of_Timor-Leste",
+   "https://koryogroup.com/blog/visa-timor-leste-guide"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Turkmenistan",
+  "region": "Asia",
+  "capital": "Ashgabat",
+  "places": [
+   {
+    "name": "Ashgabat",
+    "note": "White marble city, Independence Monument, Turkmenbashi Ruhy Mosque",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Darvaza Gas Crater",
+    "note": "Burning crater in the Karakum desert, camp overnight",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Yangykala Canyon",
+    "note": "Red and pink canyon cliffs",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Merv",
+    "note": "UNESCO Silk Road city ruins near Mary",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Nisa",
+    "note": "Parthian fortress ruins near Ashgabat, UNESCO",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Kow Ata",
+    "note": "Underground thermal lake near Ashgabat",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Konye-Urgench",
+    "note": "UNESCO site with medieval minarets and mausoleums",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Awaza",
+    "note": "Caspian beach resort zone near Turkmenbashi",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 9000,
+   "high": 22000
+  },
+  "transport": "No known direct India flights; connect via Dubai, Istanbul, Tashkent or Moscow style hubs to Ashgabat with Turkmenistan Airlines (verify). Around the country: domestic flights, trains, and mostly guided private cars. Tourists generally travel with a licensed agency and permits are needed for border zones.",
+  "experiences": [
+   "Night camping at the Darvaza Gas Crater",
+   "Ahal-Teke horse farm visits",
+   "Silk Road ruins at Merv",
+   "Karakum desert 4x4 tour",
+   "Ashgabat Carpet Museum and bazaars"
+  ],
+  "cautions": [
+   "One of the most restricted tourist destinations, independent travel is very limited and rules change",
+   "Photography of government buildings and border areas can lead to trouble",
+   "Summer heat above 45 C in the desert; alcohol, drones and some items are controlled"
+  ],
+  "neighbours": [
+   "Uzbekistan",
+   "Kazakhstan",
+   "Iran",
+   "Afghanistan"
+  ],
+  "sources": [
+   "https://india.tmembassy.gov.tm/en/consular-services/viza-application-of-turkmenistan",
+   "https://en.wikipedia.org/wiki/Visa_policy_of_Turkmenistan"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Belarus",
+  "region": "Europe",
+  "capital": "Minsk",
+  "places": [
+   {
+    "name": "Minsk",
+    "note": "Soviet era avenues, Trinity Suburb, Island of Tears",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Mir Castle",
+    "note": "UNESCO castle complex",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Nesvizh Castle",
+    "note": "Radziwill palace and park, UNESCO",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Belovezhskaya Pushcha",
+    "note": "Primeval forest with European bison",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Brest Fortress",
+    "note": "WWII memorial fortress",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Grodno",
+    "note": "Old town with castles and churches",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Vitebsk",
+    "note": "Chagall heritage and Slavianski Bazaar festival",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "dailyBudgetInr": {
+   "low": 4500,
+   "high": 12000
+  },
+  "transport": "No direct India flights known; connect via Istanbul, Dubai or other hubs to Minsk (Belavia and others; verify current routes). Entry via Moscow is not allowed under the visa free rule. Around the country: trains, buses and cars are cheap and reliable.",
+  "experiences": [
+   "Castle day trips from Minsk",
+   "Bison viewing at Belovezhskaya Pushcha",
+   "Minsk Soviet architecture walk",
+   "Belarusian cuisine like draniki",
+   "Winter skiing at Silichy"
+  ],
+  "cautions": [
+   "Sanctions and political tension mean many airlines and cards do not work, carry cash in USD or EUR",
+   "Check MEA and your own government advisories; land borders with Poland, Lithuania, Latvia and Ukraine are restricted",
+   "Visa free entry needs strict paperwork, officers may refuse entry if any item is missing"
+  ],
+  "neighbours": [
+   "Russia",
+   "Ukraine",
+   "Poland",
+   "Lithuania",
+   "Latvia"
+  ],
+  "sources": [
+   "https://india.mfa.gov.by/en/consular_issues/visas/visa_free",
+   "https://www.belarus.by/en/travel/travel-visas/visa-free-travel-program-belarus"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Moldova",
+  "region": "Europe",
+  "capital": "Chisinau",
+  "places": [
+   {
+    "name": "Chisinau",
+    "note": "Central Park, Stefan cel Mare, markets and wine bars",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Milestii Mici",
+    "note": "World's largest wine cellar network by length",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Cricova",
+    "note": "Underground wine city and tastings",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Orheiul Vechi",
+    "note": "Cave monastery and cliff valley",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Soroca Fortress",
+    "note": "Medieval fortress on the Dniester",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Saharna and Tipova",
+    "note": "Monasteries and waterfalls",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Gagauzia",
+    "note": "Autonomous region with Gagauz culture and wine",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 3500,
+   "high": 9000
+  },
+  "transport": "No direct India flights; connect via Istanbul, Vienna, Bucharest or Dubai style hubs to Chisinau (verify). Around: marshrutka minibuses, trains and rented cars; roads are mixed. Transnistria is a separate breakaway region with checkpoints.",
+  "experiences": [
+   "Wine cellar tastings at Cricova or Milestii Mici",
+   "Wine harvest in September",
+   "Orheiul Vechi cave monastery",
+   "Soviet history walk in Chisinau",
+   "Village homestays"
+  ],
+  "cautions": [
+   "Transnistria is not under Moldovan government control, check MEA and local advice before crossing",
+   "Winters are cold and some areas are affected by energy supply issues",
+   "Ukraine war proximity, check current advisories near the eastern and southern borders"
+  ],
+  "neighbours": [
+   "Romania",
+   "Ukraine"
+  ],
+  "sources": [
+   "https://mfa.gov.md/en/content/visa-regime-foreigners",
+   "https://en.wikipedia.org/wiki/Visa_policy_of_Moldova"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Senegal",
+  "region": "Africa",
+  "capital": "Dakar",
+  "places": [
+   {
+    "name": "Dakar",
+    "note": "Capital, markets, African Renaissance Monument, nightlife",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Goree Island",
+    "note": "UNESCO slave trade memorial island, ferry from Dakar",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Lake Retba (Lac Rose)",
+    "note": "Pink lake and salt harvesting north of Dakar",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Saint-Louis",
+    "note": "Colonial UNESCO city on the Langue de Barbarie",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Saloum Delta",
+    "note": "Mangrove islands, birdlife, pirogue trips",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Djoudj Bird Sanctuary",
+    "note": "UNESCO wetland, pelicans, best in dry season",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Touba and Thies region",
+    "note": "Great Mosque of Touba, craft towns",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Casamance and Cap Skirring",
+    "note": "Beaches and forest, check security first",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   11,
+   12,
+   1,
+   2,
+   3,
+   4
+  ],
+  "dailyBudgetInr": {
+   "low": 4000,
+   "high": 12000
+  },
+  "transport": "No known nonstop India to Dakar flight; connect via Gulf (Emirates, Qatar), Istanbul, Casablanca (Royal Air Maroc) or Addis Ababa. Around the country: sept-place shared taxis, minibuses (car rapide), Dakar to Saint-Louis buses, ferries to Goree and Casamance, new Dakar express train to Diamniadio.",
+  "experiences": [
+   "Ferry to Goree Island",
+   "Pirogue trip in Saloum Delta",
+   "Dakar music and mbalax night",
+   "Lac Rose and dune buggy",
+   "Birdwatching at Djoudj"
+  ],
+  "cautions": [
+   "Yellow fever vaccination advised and an Indian-side certificate may be needed on return, malaria prophylaxis advised",
+   "Check MEA and local advisories for the Casamance region and the Mali border area (UNVERIFIED current status)",
+   "Planned reciprocal e-visa could change entry rules; re-check before booking"
+  ],
+  "neighbours": [
+   "Mauritania",
+   "Mali",
+   "Guinea",
+   "Guinea-Bissau",
+   "Gambia"
+  ],
+  "sources": [
+   "https://discover-senegal.com/visa-health-safety",
+   "https://www.riotimesonline.com/senegal-visa-residency"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Côte d'Ivoire",
+  "region": "Africa",
+  "capital": "Yamoussoukro (political); Abidjan is the economic centre",
+  "places": [
+   {
+    "name": "Abidjan",
+    "note": "Plateau skyline, Cocody, Treichville markets, nightlife",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Grand-Bassam",
+    "note": "UNESCO colonial town and beach, day trip from Abidjan",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Basilica of Our Lady of Peace, Yamoussoukro",
+    "note": "One of the largest churches in the world",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Tai National Park",
+    "note": "UNESCO rainforest, chimpanzees",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Assinie",
+    "note": "Lagoon and beach resorts",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Man and Dix-huit Montagnes",
+    "note": "Mountains, Cascades, Liana bridges",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Sassandra and San-Pedro",
+    "note": "Fishing towns and beaches in the southwest",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Comoe National Park",
+    "note": "UNESCO savanna park in the northeast, security check needed",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "dailyBudgetInr": {
+   "low": 5000,
+   "high": 15000
+  },
+  "transport": "No known nonstop from India; connect via Gulf, Istanbul, Casablanca, Addis Ababa or Nairobi to Abidjan (ABJ). Inside: Abidjan taxis, ride apps, inter city buses (UTB, STIF), domestic flights to Yamoussoukro, Korhogo and San-Pedro, rail to Burkina Faso is unreliable.",
+  "experiences": [
+   "Grand-Bassam day trip",
+   "Abidjan food and maquis dinners",
+   "Chimpanzee tracking in Tai",
+   "Beach days at Assinie",
+   "Mask festivals around Man"
+  ],
+  "cautions": [
+   "Yellow fever vaccination and certificate advised and likely required; malaria prophylaxis advised",
+   "Northern border areas near Mali and Burkina Faso carry security warnings; check MEA and other advisories (UNVERIFIED current)",
+   "Invitation or accommodation letter must be legalised for the e-visa, allow extra time"
+  ],
+  "neighbours": [
+   "Liberia",
+   "Guinea",
+   "Mali",
+   "Burkina Faso",
+   "Ghana"
+  ],
+  "sources": [
+   "https://snedai.com/e-visa",
+   "https://www.aeroport-abidjan.com/visa_on_arrival_ivory_coast.php"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Mozambique",
+  "region": "Africa",
+  "capital": "Maputo",
+  "places": [
+   {
+    "name": "Maputo",
+    "note": "Fort, Fish Market, Iron House, seafood, jazz",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Bazaruto Archipelago",
+    "note": "Island national park, diving and dhow trips",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Tofo and Inhambane",
+    "note": "Whale sharks, manta rays, surf beach",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Ilha de Mocambique",
+    "note": "UNESCO Portuguese island town",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Gorongosa National Park",
+    "note": "Wildlife restoration success story",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Quirimbas Archipelago",
+    "note": "Remote islands, south of insecure Cabo Delgado",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Ponta do Ouro",
+    "note": "Dolphins and diving near South Africa border",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Vilanculos",
+    "note": "Gateway to Bazaruto",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 5000,
+   "high": 20000
+  },
+  "transport": "No known nonstop from India; connect via Johannesburg (Air India or Airlink onward), Addis Ababa (Ethiopian), Nairobi or Dubai. LAM flies Maputo to Vilanculos, Pemba, Beira and Nampula. Roads are rough, minibuses (chapas) and 4WD for parks.",
+  "experiences": [
+   "Swim with whale sharks at Tofo",
+   "Dhow day trip in Bazaruto",
+   "Fresh prawns in Maputo",
+   "Gorongosa safari",
+   "Walk Ilha de Mocambique"
+  ],
+  "cautions": [
+   "Cabo Delgado province has insurgent violence; avoid and check MEA and other advisories (UNVERIFIED current status)",
+   "Malaria is widespread, prophylaxis advised; polio dose needed before leaving India",
+   "Police roadside fines and petty crime in cities, carry copies not originals"
+  ],
+  "neighbours": [
+   "South Africa",
+   "Eswatini",
+   "Zimbabwe",
+   "Zambia",
+   "Malawi",
+   "Tanzania"
+  ],
+  "sources": [
+   "https://evisa.gov.mz/",
+   "https://www.chaloafrica.com/mozambique-health-vaccinations"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Malawi",
+  "region": "Africa",
+  "capital": "Lilongwe",
+  "places": [
+   {
+    "name": "Lake Malawi",
+    "note": "Freshwater lake, snorkelling with cichlids",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Cape Maclear",
+    "note": "Lake Malawi National Park, UNESCO",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Likoma and Chizumulu Islands",
+    "note": "Remote lake islands",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Liwonde National Park",
+    "note": "Boat safaris on the Shire, elephants, hippos",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Majete Wildlife Reserve",
+    "note": "Big five reintroduced",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Mount Mulanje",
+    "note": "Hiking massif and tea country around Thyolo",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Nyika Plateau",
+    "note": "Highland park, zebra, orchids",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Zomba Plateau",
+    "note": "Cool hiking near old capital",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 4000,
+   "high": 14000
+  },
+  "transport": "No known nonstop from India; connect via Addis Ababa (Ethiopian), Nairobi (Kenya Airways), Johannesburg or Doha to Lilongwe (LLW) or Blantyre. Inside: minibuses, intercity coaches, Ulendo and Malawi Airlines domestic flights, lake ferry Ilala (irregular).",
+  "experiences": [
+   "Kayak and snorkel on Lake Malawi",
+   "Boat safari at Liwonde",
+   "Hike Mulanje",
+   "Lake Malawi Festival in season",
+   "Tea estate stay at Thyolo"
+  ],
+  "cautions": [
+   "Bilharzia risk in lake shallows and malaria is common; take prophylaxis and ask about swimming spots",
+   "Fuel, forex and power shortages have affected travel; carry USD cash and plan buffers (UNVERIFIED current)",
+   "Check MEA and local advisories before travel, roads are poor and night driving is risky"
+  ],
+  "neighbours": [
+   "Mozambique",
+   "Zambia",
+   "Tanzania"
+  ],
+  "sources": [
+   "https://evisa.gov.mw/",
+   "https://btwvisas.com/visa-guide/malawi-visa"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Cabo Verde",
+  "region": "Africa",
+  "capital": "Praia",
+  "places": [
+   {
+    "name": "Santiago: Cidade Velha",
+    "note": "UNESCO World Heritage first colonial town in the tropics",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Santo Antao hiking",
+    "note": "Green valleys and dramatic coastal trails",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Fogo: Pico do Fogo",
+    "note": "Active volcano crater and wine villages",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Sal: Santa Maria beach",
+    "note": "Beach resort and kitesurfing",
+    "fee": "Free beach; TSA CVE 3,400 (about INR 3,000) on entry"
+   },
+   {
+    "name": "Sao Vicente: Mindelo",
+    "note": "Music capital, Carnival in February",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Boa Vista dunes",
+    "note": "Desert dunes and turtle nesting beaches",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   11,
+   12,
+   1,
+   2,
+   3,
+   4,
+   5,
+   6
+  ],
+  "dailyBudgetInr": {
+   "low": 5000,
+   "high": 12000
+  },
+  "transport": "No direct flights from India. Typical routes via Lisbon, Madeira or Istanbul/Dubai plus a European hub to Sal (SID) or Praia (RAI); expect 20+ hours with connections. Between islands use TACV/Cabo Verde Airlines or Binter inter-island flights and ferries; on islands use aluguer shared minibuses and taxis.",
+  "experiences": [
+   "Hike Pico do Fogo",
+   "Trek Santo Antao valleys",
+   "Listen to morna in Mindelo",
+   "Kitesurf or surf at Sal",
+   "Turtle watching on Boa Vista (June to October)"
+  ],
+  "cautions": [
+   "Visa must be arranged before flying, do not count on arrival",
+   "Petty theft in Praia and Mindelo, avoid walking alone at night",
+   "Strong Atlantic currents and winds, check swimming conditions"
+  ],
+  "neighbours": [
+   "Senegal",
+   "Mauritania",
+   "Gambia"
+  ],
+  "sources": [
+   "https://www.visit-caboverde.com/en/travel-wise/visa-and-immigration",
+   "https://www.ease.gov.cv"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Angola",
+  "region": "Africa",
+  "capital": "Luanda",
+  "places": [
+   {
+    "name": "Kalandula Falls",
+    "note": "One of Africa's largest waterfalls by volume, Malanje",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Kissama National Park",
+    "note": "Wildlife reserve south of Luanda",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Fortaleza de Sao Miguel, Luanda",
+    "note": "Colonial fort and national museum of military history",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Tundavala Gap, Lubango",
+    "note": "Escarpment viewpoint over 1,000 m drop",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Miradouro da Lua",
+    "note": "Moon-like canyon landscape near Luanda",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Benguela and Lobito beaches",
+    "note": "Coastal colonial towns and beaches",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Pedras Negras de Pungo Andongo",
+    "note": "Giant black rock formations",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9
+  ],
+  "dailyBudgetInr": {
+   "low": 8000,
+   "high": 25000
+  },
+  "transport": "No known direct flights from India. Usual routes via Addis Ababa (Ethiopian), Dubai (Emirates), Doha or Johannesburg to Luanda. Internally, domestic flights (TAAG) between cities and 4x4 for rural roads; Luanda is very expensive.",
+  "experiences": [
+   "Photograph Kalandula Falls",
+   "Visit Tundavala Gap and Lubango",
+   "See the Miradouro da Lua",
+   "Self drive Kissama wildlife area",
+   "Luanda Ilha do Cabo seafood and nightlife"
+  ],
+  "cautions": [
+   "Luanda is among the costliest cities for visitors",
+   "Landmine remnants remain in some rural areas, stay on marked roads",
+   "Street crime in Luanda, avoid displaying valuables"
+  ],
+  "neighbours": [
+   "Democratic Republic of the Congo",
+   "Zambia",
+   "Namibia",
+   "Republic of the Congo"
+  ],
+  "sources": [
+   "https://www.mea.gov.in/vffin",
+   "https://en.wikipedia.org/wiki/Visa_policy_of_Angola"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Algeria",
+  "region": "Africa",
+  "capital": "Algiers",
+  "places": [
+   {
+    "name": "Algiers Casbah",
+    "note": "UNESCO listed old medina",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Timgad",
+    "note": "Roman ruins, UNESCO site",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Djemila",
+    "note": "Roman ruins in mountains, UNESCO site",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Tipasa",
+    "note": "Roman ruins by the Mediterranean",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Ghardaia, M'zab Valley",
+    "note": "UNESCO Ibadi desert towns",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Constantine",
+    "note": "City of bridges over a gorge",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Tassili n'Ajjer and Djanet",
+    "note": "Sahara rock art plateau, needs licensed guide",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   3,
+   4,
+   5,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 4000,
+   "high": 12000
+  },
+  "transport": "No known direct India to Algeria flights. Usual routes via Istanbul (Turkish), Doha, Dubai, Cairo or Paris/Frankfurt to Algiers (ALG). Internally use Air Algerie domestic flights, trains in the north and shared taxis.",
+  "experiences": [
+   "Wander the Algiers Casbah",
+   "Explore Roman ruins at Timgad and Djemila",
+   "Sahara trek at Tassili n'Ajjer with an agency",
+   "Visit the M'zab Valley",
+   "Mediterranean coast at Tipasa"
+  ],
+  "cautions": [
+   "Deep Sahara and border areas often need permits and an escort; check the MEA and home advisories",
+   "Cash economy and limited card use; carry euros to exchange",
+   "Photography of government buildings and military sites is restricted"
+  ],
+  "neighbours": [
+   "Tunisia",
+   "Libya",
+   "Niger",
+   "Mali",
+   "Mauritania",
+   "Morocco"
+  ],
+  "sources": [
+   "https://embnewdelhi.mfa.gov.dz/en/consular-services/civil-status-1/entry-visa-to-algeria-1",
+   "https://www.mfa.gov.dz/services-for-foreigners/entry-visa-to-algeria"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Papua New Guinea",
+  "region": "Oceania",
+  "capital": "Port Moresby",
+  "places": [
+   {
+    "name": "Kokoda Track",
+    "note": "Famous multi-day WWII trek",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Rabaul and Tavurvur volcano",
+    "note": "Volcanic town and WWII relics",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Kimbe Bay and Walindi",
+    "note": "World class diving and coral",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Mount Hagen Show",
+    "note": "Highland cultural festival (August)",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Sepik River",
+    "note": "Spirit houses and river culture",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Alotau and Milne Bay",
+    "note": "Islands, Kula ring culture and diving",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Tufi fjords",
+    "note": "Fjord coastline and diving",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 10000,
+   "high": 30000
+  },
+  "transport": "No direct flights from India. Route via Singapore (Air Niugini or Singapore Airlines connections), Manila, Brisbane or Cairns to Port Moresby (POM). Few roads connect regions, so travel is by Air Niugini and small plane, boats and 4x4. Expensive.",
+  "experiences": [
+   "Kokoda Track trek",
+   "Dive Kimbe Bay or Milne Bay",
+   "Sepik River cultural trip",
+   "Mount Hagen or Goroka cultural shows",
+   "Birdwatching for birds of paradise"
+  ],
+  "cautions": [
+   "High crime rates in Port Moresby and Lae, use hotel transport and avoid walking at night",
+   "Tribal fighting and unrest in some Highlands areas, get local advice and check advisories",
+   "Malaria is present, take prophylaxis advice"
+  ],
+  "neighbours": [
+   "Indonesia",
+   "Solomon Islands",
+   "Australia"
+  ],
+  "sources": [
+   "https://ica.gov.pg/",
+   "https://ica.gov.pg/visa-information/visa-on-arrival"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Guatemala",
+  "region": "Central America and Caribbean",
+  "capital": "Guatemala City",
+  "places": [
+   {
+    "name": "Tikal",
+    "note": "Maya temples in jungle, sunrise tours",
+    "fee": "About GTQ 150 foreigner entry (about Rs 1,650), UNVERIFIED"
+   },
+   {
+    "name": "Antigua Guatemala",
+    "note": "Colonial town beneath volcanoes, UNESCO site",
+    "fee": "Free to walk; church entries UNVERIFIED"
+   },
+   {
+    "name": "Lake Atitlan",
+    "note": "Volcano lake with Maya villages",
+    "fee": "Boat taxis cost a few US dollars, UNVERIFIED"
+   },
+   {
+    "name": "Acatenango volcano",
+    "note": "Overnight hike to watch Fuego erupt",
+    "fee": "Guided hike about US$60 to 100 (Rs 5,000 to 8,400), UNVERIFIED"
+   },
+   {
+    "name": "Semuc Champey",
+    "note": "Turquoise limestone pools near Lanquin",
+    "fee": "About GTQ 50 entry (Rs 550), UNVERIFIED"
+   },
+   {
+    "name": "Chichicastenango market",
+    "note": "Highland Maya market on Thursday and Sunday",
+    "fee": "Free, UNVERIFIED"
+   },
+   {
+    "name": "Rio Dulce and Livingston",
+    "note": "River and Garifuna coast",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   11,
+   12,
+   1,
+   2,
+   3,
+   4
+  ],
+  "dailyBudgetInr": {
+   "low": 3500,
+   "high": 9000
+  },
+  "transport": "No direct India flights. Usual routes are via the US (Houston, Miami, Atlanta), Mexico City, Panama City or Europe to Guatemala City (GUA). Inside the country use tourist shuttles between Antigua, Atitlan, Flores and Lanquin, plus chicken buses and domestic flights to Flores.",
+  "experiences": [
+   "Hike Acatenango at night to see Fuego",
+   "Dawn at Tikal",
+   "Spanish school in Antigua",
+   "Boat hop around Lake Atitlan",
+   "Chocolate and coffee farm tours"
+  ],
+  "cautions": [
+   "High crime in Guatemala City zones and on some roads at night; use registered shuttles",
+   "Volcano activity (Fuego, Pacaya) can close trails and the airport; check INSIVUMEH",
+   "Roadblocks and protests can strand travellers; check MEA and local advisories (none verified)"
+  ],
+  "neighbours": [
+   "Mexico",
+   "Belize",
+   "Honduras",
+   "El Salvador"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guatemala",
+   "https://visitguatemala.com"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Belize",
+  "region": "Central America and Caribbean",
+  "capital": "Belmopan",
+  "places": [
+   {
+    "name": "Great Blue Hole",
+    "note": "Famous sinkhole dive and flyover",
+    "fee": "Boat dive about US$300 to 400 (Rs 25,000 to 33,000), UNVERIFIED"
+   },
+   {
+    "name": "Hol Chan Marine Reserve and Ambergris Caye",
+    "note": "Snorkelling with nurse sharks and rays",
+    "fee": "About US$10 to 20 reserve fee (Rs 840 to 1,700), UNVERIFIED"
+   },
+   {
+    "name": "Caracol",
+    "note": "Largest Maya site in Belize in Chiquibul forest",
+    "fee": "About BZD 15 to 20 (Rs 650 to 850), UNVERIFIED"
+   },
+   {
+    "name": "Actun Tunichil Muknal",
+    "note": "Cave with Maya skeletons, guided only",
+    "fee": "Guided tour about US$90 to 100 (Rs 7,500 to 8,400), UNVERIFIED"
+   },
+   {
+    "name": "Xunantunich and San Ignacio",
+    "note": "Maya temple and Cayo adventure base",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Placencia and Hopkins",
+    "note": "Beach and Garifuna culture",
+    "fee": "Free, UNVERIFIED"
+   },
+   {
+    "name": "Cockscomb Basin Wildlife Sanctuary",
+    "note": "Jaguar reserve and trails",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   12,
+   1,
+   2,
+   3,
+   4,
+   5
+  ],
+  "dailyBudgetInr": {
+   "low": 6000,
+   "high": 16000
+  },
+  "transport": "No direct India flights. Fly via the US (Houston, Atlanta, Miami, Dallas) or Panama or Mexico to Belize City (BZE). Inside Belize use buses, water taxis to the cayes, and Tropic Air or Maya Island Air small flights.",
+  "experiences": [
+   "Diving or snorkelling the barrier reef",
+   "Cave tubing and ATM cave in Cayo",
+   "Jaguar and bird watching",
+   "Maya ruins",
+   "Garifuna drumming in Hopkins"
+  ],
+  "cautions": [
+   "Costs are high for Asia travellers, and the repatriation fee is large for Indians",
+   "Petty crime and some violent crime in Belize City south side",
+   "Hurricane season June to November"
+  ],
+  "neighbours": [
+   "Mexico",
+   "Guatemala"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Belize",
+   "https://belize.org"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Guyana",
+  "region": "South America",
+  "capital": "Georgetown",
+  "places": [
+   {
+    "name": "Kaieteur Falls",
+    "note": "One of the world's tallest single drop waterfalls, reached by small plane",
+    "fee": "Day flight about US$250 to 400 (Rs 21,000 to 33,000), UNVERIFIED"
+   },
+   {
+    "name": "Rupununi savannah and Karanambu",
+    "note": "Giant otters, caiman and ranch stays",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Iwokrama Forest and Canopy Walkway",
+    "note": "Rainforest reserve, jaguars and birds",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Georgetown",
+    "note": "Wooden colonial architecture, Stabroek Market",
+    "fee": "Free, UNVERIFIED"
+   },
+   {
+    "name": "Shell Beach",
+    "note": "Sea turtle nesting coast, Mar to Aug",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Orinduik Falls",
+    "note": "Stepped falls on the Brazil border",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Essequibo River and Bartica",
+    "note": "River gateway to the interior",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   2,
+   3,
+   9,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 5000,
+   "high": 15000
+  },
+  "transport": "No direct India flights. Reach Georgetown (GEO) via Dubai or Doha plus a connection in Europe or the US, or via Panama City, Port of Spain or New York. Inside Guyana the interior needs small charter planes or 4x4 on rough roads; tours are usually pre-booked.",
+  "experiences": [
+   "Fly over Kaieteur Falls",
+   "Wildlife safaris in the Rupununi",
+   "Rainforest canopy and birding",
+   "Indo-Guyanese food and culture in Georgetown",
+   "Turtle watching"
+  ],
+  "cautions": [
+   "Visa approval letter must be arranged before travel",
+   "Georgetown has street crime; avoid walking at night",
+   "Border disputes with Venezuela (Essequibo); avoid border areas and check MEA advisory (none verified)"
+  ],
+  "neighbours": [
+   "Venezuela",
+   "Brazil",
+   "Suriname"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Guyana",
+   "https://guyana-tourism.com"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Paraguay",
+  "region": "South America",
+  "capital": "Asuncion",
+  "places": [
+   {
+    "name": "Jesuit Missions of Trinidad and Jesus",
+    "note": "UNESCO ruined reductions near Encarnacion",
+    "fee": "About PYG 25,000 (Rs 280), UNVERIFIED"
+   },
+   {
+    "name": "Asuncion historic centre",
+    "note": "Palacio de los Lopez, Cabildo, riverfront",
+    "fee": "Mostly free, UNVERIFIED"
+   },
+   {
+    "name": "Ybycui National Park",
+    "note": "Forest waterfalls and trails",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "San Bernardino and Lake Ypacarai",
+    "note": "Lake resort town",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Itaipu Dam",
+    "note": "Giant hydropower dam near Ciudad del Este",
+    "fee": "Tours roughly US$10 to 20 (Rs 840 to 1,700), UNVERIFIED"
+   },
+   {
+    "name": "Ñacunday and Salto Cristal",
+    "note": "Waterfalls in the east",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Pantanal and Chaco wildlife",
+    "note": "Remote wetlands and dry forest, jaguars in rare cases",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 3000,
+   "high": 8000
+  },
+  "transport": "No direct India flights. Fly via Dubai or Doha plus Sao Paulo, or via Europe to Sao Paulo, Buenos Aires or Lima then on to Asuncion (ASU). Inside Paraguay use long-distance buses, rental cars or Uber/Bolt in Asuncion; rivers and some Chaco roads are hard in rain.",
+  "experiences": [
+   "Guarani culture and the Jesuit missions route",
+   "Tereré drinking and asado",
+   "Ñandutí lace in Itauguá",
+   "Chaco wildlife trips",
+   "Shopping in Ciudad del Este"
+  ],
+  "cautions": [
+   "Summer (Dec to Feb) is very hot, often above 38C",
+   "Dengue and mosquito-borne illness risk; carry repellent",
+   "Tri-border areas have smuggling and crime; keep valuables hidden and check MEA advisory (none verified)"
+  ],
+  "neighbours": [
+   "Argentina",
+   "Brazil",
+   "Bolivia"
+  ],
+  "sources": [
+   "https://en.wikipedia.org/wiki/Paraguay",
+   "https://www.senatur.gov.py"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
  }
 ]

@@ -619,7 +619,7 @@
  },
  "extras": {
   "name": "Added on request",
-  "about": "Countries added outside the 18 trips. They count in the atlas and the tracker. Profiles are thin and visa rules mostly probable until official pages are read.",
+  "about": "Countries added outside the 18 trips. They count in the atlas and the tracker. Profiles are thin and most visa rules are probable until official pages are read.",
   "countries": [
    "China",
    "Russia",
@@ -628,7 +628,27 @@
    "Ghana",
    "Nigeria",
    "Bolivia",
-   "Cuba"
+   "Cuba",
+   "Kuwait",
+   "Pakistan",
+   "Myanmar",
+   "Tajikistan",
+   "Timor-Leste",
+   "Turkmenistan",
+   "Belarus",
+   "Moldova",
+   "Senegal",
+   "Côte d'Ivoire",
+   "Mozambique",
+   "Malawi",
+   "Cabo Verde",
+   "Angola",
+   "Algeria",
+   "Papua New Guinea",
+   "Guatemala",
+   "Belize",
+   "Guyana",
+   "Paraguay"
   ],
   "lastChecked": "2026-10-16"
  }

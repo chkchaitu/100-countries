@@ -161,7 +161,7 @@ function decode(topo){const k=topo.transform.scale,t=topo.transform.translate;le
  return topo.objects.countries.geometries.map(g=>{let polys=g.type==='Polygon'?[g.arcs]:g.arcs;return{name:g.properties.name,rings:polys.flatMap(p=>p.map(ring))}})}
 const GEO=decode(WORLD);
 // small countries missing from 110m: markers
-const MARK={'Saint Lucia':[-60.98,13.9],'Saint Vincent and the Grenadines':[-61.2,13.25],Grenada:[-61.68,12.12],Dominica:[-61.37,15.42],Maldives:[73.5,3.2],Bahrain:[50.55,26.1],Monaco:[7.42,43.74],Malta:[14.4,35.9],Mauritius:[57.5,-20.3],Seychelles:[55.5,-4.7],Samoa:[-172.1,-13.8],Barbados:[-59.55,13.2],Andorra:[1.55,42.55],Liechtenstein:[9.55,47.15],'San Marino':[12.45,43.94],Vatican:[12.45,41.9],'North Macedonia':[21.7,41.6]};
+const MARK={'Saint Lucia':[-60.98,13.9],'Saint Vincent and the Grenadines':[-61.2,13.25],Grenada:[-61.68,12.12],Dominica:[-61.37,15.42],Maldives:[73.5,3.2],Bahrain:[50.55,26.1],Monaco:[7.42,43.74],Malta:[14.4,35.9],Mauritius:[57.5,-20.3],Seychelles:[55.5,-4.7],Samoa:[-172.1,-13.8],Barbados:[-59.55,13.2],Andorra:[1.55,42.55],Liechtenstein:[9.55,47.15],'San Marino':[12.45,43.94],Vatican:[12.45,41.9],'Cabo Verde':[-23.6,15.1],'North Macedonia':[21.7,41.6]};
 // ---------- globe
 const cv=document.getElementById('globe'),ctx=cv.getContext('2d');let rot=[-80,-22],target=null,drag=null,auto=true,hl=new Set(),colorMode=null;
 const R=cv.width/2-6,CX=cv.width/2,CY=cv.height/2,D=Math.PI/180;

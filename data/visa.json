@@ -1930,6 +1930,336 @@
    ],
    "lastChecked": "2026-10-16",
    "note": "UNVERIFIED: evisacuba.cu only seen via search snippet (fetch failed on certificate), Cuban embassy in India page not read, fee and Indian specific rule from secondary sources; MEA advisory for Cuba not checked. Power cuts and fuel shortages reported; check current conditions. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Kuwait",
+   "name": "Kuwait",
+   "trip": "X",
+   "category": "evisa",
+   "rule": "E-visa. Kuwait's Ministry of Interior portal (kuwaitvisa.moi.gov.kw) lists a Tourism Visa: passport valid at least 6 months, entry permit valid 30 days from issue, stay up to 90 days from entry, single entry, no work. Indian passports were reported (traveller video, Jan 2026) to get the tourist e-visa for about KWD 10 (about Rs 2,800); the portal page I could read did not list nationalities or fees, so Indian eligibility and fee are not confirmed from an official page. Pay and apply online before travel, entry at Kuwait International Airport. Yellow fever certificate is only needed when arriving from a yellow fever risk country (not direct from India); this was not checked on an official Kuwait page. Indian US/UK/Schengen visas: no waiver found, the e-visa route itself is what matters, so none marked as easing. MEA: no restriction found, check MEA advisories for regional security.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://kuwaitvisa.moi.gov.kw/",
+    "https://washington.mofa.gov.kw/en/evisa-application"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "UNVERIFIED: Indian eligibility list and exact fee on the official portal (page is JavaScript heavy; MOFA page returned 403). Rules for Indians have changed several times. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Pakistan",
+   "name": "Pakistan",
+   "trip": "X",
+   "category": "visa_required",
+   "rule": "Visa required, and no general tourist visa for Indian passport holders. Per secondary sources (Wikipedia, easyvisa.pk) Indians are not eligible for the online e-visa and must apply through a Pakistani mission; only family and friends visit, business, transit and pilgrimage categories are available. Indians are limited to designated entry points (Wagah land border, Islamabad, Lahore and Karachi airports), usually enter and exit by the same point, and no extensions. Passport validity and fees not confirmed. Indian direct travel by land and air has been heavily affected by India-Pakistan tensions since 2025 and Wagah/Attari crossings were suspended in 2025; current status UNVERIFIED. Polio vaccination certificate is generally asked of long stayers; yellow fever only from risk countries. Third country visas (US, UK, Schengen etc.) do not ease entry. MEA advises against travel to Pakistan border areas and Indians should check current MEA advisories.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://visa.nadra.gov.pk/",
+    "https://en.wikipedia.org/wiki/Visa_policy_of_Pakistan",
+    "https://easyvisa.pk/pakistan-new-visa-policy"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "UNVERIFIED: official NADRA portal returned Access Denied; facts come from secondary sources. Practically not open for tourism. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Myanmar",
+   "name": "Myanmar",
+   "trip": "X",
+   "category": "evisa",
+   "rule": "E-visa. Official portal evisa.moip.gov.mm exists (page text did not render). Per Myanmar consulate and secondary sources the tourist e-visa is US$50 (about Rs 4,200), 28 days, single entry, valid 90 days from issue, approval letter shown on arrival; express US$56; business US$70 for 70 days. Indians are reported eligible (UNVERIFIED on the official portal). Passport should be valid 6 months. Entry usually through Yangon, Mandalay or Nay Pyi Taw airports; land entry through the India-Myanmar border at Moreh/Tamu and Zokhawthar/Rih is limited and permits and restricted area rules apply (UNVERIFIED). Yellow fever certificate only from risk countries; not checked officially. Indian US/UK/Schengen visas do not ease entry. MEA has long advised caution and avoiding travel to conflict areas in Myanmar; check the current MEA advisory (not read).",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://evisa.moip.gov.mm/",
+    "https://myanmarcgla.org/index.php/visa/e-visa",
+    "https://www.mofa.gov.mm/consular-information/on-arrival-visa-information"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "UNVERIFIED: Indian eligibility and current fee on the official portal; MEA advisory text not read. Civil conflict, elections and martial law zones. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Tajikistan",
+   "name": "Tajikistan",
+   "trip": "X",
+   "category": "evisa",
+   "rule": "E-visa at evisa.tj (portal loaded but gave no readable text). Per Wikipedia and travel guides: Indians need an e-visa; single entry US$30 (about Rs 2,500) or multiple entry US$50 (about Rs 4,200), stay up to 60 days, valid 90 days from issue, processed in about 1 to 5 business days, usable at any border crossing. A GBAO (Pamir) permit is an optional extra of US$20 on the same application. Passport valid 6 months. Yellow fever certificate not required (no risk), UNVERIFIED on an official page. Indian US/UK/Schengen visas do not ease entry. No MEA restriction found, but check for border advisories near Afghanistan.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://www.evisa.tj/",
+    "https://en.wikipedia.org/wiki/Visa_policy_of_Tajikistan",
+    "https://roofoftheworldtravel.com/blog/7/visa-guide-for-tajikistan-everything-you-need-to-know"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "UNVERIFIED: official portal text did not render; fees from secondary sources. One aggregator showed US$50 for India, so recheck. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Timor-Leste",
+   "name": "Timor-Leste",
+   "trip": "X",
+   "category": "on_arrival",
+   "rule": "Visa on arrival at Dili Presidente Nicolau Lobato airport or Dili seaport: single entry, up to 30 days, USD 30 (about Rs 2,500) in cash. Passport valid 6 months from entry with a blank page. Expect to show return or onward ticket, accommodation and proof of funds (one reference lists USD 150 per day). Extension to 90 days total possible in country for USD 35 or USD 75. Indians holding ordinary passports are not visa exempt (the October 2024 exemption is for India diplomatic and official passports only). Land border at Batugade reportedly restricted for most nationalities, so pre-arranged authorisation may be needed. No US/UK/Schengen/Canada/Australia/NZ/Japan/Korea visa eases or waives this. Yellow fever certificate: UNVERIFIED, normally only asked from travellers arriving from endemic countries.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_policy_of_Timor-Leste",
+    "https://koryogroup.com/blog/visa-timor-leste-guide"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "UNVERIFIED against official source: Timor-Leste immigration site not reached; only Wikipedia and a tour operator guide read. Indian ordinary passport VOA confirmed only via an Indian visa agency snippet (riavisas.in). Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Turkmenistan",
+   "name": "Turkmenistan",
+   "trip": "X",
+   "category": "visa_required",
+   "rule": "Visa required for Indians. The Turkmen embassy in New Delhi page (read) says applications are made in person at the Consular Section with a Visa Verification Number or certified invitation letter issued by the State Migration Service (arranged via a licensed Turkmen travel agency), passport valid 6 months beyond departure, photo, and for stays of a month or more an original HIV/AIDS certificate. Embassy fees: single entry 10 days USD 35, 1 month USD 55, transit up to 5 days USD 35; processing 10 business days, expedited double fee. A new e-Visa portal was announced from 2 October 2026 with 24 hours to 7 business days processing, but registration for applicants was reported not yet possible (UNVERIFIED). Transit and tourist travel is normally tightly controlled and tourists are usually accompanied by a guide. Entry points include Ashgabat airport and land borders. No US/UK/Schengen/Canada visa waives or eases this. Yellow fever certificate: UNVERIFIED.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://india.tmembassy.gov.tm/en/consular-services/viza-application-of-turkmenistan",
+    "https://en.wikipedia.org/wiki/Visa_policy_of_Turkmenistan"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "UNVERIFIED: official e-Visa portal could not be reached (evisa.gov.tm did not resolve) and the embassy page may be dated; Indian-specific e-Visa eligibility and fees not confirmed. Caravanistan notes a Covid vaccination copy requirement in older rules, unconfirmed. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Belarus",
+   "name": "Belarus",
+   "trip": "X",
+   "category": "conditional",
+   "rule": "Visa free for up to 30 days for Indians, but only under conditions set out by the Belarus embassy in India (page read): arrive and leave via Minsk National Airport (the Belarus MFA page lists other airports too, but the India embassy page names Minsk only), not from or to Russia. Required: valid ordinary passport (90 days beyond departure per MFA), at least EUR 25 per day in funds, medical insurance of EUR 10,000 valid in Belarus (can be bought at the airport), a valid multiple entry EU or Schengen visa that has already been used with an entry stamp, and a ticket showing departure from Minsk within 30 days. Register with local Interior Ministry within 5 days if staying more than 5 days (hotels do it). An e-visa for Indians was reported (EUR 60 plus EUR 6 service per Wikipedia) but UNVERIFIED from official sources. Only a Schengen/EU multiple entry visa eases entry; US, UK, Canada, Japan visas do not replace it. Yellow fever certificate: UNVERIFIED.",
+   "easedBy": [
+    "SC"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://india.mfa.gov.by/en/consular_issues/visas/visa_free",
+    "https://mfa.gov.by/en/visa/freemove/airport",
+    "https://www.belarus.by/en/travel/travel-visas/visa-free-travel-program-belarus"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Without a used multiple entry Schengen visa the visa free route is closed and a regular visa or e-visa is needed (e-visa details UNVERIFIED). Check MEA and your airline before travel. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Moldova",
+   "name": "Moldova",
+   "trip": "X",
+   "category": "conditional",
+   "rule": "Indians need a visa (Moldova MFA list of visa-required countries, page read, includes India). Exception marked [2] for India: holders of a valid visa (not transit) or residence permit issued by an EU or Schengen state, the UK, the USA or Canada may travel to Moldova without a Moldovan visa during its validity. Otherwise apply for an e-Visa at evisa.gov.md (up to about 20 days processing per Wikipedia). E-visa fee, stay length and entry points: UNVERIFIED. Passport validity about 3 months beyond stay (Wikipedia, UNVERIFIED). Entry normally by Chisinau airport. Yellow fever certificate: UNVERIFIED.",
+   "easedBy": [
+    "US",
+    "SC",
+    "UK",
+    "CA"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://mfa.gov.md/en/content/visa-regime-foreigners",
+    "https://en.wikipedia.org/wiki/Visa_policy_of_Moldova"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Easing confirmed from official MFA list; Japan, Korea, Australia, NZ visas are not listed as easing. evisa.gov.md could not be fetched (certificate error), so e-visa fees UNVERIFIED. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Senegal",
+   "name": "Senegal",
+   "trip": "X",
+   "category": "visa_free",
+   "rule": "Visa free for Indian ordinary passport holders for stays up to 90 days (per aggregator sources; no official Senegal page naming India was readable). Need passport valid at least 6 months, return or onward ticket. Yellow fever certificate: not mandatory for entry per Discover Senegal tourism page, but vaccination strongly recommended; Indian rules separately require a certificate on return from yellow fever risk countries, so carry one. Policy watch: in July 2025 Senegal's Council of Ministers backed a mandatory e-visa on a reciprocity basis for nationals of countries that demand visas from Senegalese; India requires visas from Senegalese, so India may be affected. As of mid September 2026 no start date, fee or country list was published officially. Entry via Dakar Blaise Diagne airport (DSS). No US/UK/Schengen/Canada visa waiver or easing applies.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://discover-senegal.com/visa-health-safety",
+    "https://www.riotimesonline.com/senegal-visa-residency",
+    "https://www.peninsulavisa.com/visa-requirements/india-to-senegal"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Senegal planned a reciprocal e-visa (announced July 2025, no start date found). UNVERIFIED: no official Senegal government or embassy page read; the 90 day free stay for India and the possible reciprocal e-visa both need checking with the Senegal embassy in New Delhi before booking. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Côte d'Ivoire",
+   "name": "Côte d'Ivoire",
+   "trip": "X",
+   "category": "evisa",
+   "rule": "Visa required. Indians are not on the visa exempt list; apply online for an e-visa on the official portal run by SNEDAI (snedai.com). Official page states: ordinary passport valid at least 6 months before application, fee 73 euros including bank charges for a 3 month multiple entry visa, paid by Visa or Mastercard. Three mandatory uploads: passport identity page, return air ticket booking, and a typed, signed, stamped and legalised invitation letter or accommodation certificate (missing one means automatic rejection). Approval is not guaranteed and fees are not refunded. An airport information site says apply at least 48 hours before departure and the e-visa is single entry standard (conflicts with the 3 month multiple entry wording; UNVERIFIED which applies). Yellow fever vaccination certificate is generally required for arrivals aged 1 year or more in Cote d'Ivoire (not confirmed on a page read this session; confirm with the embassy). Entry at Abidjan airport. No US/UK/Schengen/Canada visa waiver for Indians.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://snedai.com/e-visa",
+    "https://www.aeroport-abidjan.com/visa_on_arrival_ivory_coast.php",
+    "https://royaumeuni.diplomatie.gouv.ci/visa.php?lang=en&num=1"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Fee and documents read on the official SNEDAI page; yellow fever rule and single versus multiple entry unverified; India specific eligibility not named on the page. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Mozambique",
+   "name": "Mozambique",
+   "trip": "X",
+   "category": "evisa",
+   "rule": "Indians are not on the visa exempt or eTA lists seen on the official portal; the portal says travellers not eligible for visa free entry or an eTA apply for an eVisa online at evisa.gov.mz (relaunched February 2026, run with VFS Global). India is not among the six nationalities (Pakistan, Bangladesh, Ethiopia, Nigeria, Nepal, Somalia) barred from the portal and sent to embassies. Tourist stay 30 days. Fee: aggregator says 50 USD (UNVERIFIED); an older Wikipedia figure was 6,250 MT. Passport valid at least 6 months. Older sources say visa on arrival for 50 USD existed; after the February 2026 relaunch one aggregator says almost everyone now arranges permission online first, so do not rely on arrival. Yellow fever: certificate required only if arriving from or transiting over 12 hours in a risk country (India is not one, but Cote d'Ivoire is). Polio: Mozambique is on India's polio list, so a dose of OPV or IPV is needed at least 4 weeks before departure from India (aggregator, UNVERIFIED officially). No US/UK/Schengen visa easing found.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://evisa.gov.mz/",
+    "https://evisa.gov.mz/mozambiqu-visa-free-countries-and-eta-list.html",
+    "https://beyondekaya.com/travel-tips/visas-and-entry"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Portal read but India row, fee and processing time not directly confirmed; eVisa category inferred from portal structure. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Malawi",
+   "name": "Malawi",
+   "trip": "X",
+   "category": "evisa",
+   "rule": "Visa or prior authorization required before departure. Official portal notice (effective 24 Feb 2026): Category Two nationals may get visa on arrival; Category One nationals must obtain a visa or prior authorization before departure, and airlines are told to board only Category Two without a visa. India is in Category One according to a Malawi embassy press release PDF (malawiembassy.de) and an aggregator; the official portal page I read did not render the country list. Apply online at evisa.gov.mw with Visa or Master card. Fees on the portal FAQ: transit 50 USD, single entry 50 USD, 6 month multiple 150 USD, 12 month multiple 250 USD; the Immigration Department fees page snippet shows single entry 75 USD (conflict, UNVERIFIED which is current, plus a convenience fee). Alternative: sticker visa at the Malawi High Commission, New Delhi (aggregator). Print the approval letter. Yellow fever: certificate needed if arriving from a risk country such as Cote d'Ivoire (UNVERIFIED, no official page read). No US/UK/Schengen waiver found for Indians.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://evisa.gov.mw/",
+    "https://evisa.gov.mw/Faq",
+    "https://www.immigration.gov.mw/visa/visa-fees",
+    "https://www.malawiembassy.de/PRESSRELEASE.pdf"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Official portal confirms two category system; India in Category One rests on an embassy press release of uncertain date and an aggregator. Single entry fee conflicts (50 vs 75 USD). Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Cabo Verde",
+   "name": "Cabo Verde",
+   "trip": "X",
+   "category": "visa_required",
+   "rule": "Visa required in advance for Indian ordinary passports. Since 1 January 2026 Cabo Verde stopped visa on arrival for nationals of a list of countries (about 91 to 96 reported) and says they must get an entry visa from a Cabo Verde embassy before arrival, under penalty of refused entry. India is shown as visa required by Passport Index; the official country list PDF on ease.gov.cv could not be read as text, so India's listing is not confirmed from the official file. All foreign visitors must also pre-register on the EASE platform (ease.gov.cv) up to 5 days before travel and pay the Airport Security Tax (TSA) of CVE 3,400 (about INR 3,000, UNVERIFIED conversion). Passport valid at least 6 months. International vaccination certificate may be requested; yellow fever certificate reported for arrivals from risk countries. The Cabo Verde High Commission in New Delhi handles visas (Shanti Niketan, per a tourism site). The visa-free regime (30 days, EASE) covers EU, UK, EFTA and other listed nationalities, not Indians. A US/UK/Schengen/Canada/Australia/NZ/Japan/Korea visa is not reported to waive the visa for Indians.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://www.ease.gov.cv",
+    "https://portalconsular.mnec.gov.cv/en/vistos",
+    "https://www.passportindex.org/country/cape-verde"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "UNVERIFIED: India on the official 2026 visa-required list (PDF unreadable); visa fee and processing time not found; MEA advisory not checked. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Angola",
+   "name": "Angola",
+   "trip": "X",
+   "category": "unknown",
+   "rule": "Visa free for Indian ordinary passports for tourism, up to 30 days per visit and up to 90 days per calendar year, per Angola's visa exemption framework (in force since September 2023) and listed on India's MEA 'Visa Facility for Indian Nationals' page (Angola, 30 days, info as on 2 Feb 2026) seen via search snippet. Some aggregators list India as eVisa, so the sources disagree; check with the Angolan embassy in New Delhi or the SME immigration service before booking. Passport validity normally 6 months. Yellow fever vaccination certificate is reported to be required for travellers aged 9 months and over (UNVERIFIED, official health page not read). Entry points include Luanda Quatro de Fevereiro airport. A US/UK/Schengen visa is not needed and gives no extra benefit.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://www.passportindex.org/passport/angola",
+    "https://en.wikipedia.org/wiki/Visa_policy_of_Angola"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Sources conflict: visa free per India MEA snippet, e-visa per Passport Index. UNVERIFIED: MEA page blocked on direct fetch (403), read only via search snippet; no Angolan government page read; yellow fever rule and eVisa conflict unresolved. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Algeria",
+   "name": "Algeria",
+   "trip": "X",
+   "category": "visa_required",
+   "rule": "Visa required before travel, issued by the Embassy of Algeria in New Delhi (B 6 Anand Niketan; visa section; VFS Global also lists Algeria for India). The embassy page lists fees for Indian nationals: tourist visa (30 days) INR 2,800 and multiple entry visa (90 days) INR 5,550, with other categories higher; payment in INR by bank cheque. Requirements per the Algerian foreign ministry: two application forms, passport valid at least 6 months, photocopy, two photos, travel insurance with repatriation cover, and for tourists a legalised accommodation certificate, hotel booking, or a travel agency certificate. Organised tours via agencies: visa within 48 hours of a complete file. Yellow fever certificate is only required when arriving from an endemic country (general rule, UNVERIFIED on official page). No Algeria visa waiver or easing exists for holders of US/UK/Schengen/Canada/Australia/NZ/Japan/Korea visas.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://embnewdelhi.mfa.gov.dz/en/consular-services/civil-status-1/entry-visa-to-algeria-1",
+    "https://www.mfa.gov.dz/services-for-foreigners/entry-visa-to-algeria",
+    "https://visa.vfsglobal.com/ind/en/dza/visa-type"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Tourist visa processing time and the exact tourist visa checklist not verified; MEA advisory and Sahara restricted zones not checked beyond general knowledge. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Papua New Guinea",
+   "name": "Papua New Guinea",
+   "trip": "X",
+   "category": "visa_required",
+   "rule": "Visa required. PNG's Immigration and Citizenship Authority (ICA) visa on arrival list does not include India (it lists mainly Pacific nations, Singapore, UK, Canada, Japan, Israel, UAE and a few others). Indians apply for a Visitor visa in advance, by paper form or the ICA eVisa portal (evisa.ica.gov.pg) if the portal accepts the nationality (UNVERIFIED). Fee and stay length not verified; ICA fees are charged in USD. A PNG Digital Arrival Card is mandatory, submitted online up to 72 hours before arrival (ICA notice of 6 August 2026). Passport should be valid 6 months (standard, UNVERIFIED). Yellow fever certificate required if arriving from a risk country (UNVERIFIED). Holding a UK or Japan visa does not change the Indian passport's visa requirement; Indian holders of those visas are not named as eased.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://ica.gov.pg/visa-information/visa-on-arrival",
+    "https://ica.gov.pg/visa/visit/visitor",
+    "https://ica.gov.pg/"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "UNVERIFIED: visa fee, stay length, eVisa eligibility for India, and MEA advisory; ICA site blocks plain scripted fetch so only search snippets were read. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Guatemala",
+   "name": "Guatemala",
+   "trip": "X",
+   "category": "conditional",
+   "rule": "Conditional. Indian passport holders normally need a visa from a Guatemalan mission (Guatemala has no embassy in India; apply at a mission abroad, in person, about US$50 single entry or US$150 multiple entry per the Guatemalan consulate in the US, roughly Rs 4,200 or Rs 12,600). Entry without a visa for up to 90 days (extendable by 90 per Wikipedia) is reported for holders of a valid US, Canadian, Mexican or Schengen visa or US green card. Arrival form at the airport asks for a local address; onward ticket is often checked by airlines. Passport validity of 6 months beyond stay advised. Yellow fever certificate: not required for travellers from India (only if arriving from a risk country) but UNVERIFIED on an official page. UK, Australia, NZ, Japan and Korea visas do not ease entry. Guatemala is in the CA-4 zone with El Salvador, Honduras and Nicaragua, so the 90 days are shared.",
+   "easedBy": [
+    "US",
+    "SC",
+    "CA"
+   ],
+   "status": "probable",
+   "sources": [
+    "https://www.embaguateusa.gob.gt/general-9",
+    "https://en.wikipedia.org/wiki/Visa_policy_of_Guatemala"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "The visa-free rule for US/Canada/Schengen visa holders was read on Wikipedia and a travel blog, not on a Guatemalan government page. Yellow fever and MEA advisory UNVERIFIED. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Belize",
+   "name": "Belize",
+   "trip": "X",
+   "category": "conditional",
+   "rule": "Conditional. Indians need a visa unless they hold a valid multiple-entry US, Canadian or Schengen visa (or US/Canada residence permit), which allows visits up to 30 days without a visa (Wikipedia citing Belize exemption list; Belize immigration fee page also says visa fees do not apply to holders of a US visitor visa). Otherwise apply via Belize's honorary consulate or a mission abroad; the official Belize Immigration fee schedule lists single entry BZD 750 for Indians (about Rs 31,000, valid 6 months) and multiple entry BZD 1,000 (12 months). Indians also pay a repatriation fee of BZD 1,200 (about US$600) on arrival per Wikipedia citing Timatic, UNVERIFIED on an official page. Requirements: passport valid over 6 months, itinerary with return, funds of US$75 a day. Yellow fever certificate only if arriving from a risk country, UNVERIFIED. UK, Australia, NZ, Japan, Korea visas do not ease entry.",
+   "easedBy": [
+    "US",
+    "SC",
+    "CA"
+   ],
+   "status": "probable",
+   "sources": [
+    "https://immigration.gov.bz/visa/visa-fees",
+    "https://immigration.gov.bz/visa/visa-requirements",
+    "https://en.wikipedia.org/wiki/Visa_policy_of_Belize"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Fees and requirements read on immigration.gov.bz; the repatriation fee and the 30 day substitute-visa rule are from Wikipedia only. Fee page says effective 1 May 2020, may be outdated. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Guyana",
+   "name": "Guyana",
+   "trip": "X",
+   "category": "visa_required",
+   "rule": "Visa required for Indian ordinary passports. India is not on Guyana's visa-free list (only Indian diplomatic and service passports are exempt) and Guyana's substitute-visa rule (US, Canada, Schengen visa gives 90 days) covers only Guatemala, Honduras and Mexico, so a US/UK/Schengen visa does not ease entry for Indians. Tourists need an approval letter from the Ministry of Home Affairs (Guyana Immigration), after which a visitor visa on arrival for up to 30 days can be issued at the airport (applications through Guyana's online services portal or a mission; fee UNVERIFIED). Expect to show hotel booking, invitation or sponsor details, funds for 30 days and return ticket. Passport valid at least 6 months. Yellow fever certificate: reportedly required for all arrivals aged 1 year and over, UNVERIFIED on an official page.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://www.embassyofguyana.be/countries-whose-nationals-do-not-require-visas-to-enter-guyana.php",
+    "https://guyanaconsulatenewyork.org/visas",
+    "https://eservices.iss.gov.gy/visitor-visa"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Official Guyana embassy list and consulate visa-on-arrival advisory read; fee, e-visa details and yellow fever rule UNVERIFIED. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Paraguay",
+   "name": "Paraguay",
+   "trip": "X",
+   "category": "visa_required",
+   "rule": "Visa required in advance for Indian ordinary passport holders (India is exempt only for diplomatic, official or service passports). Apply through the Embassy of Paraguay in New Delhi (its older requirements sheet lists a fee of US$100, multiple entry, original documents, police clearance with apostille, bank statements, invitation or reference letter; sheet dates from Dec 2020). Paraguay lets some applicants file online, but they must finish at an embassy or consulate (Wikipedia). One aggregator (Peninsula Visa) claims an e-visa with up to 90 days, which could not be confirmed. Passport valid at least 6 months. Yellow fever vaccination is recommended for visitors and a certificate may be required if arriving from an endemic country; India is not one, UNVERIFIED. A US, UK or Schengen visa waiver for Indians could not be verified, so none is claimed.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://paraguayembassy.in/wp-content/uploads/2021/01/VISA-REQUIREMENTS-EMBAPAR-INDIA-DEC-2020-1.pdf",
+    "https://en.wikipedia.org/wiki/Visa_policy_of_Paraguay"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Official ministry site mre.gov.py blocked the request; embassy PDF is from 2020 and may be outdated. Current fee, e-visa and visa-holder easing UNVERIFIED. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
   }
  ]
 }
