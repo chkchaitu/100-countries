@@ -12540,5 +12540,132 @@
   ],
   "confidence": "official",
   "lastChecked": "2026-10-16"
+ },
+ {
+  "country": "Yemen",
+  "route": "online",
+  "summary": "Yemen does not issue ordinary tourist visas to individual travellers without a host. The official Yemen eVisa portal (Ministry of Interior, Immigration, Passports and Nationality Authority) lists a Visit Visa for which a Yemeni or foreign resident host in Yemen must submit a request, and a Tourist Group visa that needs an accredited Yemeni tourism agency and a group of at least ten. Upload the documents on the portal, pay the fee, and the visa sticker is issued by a Yemeni embassy abroad after approval. Check Indian government travel advisories first, as Yemen is in an active conflict.",
+  "applyLinks": [
+   {
+    "label": "Yemen eVisa portal (Visit Visa and Tourist Group visa)",
+    "url": "https://yemenevisa.org/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Scan of the data page, valid at least six months"
+   },
+   {
+    "item": "Host request",
+    "note": "Electronic copy of the request from a Yemeni or foreign resident host who pledges to accommodate and support the visitor"
+   },
+   {
+    "item": "Round-trip tickets",
+    "note": "Required"
+   },
+   {
+    "item": "Health certificate",
+    "note": "Certified by an official authority, showing freedom from infectious diseases"
+   },
+   {
+    "item": "Pledge to leave",
+    "note": "At the end of the permitted period"
+   },
+   {
+    "item": "Proof of purpose",
+    "note": "For example kinship proof for a family visit; for tourist groups a letter from the General Authority for Tourism and the accredited travel agency programme"
+   }
+  ],
+  "photo": {
+   "size": "4x6 (stated for the multi-entry visa type only)",
+   "background": "white",
+   "format": "colour, electronic upload",
+   "notes": "No photo rule is stated on the Visit Visa page itself.",
+   "status": "unverified"
+  },
+  "fee": "USD 75 for Visit Visa and Tourist Group visa as shown on yemenevisa.org, checked 2026-10-16",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "Yemen has an embassy in New Delhi, but its visa page was not found. UNVERIFIED which mission would collect the sticker.",
+  "warnings": [
+   "A host or accredited agency in Yemen is needed; a plain self-sponsored tourist application is not offered on the portal.",
+   "Yemen is in active conflict; check the Indian Ministry of External Affairs advisory before any plan.",
+   "Beware of agent sites selling Yemen visas; use only the portal above.",
+   "Ignore the Yemen Embassy in Washington page; it says it is not issuing tourist visas and serves US residents."
+  ],
+  "unverified": [
+   "Processing time",
+   "How early to apply",
+   "Whether the Yemen embassy in New Delhi handles Indian applications and its address",
+   "Biometrics",
+   "Photo rules for the visit visa",
+   "Current Indian government travel restrictions"
+  ],
+  "sources": [
+   "https://yemenevisa.org/",
+   "https://www.yemenembassy.org/consuloraffairs/visa-services"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "eSwatini",
+  "route": "online",
+  "summary": "Indian passport holders do not need a visa for tourist visits to eSwatini. The official tourism site's visa checker lists India among the nationalities that need no visa, for a stay of up to 30 days (extendable by a further 30 days at the Ministry of Home Affairs). Carry a full passport valid at least three months after the travel dates and normal trip documents for immigration. Confirm with an eSwatini mission before travel as the list can change.",
+  "applyLinks": [
+   {
+    "label": "Official eSwatini visa guide and visa checker (India is on the no-visa list)",
+    "url": "https://www.thekingdomofeswatini.com/visa-guide/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Full passport valid at least three months after the travel dates"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Commonly asked at the border; not stated on the official page"
+   },
+   {
+    "item": "Accommodation details and funds",
+    "note": "Sometimes asked at the border; not stated on the official page"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from a yellow fever risk country; not stated on the official page"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "",
+   "format": "",
+   "notes": "No visa, so no photo needed.",
+   "status": "unverified"
+  },
+  "fee": "No visa fee for India nationals for tourism, per the official visa guide page checked 2026-10-16",
+  "processing": "Not applicable (visa free)",
+  "applyEarly": "Not applicable",
+  "biometrics": "None for a visa; border checks on arrival",
+  "centres": "Not applicable. Eswatini's mission accredited to India is the High Commission in Kuala Lumpur, Malaysia, per the tourism site.",
+  "warnings": [
+   "Visa-free stay is up to 30 days; a further 30 days can be requested from the Ministry of Home Affairs; over 60 days needs a Temporary Residence Permit.",
+   "The tourism site says its list is guidance only and may change; check with the mission before booking.",
+   "If you transit through South Africa, South African visa rules apply separately."
+  ],
+  "unverified": [
+   "Border document requirements such as return ticket and funds",
+   "Yellow fever rule",
+   "The Ministry of Home Affairs list itself (the gov.sz link did not load)"
+  ],
+  "sources": [
+   "https://www.thekingdomofeswatini.com/visa-guide/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
  }
 ]
