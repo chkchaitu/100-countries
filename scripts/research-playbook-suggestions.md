@@ -3,7 +3,7 @@
 Repo ~/build/100-countries-site. Reports come from the anonymous "Suggest an update" Google Form (no emails collected). Every report is a LEAD, never a fact. Never copy a reader's wording into the data. Never record or repeat any personal details a reader may have typed.
 
 1. `cd ~/build/100-countries-site && git checkout main && git pull -q`
-2. Read the responses straight from the form: `gog forms responses list $(cat scripts/suggestions.form) -j`. Answers are keyed by question id: 5fd94540 Country, 3f2a6f0d Section, 4f7cc33d What changed, 4b1fa925 Official source link, 4da2b879 How do you know. Skip responses already processed (their responseIds are listed in data/suggestions-log.json). If there are no new responses, reply NO_REPLY.
+2. Read the responses straight from the form: `gog forms responses list $(cat scripts/suggestions.form) -j`. Answers are keyed by question id: 0c279769 Country, 3f2a6f0d Section, 4f7cc33d What changed, 4b1fa925 Official source link, 4da2b879 How do you know. Skip responses already processed (their responseIds are listed in data/suggestions-log.json). If there are no new responses, reply NO_REPLY.
 3. For each new row (country, section, what changed, source link, how they know, date):
    - Open the source link. It must be an official page (government, embassy, immigration, health ministry, airline or airport authority). A blog, forum or news article is only a lead: find the official page yourself.
    - Decide: CONFIRMED (an official page supports the change), PARTLY (official page found but different from the report), CANNOT VERIFY (no official page readable), or REJECT (spam, wrong country, not about travel rules, contains personal data).
