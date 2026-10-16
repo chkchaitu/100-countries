@@ -41,6 +41,9 @@ section>.wrap>p.sub{color:var(--mute);max-width:46em;margin:0 0 22px}
 .card:hover{transform:translateY(-3px);border-color:var(--acc2)}
 .card h3{font-size:19px}.card .meta{color:var(--mute);font-size:13px}
 .tag{display:inline-block;font-size:11px;border-radius:6px;padding:2px 7px;margin:2px 3px 2px 0;background:#1d2a55;color:#cfd9ff}
+.btn.ghost.clr{background:rgba(255,107,107,.14);border:1.5px solid #ff6b6b;color:#ffb3b3;font-weight:700;box-shadow:0 0 0 0 rgba(255,107,107,.5)}
+.btn.ghost.clr:hover{background:#ff6b6b;color:#1b0a0a}
+.btn.ghost.clr::before{content:'\2715  ';font-size:.85em}
 .planbar{display:flex;align-items:center;gap:26px;flex-wrap:wrap}
 .pb-stat b{display:block;font-family:Georgia,serif;font-size:28px;line-height:1.1;color:var(--acc);white-space:nowrap}
 .pb-stat span{display:block;font-size:12px;color:var(--mute);margin-top:3px}
@@ -84,7 +87,8 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
 .note{background:#241c10;border:1px solid #5a4318;color:#f5d596;border-radius:12px;padding:10px 14px;font-size:13px;margin:12px 0}
 .modal{position:fixed;inset:0;background:rgba(5,8,20,.78);display:none;z-index:60;overflow:auto;padding:22px 12px}.modal.on{display:block}
 .sheet{max-width:860px;margin:0 auto;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px;position:relative}
-.sheet h2{font-size:30px}.sheet h3{font-size:17px;margin:18px 0 6px;color:var(--acc)}.xbtn{position:absolute;right:14px;top:12px;background:transparent;border:1px solid var(--line);color:var(--ink);border-radius:8px;padding:4px 10px;cursor:pointer}
+.sheet h2{font-size:30px}.sheet h3{font-size:17px;margin:18px 0 6px;color:var(--acc)}.xbtn{position:absolute;right:14px;top:12px;background:#ff6b6b;border:0;color:#1b0a0a;font-weight:700;border-radius:9px;padding:7px 16px;cursor:pointer;box-shadow:0 2px 10px rgba(255,107,107,.45);transition:transform .12s,box-shadow .12s}
+.xbtn:hover{transform:translateY(-1px);box-shadow:0 4px 16px rgba(255,107,107,.7)}
 .sheet ul{margin:4px 0;padding-left:18px}.sheet li{margin:3px 0}.nbtn{background:var(--bg2);border:1px solid var(--line);color:var(--ink);border-radius:8px;padding:3px 9px;margin:2px;cursor:pointer;font-size:13px}
 .mo{display:grid;grid-template-columns:repeat(12,1fr);gap:3px;margin:6px 0}.mo div{text-align:center;font-size:11px;padding:6px 0;border-radius:6px;background:#1a2447;color:var(--mute)}.mo div.hi{background:var(--acc2);color:#04201d;font-weight:700}
 .navsearch{margin-left:auto;min-width:170px;padding:6px 10px;font-size:13px}.ibtn{display:inline-block;margin-left:6px;border:1px solid var(--line);border-radius:50%;width:16px;height:16px;line-height:14px;font-size:10px;text-align:center;color:var(--acc2);font-style:normal}
@@ -116,7 +120,7 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
   <div class="pb-stat"><b id="pbD">0</b><span>days</span></div>
   <div class="pb-stat"><b id="pbC">₹0</b><span>per person, estimate</span></div>
   <div class="pb-mid"><div class="bar"><i id="planBar" style="width:0%"></i></div><small id="planHint" style="color:var(--mute)">Tick trips below to build your plan.</small></div>
-  <button class="btn ghost" id="planClear" type="button">Clear all</button>
+  <button class="btn ghost clr" id="planClear" type="button">Clear all</button>
   <div id="planOut" hidden></div>
  </div>
  <div class="panel" style="margin-top:16px"><div id="planList" class="plan2"></div></div>
@@ -125,7 +129,7 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
 <section id="visa"><div class="wrap">
  <h2>Visa checker for an Indian passport</h2><p class="sub">Tell us which visas you hold. The map and list show where they ease entry. Rules are summarised from research on 16 October 2026 and are probable, not final.</p>
  <div class="two"><div class="panel">
-  <div style="display:flex;align-items:center;justify-content:space-between;gap:12px"><b>Visas I hold</b><button class="btn ghost" id="visaClear" type="button" style="padding:4px 12px;font-size:12.5px">Clear all</button></div>
+  <div style="display:flex;align-items:center;justify-content:space-between;gap:12px"><b>Visas I hold</b><button class="btn ghost clr" id="visaClear" type="button" style="padding:4px 12px;font-size:12.5px">Clear all</button></div>
   <label class="ck"><input type="checkbox" id="vUS"> US visa (valid, multiple entry)</label>
   <label class="ck"><input type="checkbox" id="vSC"> Schengen visa (valid, multiple entry)</label>
   <label class="ck"><input type="checkbox" id="vUK"> UK visa</label>
