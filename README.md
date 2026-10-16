@@ -2,7 +2,7 @@
 
 A static, interactive atlas for Indian passport holders: low-budget multi-country trips, visa rules, best months, day-by-day plans and unusual experiences.
 
-**Status:** design mock-up with sample data. Prices, visa rules and opening hours are estimates from research on 16 October 2026 and must be confirmed with official sources before booking. This is not legal, visa or travel advice.
+**Status:** early version. The visa checker covers 92 countries and the 16 trips are complete; the experiences and records lists are still partial. Prices, visa rules and opening hours are estimates from research on 16 October 2026 and must be confirmed with official sources before booking. This is not legal, visa or travel advice.
 
 ## Run it
 
