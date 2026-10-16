@@ -1,6 +1,6 @@
 # 100 Countries
 
-A static, interactive atlas for Indian passport holders: low-budget multi-country trips, visa rules, best months, day-by-day plans and unusual experiences.
+A static, interactive atlas for Indian passport holders: low-budget multi-country trips, visa rules, best months, day-by-day plans and unique experiences.
 
 **Status:** early version. The atlas covers 195 countries: the 181 that the 34 trips cover (18 researched core trips and 16 rough draft trips) plus 14 popular hub countries. Each has a visa rule for an Indian passport with sources and a check date, and a profile with places, best months, budget, transport and cautions. Experiences and records lists are still partial. Prices, visa rules and opening hours are estimates from research on 16 October 2026 and must be confirmed with official sources before booking. This is not legal, visa or travel advice.
 
