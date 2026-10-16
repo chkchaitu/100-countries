@@ -1,6 +1,6 @@
 {
  "lastChecked": "2026-10-16",
- "about": "Eighteen low-budget multi-country trips. Budgets are in lakh of rupees for one person, mid-range, and are estimates. Months are the cheaper good windows.",
+ "about": "Thirty-four trips: 18 low-budget core trips and 16 added trips for the rest of the world. Budgets are in lakh of rupees for one person, mid-range, and are estimates. The 16 added trips are rough drafts that have not yet been researched, and several cover high-risk countries and are tagged.",
  "currency": "INR lakh",
  "basis": "Research plan of 16 October 2026 (flights, transport, hotels, food, entry fees, visas, insurance). Fares and prices are estimates, not quotes.",
  "sources": [
@@ -594,6 +594,578 @@
     "https://travel.usnews.com/St_Lucia/Things_To_Do/The_Pitons_61729",
     "https://www.shoreexcursionsgroup.com/tour/snorkeling-sculpture-park-grenada/cagredtartsnk"
    ]
+  },
+  {
+   "code": "T",
+   "name": "West Africa coast",
+   "days": 16,
+   "budgetLakh": {
+    "low": 3.2,
+    "high": 5.0
+   },
+   "bestMonths": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "lat": 6,
+   "lon": 1,
+   "tags": [
+    "Overland",
+    "Culture",
+    "History"
+   ],
+   "countries": [
+    "Ghana",
+    "Togo",
+    "Benin",
+    "Nigeria",
+    "Côte d'Ivoire"
+   ],
+   "note": "Draft estimate, not yet researched. Coastal chain from Accra to Lagos by road. Yellow fever card needed. Nigeria needs an e-visa.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
+  },
+  {
+   "code": "U",
+   "name": "Atlantic West Africa",
+   "days": 18,
+   "budgetLakh": {
+    "low": 3.5,
+    "high": 5.5
+   },
+   "bestMonths": [
+    11,
+    12,
+    1,
+    2,
+    3
+   ],
+   "lat": 12,
+   "lon": -14,
+   "tags": [
+    "Beaches",
+    "Culture",
+    "Islands"
+   ],
+   "countries": [
+    "Senegal",
+    "Gambia",
+    "Guinea-Bissau",
+    "Guinea",
+    "Sierra Leone",
+    "Liberia",
+    "Cabo Verde"
+   ],
+   "note": "Draft estimate, not yet researched. Dakar to Monrovia by road and short flights, then Cabo Verde by air. Rainy season July to September.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
+  },
+  {
+   "code": "V",
+   "name": "Central Africa",
+   "days": 20,
+   "budgetLakh": {
+    "low": 4.0,
+    "high": 6.5
+   },
+   "bestMonths": [
+    6,
+    7,
+    8,
+    12,
+    1
+   ],
+   "lat": 0,
+   "lon": 12,
+   "tags": [
+    "Wildlife",
+    "Rainforest",
+    "Islands"
+   ],
+   "countries": [
+    "Cameroon",
+    "Gabon",
+    "Equatorial Guinea",
+    "Sao Tome and Principe",
+    "Congo",
+    "Democratic Republic of the Congo"
+   ],
+   "note": "Draft estimate, not yet researched. Few direct routes; flights through Addis Ababa or Paris. DR Congo east is unsafe, stay west.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
+  },
+  {
+   "code": "W",
+   "name": "Southeast Africa extension",
+   "days": 18,
+   "budgetLakh": {
+    "low": 3.8,
+    "high": 6.0
+   },
+   "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "lat": -12,
+   "lon": 35,
+   "tags": [
+    "Lakes",
+    "Wildlife",
+    "Islands"
+   ],
+   "countries": [
+    "Mozambique",
+    "Malawi",
+    "Angola",
+    "Burundi",
+    "Comoros"
+   ],
+   "note": "Draft estimate, not yet researched. Fits after trip M. Lake Malawi, Mozambique coast, Luanda, Lake Tanganyika, Comoros by air.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
+  },
+  {
+   "code": "Y",
+   "name": "Sahel (high risk)",
+   "days": 14,
+   "budgetLakh": {
+    "low": 3.5,
+    "high": 5.5
+   },
+   "bestMonths": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "lat": 15,
+   "lon": -2,
+   "tags": [
+    "High risk",
+    "Desert",
+    "Culture"
+   ],
+   "countries": [
+    "Mauritania",
+    "Mali",
+    "Niger",
+    "Burkina Faso",
+    "Chad",
+    "Central African Republic"
+   ],
+   "note": "Draft estimate, not yet researched. Security warnings apply to most of this region. Check the India Ministry of External Affairs advisory first. Not advised overland.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
+  },
+  {
+   "code": "Z",
+   "name": "Horn of Africa and Red Sea (high risk)",
+   "days": 14,
+   "budgetLakh": {
+    "low": 3.0,
+    "high": 5.0
+   },
+   "bestMonths": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "lat": 10,
+   "lon": 40,
+   "tags": [
+    "High risk",
+    "Desert",
+    "Coast"
+   ],
+   "countries": [
+    "Djibouti",
+    "Eritrea",
+    "Somalia",
+    "South Sudan",
+    "Sudan"
+   ],
+   "note": "Draft estimate, not yet researched. Djibouti is the easy part. Sudan, South Sudan and Somalia carry do not travel advisories. Check before planning.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
+  },
+  {
+   "code": "AA",
+   "name": "Algeria and Libya",
+   "days": 10,
+   "budgetLakh": {
+    "low": 2.5,
+    "high": 4.0
+   },
+   "bestMonths": [
+    3,
+    4,
+    10,
+    11
+   ],
+   "lat": 30,
+   "lon": 10,
+   "tags": [
+    "High risk",
+    "Desert",
+    "History"
+   ],
+   "countries": [
+    "Algeria",
+    "Libya"
+   ],
+   "note": "Draft estimate, not yet researched. Algeria needs a pre-arranged visa. Libya needs a sponsor and carries a high-risk advisory.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
+  },
+  {
+   "code": "AB",
+   "name": "Micronesia",
+   "days": 12,
+   "budgetLakh": {
+    "low": 4.5,
+    "high": 7.0
+   },
+   "bestMonths": [
+    1,
+    2,
+    3,
+    4,
+    12
+   ],
+   "lat": 7,
+   "lon": 160,
+   "tags": [
+    "Islands",
+    "Diving",
+    "Remote"
+   ],
+   "countries": [
+    "Micronesia",
+    "Palau",
+    "Marshall Islands",
+    "Kiribati",
+    "Nauru"
+   ],
+   "note": "Draft estimate, not yet researched. United Airlines island hopper plus Nauru Airlines. Flights are infrequent and fares are high.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
+  },
+  {
+   "code": "AC",
+   "name": "Timor-Leste and Melanesia",
+   "days": 16,
+   "budgetLakh": {
+    "low": 4.0,
+    "high": 6.5
+   },
+   "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+   ],
+   "lat": -8,
+   "lon": 150,
+   "tags": [
+    "Islands",
+    "Remote",
+    "Culture"
+   ],
+   "countries": [
+    "Timor-Leste",
+    "Papua New Guinea",
+    "Solomon Islands",
+    "Tonga",
+    "Tuvalu"
+   ],
+   "note": "Draft estimate, not yet researched. Dili, Port Moresby, Honiara, then Fiji for Tonga and Tuvalu. Tuvalu flights run a few times a week.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
+  },
+  {
+   "code": "AD",
+   "name": "Central America",
+   "days": 14,
+   "budgetLakh": {
+    "low": 2.5,
+    "high": 4.0
+   },
+   "bestMonths": [
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "lat": 14,
+   "lon": -89,
+   "tags": [
+    "Overland",
+    "Culture",
+    "Volcanoes"
+   ],
+   "countries": [
+    "Guatemala",
+    "Belize",
+    "Honduras",
+    "El Salvador",
+    "Nicaragua"
+   ],
+   "note": "Draft estimate, not yet researched. Chicken buses and shuttles from Guatemala to Nicaragua. Belize needs a visa for Indians.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
+  },
+  {
+   "code": "AE",
+   "name": "Cuba, Haiti and two island nations",
+   "days": 12,
+   "budgetLakh": {
+    "low": 3.0,
+    "high": 5.0
+   },
+   "bestMonths": [
+    11,
+    12,
+    1,
+    2,
+    3,
+    4
+   ],
+   "lat": 19,
+   "lon": -72,
+   "tags": [
+    "Islands",
+    "Culture",
+    "High risk"
+   ],
+   "countries": [
+    "Cuba",
+    "Haiti",
+    "Antigua and Barbuda",
+    "Saint Kitts and Nevis"
+   ],
+   "note": "Draft estimate, not yet researched. Haiti carries a high-risk advisory; consider skipping it. Cuba needs an e-visa and medical insurance.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
+  },
+  {
+   "code": "AF",
+   "name": "South America extension",
+   "days": 16,
+   "budgetLakh": {
+    "low": 3.0,
+    "high": 5.0
+   },
+   "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "lat": -20,
+   "lon": -60,
+   "tags": [
+    "Overland",
+    "Wildlife",
+    "Culture"
+   ],
+   "countries": [
+    "Bolivia",
+    "Paraguay",
+    "Uruguay",
+    "Guyana",
+    "Suriname",
+    "Venezuela"
+   ],
+   "note": "Draft estimate, not yet researched. Fits after trip Q. Venezuela has a high-risk advisory; check before planning.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
+  },
+  {
+   "code": "AG",
+   "name": "Eastern Europe (conflict zone)",
+   "days": 14,
+   "budgetLakh": {
+    "low": 2.2,
+    "high": 3.8
+   },
+   "bestMonths": [
+    5,
+    6,
+    7,
+    8,
+    9
+   ],
+   "lat": 50,
+   "lon": 30,
+   "tags": [
+    "High risk",
+    "History",
+    "Cities"
+   ],
+   "countries": [
+    "Ukraine",
+    "Belarus",
+    "Moldova",
+    "Russia"
+   ],
+   "note": "Draft estimate, not yet researched. Ukraine has martial law and no civil flights, so entry is overland only. Belarus and Russia have special entry rules.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
+  },
+  {
+   "code": "AH",
+   "name": "Levant and Kuwait",
+   "days": 12,
+   "budgetLakh": {
+    "low": 2.5,
+    "high": 4.0
+   },
+   "bestMonths": [
+    3,
+    4,
+    10,
+    11
+   ],
+   "lat": 32,
+   "lon": 36,
+   "tags": [
+    "History",
+    "Cities",
+    "Desert"
+   ],
+   "countries": [
+    "Israel",
+    "Lebanon",
+    "Kuwait",
+    "Iraq"
+   ],
+   "note": "Draft estimate, not yet researched. Israel and Lebanon carry travel advisories. Check the India Ministry of External Affairs advisory first.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
+  },
+  {
+   "code": "AI",
+   "name": "Iran, Syria, Yemen, Afghanistan and Pakistan (high risk)",
+   "days": 14,
+   "budgetLakh": {
+    "low": 2.5,
+    "high": 4.5
+   },
+   "bestMonths": [
+    3,
+    4,
+    10,
+    11
+   ],
+   "lat": 33,
+   "lon": 55,
+   "tags": [
+    "High risk",
+    "History",
+    "Mountains"
+   ],
+   "countries": [
+    "Iran",
+    "Syria",
+    "Yemen",
+    "Afghanistan",
+    "Pakistan"
+   ],
+   "note": "Draft estimate, not yet researched. India advises against non-essential travel to several of these. Pakistan gives Indians no tourist visa. Listed for completeness, not as a recommendation.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
+  },
+  {
+   "code": "AJ",
+   "name": "China, Mongolia and the Silk Road",
+   "days": 20,
+   "budgetLakh": {
+    "low": 3.0,
+    "high": 5.0
+   },
+   "bestMonths": [
+    5,
+    6,
+    9,
+    10
+   ],
+   "lat": 38,
+   "lon": 95,
+   "tags": [
+    "Overland",
+    "Culture",
+    "Trains"
+   ],
+   "countries": [
+    "China",
+    "Mongolia",
+    "Myanmar",
+    "Tajikistan",
+    "Turkmenistan",
+    "North Korea"
+   ],
+   "note": "Draft estimate, not yet researched. China needs a visa. Turkmenistan needs an invitation. North Korea is effectively closed to tourists.",
+   "lastChecked": "2026-10-16",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ]
   }
  ],
  "hubs": {
@@ -614,93 +1186,6 @@
    "Belgium",
    "Netherlands",
    "Qatar"
-  ],
-  "lastChecked": "2026-10-16"
- },
- "extras": {
-  "name": "Added on request",
-  "about": "Countries added outside the 18 trips. They count in the atlas and the tracker. Profiles are thin and most visa rules are probable until official pages are read.",
-  "countries": [
-   "China",
-   "Russia",
-   "Israel",
-   "Mongolia",
-   "Ghana",
-   "Nigeria",
-   "Bolivia",
-   "Cuba",
-   "Kuwait",
-   "Pakistan",
-   "Myanmar",
-   "Tajikistan",
-   "Timor-Leste",
-   "Turkmenistan",
-   "Belarus",
-   "Moldova",
-   "Senegal",
-   "Côte d'Ivoire",
-   "Mozambique",
-   "Malawi",
-   "Cabo Verde",
-   "Angola",
-   "Algeria",
-   "Papua New Guinea",
-   "Guatemala",
-   "Belize",
-   "Guyana",
-   "Paraguay",
-   "Afghanistan",
-   "Iran",
-   "Iraq",
-   "Lebanon",
-   "Syria",
-   "Yemen",
-   "Libya",
-   "North Korea",
-   "Benin",
-   "Burkina Faso",
-   "Mali",
-   "Niger",
-   "Togo",
-   "Gambia",
-   "Guinea",
-   "Guinea-Bissau",
-   "Sierra Leone",
-   "Liberia",
-   "Mauritania",
-   "Cameroon",
-   "Central African Republic",
-   "Chad",
-   "Congo",
-   "Democratic Republic of the Congo",
-   "Gabon",
-   "Equatorial Guinea",
-   "Sao Tome and Principe",
-   "Comoros",
-   "Djibouti",
-   "Eritrea",
-   "Somalia",
-   "South Sudan",
-   "Sudan",
-   "Burundi",
-   "Ukraine",
-   "Uruguay",
-   "Venezuela",
-   "Suriname",
-   "Haiti",
-   "Honduras",
-   "El Salvador",
-   "Nicaragua",
-   "Antigua and Barbuda",
-   "Saint Kitts and Nevis",
-   "Kiribati",
-   "Marshall Islands",
-   "Micronesia",
-   "Nauru",
-   "Palau",
-   "Solomon Islands",
-   "Tonga",
-   "Tuvalu"
   ],
   "lastChecked": "2026-10-16"
  }
