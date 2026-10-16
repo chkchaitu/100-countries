@@ -187,10 +187,10 @@ function fly(t){target=[-t.lon,t.lat*.8]}
 loop();
 async function loadJSON(p){const r=await fetch(p,{cache:'no-cache'});if(!r.ok)throw new Error(p+' '+r.status);return r.json()}
 async function boot(){
- let T,X,R,Vi,Cp;
- try{[T,X,R,Vi,Cp]=await Promise.all([loadJSON('data/trips.json'),loadJSON('data/experiences.json'),loadJSON('data/records.json'),loadJSON('data/visa.json'),loadJSON('data/countries.json')])}
+ let T,X,R,Vi,Cp,Tr;
+ try{[T,X,R,Vi,Cp,Tr]=await Promise.all([loadJSON('data/trips.json'),loadJSON('data/experiences.json'),loadJSON('data/records.json'),loadJSON('data/visa.json'),loadJSON('data/countries.json'),loadJSON('data/territories.json').catch(()=>[])])}
  catch(err){document.querySelector('header .lead').insertAdjacentHTML('afterend','<div class="note">Could not load the data files ('+esc(err.message)+'). Open this page from its web address, not as a local file.</div>');return}
- DATAINFO={trips:T,exp:X,rec:R,visa:Vi};Cp.forEach(c=>{PROFILES[c.country]=c});
+ DATAINFO={trips:T,exp:X,rec:R,visa:Vi};Cp.forEach(c=>{PROFILES[c.country]=c});Tr.forEach(t=>{PROFILES[t.country]=t;VREC[t.country]=Object.assign({country:t.country},t.visa)});
  TRIPS=T.trips.map(t=>({c:t.code,n:t.name,d:t.days,lo:t.budgetLakh.low,hi:t.budgetLakh.high,lat:t.lat,lon:t.lon,m:t.bestMonths,tags:t.tags,ctry:t.countries,note:t.note,checked:t.lastChecked,src:t.sources}));
  EXP=X.items.map(e=>({n:e.name,t:e.type,p:e.priceInr,place:e.place,trip:e.trip,checked:e.lastChecked,src:e.sources}));
  REC=R.items.map(r=>[r.value,r.text,r.lastChecked,r.sources]);
@@ -263,9 +263,9 @@ async function boot(){
 
  
  // ---------- country panel
- const CATL={visa_free:'Visa-free',on_arrival:'Visa on arrival',evisa:'E-visa',conditional:'Conditional: depends on a visa you hold',visa_required:'Visa needed in advance',unknown:'Check the rule'};
+ const CATL={visa_free:'Visa-free',on_arrival:'Visa on arrival',evisa:'E-visa',conditional:'Conditional: depends on a visa you hold',visa_required:'Visa needed in advance',unknown:'Check the rule',territory:'Not a country: no visa for the territory itself'};
  function openCountry(n){const p=PROFILES[n],v=VREC[n],tr=TRIPS.find(t=>t.ctry.includes(n));const box=document.getElementById('cbody');
-  if(!p&&!v){box.innerHTML=`<h2>${esc(n)}</h2><p class="meta">This country is not in the atlas yet. More are coming.</p>`}else{
+  if(!p&&!v){box.innerHTML=`<h2>${esc(n)}</h2><p class="meta">${esc(n)} is a territory or disputed area, not one of the 195 countries in the atlas.</p>`}else{
   const mo=(p&&p.bestMonths)||[];const els=[];
   els.push(`<h2>${esc(n)}</h2><p class="meta">${esc((p&&p.region)||'')}${p&&p.capital?' · capital '+esc(p.capital):''}${tr?` · <a href="#trips" data-trip="${esc(tr.c)}">Trip ${esc(tr.c)}: ${esc(tr.n)}</a>`:(p&&p.trip==='H'?' · visited hub':(p&&p.trip==='X'?' · added on request, thin profile':''))}</p>`);
   if(v)els.push(`<h3>Visa for an Indian passport</h3><p><span class="tag">${esc(CATL[v.category]||'')}</span><span class="tag">${esc(v.status)}</span></p><p>${esc(v.rule)}</p>${v.easedBy&&v.easedBy.length?`<p class="meta">Eased by: ${v.easedBy.map(k=>esc((DATAINFO.visa.visaKeys||{})[k]||k)).join(', ')}.</p>`:''}<p class="meta" style="font-size:12px">Checked ${esc(v.lastChecked)} · ${srcLinks(v.sources)}<br>${esc(v.note||'')}</p>`);
@@ -276,7 +276,7 @@ async function boot(){
   if(p&&p.experiences&&p.experiences.length)els.push(`<h3>Unique experiences</h3><ul>${p.experiences.map(x=>`<li><b>${esc(x.name)}</b>${x.note?': '+esc(x.note):''}${x.priceInr?` <span class="meta">(about ${rs(x.priceInr)})</span>`:''}</li>`).join('')}</ul>`);
   if(p&&p.cautions&&p.cautions.length)els.push(`<h3>Good to know</h3><ul>${p.cautions.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`);
   if(p&&p.neighbours&&p.neighbours.length)els.push(`<h3>Nearby countries by land or ferry</h3><p>${p.neighbours.map(x=>`<button class="nbtn" data-go="${esc(x)}">${esc(x)}</button>`).join('')}</p>`);
-  els.push(`<p style="margin-top:16px"><button class="btn ghost" data-mark="${esc(n)}">${mine.has(n)?'Remove from my visited list':'Mark as visited'}</button></p>`);
+  if(!(p&&p.territory))els.push(`<p style="margin-top:16px"><button class="btn ghost" data-mark="${esc(n)}">${mine.has(n)?'Remove from my visited list':'Mark as visited'}</button></p>`);
   if(p)els.push(`<p class="meta" style="font-size:11px">Profile checked ${esc(p.lastChecked)} (${esc(p.confidence||'')}) · ${srcLinks(p.sources)}. Prices and hours are estimates. Confirm with official sources before booking.</p>`);
   box.innerHTML=els.join('')}
   document.getElementById('cmodal').classList.add('on');if(p&&p.lat)fly(p);const pp=tr||null;}

@@ -1,0 +1,91 @@
+[
+ {
+  "country": "Antarctica",
+  "territory": true,
+  "region": "Antarctica",
+  "capital": "None. No permanent residents; research stations only.",
+  "places": [
+   {
+    "name": "Antarctic Peninsula landings",
+    "note": "Zodiac cruises and shore landings among penguin colonies, seals and icebergs; the usual 10 to 11 day cruise",
+    "fee": "Included in the cruise price"
+   },
+   {
+    "name": "Paradise Bay and the Lemaire Channel",
+    "note": "Narrow channel between glaciers and peaks, the classic scenic stretch",
+    "fee": "Included in the cruise price"
+   },
+   {
+    "name": "Deception Island",
+    "note": "Flooded volcano caldera; ships sail inside",
+    "fee": "Included in the cruise price"
+   },
+   {
+    "name": "Port Lockroy",
+    "note": "Historic British base with a post office and penguins",
+    "fee": "Included in the cruise price"
+   },
+   {
+    "name": "Antarctic Circle crossing",
+    "note": "Longer 14 to 16 day voyages reach 66.5 degrees south",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "South Georgia and the Falklands",
+    "note": "Add-on 20 to 22 day voyages with huge king penguin colonies",
+    "fee": "From about USD 11,000 to 16,000 on listed voyages"
+   }
+  ],
+  "bestMonths": [
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "transport": "No airports for tourists and no hotels. Almost all visitors sail from Ushuaia, Argentina (about 2 days across the Drake Passage), or fly from Punta Arenas in Chile on air-cruise trips. From India you fly via a Gulf or European hub to Buenos Aires, then on to Ushuaia. Season runs November to March. About USD 7,200 to 15,800 for 10 to 11 day Peninsula cruises on operator listings from late 2026 (roughly 6 to 14 lakh rupees), with flights, visa and insurance extra. Last-minute deals appear in Ushuaia, but cabins also sell out.",
+  "experiences": [
+   {
+    "name": "Camping on the ice",
+    "note": "Optional night on the snow offered by some operators, extra fee UNVERIFIED"
+   },
+   {
+    "name": "Polar plunge",
+    "note": "Short swim in near-freezing water, offered on most cruises"
+   },
+   {
+    "name": "Kayaking among icebergs",
+    "note": "Optional add-on on many ships, extra fee UNVERIFIED"
+   }
+  ],
+  "cautions": [
+   "No visa is needed for Antarctica itself, but you need a valid passport to board, plus the visa for Argentina or Chile where you start (both need one for Indians, with exceptions for some US visa holders).",
+   "Permits are issued to tour operators under the Antarctic Treaty, so cruise passengers do not apply themselves. Whether Indian law adds a separate requirement for Indian citizens was not verified.",
+   "Travel insurance with emergency evacuation is required. Wildlife rules apply: no sitting, kneeling or leaving equipment near animals, boots washed between landings (bird flu precautions). Ships with more than 500 passengers may not land anyone."
+  ],
+  "neighbours": [
+   "Argentina",
+   "Chile"
+  ],
+  "sources": [
+   "https://www.ats.aq/e/tourism.html",
+   "https://www.antarcticaguide.com/antarctica-visa-vaccinations-and-permits",
+   "https://www.swoop-antarctica.com/travel/india-to-antarctica",
+   "https://www.antarcticacruises.com/ushuaia-argentina-to-antarctica"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "visa": {
+   "category": "territory",
+   "rule": "Antarctica is not a country and has no visa. Visitors need a valid passport and a permit that their tour operator holds under the Antarctic Treaty. No vaccinations are required. You need a visa for the country you sail from: Argentina (Ushuaia, 90-day tourist visa, apply online or at the Argentine embassy in New Delhi at least 4 weeks ahead) or Chile (Punta Arenas).",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://www.antarcticaguide.com/antarctica-visa-vaccinations-and-permits",
+    "https://www.swoop-antarctica.com/travel/india-to-antarctica"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Based on operator and guide sites, not an official page. Confirm with your operator and the Argentine or Chilean embassy."
+  }
+ }
+]
