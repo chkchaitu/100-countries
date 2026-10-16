@@ -1,0 +1,517 @@
+{
+ "lastChecked": "2026-10-16",
+ "about": "Sixteen low-budget multi-country trips. Budgets are in lakh of rupees for one person, mid-range, and are estimates. Months are the cheaper good windows.",
+ "currency": "INR lakh",
+ "basis": "Research plan of 16 October 2026 (flights, transport, hotels, food, entry fees, visas, insurance). Fares and prices are estimates, not quotes.",
+ "sources": [
+  "https://www.seat61.com",
+  "https://www.mea.gov.in/vffin",
+  "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+ ],
+ "trips": [
+  {
+   "code": "A",
+   "name": "Southeast Asia",
+   "days": 17,
+   "budgetLakh": {
+    "low": 1.4,
+    "high": 2
+   },
+   "bestMonths": [
+    3,
+    10,
+    11,
+    12
+   ],
+   "lat": 12,
+   "lon": 104,
+   "tags": [
+    "Overland",
+    "Beaches",
+    "Temples"
+   ],
+   "countries": [
+    "Indonesia",
+    "Vietnam",
+    "Cambodia",
+    "Laos",
+    "Brunei"
+   ],
+   "note": "Brunei by bus from Miri, Angkor, Mekong.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "code": "B",
+   "name": "Sri Lanka and Maldives",
+   "days": 7,
+   "budgetLakh": {
+    "low": 0.9,
+    "high": 1.3
+   },
+   "bestMonths": [
+    1,
+    2,
+    3,
+    4,
+    11,
+    12
+   ],
+   "lat": 6,
+   "lon": 80,
+   "tags": [
+    "Islands",
+    "Trains"
+   ],
+   "countries": [
+    "Sri Lanka",
+    "Maldives"
+   ],
+   "note": "Kandy to Ella train, whale sharks.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "code": "B2",
+   "name": "Bangladesh and Bhutan",
+   "days": 11,
+   "budgetLakh": {
+    "low": 0.8,
+    "high": 1.2
+   },
+   "bestMonths": [
+    11,
+    12,
+    1,
+    2
+   ],
+   "lat": 25,
+   "lon": 90,
+   "tags": [
+    "Overland",
+    "Himalaya"
+   ],
+   "countries": [
+    "Bangladesh",
+    "Bhutan"
+   ],
+   "note": "By road from Kolkata, no international flight.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "code": "C",
+   "name": "Gulf and Jordan",
+   "days": 12,
+   "budgetLakh": {
+    "low": 1.6,
+    "high": 2.2
+   },
+   "bestMonths": [
+    11,
+    3,
+    4
+   ],
+   "lat": 26,
+   "lon": 50,
+   "tags": [
+    "Desert",
+    "Dive"
+   ],
+   "countries": [
+    "Oman",
+    "Bahrain",
+    "Saudi Arabia",
+    "Jordan"
+   ],
+   "note": "Check the Gulf advisory first.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "code": "D",
+   "name": "Central Asia and Caucasus",
+   "days": 15,
+   "budgetLakh": {
+    "low": 1.5,
+    "high": 2.1
+   },
+   "bestMonths": [
+    5,
+    9,
+    10
+   ],
+   "lat": 43,
+   "lon": 68,
+   "tags": [
+    "Silk Road",
+    "Overland"
+   ],
+   "countries": [
+    "Kazakhstan",
+    "Kyrgyzstan",
+    "Uzbekistan",
+    "Azerbaijan",
+    "Armenia"
+   ],
+   "note": "Samarkand by high-speed train.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "code": "E",
+   "name": "East Asia",
+   "days": 10,
+   "budgetLakh": {
+    "low": 2.2,
+    "high": 3
+   },
+   "bestMonths": [
+    1,
+    2
+   ],
+   "lat": 30,
+   "lon": 125,
+   "tags": [
+    "Rail",
+    "Cities"
+   ],
+   "countries": [
+    "Japan",
+    "Taiwan",
+    "Philippines"
+   ],
+   "note": "Cheap off-season Japan.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "code": "FGH",
+   "name": "Europe overland loop",
+   "days": 36,
+   "budgetLakh": {
+    "low": 4.8,
+    "high": 7.3
+   },
+   "bestMonths": [
+    4,
+    5,
+    9,
+    10
+   ],
+   "lat": 47,
+   "lon": 15,
+   "tags": [
+    "Rail",
+    "Tiny states",
+    "Overland"
+   ],
+   "countries": [
+    "Switzerland",
+    "Liechtenstein",
+    "France",
+    "Monaco",
+    "Italy",
+    "Vatican",
+    "San Marino",
+    "Slovenia",
+    "Croatia",
+    "Hungary",
+    "Slovakia",
+    "Austria",
+    "Czechia",
+    "Poland",
+    "Serbia",
+    "Bosnia and Herz.",
+    "Montenegro",
+    "Albania",
+    "North Macedonia",
+    "Turkey"
+   ],
+   "note": "20 new countries in one loop.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "code": "I",
+   "name": "Nordics and Baltics",
+   "days": 14,
+   "budgetLakh": {
+    "low": 3,
+    "high": 4.4
+   },
+   "bestMonths": [
+    9,
+    10,
+    2,
+    3
+   ],
+   "lat": 62,
+   "lon": 18,
+   "tags": [
+    "Ferries",
+    "Aurora"
+   ],
+   "countries": [
+    "Finland",
+    "Estonia",
+    "Latvia",
+    "Lithuania",
+    "Denmark",
+    "Sweden",
+    "Norway",
+    "Iceland"
+   ],
+   "note": "Summer trip; winter aurora version is optional.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "code": "J",
+   "name": "Iberia, Morocco and Mediterranean",
+   "days": 15,
+   "budgetLakh": {
+    "low": 2.2,
+    "high": 3.4
+   },
+   "bestMonths": [
+    10,
+    11,
+    4,
+    5
+   ],
+   "lat": 38,
+   "lon": -5,
+   "tags": [
+    "Ferry",
+    "Coast"
+   ],
+   "countries": [
+    "Spain",
+    "Portugal",
+    "Morocco",
+    "Andorra",
+    "Malta",
+    "Greece"
+   ],
+   "note": "Morocco by ferry from Tarifa.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "code": "K",
+   "name": "UK and Ireland",
+   "days": 8,
+   "budgetLakh": {
+    "low": 2.1,
+    "high": 3.3
+   },
+   "bestMonths": [
+    1,
+    2,
+    3,
+    11
+   ],
+   "lat": 54,
+   "lon": -4,
+   "tags": [
+    "Cities"
+   ],
+   "countries": [
+    "United Kingdom",
+    "Ireland"
+   ],
+   "note": "UK visa may cover Ireland under the BIVS.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "code": "L",
+   "name": "East Africa",
+   "days": 13,
+   "budgetLakh": {
+    "low": 3,
+    "high": 4.8
+   },
+   "bestMonths": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "lat": -2,
+   "lon": 35,
+   "tags": [
+    "Safari",
+    "Gorillas"
+   ],
+   "countries": [
+    "Kenya",
+    "Tanzania",
+    "Rwanda",
+    "Uganda",
+    "Ethiopia"
+   ],
+   "note": "Ethiopia limited to Addis Ababa for now.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "code": "M",
+   "name": "Southern Africa and islands",
+   "days": 18,
+   "budgetLakh": {
+    "low": 3.2,
+    "high": 5.4
+   },
+   "bestMonths": [
+    4,
+    5,
+    10,
+    11
+   ],
+   "lat": -20,
+   "lon": 30,
+   "tags": [
+    "Safari",
+    "Falls",
+    "Islands"
+   ],
+   "countries": [
+    "Mauritius",
+    "Madagascar",
+    "South Africa",
+    "Lesotho",
+    "eSwatini",
+    "Zimbabwe",
+    "Zambia",
+    "Botswana",
+    "Namibia",
+    "Seychelles"
+   ],
+   "note": "Victoria Falls, Chobe, Sossusvlei.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "code": "N",
+   "name": "Egypt and Tunisia",
+   "days": 7,
+   "budgetLakh": {
+    "low": 1.1,
+    "high": 1.7
+   },
+   "bestMonths": [
+    11,
+    3
+   ],
+   "lat": 30,
+   "lon": 20,
+   "tags": [
+    "History"
+   ],
+   "countries": [
+    "Egypt",
+    "Tunisia"
+   ],
+   "note": "Cairo to Luxor by sleeper train.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "code": "O",
+   "name": "Oceania",
+   "days": 11,
+   "budgetLakh": {
+    "low": 3.5,
+    "high": 6
+   },
+   "bestMonths": [
+    5,
+    10
+   ],
+   "lat": -25,
+   "lon": 160,
+   "tags": [
+    "Islands",
+    "Reef"
+   ],
+   "countries": [
+    "Australia",
+    "New Zealand",
+    "Samoa",
+    "Fiji",
+    "Vanuatu"
+   ],
+   "note": "Optional southern lights add-on.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "code": "P",
+   "name": "Caribbean and Central America",
+   "days": 14,
+   "budgetLakh": {
+    "low": 3.3,
+    "high": 5.5
+   },
+   "bestMonths": [
+    5,
+    6,
+    11,
+    12
+   ],
+   "lat": 15,
+   "lon": -80,
+   "tags": [
+    "Islands",
+    "Cenotes"
+   ],
+   "countries": [
+    "Bahamas",
+    "Jamaica",
+    "Dominican Rep.",
+    "Barbados",
+    "Panama",
+    "Costa Rica",
+    "Mexico"
+   ],
+   "note": "A US visa eases most of these.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "code": "Q",
+   "name": "South America",
+   "days": 13,
+   "budgetLakh": {
+    "low": 3,
+    "high": 5.5
+   },
+   "bestMonths": [
+    4,
+    5,
+    9,
+    10
+   ],
+   "lat": -15,
+   "lon": -65,
+   "tags": [
+    "Andes",
+    "Rainforest"
+   ],
+   "countries": [
+    "Colombia",
+    "Ecuador",
+    "Peru",
+    "Argentina",
+    "Brazil",
+    "Chile"
+   ],
+   "note": "Machu Picchu, Iguazú. Brazil needs a visa.",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  }
+ ]
+}

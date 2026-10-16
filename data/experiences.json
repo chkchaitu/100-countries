@@ -1,0 +1,231 @@
+{
+ "lastChecked": "2026-10-16",
+ "about": "Sample experiences with approximate prices in rupees from search results on 16 Oct 2026. Not live quotes.",
+ "items": [
+  {
+   "name": "Jebel Jais zipline (2.83 km)",
+   "type": "Adventure",
+   "priceInr": 8400,
+   "place": "Ras Al Khaimah, UAE",
+   "trip": "C",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Luxor sunrise balloon",
+   "type": "Adventure",
+   "priceInr": 11400,
+   "place": "Luxor, Egypt",
+   "trip": "N",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Gudauri tandem paraglide",
+   "type": "Adventure",
+   "priceInr": 7300,
+   "place": "Georgia",
+   "trip": "D",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Tara River rafting",
+   "type": "Adventure",
+   "priceInr": 6900,
+   "place": "Montenegro",
+   "trip": "FGH",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Victoria Falls bridge bungee",
+   "type": "Adventure",
+   "priceInr": 17000,
+   "place": "Zimbabwe",
+   "trip": "M",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Queenstown tandem skydive",
+   "type": "Adventure",
+   "priceInr": 25000,
+   "place": "New Zealand",
+   "trip": "O",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Ziwa rhino tracking on foot",
+   "type": "Wildlife",
+   "priceInr": 5700,
+   "place": "Uganda",
+   "trip": "L",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Sheldrick elephant nursery",
+   "type": "Wildlife",
+   "priceInr": 1900,
+   "place": "Nairobi, Kenya",
+   "trip": "L",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Elephant Valley Project (no riding)",
+   "type": "Wildlife",
+   "priceInr": 9500,
+   "place": "Mondulkiri, Cambodia",
+   "trip": "A",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Whale shark snorkel",
+   "type": "Wildlife",
+   "priceInr": 8100,
+   "place": "Maldives",
+   "trip": "B",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Silfra drysuit snorkel",
+   "type": "Polar and ice",
+   "priceInr": 15600,
+   "place": "Iceland",
+   "trip": "I",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Sólheimajökull glacier hike",
+   "type": "Polar and ice",
+   "priceInr": 10200,
+   "place": "Iceland",
+   "trip": "I",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Husky sledding, Tromsø",
+   "type": "Polar and ice",
+   "priceInr": 32500,
+   "place": "Norway",
+   "trip": "I",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Waitomo black water rafting",
+   "type": "Underground",
+   "priceInr": 10600,
+   "place": "New Zealand",
+   "trip": "O",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Škocjan Hanke Channel route",
+   "type": "Underground",
+   "priceInr": 10700,
+   "place": "Slovenia",
+   "trip": "FGH",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Cu Chi tunnels",
+   "type": "Underground",
+   "priceInr": 500,
+   "place": "Vietnam",
+   "trip": "A",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Wieliczka salt mine",
+   "type": "Underground",
+   "priceInr": 3500,
+   "place": "Poland",
+   "trip": "FGH",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Hostel Celica (prison cells)",
+   "type": "Stays",
+   "priceInr": 2900,
+   "place": "Ljubljana, Slovenia",
+   "trip": "FGH",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Cappadocia cave hotel",
+   "type": "Stays",
+   "priceInr": 3600,
+   "place": "Turkey",
+   "trip": "FGH",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Wadi Rum bubble domes",
+   "type": "Stays",
+   "priceInr": 4100,
+   "place": "Jordan",
+   "trip": "C",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Glass igloo near Rovaniemi",
+   "type": "Stays",
+   "priceInr": 68200,
+   "place": "Finland",
+   "trip": "I",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Nürburgring Nordschleife lap",
+   "type": "Motoring",
+   "priceInr": 3200,
+   "place": "Germany",
+   "trip": "FGH",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Ferrari Museums Pass",
+   "type": "Motoring",
+   "priceInr": 4050,
+   "place": "Modena, Italy",
+   "trip": "FGH",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Hungaroring F1 three-day ticket",
+   "type": "Motoring",
+   "priceInr": 18100,
+   "place": "Budapest, Hungary",
+   "trip": "FGH",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  },
+  {
+   "name": "Isle of Man TT (free to watch)",
+   "type": "Motoring",
+   "priceInr": 1300,
+   "place": "Isle of Man, UK",
+   "trip": "K",
+   "lastChecked": "2026-10-16",
+   "sources": []
+  }
+ ]
+}

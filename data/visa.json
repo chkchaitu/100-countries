@@ -1,0 +1,1425 @@
+{
+ "passport": "India (ordinary)",
+ "lastChecked": "2026-10-16",
+ "about": "Visa rules for Indian ordinary passport holders, summarised from research on 16 October 2026. Each record links its sources. Rules change often.",
+ "visaKeys": {
+  "US": "US visa",
+  "SC": "Schengen visa",
+  "UK": "UK visa",
+  "CA": "Canada visa",
+  "OT": "Australia, NZ, Japan or Korea visa"
+ },
+ "records": [
+  {
+   "country": "Brunei",
+   "name": "Brunei",
+   "trip": "A",
+   "category": "visa_required",
+   "rule": "Visa required. Apply before travel at the Brunei High Commission in New Delhi (single entry, about B$20, 30 days).",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://www.peninsulavisa.com/visa-requirements/india-to-brunei",
+    "https://www.mfa.gov.bn/Pages/Visa-Information.aspx"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Indonesia",
+   "name": "Indonesia",
+   "trip": "A",
+   "category": "on_arrival",
+   "rule": "e-VOA or visa on arrival, 30 days, about IDR 500,000.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Vietnam",
+   "name": "Vietnam",
+   "trip": "A",
+   "category": "evisa",
+   "rule": "e-visa, up to 90 days.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Cambodia",
+   "name": "Cambodia",
+   "trip": "A",
+   "category": "evisa",
+   "rule": "e-visa or visa on arrival, 30 days, about US$36.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Laos",
+   "name": "Laos",
+   "trip": "A",
+   "category": "evisa",
+   "rule": "e-visa or visa on arrival, 30 days.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Sri Lanka",
+   "name": "Sri Lanka",
+   "trip": "B",
+   "category": "evisa",
+   "rule": "Free ETA or visa on arrival, 30 days.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Maldives",
+   "name": "Maldives",
+   "trip": "B",
+   "category": "visa_free",
+   "rule": "Visa-free, 90 days.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Bangladesh",
+   "name": "Bangladesh",
+   "trip": "B2",
+   "category": "visa_required",
+   "rule": "Visa required in advance, no visa on arrival. Government fee waived for Indians, small service charge. Tourist visa issuance was reported paused in early 2026 and resuming in October 2026, so confirm it is open. The Ministry of External Affairs has a standing advisory against travel there.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://btwvisas.com/visa-guide/bangladesh-visa",
+    "https://openthemagazine.com/world/bangladesh-to-resume-tourist-visa-services-in-india-agartaladhaka-bus-route-set-for-possible-comeback",
+    "https://visa.gov.bd/"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Bhutan",
+   "name": "Bhutan",
+   "trip": "B2",
+   "category": "visa_free",
+   "rule": "No visa, but an entry permit (free, online or at the border) and a Sustainable Development Fee of INR 1,200 per person per night, fixed to Aug 2027.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://www.cgiphuentsholing.gov.in/page/guidelines-for-indians-visiting-bhutan"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Oman",
+   "name": "Oman",
+   "trip": "C",
+   "category": "conditional",
+   "rule": "Visa required. 14-day visa on arrival only with a valid US, UK, Canada, Australia, Japan or Schengen visa; otherwise e-visa. Needs return ticket, hotel booking and health insurance.",
+   "easedBy": [
+    "US",
+    "UK",
+    "CA",
+    "OT",
+    "SC"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://www.mea.gov.in/vffin",
+    "https://www.goindigo.in/information/visa-information/oman-om-visa.html"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Bahrain",
+   "name": "Bahrain",
+   "trip": "C",
+   "category": "evisa",
+   "rule": "e-visa or visa on arrival, 14 days; on arrival for holders of a valid UAE, UK, US, Saudi or Schengen visa.",
+   "easedBy": [
+    "US",
+    "UK",
+    "SC"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Saudi Arabia",
+   "name": "Saudi Arabia",
+   "trip": "C",
+   "category": "conditional",
+   "rule": "India is not on the official tourist e-visa list. An e-visa or visa on arrival is for holders of a valid US, UK or Schengen visa; otherwise embassy visa or the package-visa pilot (about SAR 4,000 minimum). Sources disagree, so confirm before planning.",
+   "easedBy": [
+    "US",
+    "UK",
+    "SC"
+   ],
+   "status": "uncertain",
+   "sources": [
+    "https://www.atlys.com/en-IT/visa/saudi-visa",
+    "https://www.bajajfinserv.in/insurance/saudi-arabia-visa-for-indians"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Jordan",
+   "name": "Jordan",
+   "trip": "C",
+   "category": "evisa",
+   "rule": "e-visa or visa on arrival, 30 days. The Jordan Pass waives the visa fee only for a stay of 2 or more nights.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Kazakhstan",
+   "name": "Kazakhstan",
+   "trip": "D",
+   "category": "visa_free",
+   "rule": "Visa-free, 14 days.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Kyrgyzstan",
+   "name": "Kyrgyzstan",
+   "trip": "D",
+   "category": "evisa",
+   "rule": "e-visa, up to 60 days. Expect an invitation-letter step after applying.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Uzbekistan",
+   "name": "Uzbekistan",
+   "trip": "D",
+   "category": "conditional",
+   "rule": "30 days visa-free only with a valid multiple-entry visa from the US, UK, Schengen, Canada, Australia, New Zealand, Japan or South Korea and an onward air ticket (rule from 1 Sep 2026); the stay must fall within that visa. Otherwise e-visa, about US$25 for one month.",
+   "easedBy": [
+    "US",
+    "SC",
+    "UK",
+    "CA",
+    "OT"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://www.gazeta.uz/en/2026/09/03/india-visa-uzbekistan",
+    "https://eoitashkent.gov.in/uzbekistan-visa"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Azerbaijan",
+   "name": "Azerbaijan",
+   "trip": "D",
+   "category": "evisa",
+   "rule": "e-visa, 30 days (airport kiosk about US$30; prior e-visa for land borders).",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Armenia",
+   "name": "Armenia",
+   "trip": "D",
+   "category": "evisa",
+   "rule": "e-visa, 90 days; visa on arrival with a valid visa from the EU/Schengen, US, UK, Canada or Japan.",
+   "easedBy": [
+    "US",
+    "SC",
+    "UK",
+    "CA",
+    "OT"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Japan",
+   "name": "Japan",
+   "trip": "E",
+   "category": "evisa",
+   "rule": "e-visa for people residing in India, tourism, single entry, up to 90 days, through authorised agencies.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html",
+    "https://www.in.emb-japan.go.jp/itpr_ja/11_000001_01148.html"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Taiwan",
+   "name": "Taiwan",
+   "trip": "E",
+   "category": "conditional",
+   "rule": "Visa required, but a free online Travel Authorization Certificate (14 days) is available with a visa or residence card from the US, UK, Canada, Australia, New Zealand, Japan, South Korea or a Schengen state that is valid or expired under 10 years ago.",
+   "easedBy": [
+    "US",
+    "SC",
+    "UK",
+    "CA",
+    "OT"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.mofa.gov.tw/News_Content.aspx?n=539A9A50A5F8AF9E&s=45D41D4448C4284E",
+    "https://www.boca.gov.tw/cp-149-4486-7785a-2.html"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Philippines",
+   "name": "Philippines",
+   "trip": "E",
+   "category": "visa_free",
+   "rule": "Visa-free 14 days for tourism; 30 days with a valid US, Schengen, UK, Canada, Australia, Japan or Singapore visa. Needs hotel booking, proof of funds and an onward ticket.",
+   "easedBy": [
+    "US",
+    "SC",
+    "UK",
+    "CA",
+    "OT"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Switzerland",
+   "name": "Switzerland",
+   "trip": "FGH",
+   "category": "visa_required",
+   "rule": "Schengen visa required (one visa covers about 29 countries; multiple entry advised). Apply 3 to 6 months ahead. Entry/Exit System biometric registration is live since 10 Apr 2026.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Liechtenstein",
+   "name": "Liechtenstein",
+   "trip": "FGH",
+   "category": "visa_required",
+   "rule": "Covered by the Schengen visa.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "France",
+   "name": "France",
+   "trip": "FGH",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Monaco",
+   "name": "Monaco",
+   "trip": "FGH",
+   "category": "visa_required",
+   "rule": "Covered by the Schengen visa.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Italy",
+   "name": "Italy",
+   "trip": "FGH",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Vatican",
+   "name": "Vatican City",
+   "trip": "FGH",
+   "category": "visa_required",
+   "rule": "Covered by the Schengen visa.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "San Marino",
+   "name": "San Marino",
+   "trip": "FGH",
+   "category": "visa_required",
+   "rule": "Covered by the Schengen visa.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Slovenia",
+   "name": "Slovenia",
+   "trip": "FGH",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Croatia",
+   "name": "Croatia",
+   "trip": "FGH",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Hungary",
+   "name": "Hungary",
+   "trip": "FGH",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Slovakia",
+   "name": "Slovakia",
+   "trip": "FGH",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Austria",
+   "name": "Austria",
+   "trip": "FGH",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Czechia",
+   "name": "Czechia",
+   "trip": "FGH",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Poland",
+   "name": "Poland",
+   "trip": "FGH",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Serbia",
+   "name": "Serbia",
+   "trip": "FGH",
+   "category": "conditional",
+   "rule": "Visa-free (90 days in 6 months, within the validity) for holders of a valid Schengen, EU-state, UK or US visa or residence permit.",
+   "easedBy": [
+    "US",
+    "SC",
+    "UK"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Bosnia and Herz.",
+   "name": "Bosnia and Herzegovina",
+   "trip": "FGH",
+   "category": "conditional",
+   "rule": "Visa-free for up to 30 days per stay (90 in 6 months) with a valid multiple-entry Schengen/EU or US visa; otherwise visa required.",
+   "easedBy": [
+    "US",
+    "SC"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Montenegro",
+   "name": "Montenegro",
+   "trip": "FGH",
+   "category": "conditional",
+   "rule": "Visa required, but 30 days visa-free with a valid multiple-entry US, UK, Schengen or Irish visa (secondary sources); the official page only states the visa requirement.",
+   "easedBy": [
+    "US",
+    "SC",
+    "UK"
+   ],
+   "status": "probable",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Albania",
+   "name": "Albania",
+   "trip": "FGH",
+   "category": "conditional",
+   "rule": "Visa-exempt with a valid multiple-entry Schengen visa that has been used in a Schengen state, or a multiple-entry EU, US or UK visa previously used in the issuing country; otherwise e-visa.",
+   "easedBy": [
+    "US",
+    "SC",
+    "UK"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "North Macedonia",
+   "name": "North Macedonia",
+   "trip": "FGH",
+   "category": "conditional",
+   "rule": "Visa required. Exempt (15 days per entry, 90 in 180) with a multiple-entry Schengen C sticker visa; a multiple-entry US, UK or Canadian visa also works, but only until 31 Dec 2026 (temporary decision).",
+   "easedBy": [
+    "US",
+    "SC",
+    "UK",
+    "CA"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Turkey",
+   "name": "Turkey",
+   "trip": "FGH",
+   "category": "conditional",
+   "rule": "Visa required. A single-entry e-visa valid one month is available with a valid Schengen, US, UK or Irish visa or residence permit.",
+   "easedBy": [
+    "US",
+    "SC",
+    "UK"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Finland",
+   "name": "Finland",
+   "trip": "I",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Estonia",
+   "name": "Estonia",
+   "trip": "I",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Latvia",
+   "name": "Latvia",
+   "trip": "I",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Lithuania",
+   "name": "Lithuania",
+   "trip": "I",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Denmark",
+   "name": "Denmark",
+   "trip": "I",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Sweden",
+   "name": "Sweden",
+   "trip": "I",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Norway",
+   "name": "Norway",
+   "trip": "I",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Iceland",
+   "name": "Iceland",
+   "trip": "I",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Spain",
+   "name": "Spain",
+   "trip": "J",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Portugal",
+   "name": "Portugal",
+   "trip": "J",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Morocco",
+   "name": "Morocco",
+   "trip": "J",
+   "category": "evisa",
+   "rule": "Official e-visa, 30 days (no visa on arrival for Indians).",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://in.diplomatie.ma/en/e-visa"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Andorra",
+   "name": "Andorra",
+   "trip": "J",
+   "category": "visa_required",
+   "rule": "No visa regime of its own, but reached via France or Spain, so a double or multiple-entry Schengen visa is needed.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Malta",
+   "name": "Malta",
+   "trip": "J",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Greece",
+   "name": "Greece",
+   "trip": "J",
+   "category": "visa_required",
+   "rule": "Schengen visa required.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "United Kingdom",
+   "name": "United Kingdom",
+   "trip": "K",
+   "category": "visa_required",
+   "rule": "UK visa required (separate from Schengen); standard visitor fee about GBP 127.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Ireland",
+   "name": "Ireland",
+   "trip": "K",
+   "category": "visa_required",
+   "rule": "Irish visa required, or a UK visa endorsed under the British-Irish Visa Scheme if you enter the UK first.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Kenya",
+   "name": "Kenya",
+   "trip": "L",
+   "category": "evisa",
+   "rule": "Electronic Travel Authorisation (eTA), up to 90 days; East Africa Tourist Visa also valid.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Tanzania",
+   "name": "Tanzania",
+   "trip": "L",
+   "category": "evisa",
+   "rule": "e-visa or visa on arrival, 90 days, about US$50.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Rwanda",
+   "name": "Rwanda",
+   "trip": "L",
+   "category": "visa_free",
+   "rule": "Free 30-day visa on arrival (Commonwealth citizens).",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Uganda",
+   "name": "Uganda",
+   "trip": "L",
+   "category": "evisa",
+   "rule": "e-visa required before arrival. The US CDC advised enhanced precautions on 28 Aug 2026 because of an outbreak in the DRC.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Ethiopia",
+   "name": "Ethiopia",
+   "trip": "L",
+   "category": "evisa",
+   "rule": "e-visa, or visa on arrival at Addis Ababa airport; land borders need an embassy visa. Several governments advise against Amhara and parts of Afar.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Mauritius",
+   "name": "Mauritius",
+   "trip": "M",
+   "category": "visa_free",
+   "rule": "Visa-free, 90 days.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Madagascar",
+   "name": "Madagascar",
+   "trip": "M",
+   "category": "evisa",
+   "rule": "e-visa or visa on arrival, 90 days.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "South Africa",
+   "name": "South Africa",
+   "trip": "M",
+   "category": "evisa",
+   "rule": "Electronic Travel Authorisation required, about R500, 90 days, valid at OR Tambo, Cape Town and Lanseria airports only.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://www.fragomen.com/insights/south-africa-electronic-travel-authorization-requirement-forthcoming.html",
+    "https://www.ibn.co.za/south-africa/eta"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Lesotho",
+   "name": "Lesotho",
+   "trip": "M",
+   "category": "visa_required",
+   "rule": "Visa required in advance. The e-visa portal showed \"suspended, apply by email\" on 16 Oct 2026.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://evisas.io/visa-requirements/in/ls"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "eSwatini",
+   "name": "Eswatini",
+   "trip": "M",
+   "category": "visa_required",
+   "rule": "Visa required in advance; no visa on arrival.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://safarifind.com/blog/do-indian-citizens-need-an-eswatini-visa-in-2026",
+    "https://www.peninsulavisa.com/visa-requirements/india-to-eswatini",
+    "https://www.thekingdomofeswatini.com/visa-guide"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Zimbabwe",
+   "name": "Zimbabwe",
+   "trip": "M",
+   "category": "evisa",
+   "rule": "e-visa or visa on arrival, 1 month.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Zambia",
+   "name": "Zambia",
+   "trip": "M",
+   "category": "evisa",
+   "rule": "e-visa, 90 days.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Botswana",
+   "name": "Botswana",
+   "trip": "M",
+   "category": "evisa",
+   "rule": "e-visa, up to 3 months.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Namibia",
+   "name": "Namibia",
+   "trip": "M",
+   "category": "evisa",
+   "rule": "Visa required in advance: e-visa, or online visa on arrival at Windhoek and Walvis Bay airports (about NAD 1,600), up to 90 days.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Seychelles",
+   "name": "Seychelles",
+   "trip": "M",
+   "category": "visa_free",
+   "rule": "Visa-free via the Electronic Border System; register online about 10 days before flying (about EUR 10.90) with proof of funds and a return ticket.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Egypt",
+   "name": "Egypt",
+   "trip": "N",
+   "category": "evisa",
+   "rule": "e-visa, 30 days, about US$30 single entry; the fee is due to rise on 1 Jan 2027.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Tunisia",
+   "name": "Tunisia",
+   "trip": "N",
+   "category": "visa_required",
+   "rule": "Visa from the Tunisian embassy before travel; visa-free only for organised groups. No e-visa found.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_policy_of_Tunisia"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Australia",
+   "name": "Australia",
+   "trip": "O",
+   "category": "visa_required",
+   "rule": "Visitor visa (subclass 600), online, AUD 250.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "New Zealand",
+   "name": "New Zealand",
+   "trip": "O",
+   "category": "visa_required",
+   "rule": "Visitor visa plus the NZD 100 International Visitor Levy.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Fiji",
+   "name": "Fiji",
+   "trip": "O",
+   "category": "visa_free",
+   "rule": "Visa-free, free visitor permit on arrival, up to 4 months.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Vanuatu",
+   "name": "Vanuatu",
+   "trip": "O",
+   "category": "visa_free",
+   "rule": "Visa-free, 120 days (confirm with Vanuatu immigration).",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Samoa",
+   "name": "Samoa",
+   "trip": "O",
+   "category": "visa_free",
+   "rule": "Free entry permit on arrival, 60 to 90 days (sources differ, use 60).",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Bahamas",
+   "name": "Bahamas",
+   "trip": "P",
+   "category": "conditional",
+   "rule": "e-visa up to 3 months; visa on arrival or no visa with a valid US, UK, Canada or Schengen visa.",
+   "easedBy": [
+    "US",
+    "UK",
+    "CA",
+    "SC"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Jamaica",
+   "name": "Jamaica",
+   "trip": "P",
+   "category": "visa_free",
+   "rule": "Visa-free.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Dominican Rep.",
+   "name": "Dominican Republic",
+   "trip": "P",
+   "category": "conditional",
+   "rule": "Visa required, but not if you hold a valid US, Canada or EU-state visa.",
+   "easedBy": [
+    "US",
+    "CA",
+    "SC"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Barbados",
+   "name": "Barbados",
+   "trip": "P",
+   "category": "visa_free",
+   "rule": "Visa-free, 90 days.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Trinidad and Tobago",
+   "name": "Trinidad and Tobago",
+   "trip": "P",
+   "category": "visa_free",
+   "rule": "Visa-free, 90 days.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Panama",
+   "name": "Panama",
+   "trip": "P",
+   "category": "conditional",
+   "rule": "Visa required, but exempt with a valid multiple-entry US, UK, Canada, Australia, Japan, South Korea, Singapore or EU visa that has been used once and has a year left.",
+   "easedBy": [
+    "US",
+    "UK",
+    "CA",
+    "OT",
+    "SC"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Costa Rica",
+   "name": "Costa Rica",
+   "trip": "P",
+   "category": "conditional",
+   "rule": "Visa required, but exempt with a multiple-entry US visa with at least 6 months of validity left.",
+   "easedBy": [
+    "US"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Mexico",
+   "name": "Mexico",
+   "trip": "P",
+   "category": "conditional",
+   "rule": "Visa required, but exempt with a valid visa or residence from the US, Canada, Japan, UK or Schengen.",
+   "easedBy": [
+    "US",
+    "CA",
+    "UK",
+    "SC",
+    "OT"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Colombia",
+   "name": "Colombia",
+   "trip": "Q",
+   "category": "conditional",
+   "rule": "Visa required, but exempt with a valid Schengen visa, or a US visa with 180 days left.",
+   "easedBy": [
+    "US",
+    "SC"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Ecuador",
+   "name": "Ecuador",
+   "trip": "Q",
+   "category": "visa_required",
+   "rule": "Visa required in advance; no exemption found for US or Schengen holders.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://www.ecuatraveling.com/travel-blog-ecuador/travel-tips/do-you-need-a-visa-to-visit-ecuador-in-2026"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Peru",
+   "name": "Peru",
+   "trip": "Q",
+   "category": "conditional",
+   "rule": "Visa-free up to 180 days with a valid Australia, Canada, UK, US or Schengen visa with 6+ months left.",
+   "easedBy": [
+    "US",
+    "UK",
+    "CA",
+    "SC",
+    "OT"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Argentina",
+   "name": "Argentina",
+   "trip": "Q",
+   "category": "conditional",
+   "rule": "Visa required, but visa-free entry (online AVE) for holders of certain US visas or a green card (since 2025).",
+   "easedBy": [
+    "US"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Brazil",
+   "name": "Brazil",
+   "trip": "Q",
+   "category": "visa_required",
+   "rule": "Visa required in advance for Indians, even with a US or Schengen visa.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Chile",
+   "name": "Chile",
+   "trip": "Q",
+   "category": "conditional",
+   "rule": "Visa required, but exempt with a US visa (any type except C) with 6+ months of validity left.",
+   "easedBy": [
+    "US"
+   ],
+   "status": "confirmed",
+   "sources": [
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  }
+ ]
+}
