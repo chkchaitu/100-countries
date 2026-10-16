@@ -342,7 +342,8 @@ async function boot(){
   if(mo.length)els.push(`<h3>Best months for a low budget</h3><div class="mo">${MN.map((m,i)=>`<div class="${mo.includes(i+1)?'hi':''}">${m}</div>`).join('')}</div>`);
   if(p&&p.dailyBudgetInr)els.push(`<h3>Typical daily budget</h3><p>${rs(p.dailyBudgetInr.low)} to ${rs(p.dailyBudgetInr.high)} per person for a mid-range stay, food and local transport. Estimate.</p>`);
   if(p&&p.transport)els.push(`<h3>Getting there and around</h3><p>${esc(p.transport)}</p>`);
-  if(p&&p.experiences&&p.experiences.length)els.push(`<h3>Unique experiences</h3><ul>${p.experiences.map(x=>`<li><b>${esc(x.name)}</b>${x.note?': '+esc(x.note):''}${x.priceInr?` <span class="meta">(about ${rs(x.priceInr)})</span>`:''}</li>`).join('')}</ul>`);
+  {const ex=((p&&p.experiences)||[]).map(x=>typeof x==='string'?{name:x}:x).filter(x=>x&&x.name);
+   els.push(ex.length?`<h3>Unique experiences</h3><ul>${ex.map(x=>`<li><b>${esc(x.name)}</b>${x.note?': '+esc(x.note):''}${x.priceInr?` <span class="meta">(about ${rs(x.priceInr)})</span>`:''}</li>`).join('')}</ul>`:`<h3>Unique experiences</h3><p class="meta">None suggested yet.</p>`)}
   if(p&&p.cautions&&p.cautions.length)els.push(`<h3>Good to know</h3><ul>${p.cautions.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`);
   if(p&&p.neighbours&&p.neighbours.length)els.push(`<h3>Nearby countries by land or ferry</h3><p>${p.neighbours.map(x=>`<button class="nbtn" data-go="${esc(x)}">${esc(x)}</button>`).join('')}</p>`);
   if(!(p&&p.territory))els.push(`<p style="margin-top:16px"><button class="btn ghost" data-mark="${esc(n)}">${mine.has(n)?'Remove from my visited list':'Mark as visited'}</button></p>`);
