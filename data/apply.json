@@ -11874,5 +11874,671 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "official"
+ },
+ {
+  "country": "Somalia",
+  "route": "online",
+  "summary": "Apply online before travel on the official Somalia eTAS e-visa portal (etas.gov.so), run by the Immigration and Citizenship Agency. Fill in the form, upload your passport and other documents, pay the portal fee, and carry the emailed approval to show on arrival. The Somali embassy in Sweden states it no longer takes in-person visa applications; no Somali mission in India was found.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Somalia e-visa (eTAS portal)",
+    "url": "https://etas.gov.so/"
+   },
+   {
+    "label": "Somalia Immigration and Citizenship Agency (official)",
+    "url": "https://immigration.gov.so/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid passport; exact validity and blank pages UNVERIFIED"
+   },
+   {
+    "item": "Passport photo",
+    "note": "Upload required, specs UNVERIFIED"
+   },
+   {
+    "item": "Return ticket and accommodation",
+    "note": "Often asked, UNVERIFIED on official page"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Possibly required, UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "The portal blocked automated access, so photo rules could not be read.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED (agency says apply online before you travel)",
+  "biometrics": "No in-person step in India expected for the e-visa; UNVERIFIED",
+  "centres": "None needed for e-visa; no Somali mission in India found",
+  "warnings": [
+   "Use only etas.gov.so; the Somali embassy in Sweden warns against third-party sites that add fees.",
+   "Foreign Ministry travel advisories for Somalia are severe; check your own government advice before booking.",
+   "Approval is by email; print it and carry it."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo rules",
+   "Document checklist",
+   "Eligibility specifics for Indian passport holders"
+  ],
+  "sources": [
+   "https://immigration.gov.so/",
+   "https://usa.mfa.gov.so/how-to-apply-somali-evisa-online"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "South Sudan",
+  "route": "online",
+  "summary": "Create an account and apply on the official South Sudan e-visa site (evisa.gov.ss, which links to the immigration eservices apply page). Pay online by card and download the e-visa PDF; the site says this takes up to 72 hours. Present the visa at the port of entry, where the officer stamps your passport.",
+  "applyLinks": [
+   {
+    "label": "South Sudan e-visa home and sign-up",
+    "url": "https://www.evisa.gov.ss/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Passport data page scan; validity rule UNVERIFIED"
+   },
+   {
+    "item": "Passport photo",
+    "note": "A trip report mentions 2x2 inch, UNVERIFIED on official page"
+   },
+   {
+    "item": "Letter of invitation",
+    "note": "Sometimes requested by the portal"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Typically required, UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Secondary report only: 2x2 inch.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (South Sudan embassy in Washington lists USD 100 for Asian nationals, which is not the e-visa page)",
+  "processing": "Up to 72 hours per evisa.gov.ss",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "None stated for e-visa",
+  "centres": "No application centre needed; no mission in India confirmed",
+  "warnings": [
+   "Portal may ask for an invitation letter after you apply.",
+   "Check current security advisories; many governments advise against travel.",
+   "Use only evisa.gov.ss or the eservices.gov.ss link."
+  ],
+  "unverified": [
+   "Fee for Indian citizens",
+   "Photo rules",
+   "Full document list",
+   "Apply-page deep link (returned 401 without login)"
+  ],
+  "sources": [
+   "https://www.evisa.gov.ss/",
+   "https://www.ssembassydc.org/visa-services"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Sudan",
+  "route": "embassy",
+  "summary": "Apply through the Embassy of Sudan in New Delhi. Download and fill in the visa form (two copies, each with a recent photo), and your Sudan sponsor must get approval from Sudan's Ministry of Interior, which is passed to the embassy. Submit with passport valid 6 months and a confirmed return ticket; only single-entry visas are issued.",
+  "applyLinks": [
+   {
+    "label": "Sudan Embassy New Delhi: visa formalities",
+    "url": "https://www.sudanembassyindia.org/visa_procedure.html"
+   },
+   {
+    "label": "Sudan Embassy New Delhi: download visa form page",
+    "url": "https://www.sudanembassyindia.org/download_form.html"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Visa application form page 1 (PDF)",
+    "url": "https://www.sudanembassyindia.org/visa_form/sudan_visa_application_page_01.pdf"
+   },
+   {
+    "label": "Visa application form page 2 (PDF)",
+    "url": "https://www.sudanembassyindia.org/visa_form/sudan_visa_application_page_02.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Two filled application forms",
+    "note": "Each with a recent passport-size photo"
+   },
+   {
+    "item": "Passport",
+    "note": "Valid at least six months from date of application"
+   },
+   {
+    "item": "Sponsor approval",
+    "note": "Sponsor in Sudan gets Ministry of Interior approval, sent to the embassy via Sudan's foreign ministry"
+   },
+   {
+    "item": "Confirmed return ticket",
+    "note": "To and from Sudan"
+   },
+   {
+    "item": "Health requirements",
+    "note": "Embassy page lists Covid-era rules (2021 wording), may be outdated; yellow fever status UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Recent passport-size photograph on each form; exact size and background not stated.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (page says embassy fee revised from 1 Jan 2021 but figure not captured)",
+  "processing": "UNVERIFIED (depends on approval from Sudan)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED; submission at the embassy in New Delhi",
+  "centres": "New Delhi only (embassy, Chanakyapuri)",
+  "warnings": [
+   "A sponsor or invitation in Sudan is effectively required.",
+   "Sudan has severe conflict; most governments advise against all travel.",
+   "Embassy website content looks dated; call or email before submitting.",
+   "Only single entry visas are issued."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo size",
+   "Current health rules",
+   "Whether e-visa is open to Indians"
+  ],
+  "sources": [
+   "https://www.sudanembassyindia.org/visa_procedure.html",
+   "https://www.sudanembassyindia.org/download_form.html"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Suriname",
+  "route": "online",
+  "summary": "Apply for the Suriname e-visa or e-Tourist Card on the official portal run by VFS Global for the Suriname Foreign Ministry. Fill in the form, upload documents, pay online and receive the approval by email, then show it on arrival. Indian citizens need a visa or tourist card; confirm which applies on the portal.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Suriname e-visa or e-Tourist Card (VFS)",
+    "url": "https://suriname.vfsevisa.com/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Validity about 6 months suggested by secondary sources, UNVERIFIED"
+   },
+   {
+    "item": "Photo",
+    "note": "Upload, specs UNVERIFIED"
+   },
+   {
+    "item": "Return ticket and accommodation",
+    "note": "Commonly requested, UNVERIFIED"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Suriname is yellow fever endemic; often required, UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Not read from an official page.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "None for e-visa expected; UNVERIFIED",
+  "centres": "Online; no mission centre needed",
+  "warnings": [
+   "The Indian Embassy in Paramaribo page that appeared in search is about India's visas, not Suriname's.",
+   "Use only suriname.vfsevisa.com, not lookalike agents.",
+   "Check yellow fever certificate rules before departure."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo rules",
+   "Document list",
+   "Tourist card vs visa for Indians"
+  ],
+  "sources": [
+   "https://suriname.vfsevisa.com/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Syria",
+  "route": "embassy",
+  "summary": "The official e-visa site (evisa.sy) did not respond from our check and a September 2026 report says it shows only 'EVisa Coming Soon', so there is currently no confirmed online route. Contact the Syrian mission covering India before booking; the Syrian foreign ministry has an appointment portal for its missions. Do not rely on visa on arrival without written confirmation.",
+  "applyLinks": [
+   {
+    "label": "Syria foreign ministry: book appointments at Syrian embassies",
+    "url": "https://mofaex.gov.sy/en/eservices-app"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Typically 6 months validity, UNVERIFIED"
+   },
+   {
+    "item": "Application form and photos",
+    "note": "UNVERIFIED"
+   },
+   {
+    "item": "Purpose and itinerary",
+    "note": "UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "UNVERIFIED; Syrian embassy in New Delhi status not confirmed",
+  "warnings": [
+   "Many governments advise against all travel to Syria.",
+   "E-visa portal reportedly not operating; beware unofficial sites selling Syria e-visas.",
+   "Entry without a valid visa from an official mission risks detention or refusal."
+  ],
+  "unverified": [
+   "Whether a Syrian mission in India accepts tourist visas",
+   "Fee",
+   "Processing",
+   "Documents",
+   "Photo rules",
+   "Current e-visa status (evisa.sy did not resolve)"
+  ],
+  "sources": [
+   "https://mofaex.gov.sy/en/eservices-app"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Tajikistan",
+  "route": "online",
+  "summary": "Apply on the official Tajikistan e-Visa portal (run by the Ministry of Foreign Affairs): create an application, upload a passport scan and photo, pay online, and receive the e-visa by email. Print it and carry it. The portal needs a modern browser and its inner pages could not be read by script, so check current fee and rules on the portal itself. Eligibility of Indian ordinary passports for the e-visa was not confirmed on a readable official page.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Tajikistan e-visa",
+    "url": "https://www.evisa.tj/"
+   },
+   {
+    "label": "Tajikistan visa portal (apply, extend, check status)",
+    "url": "https://www.visa.gov.tj/"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid for at least 6 months after entry is typical; confirm on portal"
+   },
+   {
+    "item": "Passport photo (digital)",
+    "note": "Uploaded online"
+   },
+   {
+    "item": "Passport scan",
+    "note": "Uploaded online"
+   },
+   {
+    "item": "Accommodation or itinerary",
+    "note": "Sometimes asked; UNVERIFIED"
+   },
+   {
+    "item": "GBAO permit",
+    "note": "Only if visiting the Pamir region (Gorno-Badakhshan); selected on the portal"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Portal pages are JavaScript only; rules not readable.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED on official page. Secondary sources (traveldoc.aero, twopassportspacked.com) report about USD 30 single entry, USD 50 multiple entry, plus USD 20 for a GBAO permit.",
+  "processing": "UNVERIFIED officially; secondary sources say 2 to 5 business days",
+  "applyEarly": "UNVERIFIED; secondary source says you can apply well ahead, entry date is chosen in the form",
+  "biometrics": "No in-person visit for the e-visa as far as known; UNVERIFIED",
+  "centres": "Online only; no Indian centre needed",
+  "warnings": [
+   "Use only evisa.tj or visa.gov.tj; many lookalike agent sites charge extra.",
+   "Pamir (GBAO) travel needs a separate permit added in the application.",
+   "Check the entry date and passport details exactly; errors can void the e-visa.",
+   "Confirm India is on the e-visa eligible list before paying."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo rules",
+   "Document list",
+   "Indian eligibility for e-visa"
+  ],
+  "sources": [
+   "https://www.evisa.tj/",
+   "https://www.visa.gov.tj/"
+  ],
+  "confidence": "thin",
+  "formLinks": [],
+  "lastChecked": "2026-10-16"
+ },
+ {
+  "country": "Timor-Leste",
+  "route": "mixed",
+  "summary": "Per the Indian Ministry of External Affairs list (seen in search results, page blocks scripts), Indian ordinary passport holders get a one month tourist visa on arrival in Timor-Leste, single entry, 30 days, extendable once, fee USD 30. Carry a passport valid 6 months, a return ticket, proof of funds and accommodation, and cash USD. No official Timor-Leste portal or Indian mission page was confirmed, so verify with the airline before flying.",
+  "applyLinks": [
+   {
+    "label": "Indian MEA list of visa facilities for Indians (Timor-Leste entry)",
+    "url": "https://www.mea.gov.in/vffin"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Typically 6 months validity and blank pages; UNVERIFIED officially"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Asked at arrival"
+   },
+   {
+    "item": "Proof of accommodation and funds",
+    "note": "May be asked"
+   },
+   {
+    "item": "Passport photos",
+    "note": "Possibly at arrival desk"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from an affected country"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "No official photo rules found.",
+   "status": "unverified"
+  },
+  "fee": "USD 30 for one month tourist visa on arrival, as stated on MEA page (seen in search result, 2026-10-16)",
+  "processing": "On arrival at the airport (UNVERIFIED on Timor-Leste official page)",
+  "applyEarly": "Not applicable for visa on arrival",
+  "biometrics": "Handled at arrival; UNVERIFIED",
+  "centres": "No Indian application centre; Timor-Leste has no embassy in India (UNVERIFIED)",
+  "warnings": [
+   "Some Indian agent sites list 90 day or embassy visas; the MEA list says 30 days on arrival.",
+   "Pay in cash USD at arrival; Timor-Leste uses the US dollar.",
+   "Airlines may ask for proof of onward ticket before boarding."
+  ],
+  "unverified": [
+   "Timor-Leste immigration page",
+   "Document checklist",
+   "Photo rules",
+   "Current fee on a Timor-Leste official page"
+  ],
+  "sources": [
+   "https://www.mea.gov.in/vffin"
+  ],
+  "confidence": "partial",
+  "formLinks": [],
+  "lastChecked": "2026-10-16"
+ },
+ {
+  "country": "Togo",
+  "route": "online",
+  "summary": "Create an account on the official Togo Voyage platform, fill in the immigration form, request the tourist e-visa, upload documents and pay online by card or mobile money. Togo no longer issues visas on arrival, so you must have the approval email before boarding. Processing takes up to 5 working days; apply at least 6 to 7 working days before travel.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Togo e-visa (Togo Voyage)",
+    "url": "https://voyage.gouv.tg/"
+   },
+   {
+    "label": "About the e-visa: types, prices, documents",
+    "url": "https://voyage.gouv.tg/about"
+   },
+   {
+    "label": "Togo Voyage FAQ",
+    "url": "https://voyage.gouv.tg/faq"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Scan of first three passport pages",
+    "note": "Passport valid 3 months beyond the requested visa"
+   },
+   {
+    "item": "Recent ID photo",
+    "note": "Uploaded online"
+   },
+   {
+    "item": "Flight booking or ticket copy",
+    "note": "Required if arriving by air"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Strongly recommended"
+   },
+   {
+    "item": "Hotel booking or accommodation certificate",
+    "note": "Recommended"
+   },
+   {
+    "item": "Invitation letter",
+    "note": "Recommended, optional"
+   },
+   {
+    "item": "Bank statement",
+    "note": "Optional proof of funds"
+   },
+   {
+    "item": "Yellow fever card",
+    "note": "Recommended by the platform"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Recent ID photo required; no size or background rule on the pages read.",
+   "status": "unverified"
+  },
+  "fee": "Tourist visa: 25,000 FCFA (1 to 15 days single entry), 35,000 FCFA (1 to 15 days multiple), 45,000 FCFA (16 to 30 days), 65,000 FCFA (31 to 90 days), from voyage.gouv.tg/about on 2026-10-16. A surcharge applies if applying less than 6 days before arrival.",
+  "processing": "Up to 5 working days",
+  "applyEarly": "At least 6 to 7 working days before arrival (platform notice says at least 5 days)",
+  "biometrics": "None for the e-visa; UNVERIFIED for Indian applicants",
+  "centres": "Online only",
+  "warnings": [
+   "No visa on arrival: no approval email means no boarding.",
+   "Late applications (under 6 days) cost extra.",
+   "Whether India is on the e-visa eligible list was not shown on pages read; use the platform's visa assistant.",
+   "The platform is moving to a new version (beta.voyage.gouv.tg); use links from voyage.gouv.tg."
+  ],
+  "unverified": [
+   "Indian eligibility list",
+   "Photo size",
+   "Exact fee for Indians if different"
+  ],
+  "sources": [
+   "https://voyage.gouv.tg/",
+   "https://voyage.gouv.tg/about",
+   "https://voyage.gouv.tg/faq",
+   "https://voyage.gouv.tg/about/procedures"
+  ],
+  "confidence": "official",
+  "formLinks": [],
+  "lastChecked": "2026-10-16"
+ },
+ {
+  "country": "Tonga",
+  "route": "embassy",
+  "summary": "Tonga has no visa centre or embassy in India that could be confirmed. The Tonga investment site says nationals not on its visa free or on arrival list must get a visa before travel, applying to the Immigration Division of the Ministry of Foreign Affairs in Nuku'alofa by email. Whether Indian citizens are on the on-arrival list was not shown, so email the Tonga immigration office before booking.",
+  "applyLinks": [
+   {
+    "label": "Tonga visa rules and where to apply (Invest in Tonga, government site)",
+    "url": "https://www.investtonga.gov.to/articles/visas"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Completed visa application form",
+    "note": "Obtain from Tonga immigration"
+   },
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months beyond the stay"
+   },
+   {
+    "item": "Passport photo",
+    "note": "One recent photo"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Required"
+   },
+   {
+    "item": "Proof of sufficient funds",
+    "note": "Required"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Required"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Recent passport sized photo; no size rules found.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED; no known application centre in India",
+  "centres": "None known in India. Applications go to the Immigration Division, Ministry of Foreign Affairs, Salote Road, Nuku'alofa (email tongapermit@gmail.com per the government investment site)",
+  "warnings": [
+   "Confirm visa requirement for Indian passports directly with Tonga immigration before booking.",
+   "Flights are long and via Fiji, New Zealand or Australia; check transit visas for those countries.",
+   "Initial visitor stay noted as 31 days."
+  ],
+  "unverified": [
+   "Indian eligibility",
+   "Fee",
+   "Processing time",
+   "Form link",
+   "Photo size"
+  ],
+  "sources": [
+   "https://www.investtonga.gov.to/articles/visas"
+  ],
+  "confidence": "thin",
+  "formLinks": [],
+  "lastChecked": "2026-10-16"
+ },
+ {
+  "country": "Turkmenistan",
+  "route": "embassy",
+  "summary": "Turkmenistan is hard to visit. Tourists need an invitation (visa verification number) from a Turkmen licensed travel agency or State Migration Service, then apply at the Embassy of Turkmenistan in New Delhi with the form, photo, passport and fee. A new national e-visa portal was reported from 2 October 2026 but registration was reportedly not yet open; evisa.gov.tm did not load. The embassy is open to applicants only 10:00 to 12:00 on weekdays.",
+  "applyLinks": [
+   {
+    "label": "Embassy of Turkmenistan in New Delhi: visa requirements and fees",
+    "url": "https://india.tmembassy.gov.tm/en/consular-services/viza-application-of-turkmenistan"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Visa application form and fee chart (downloads are on the embassy visa page)",
+    "url": "https://india.tmembassy.gov.tm/en/consular-services/viza-application-of-turkmenistan"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Visa application form (2009 edition)",
+    "note": "One per person, dates DD-MM-YYYY, photo glued on"
+   },
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months from departure, signed, with copy of first page on A4"
+   },
+   {
+    "item": "Visa verification number or certified letter of invitation",
+    "note": "From State Migration Service; valid 3 months"
+   },
+   {
+    "item": "Fee",
+    "note": "Cash or cheque or draft payable to Embassy of Turkmenistan"
+   },
+   {
+    "item": "HIV/AIDS certificate",
+    "note": "Only for stays of one month or more, issued within the last month"
+   }
+  ],
+  "photo": {
+   "size": "Passport size, glued to the form",
+   "background": "UNVERIFIED",
+   "format": "Printed photo",
+   "notes": "Taken within 6 months; do not staple or fold.",
+   "status": "unverified"
+  },
+  "fee": "Single entry normal: USD 35 (10 days), 45 (20 days), 55 (1 month), 85 (2 months), 115 (3 months); urgent roughly double. Multiple entry 1 month USD 75. Children 7 to 16 pay 50%, under 7 free. Embassy page, 2026-10-16.",
+  "processing": "10 business days normal; 1 to 3 business days if urgent (extra 100% of fee)",
+  "applyEarly": "Invitation is valid 3 months, so apply within that window",
+  "biometrics": "Documents handed in at the embassy in New Delhi; fingerprints UNVERIFIED",
+  "centres": "New Delhi only (Embassy, C-11 West End Colony, New Delhi 110021)",
+  "warnings": [
+   "Tourist transit and guided-tour rules apply; an agency invitation is essential.",
+   "Embassy consular section is open only 10:00 to 12:00 on weekdays; call or email first.",
+   "Bounced cheques cost INR 1,000; fees are not refunded.",
+   "Information in the visa and the invitation must match the form exactly."
+  ],
+  "unverified": [
+   "Photo background",
+   "New e-visa portal status",
+   "Fingerprints"
+  ],
+  "sources": [
+   "https://india.tmembassy.gov.tm/en/consular-services/viza-application-of-turkmenistan"
+  ],
+  "confidence": "official",
+  "lastChecked": "2026-10-16"
  }
 ]
