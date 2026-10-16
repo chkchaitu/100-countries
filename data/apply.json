@@ -9325,5 +9325,784 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin"
+ },
+ {
+  "country": "Liechtenstein",
+  "route": "agency",
+  "summary": "Liechtenstein has no mission in India. Short-stay Schengen visas for Liechtenstein from India are handled by the Embassy of Switzerland in New Delhi, with applications lodged at the Switzerland VFS centres. Book a VFS appointment, apply in person with biometrics, and wait for the embassy decision. Do not apply through another Schengen country unless Liechtenstein is not your main destination.",
+  "applyLinks": [
+   {
+    "label": "Switzerland visa information for India (VFS)",
+    "url": "https://www.vfsglobal.ch/switzerland/india"
+   },
+   {
+    "label": "Book a VFS appointment for Switzerland in India",
+    "url": "https://visa.vfsglobal.com/ind/en/che/book-an-appointment"
+   },
+   {
+    "label": "Apply for a Swiss visa (VFS page)",
+    "url": "https://visa.vfsglobal.com/ind/en/che/apply-visa"
+   },
+   {
+    "label": "Swiss online visa system (short stay)",
+    "url": "https://www.swiss-visa.ch/"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Swiss Embassy page: Schengen visa application and procedure (tourist checklist PDFs)",
+    "url": "https://www.schweiz-indien.eda.admin.ch/en/application-schengen-visa-procedure"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Issued within the last 10 years, valid at least 3 months after the planned departure from the Schengen area, at least 2 blank pages"
+   },
+   {
+    "item": "Completed and signed Schengen visa application form",
+    "note": "Per the embassy checklist"
+   },
+   {
+    "item": "Recent photographs",
+    "note": "ICAO style biometric photo"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Schengen cover, usually at least EUR 30,000"
+   },
+   {
+    "item": "Flight itinerary and accommodation proof",
+    "note": "Reservations for the whole stay"
+   },
+   {
+    "item": "Bank statements and proof of funds",
+    "note": "Usually last 6 months; check the embassy checklist"
+   },
+   {
+    "item": "Employment or business proof, leave letter, ITR",
+    "note": "Students: school letter. Exact list per checklist"
+   },
+   {
+    "item": "Visa checklist for tourists",
+    "note": "Download the tourist checklist from the Swiss Embassy page"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED (ICAO biometric standard)",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Luxembourg embassy page says ICAO standard photos for Schengen applications in India",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED on a Swiss page. The standard Schengen fee is EUR 90 for adults (Luxembourg embassy page, checked 2026-10-16), plus a VFS service charge.",
+  "processing": "Swiss embassy page (seen in search results) mentions 7 to 10 calendar days, and elsewhere 10 to 15 days, after submission at VFS. Longer in peak season.",
+  "applyEarly": "Not earlier than 6 months before entry; apply as early as possible (Swiss embassy page, search snippet).",
+  "biometrics": "Yes, in person at a VFS centre for fingerprints and photo, unless fingerprints are already on file in the last 59 months.",
+  "centres": "Switzerland VFS centres including New Delhi and Mumbai; see VFS for the full list",
+  "warnings": [
+   "Liechtenstein has no embassy in India; do not look for one",
+   "Applicant should have been legally residing in India for at least 6 months (Swiss Embassy page, search snippet)",
+   "Pay the visa fee plus a separate VFS service charge; ignore agents promising guaranteed visas",
+   "Schengen rules are shared: if Liechtenstein is only a short part of a longer trip, apply through the country of main destination"
+  ],
+  "unverified": [
+   "Swiss Embassy pages return 403 to scripts, so content seen only in search snippets",
+   "Exact Liechtenstein representation arrangement not read on an official page in this run",
+   "Photo size and fee on Swiss page",
+   "VFS service charge"
+  ],
+  "sources": [
+   "https://www.vfsglobal.ch/switzerland/india",
+   "https://www.swiss-visa.ch/",
+   "https://newdelhi.mae.lu/en/service_citoyens/visa-immigration/short-term-schengen-visa.html"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Lithuania",
+  "route": "agency",
+  "summary": "Schengen visas for Lithuania from India are issued only by the Lithuanian Embassy in New Delhi, but you lodge the application at a VFS centre. Book a VFS appointment, attend in person with documents and biometrics, then collect the passport. The embassy page says appointments are handled by VFS.",
+  "applyLinks": [
+   {
+    "label": "Apply for a Lithuania Schengen visa (VFS India)",
+    "url": "https://visa.vfsglobal.com/ind/en/ltu/apply-visa"
+   },
+   {
+    "label": "Book a VFS appointment for Lithuania in India",
+    "url": "https://visa.vfsglobal.com/ind/en/ltu/book-an-appointment"
+   },
+   {
+    "label": "Embassy of Lithuania in India: visas page",
+    "url": "https://in.mfa.lt/en/travel-and-residence/coming-to-lithuania/visas/111"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Issued within the last 10 years, valid at least 3 months after the planned departure from the Schengen area, at least 2 blank pages"
+   },
+   {
+    "item": "Completed and signed Schengen visa application form",
+    "note": "Per the embassy checklist"
+   },
+   {
+    "item": "Recent photographs",
+    "note": "ICAO style biometric photo"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Schengen cover, usually at least EUR 30,000"
+   },
+   {
+    "item": "Flight itinerary and accommodation proof",
+    "note": "Reservations for the whole stay"
+   },
+   {
+    "item": "Bank statements and proof of funds",
+    "note": "Usually last 6 months; check the embassy checklist"
+   },
+   {
+    "item": "Employment or business proof, leave letter, ITR",
+    "note": "Students: school letter. Exact list per checklist"
+   },
+   {
+    "item": "Invitation or hotel booking",
+    "note": "Depends on purpose"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "VFS common information sheet says photo must meet ICAO standard",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED on a Lithuanian page. Standard Schengen fee is EUR 90 for adults (Luxembourg embassy page, 2026-10-16). The embassy page says the VFS appointment itself is at no cost; a VFS service charge may apply.",
+  "processing": "UNVERIFIED; Schengen rule is normally up to 15 calendar days, up to 45 if extra checks.",
+  "applyEarly": "UNVERIFIED; Schengen rule allows applying up to 6 months before travel.",
+  "biometrics": "Yes, Schengen applicants in India appear in person for fingerprints and photo at the VFS centre.",
+  "centres": "VFS Lithuania centres in India; list UNVERIFIED (applications are forwarded to the embassy in New Delhi)",
+  "warnings": [
+   "Visas for Lithuania are decided only by the New Delhi embassy",
+   "Book appointments only through VFS, not via paid third parties",
+   "Apply to Lithuania only if it is your main destination or first entry point",
+   "Travel insurance and accommodation proof are common refusal points"
+  ],
+  "unverified": [
+   "Embassy and urm.lt pages block scripts (403); content seen via search snippets only",
+   "Fee, processing time, photo size, VFS city list"
+  ],
+  "sources": [
+   "https://visa.vfsglobal.com/ind/en/ltu/apply-visa",
+   "https://visa.vfsglobal.com/ind/en/ltu/book-an-appointment"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Luxembourg",
+  "route": "agency",
+  "summary": "Apply for the Schengen short-stay visa through the Embassy of Luxembourg in New Delhi, but all applications are lodged at the Luxembourg VFS centre. Book a VFS appointment, appear in person with documents and biometrics, and pay the fee. The embassy decides; the passport comes back via VFS.",
+  "applyLinks": [
+   {
+    "label": "Embassy of Luxembourg: short-term Schengen visa guide",
+    "url": "https://newdelhi.mae.lu/en/service_citoyens/visa-immigration/short-term-schengen-visa.html"
+   },
+   {
+    "label": "Book a VFS appointment for Luxembourg in India",
+    "url": "https://visa.vfsglobal.com/ind/en/lux/book-an-appointment"
+   },
+   {
+    "label": "Apply for a Luxembourg visa (VFS India)",
+    "url": "https://visa.vfsglobal.com/ind/en/lux/apply-visa"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Issued within the last 10 years, valid at least 3 months after the planned departure from the Schengen area, at least 2 blank pages"
+   },
+   {
+    "item": "Completed and signed Schengen visa application form",
+    "note": "Per the embassy checklist"
+   },
+   {
+    "item": "Recent photographs",
+    "note": "ICAO style biometric photo"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Schengen cover, usually at least EUR 30,000"
+   },
+   {
+    "item": "Flight itinerary and accommodation proof",
+    "note": "Reservations for the whole stay"
+   },
+   {
+    "item": "Bank statements and proof of funds",
+    "note": "Usually last 6 months; check the embassy checklist"
+   },
+   {
+    "item": "Employment or business proof, leave letter, ITR",
+    "note": "Students: school letter. Exact list per checklist"
+   },
+   {
+    "item": "Checklist from the embassy page",
+    "note": "Follow the Luxembourg checklist for your purpose"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Embassy says a recent photo meeting ICAO standards is needed",
+   "status": "unverified"
+  },
+  "fee": "EUR 90 (INR 9900) for adults; EUR 45 (INR 4950) for children aged 6 to under 12 (embassy page, checked 2026-10-16). VFS service charge extra, UNVERIFIED.",
+  "processing": "Normally not more than 15 calendar days from receipt at the embassy; up to 45 days if more checks are needed; add 1 to 4 days transit each way from VFS.",
+  "applyEarly": "Embassy may declare an application inadmissible if received less than 15 days before travel. Schengen rule: up to 6 months before.",
+  "biometrics": "Yes, in person at VFS for fingerprints and photo; fingerprints reusable for 59 months.",
+  "centres": "Ahmedabad, Bangalore, Chandigarh, Chennai, Cochin, Delhi, Goa, Gurgaon, Hyderabad, Jaipur, Jalandhar, Kolkata, Mumbai (16 cities listed by the Luxembourg embassy; check VFS for the current list)",
+  "warnings": [
+   "Applications less than 15 days before travel can be rejected as inadmissible",
+   "Incomplete checklist puts the application on hold",
+   "Passport must be issued within 10 years and valid 3 months past departure",
+   "Fee is paid in INR with a separate VFS service charge"
+  ],
+  "unverified": [
+   "Photo size",
+   "VFS service charge",
+   "Opening of appointment slots"
+  ],
+  "sources": [
+   "https://newdelhi.mae.lu/en/service_citoyens/visa-immigration/short-term-schengen-visa.html",
+   "https://visa.vfsglobal.com/ind/en/lux/book-an-appointment",
+   "https://visa.vfsglobal.com/ind/en/lux/apply-visa"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Malawi",
+  "route": "online",
+  "summary": "Malawi runs an official e-Visa portal. Create an account on evisa.gov.mw, fill in the form, upload documents and pay online by card, then show the e-Visa on arrival. The portal also mentions Visa on Arrival for Category Two countries; Category One countries must get a visa before departure. Whether India is Category One or Two was not confirmed.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Malawi e-Visa",
+    "url": "https://evisa.gov.mw/ApplyVisa/Application"
+   },
+   {
+    "label": "Malawi e-Visa portal home and notices",
+    "url": "https://evisa.gov.mw/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months, blank pages; exact rule UNVERIFIED on official page"
+   },
+   {
+    "item": "Passport photo",
+    "note": "Digital upload"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Usually asked"
+   },
+   {
+    "item": "Accommodation or invitation",
+    "note": "Usually asked"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Sometimes required depending on travel route"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Sometimes asked"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Check the upload instructions inside the portal",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED. The portal says the visa fee and a convenience fee are paid by Visa or Mastercard.",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED; the portal encourages applying before departure",
+  "biometrics": "UNVERIFIED; no embassy visit mentioned for e-Visa",
+  "centres": "None needed for the e-Visa route",
+  "warnings": [
+   "Use only evisa.gov.mw, the official portal",
+   "Category lists are PDFs on the portal; check whether India is in Category One or Two",
+   "Carry a printed e-Visa and show it on arrival",
+   "Expect a separate convenience fee on top of the visa fee"
+  ],
+  "unverified": [
+   "India's category (One or Two)",
+   "Fee amounts",
+   "Processing time",
+   "Photo specs",
+   "Document list on official page"
+  ],
+  "sources": [
+   "https://evisa.gov.mw/",
+   "https://evisa.gov.mw/ApplyVisa/Application"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Mali",
+  "route": "online",
+  "summary": "Since 11 March 2025 the Embassy of Mali in New Delhi says all visa applications must go through the Mali foreign ministry digital portal. Create an account, choose the visa type, fill the form, upload documents, book an appointment if required, and pay. The embassy states average processing of 5 to 10 business days.",
+  "applyLinks": [
+   {
+    "label": "Mali visa application portal",
+    "url": "https://www.diplomatiemdc.gouv.ml/vitrine/"
+   },
+   {
+    "label": "Embassy of Mali in India: new visa procedure",
+    "url": "https://maliembassy.co.in/documents-required"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport copy",
+    "note": "At least 6 months validity"
+   },
+   {
+    "item": "Recent passport-size photo",
+    "note": "Upload as PDF or JPG"
+   },
+   {
+    "item": "Legalized invitation letter from Mali or hotel reservation",
+    "note": "One of the two"
+   },
+   {
+    "item": "Round-trip flight reservation copy",
+    "note": ""
+   },
+   {
+    "item": "Yellow fever vaccination card copy",
+    "note": ""
+   },
+   {
+    "item": "Other documents by visa type",
+    "note": "Sometimes required"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "JPG or PDF upload",
+   "notes": "Recent passport-size photo",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (portal charges fees online; amount not shown on the embassy page)",
+  "processing": "Average 5 to 10 business days, excluding urgent cases (embassy page)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Appointment scheduled through the portal if required; details UNVERIFIED",
+  "centres": "Embassy of Mali, A-2/29, Safdarjung Enclave, New Delhi 110029 (open 9am to 2pm Monday to Friday)",
+  "warnings": [
+   "Paper or handwritten applications are not accepted unless made through the portal",
+   "Errors in the form delay processing",
+   "Check government travel advisories for Mali before booking; security conditions are serious",
+   "Be wary of agents adding large fees"
+  ],
+  "unverified": [
+   "Fee",
+   "Photo size",
+   "How early to apply",
+   "Whether a visit is needed for Indian applicants",
+   "Portal contents (needs account)"
+  ],
+  "sources": [
+   "https://maliembassy.co.in/documents-required",
+   "https://www.diplomatiemdc.gouv.ml/vitrine/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Malta",
+  "route": "embassy",
+  "summary": "Malta issues Schengen short-stay visas through its Central Visa Unit (Identita Malta). In India, applications are submitted at a VFS Global centre, the official partner of Identita Malta. Book a VFS appointment, submit documents and biometrics, then collect the passport.",
+  "applyLinks": [
+   {
+    "label": "Book a VFS appointment for Malta in India",
+    "url": "https://visa.vfsglobal.com/ind/en/mlt/book-an-appointment"
+   },
+   {
+    "label": "Identita Malta, Central Visa Unit (official visa authority)",
+    "url": "https://identita.gov.mt/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 3 months beyond planned departure from the Schengen area, issued in the last 10 years, with at least 2 blank pages (standard Schengen rule, not confirmed on an official Malta page)"
+   },
+   {
+    "item": "Schengen application form",
+    "note": "Completed and signed"
+   },
+   {
+    "item": "Photos",
+    "note": "Recent passport photos to Schengen biometric standard"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Minimum EUR 30,000 cover for the whole Schengen area"
+   },
+   {
+    "item": "Flight reservation and accommodation proof",
+    "note": "Itinerary and hotel bookings"
+   },
+   {
+    "item": "Bank statements and income proof",
+    "note": "Recent statements, ITRs, employment letter or business proof"
+   },
+   {
+    "item": "Leave letter or business registration",
+    "note": "Depending on employment status"
+   },
+   {
+    "item": "Previous Schengen visas",
+    "note": "If any"
+   }
+  ],
+  "photo": {
+   "size": "35 x 45 mm (standard Schengen)",
+   "background": "Light plain",
+   "format": "Printed",
+   "notes": "Standard Schengen specification, not read on an official Malta page",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (the Schengen visa fee is set by EU rules; plus a VFS service fee, not confirmed on an official page)",
+  "processing": "UNVERIFIED (Schengen rule is normally up to 15 calendar days, can extend to 45)",
+  "applyEarly": "UNVERIFIED (Schengen rule: up to 6 months before travel, no later than 15 days before)",
+  "biometrics": "Yes, fingerprints and photo at the VFS centre (standard Schengen rule); UNVERIFIED for Malta specifically",
+  "centres": "UNVERIFIED (VFS page loads by JavaScript and shows only Loading)",
+  "warnings": [
+   "The VFS Malta pages need JavaScript, so check the live page for the current centre list and fee.",
+   "Book the appointment only on the VFS Global domain, not through agents who charge extra.",
+   "Schengen visas are for short stays up to 90 days in 180 days; Schengen rules apply.",
+   "Insurance, funds and return flight proof are common refusal points."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Centre cities",
+   "Document checklist details",
+   "Photo specification"
+  ],
+  "sources": [
+   "https://identita.gov.mt/",
+   "https://visa.vfsglobal.com/ind/en/mlt/book-an-appointment"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Marshall Islands",
+  "route": "agency",
+  "summary": "Search results from visa agencies say Indian passport holders can get a visa on arrival for up to 90 days, with no advance application. Carry a passport valid at least 6 months, proof of funds, onward ticket and proof of trip purpose, and check with the airline before boarding. No official Marshall Islands government page confirming this was found, so confirm with the Embassy of the Marshall Islands in Washington before travel.",
+  "applyLinks": [
+   {
+    "label": "Embassy of the Marshall Islands in the USA (contact for visa confirmation)",
+    "url": "https://www.rmiembassyus.org/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months with a blank page (agency source)"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Agency source"
+   },
+   {
+    "item": "Onward or return ticket",
+    "note": "Agency source"
+   },
+   {
+    "item": "Proof of purpose of trip",
+    "note": "Hotel or invitation"
+   },
+   {
+    "item": "Documents for next destination",
+    "note": "Visa if needed"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Not found on an official page",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "On arrival (agency source, unverified)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED; no India mission known",
+  "centres": "No Marshall Islands mission in India was found; the nearest contact found is the embassy in Washington DC",
+  "warnings": [
+   "Flights are limited and usually transit Honolulu, Majuro or Guam, so check US transit visa rules for Indian passports.",
+   "Airlines may refuse boarding without proof of onward travel.",
+   "Rules are based on agency pages only; verify before booking."
+  ],
+  "unverified": [
+   "Visa on arrival rule and fee on an official page",
+   "Photo rules",
+   "Application form",
+   "Processing time"
+  ],
+  "sources": [
+   "https://www.rmiembassyus.org/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Mauritania",
+  "route": "online",
+  "summary": "Mauritania launched an e-visa in January 2025, applied for on the government ANRPTS portal before travel (30, 60 or 90 day options per a news report). Apply online, upload the documents, pay and print the approval. The portal returned a server error during checking, so details are unconfirmed.",
+  "applyLinks": [],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months with a blank page (secondary source)"
+   },
+   {
+    "item": "Digital passport photo",
+    "note": "Recent"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Secondary source"
+   },
+   {
+    "item": "Yellow fever vaccination certificate",
+    "note": "Secondary source"
+   },
+   {
+    "item": "Accommodation and return ticket",
+    "note": "Typical"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "digital upload",
+   "notes": "Not read on an official page",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED; e-visa does not need an embassy visit according to a news report",
+  "centres": "Online; no application centre in India found",
+  "warnings": [
+   "The official portal gave a server error (HTTP 500) when checked, so use only the anrpts.gov.mr domain and avoid look-alike sites.",
+   "Agency sites charge extra service fees.",
+   "Yellow fever certificate is reported as required; confirm."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Documents list",
+   "Photo rules",
+   "Eligibility and visa on arrival for Indians",
+   "No working official apply link could be confirmed. Search for the official visa page."
+  ],
+  "sources": [
+   "https://anrpts.gov.mr/visa/requestvisa",
+   "https://visasnews.com/en/mauritania-launches-electronic-visa-system"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Moldova",
+  "route": "online",
+  "summary": "Indian citizens need a visa for Moldova (India is on the official visa-required list), but holders of a valid Schengen, UK, US or Canada visa or residence permit are exempt for travel during its validity. Everyone else applies for the e-visa on the Ministry of Foreign Affairs portal, uploads documents and pays the consular fee.",
+  "applyLinks": [
+   {
+    "label": "Moldova MFA: visa types and requirements",
+    "url": "https://mfa.gov.md/en/content/types-visas-requirements"
+   },
+   {
+    "label": "Moldova MFA: visa regime by country",
+    "url": "https://mfa.gov.md/en/content/visa-regime-foreigners"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Visa application form (PDF)",
+    "url": "https://mfa.gov.md/sites/default/files/visa-application-form_0.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Issued in last 10 years, valid at least 3 months beyond departure"
+   },
+   {
+    "item": "Photo",
+    "note": "Colour, 35 x 45 mm"
+   },
+   {
+    "item": "Invitation or EU/US/UK/Canada visa",
+    "note": "Invitation from General Inspectorate for Migration if required, or valid Schengen, UK, US or Canada visa or residence permit"
+   },
+   {
+    "item": "Accommodation",
+    "note": "Hotel reservation or signed accommodation commitment from a Moldovan host"
+   },
+   {
+    "item": "Round-trip ticket reservation",
+    "note": "Required"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Bank statement issued within 10 days, EUR 30 per day, minimum EUR 300"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "At least EUR 30,000 valid across Moldova"
+   }
+  ],
+  "photo": {
+   "size": "35 x 45 mm",
+   "background": "Not stated (recent mat colour photo)",
+   "format": "Mat colour print",
+   "notes": "From the MFA tourist visa checklist",
+   "status": "verified"
+  },
+  "fee": "EUR 40 consular fee for a tourist short stay (type C) visa, per the Moldova MFA page read on 2026-10-16, plus additional fees if applicable",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED for the e-visa route",
+  "centres": "Online; no Moldovan mission in India was identified",
+  "warnings": [
+   "The e-visa site had a certificate error for script checks; if the browser warns, make sure the domain is exactly evisa.gov.md.",
+   "Beware of agency sites such as e-visa.md that are not the government portal.",
+   "Bank statement must be under 10 days old.",
+   "Valid Schengen, US, UK or Canada visa may let you skip the visa."
+  ],
+  "unverified": [
+   "Processing time",
+   "How early to apply",
+   "E-visa portal pages (certificate error)",
+   "Biometrics"
+  ],
+  "sources": [
+   "https://mfa.gov.md/en/content/types-visas-requirements",
+   "https://mfa.gov.md/en/content/visa-regime-foreigners"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Monaco",
+  "route": "embassy",
+  "summary": "Monaco has no visa of its own. Indian citizens need a Schengen visa, usually applied for through the French Embassy (France Visas) when France is the main destination or entry point. A Schengen visa from any country allows entry to Monaco with no extra formalities. Apply on France Visas, then attend a VFS or TLS appointment in India.",
+  "applyLinks": [
+   {
+    "label": "France Visas: visa for Monaco",
+    "url": "https://france-visas.gouv.fr/en/monaco"
+   },
+   {
+    "label": "French Embassy in India (visa information)",
+    "url": "https://in.ambafrance.org/"
+   },
+   {
+    "label": "Monaco embassy in India: visiting Monaco",
+    "url": "https://ambassade-en-inde.gouv.mc/en/information-and-services/visiting-monaco"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 3 months beyond planned departure from the Schengen area, issued in the last 10 years, with at least 2 blank pages (standard Schengen rule, not confirmed on an official Malta page)"
+   },
+   {
+    "item": "Schengen application form",
+    "note": "Completed and signed"
+   },
+   {
+    "item": "Photos",
+    "note": "Recent passport photos to Schengen biometric standard"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Minimum EUR 30,000 cover for the whole Schengen area"
+   },
+   {
+    "item": "Flight reservation and accommodation proof",
+    "note": "Itinerary and hotel bookings"
+   },
+   {
+    "item": "Bank statements and income proof",
+    "note": "Recent statements, ITRs, employment letter or business proof"
+   },
+   {
+    "item": "Leave letter or business registration",
+    "note": "Depending on employment status"
+   },
+   {
+    "item": "Previous Schengen visas",
+    "note": "If any"
+   }
+  ],
+  "photo": {
+   "size": "35 x 45 mm (standard Schengen)",
+   "background": "Light plain",
+   "format": "Printed",
+   "notes": "Standard Schengen specification; check France Visas",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Yes for Schengen visas (standard rule); UNVERIFIED on official page read",
+  "centres": "UNVERIFIED",
+  "warnings": [
+   "Monaco visas are Schengen visas, apply to the country of main destination or first entry.",
+   "France Visas and the Monaco embassy pages block automated checks, so details were not read.",
+   "Use official domains only and avoid agents with high fees.",
+   "Insurance and proof of funds are common refusal points."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Centres",
+   "Document list",
+   "Photo"
+  ],
+  "sources": [
+   "https://ambassade-en-france.gouv.mc/en/information-and-services/visiting-monaco",
+   "https://france-visas.gouv.fr/en/monaco"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
  }
 ]
