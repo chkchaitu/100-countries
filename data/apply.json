@@ -6878,5 +6878,1784 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin"
+ },
+ {
+  "country": "Chad",
+  "route": "online",
+  "summary": "Chad now issues visas only through its official e-visa platform. Start an application on evisa.td with your email and passport number, fill in the form, upload the documents, pay online, then track the application. Indian citizens are not on the visa-exempt list shown on the site, so a visa is needed.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Chad e-visa (official platform)",
+    "url": "https://evisa.td/"
+   },
+   {
+    "label": "Log in to continue or track an application",
+    "url": "https://evisa.td/applicants/login"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport bio page scan (colour, PDF or JPEG)",
+    "note": "Validity requirement not stated on the page read"
+   },
+   {
+    "item": "Visa-type photo, recent, colour (JPEG or PDF)",
+    "note": "Uploaded online"
+   },
+   {
+    "item": "Flight ticket (outbound and/or return)",
+    "note": "Listed for the application"
+   },
+   {
+    "item": "Hotel booking or accommodation certificate (PDF)",
+    "note": "Listed"
+   },
+   {
+    "item": "Proof of funds or income (bank statements)",
+    "note": "Listed"
+   },
+   {
+    "item": "Notarised invitation letter",
+    "note": "Only for visits on invitation"
+   },
+   {
+    "item": "Employment contract or mission order, company documents",
+    "note": "Mainly for business or work categories"
+   },
+   {
+    "item": "Yellow fever vaccination certificate",
+    "note": "Carry it for immigration checks on arrival"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "JPEG or PDF upload",
+   "notes": "Page only says recent colour visa-type photo",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (a new fee schedule was announced on 11 May 2026 but the amounts were not on the page read; the fee is paid online)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "Apply at least 7 days before entry and no more than 90 days before entry (official FAQ).",
+  "biometrics": "No embassy visit; the application is entirely online per the official portal.",
+  "centres": "Not applicable (online only).",
+  "warnings": [
+   "Since 11 May 2026 the official notice says visas issued outside evisa.td are invalid after 21 May 2026 and manual entry authorisations are abolished.",
+   "The e-visa cannot be edited after issue and fees are not refundable, so check every field before paying.",
+   "Carry your yellow fever certificate.",
+   "Use only evisa.td; third-party sites charge extra."
+  ],
+  "unverified": [
+   "Fee amount for Indian citizens",
+   "Processing time",
+   "Photo size and background",
+   "Passport validity rule",
+   "Stay length"
+  ],
+  "sources": [
+   "https://evisa.td/",
+   "https://evisa.td/articles/8/nouvelles-tarifications-des-visas-en-republique-du-tchad"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Comoros",
+  "route": "mixed",
+  "summary": "Comoros has no official online portal that could be verified. Indian travellers are reported to get a visa on arrival at Moroni airport (about 45 days), but this comes only from secondary sources. Check with a Comoros mission before travel.",
+  "applyLinks": [
+   {
+    "label": "Comoros UN mission page on passports and visas (official, check fee and contacts)",
+    "url": "http://www.un.int/comoros/comoros/passport-and-visa-process"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport valid 6 months and with blank pages",
+    "note": "Typical rule, not confirmed on an official page"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Typically asked on arrival"
+   },
+   {
+    "item": "Accommodation proof",
+    "note": "Typically asked on arrival"
+   },
+   {
+    "item": "Photos",
+    "note": "Sometimes requested"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Sometimes required depending on travel route"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "No official specification found",
+   "status": "unverified"
+  },
+  "fee": "Official UN mission page lists a visa on the spot for 45 days at 60 euros (page undated); agents quote other amounts. Treat as UNVERIFIED for 2026.",
+  "processing": "On arrival (secondary sources); UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "None before travel if visa is obtained on arrival; UNVERIFIED.",
+  "centres": "No known mission in India; UNVERIFIED. Entry point is Prince Said Ibrahim airport, Moroni.",
+  "warnings": [
+   "Rules come from agent sites, so confirm before booking flights.",
+   "Have cash for the arrival fee.",
+   "Many agent pages sell an approval letter that may not be needed.",
+   "No Indian-based issuing office was found."
+  ],
+  "unverified": [
+   "Whether Indian passport holders get a visa on arrival in 2026",
+   "Fee in force",
+   "Any official e-visa portal",
+   "Documents list",
+   "Mission covering India"
+  ],
+  "sources": [
+   "http://www.un.int/comoros/comoros/passport-and-visa-process"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Congo",
+  "route": "embassy",
+  "summary": "This entry is the Republic of the Congo (Brazzaville). The Embassy of the Republic of Congo is in Vasant Vihar, New Delhi, and is the practical route for an Indian resident. An e-visa site (republic-congo.com) appeared in search, but it blocked automated checks and its official status could not be confirmed, so verify before paying. Contact the embassy first.",
+  "applyLinks": [
+   {
+    "label": "Embassy of the Republic of Congo in New Delhi, contact details (official listing)",
+    "url": "https://www.ambacongo-us.org/en/about-congo/embassies-abroad"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport valid at least 6 months",
+    "note": "Stated on the e-visa application page seen in search"
+   },
+   {
+    "item": "Completed visa application form",
+    "note": "Form in English or French, capital letters"
+   },
+   {
+    "item": "Passport-size photo",
+    "note": "Required"
+   },
+   {
+    "item": "Hotel booking, return ticket",
+    "note": "Typical, not confirmed"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Typical, not confirmed"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Only 'passport size' seen",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED; ask the embassy.",
+  "centres": "New Delhi (embassy, B 8/9 Vasant Vihar). No visa centre known.",
+  "warnings": [
+   "Official status of republic-congo.com is unconfirmed; a news report says the government e-visa was still marked coming soon.",
+   "Do not confuse with the Democratic Republic of the Congo, which has a separate embassy and e-visa.",
+   "Confirm fees by email or phone with the embassy before paying anyone.",
+   "Embassy details come from a Congo embassy in the US listing."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing",
+   "Photo specs",
+   "Whether e-visa is live and official",
+   "Embassy visa page"
+  ],
+  "sources": [
+   "https://www.ambacongo-us.org/en/about-congo/embassies-abroad"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Costa Rica",
+  "route": "embassy",
+  "summary": "Indian citizens need a consular visa for Costa Rica. Apply through the Embassy of Costa Rica in New Delhi (Vasant Vihar), by contacting them first for the current checklist and appointment. A multiple-entry US or Canada visa, or a US, Canada or EU residence card, removes the need for a Costa Rica visa.",
+  "applyLinks": [
+   {
+    "label": "Costa Rica foreign ministry page for its Embassy in India",
+    "url": "https://www.rree.go.cr/?sec=misiones&cat=deCR&cont=525&id=174&pais=IN"
+   },
+   {
+    "label": "Indian Embassy Panama advisory on Costa Rica visa rules for Indians",
+    "url": "https://indianembassypanama.gov.in/eoipa_pages/MzEz"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport valid at least 6 months",
+    "note": "Typical consular requirement, not on an official page read"
+   },
+   {
+    "item": "Visa application form",
+    "note": "From the consulate"
+   },
+   {
+    "item": "Return or onward ticket, accommodation, bank statements",
+    "note": "Typical, confirm with the embassy"
+   },
+   {
+    "item": "Multiple-entry US (B1/B2, valid 6 months) or Canada visa, or US/Canada/EU residence card",
+    "note": "If held, no Costa Rica visa is needed (Indian Embassy Panama advisory)"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Ask the embassy",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED; submission is in person at the embassy per consular rules elsewhere.",
+  "centres": "New Delhi only (Embassy of Costa Rica, F 9/2 Vasant Vihar).",
+  "warnings": [
+   "The ministry page blocks automated checks, so details were not read.",
+   "Check the US/Canada exemption conditions and airline requirements before travel.",
+   "Agent sites quote fees that are not confirmed officially.",
+   "Embassy phone and email were seen only in search snippets and not opened."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo specs",
+   "Biometrics",
+   "Full document list",
+   "Appointment method"
+  ],
+  "sources": [
+   "https://indianembassypanama.gov.in/eoipa_pages/MzEz"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Croatia",
+  "route": "agency",
+  "summary": "Croatia is in the Schengen area, so Indians apply for a Schengen short-stay (C) visa. Fill in the online form at crovisa.mvep.hr, print it, then book a VFS Global appointment for Croatia in India and submit in person with documents and fingerprints. Apply no earlier than six months and normally no later than 15 days before the trip.",
+  "applyLinks": [
+   {
+    "label": "Book a VFS appointment for Croatia in India",
+    "url": "https://visa.vfsglobal.com/ind/en/hrv/book-an-appointment"
+   },
+   {
+    "label": "Fill in the online Croatian visa application form",
+    "url": "https://crovisa.mvep.hr/"
+   },
+   {
+    "label": "Croatian foreign ministry: applying for a Schengen visa",
+    "url": "https://mvep.gov.hr/consular-information-22850/consular-information-22802/visas-22807/issuance-procedure/applying-for-a-schengen-visa-for-croatia/262010"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Online application form (fill, then print)",
+    "url": "https://crovisa.mvep.hr/"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Printed signed Schengen application form",
+    "note": "Completed on crovisa.mvep.hr"
+   },
+   {
+    "item": "Passport",
+    "note": "Validity and blank pages per Schengen rules; confirm on VFS checklist"
+   },
+   {
+    "item": "Photograph",
+    "note": "Required"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Required for Schengen"
+   },
+   {
+    "item": "Flights, accommodation, funds, employment proof",
+    "note": "Typical supporting documents, see VFS checklist"
+   },
+   {
+    "item": "Fingerprints",
+    "note": "Given at the centre for the VIS"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Ministry page only says photograph required",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (fees page not opened; VFS service charge is separate)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "No more than 6 months before the trip, and as a rule no later than 15 calendar days before it (Croatian ministry).",
+  "biometrics": "Yes. Submit in person and give fingerprints for the Visa Information System.",
+  "centres": "Delhi confirmed on the VFS page snippet; the VFS helpline is a Mumbai number. Other cities UNVERIFIED.",
+  "warnings": [
+   "Apply at Croatia only if it is your main destination; otherwise apply to the main-destination country.",
+   "The VFS page loads by script and could not be read in full.",
+   "VFS charges a separate service fee.",
+   "Other Schengen countries follow the same rules but use their own missions."
+  ],
+  "unverified": [
+   "Visa fee",
+   "Processing time",
+   "Photo specs",
+   "List of Indian VFS cities",
+   "Passport validity details"
+  ],
+  "sources": [
+   "https://mvep.gov.hr/consular-information-22850/consular-information-22802/visas-22807/issuance-procedure/applying-for-a-schengen-visa-for-croatia/262010",
+   "https://visa.vfsglobal.com/ind/en/hrv",
+   "https://crovisa.mvep.hr/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Cuba",
+  "route": "mixed",
+  "summary": "Per the Cuban Embassy in New Delhi, Indian citizens apply for a single-entry E-Tourist visa online at evisacuba.cu and pay 4,500 INR by bank transfer to the embassy's SBI account; no documents are uploaded. Alternatively, email consular@in.embacuba.cu for an appointment and apply in person at the embassy in New Delhi with the form and documents, paying only after approval. Check the embassy procedure document first because fees and steps are set by the embassy.",
+  "applyLinks": [
+   {
+    "label": "Embassy of Cuba in India: consular services",
+    "url": "https://misiones.cubaminrex.cu/en/india/consular-services"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid passport. Exact blank-page and validity rule not stated on the embassy page."
+   },
+   {
+    "item": "Visa application form and one passport photo",
+    "note": "Only for the in-person embassy route. Not needed for the e-visa."
+   },
+   {
+    "item": "Hotel or authorised rented house booking",
+    "note": "Confirmed for at least 3 days. Embassy route only."
+   },
+   {
+    "item": "Return e-ticket",
+    "note": "Round trip from India and back to India. Embassy route only."
+   },
+   {
+    "item": "Notarised affidavit",
+    "note": "States the visit is for tourism only. Embassy route only."
+   },
+   {
+    "item": "Bank statement",
+    "note": "Shows enough funds for the stay. Embassy route only."
+   },
+   {
+    "item": "Travel health insurance",
+    "note": "Often checked on arrival in Cuba. Not stated on the embassy page, so UNVERIFIED."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Embassy route asks for one passport photo; no specification found on the pages opened.",
+   "status": "unverified"
+  },
+  "fee": "E-Tourist visa 4,500 INR by bank transfer (embassy procedure document, read 2026-10-16). Embassy-counter tourist visa 4,950 INR if the applicant comes personally, 7,200 INR if submitted via a third party (same document). The consular fees PDF showed text 'Tourist ... 2250.00' that could not be read cleanly, so treat the PDF as unconfirmed.",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED. The e-tourist visa is single entry for a 90-day stay, extendable by 90 days in Cuba.",
+  "biometrics": "None stated for the e-visa. Embassy route: visit the consulate in New Delhi, open Monday to Thursday 9 am to 1 pm, after booking by email.",
+  "centres": "New Delhi only (Embassy of Cuba, consular section). No visa centre found.",
+  "warnings": [
+   "Pay the embassy only to the bank account named on the embassy's own page; many unofficial sites sell Cuba tourist cards at higher prices.",
+   "For the in-person route, pay only after the consulate approves the visa.",
+   "Travelling via a third party costs more (7,200 INR instead of 4,950 INR for the counter route).",
+   "Check the D'Viajeros online entry form requirement before flying (not confirmed on an official page)."
+  ],
+  "unverified": [
+   "evisacuba.cu did not resolve from our server, so the online portal link is only given in text from the embassy document",
+   "Photo specification",
+   "Processing time",
+   "Passport validity rule",
+   "Insurance and D'Viajeros requirements",
+   "Whether the 4,500 INR e-visa fee is the current figure on the portal itself",
+   "These official pages could not be tested by an automatic check from our server, though a researcher opened them. Open them to confirm."
+  ],
+  "sources": [
+   "https://misiones.cubaminrex.cu/en/india",
+   "https://misiones.cubaminrex.cu/en/india/consular-services",
+   "https://misiones.cubaminrex.cu/sites/default/files/formularios/editorindia/procedure_for_visa_applications_0.docx"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Cyprus",
+  "route": "agency",
+  "summary": "Indian citizens need a short-stay visa unless they hold a valid multiple-entry Schengen visa. Book an appointment at a Cyprus visa application centre run by VFS Global (the page lists Ahmedabad, Bengaluru, Chandigarh, Chennai, Cochin, Goa, Gurugram, Hyderabad, Jaipur, Jalandhar, Kolkata, Mumbai, Puducherry and Pune), submit the form and documents, and pay the visa fee plus VFS fee. VFS forwards the file to the Cyprus High Commission in New Delhi.",
+  "applyLinks": [
+   {
+    "label": "Cyprus visa information and appointments for India (VFS Global)",
+    "url": "https://visa.vfsglobal.com/one-pager/cyprus/india/english/index.html"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Original plus photocopy and old passports if any. Valid at least 3 months after the visa expires; 6 months from entry is advised."
+   },
+   {
+    "item": "Application form",
+    "note": "Completed and signed. Link to the form sits in the Download Forms section of the VFS page."
+   },
+   {
+    "item": "Two passport photos",
+    "note": "Signed on the back, not older than 6 months."
+   },
+   {
+    "item": "Cover letter and employment letter",
+    "note": "Employer letter dated within one month, with salary details; self-employed and students have alternatives."
+   },
+   {
+    "item": "Flight itinerary",
+    "note": "Two-way. Do not buy tickets before the visa is issued."
+   },
+   {
+    "item": "Accommodation proof",
+    "note": "Hotel booking, or host details and sponsorship for family visits."
+   },
+   {
+    "item": "Bank statements",
+    "note": "Original, last 3 months, stamped and signed."
+   },
+   {
+    "item": "Tax declarations",
+    "note": "Photocopy for the last three years."
+   },
+   {
+    "item": "Medical travel insurance",
+    "note": "At least EUR 30,000 cover for the whole stay."
+   },
+   {
+    "item": "Invitation letter, bank guarantee and notarised assumption of responsibility",
+    "note": "Only for business trips or visiting family and friends."
+   },
+   {
+    "item": "Parent consent or affidavit",
+    "note": "Only for applicants under 18."
+   }
+  ],
+  "photo": {
+   "size": "35 mm x 45 mm",
+   "background": "Plain, light, evenly lit (one section says white)",
+   "format": "2 printed colour photos, face 70 to 80 percent of the height, no glasses, no headgear except religious",
+   "notes": "One VFS section also says 35 mm x 40 mm; use 35 x 45 mm.",
+   "status": "verified"
+  },
+  "fee": "EUR 90 (INR 9,900) for the short-stay visa (Category C); child 6 to 11: EUR 45 (INR 5,000); plus VFS service fee INR 633 including GST (VFS India page, read 2026-10-16). Not refunded if refused.",
+  "processing": "10 to 15 working days at the High Commission, sometimes longer. VFS submits the file to New Delhi on the third working day.",
+  "applyEarly": "UNVERIFIED. Do not buy flight tickets before the visa is issued.",
+  "biometrics": "UNVERIFIED on the page read. Submission is in person at a VFS centre.",
+  "centres": "Ahmedabad, Bengaluru, Chandigarh, Chennai, Cochin, Goa, Gurugram, Hyderabad, Jaipur, Jalandhar, Kolkata, Mumbai, Puducherry, Pune (VFS page). The High Commission is in New Delhi.",
+  "warnings": [
+   "Applicants with a valid multiple-entry Schengen visa can enter Cyprus without a visa (VFS page).",
+   "The visa does not guarantee entry; airport immigration can still refuse.",
+   "Stays in the north of the island, in properties not recognised by Cyprus, can lead to refusal; keep accommodation in the Republic of Cyprus.",
+   "The bank may need to confirm statements with the High Commission; tell your bank."
+  ],
+  "unverified": [
+   "Cyprus Foreign Ministry pages (gov.cy/mfa) blocked automated checks with 403",
+   "Appointment booking step on the VFS portal",
+   "Biometrics rule",
+   "How early you may apply"
+  ],
+  "sources": [
+   "https://visa.vfsglobal.com/one-pager/cyprus/india/english/index.html"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
+ },
+ {
+  "country": "Côte d'Ivoire",
+  "route": "online",
+  "summary": "Apply for the e-visa on the official SNEDAI site (snedai.com), which the Ivorian government names as the only approved site: fill in the pre-enrolment, upload your passport pages, return flight booking and invitation letter or accommodation certificate, and pay. You receive an approval document by email, which you carry to Abidjan airport, where you give fingerprints and a photo at the visa desk and the visa is printed on the spot.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Côte d'Ivoire e-visa (SNEDAI)",
+    "url": "https://snedai.com/e-visa"
+   },
+   {
+    "label": "Embassy of Côte d'Ivoire in the UK: visa page that points to SNEDAI",
+    "url": "https://royaumeuni.diplomatie.gouv.ci/visa.php?lang=en"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Ordinary passport valid at least 6 months before the application date (SNEDAI page)."
+   },
+   {
+    "item": "Passport identity page scan",
+    "note": "Uploaded at pre-enrolment."
+   },
+   {
+    "item": "Return flight booking",
+    "note": "Uploaded at pre-enrolment."
+   },
+   {
+    "item": "Invitation letter or accommodation certificate",
+    "note": "Uploaded at pre-enrolment; model documents are linked on the page."
+   },
+   {
+    "item": "Payment receipt",
+    "note": "Print the original receipt for the visa fee."
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Usually checked on arrival. Not read on the SNEDAI page, so UNVERIFIED."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Photo and fingerprints are taken at the airport visa desk on arrival.",
+   "status": "unverified"
+  },
+  "fee": "EUR 73 including bank fees for a 3-month multiple-entry visa (SNEDAI e-visa page, read 2026-10-16). Not refunded if refused.",
+  "processing": "Reply by email within about 48 working hours; checks can take longer.",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Yes, on arrival: fingerprints and photo at the airport visa desk in Abidjan, open 24/7 (SNEDAI page). No visit in India.",
+  "centres": "No application centre in India; the process is online. The e-visa is collected at the airport on arrival.",
+  "warnings": [
+   "Use only snedai.com; the government says other sites are not approved.",
+   "Approval can be refused with no refund of the fee.",
+   "Print the approval document with its barcode and carry it on the flight.",
+   "Many lookalike agent sites charge far more than EUR 73."
+  ],
+  "unverified": [
+   "Photo specification",
+   "How early to apply",
+   "Yellow fever certificate rule",
+   "Whether any Indian-specific rule or fee applies",
+   "ivoirevisa.ci did not resolve"
+  ],
+  "sources": [
+   "https://snedai.com/e-visa",
+   "https://royaumeuni.diplomatie.gouv.ci/visa.php?lang=en"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Democratic Republic of the Congo",
+  "route": "online",
+  "summary": "The DRC government runs an official e-visa portal at evisa.gouv.cd. Create the application there, upload documents and pay online; the approval comes by email. The portal page needs JavaScript, so fee, document list and photo rules could not be read and are marked UNVERIFIED.",
+  "applyLinks": [
+   {
+    "label": "Apply on the DRC government e-visa portal",
+    "url": "https://evisa.gouv.cd/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Typically valid 6 months or more. UNVERIFIED on the portal."
+   },
+   {
+    "item": "Passport photo and passport scan",
+    "note": "UNVERIFIED on the portal."
+   },
+   {
+    "item": "Accommodation booking or invitation",
+    "note": "UNVERIFIED on the portal."
+   },
+   {
+    "item": "Return flight booking",
+    "note": "UNVERIFIED on the portal."
+   },
+   {
+    "item": "Yellow fever vaccination certificate",
+    "note": "Commonly required for DRC; UNVERIFIED on an official page."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Portal is JavaScript based and did not show text to our tools.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED. A secondary source (Wikipedia, via search) says the e-visa costs about USD 300 online plus USD 90 at the point of entry, for up to 7 days. Not confirmed on an official page.",
+  "processing": "UNVERIFIED. Secondary source says about 72 hours.",
+  "applyEarly": "UNVERIFIED. Secondary source says the e-visa must be used within 3 months of issue.",
+  "biometrics": "UNVERIFIED",
+  "centres": "UNVERIFIED. No visa centre for the DRC in India was found.",
+  "warnings": [
+   "Check the fee and entry rules on evisa.gouv.cd itself before paying; secondary sites quote very different prices.",
+   "A second payment may be asked at the point of entry per a secondary source; confirm this.",
+   "Use only the evisa.gouv.cd domain.",
+   "Rules for eastern provinces and security advisories change often; check your government travel advice."
+  ],
+  "unverified": [
+   "Fee",
+   "Documents",
+   "Photo rules",
+   "Processing time",
+   "Biometrics",
+   "Any Indian-specific rule",
+   "Portal pages other than the landing page returned no readable text"
+  ],
+  "sources": [
+   "https://evisa.gouv.cd/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Djibouti",
+  "route": "online",
+  "summary": "Apply for the eVisa on the Djibouti government electronic visa platform (evisa.gouv.dj): fill in the form, upload documents, pay online, and receive the approved eVisa by email. Print it and carry it with your passport. The eVisa covers tourism, business and transit only.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Djibouti eVisa (official platform)",
+    "url": "https://www.evisa.gouv.dj/applicant-api"
+   },
+   {
+    "label": "Djibouti e-government page about the eVisa",
+    "url": "https://www.egouv.dj/sousmenu/sousmenu_selected_article/162/12/1"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months (official platform search snippet)."
+   },
+   {
+    "item": "Flight reservation",
+    "note": "Named in the platform snippet; the full list could not be read."
+   },
+   {
+    "item": "Passport photo",
+    "note": "UNVERIFIED on an official page."
+   },
+   {
+    "item": "Accommodation booking",
+    "note": "UNVERIFIED on an official page."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Platform is JavaScript based and showed no text to our tools.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED on an official page. Secondary aggregator listings show roughly USD 30 to 60 government fee; do not rely on them.",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED. The e-government page does not mention a visit.",
+  "centres": "UNVERIFIED. No visa centre in India found.",
+  "warnings": [
+   "The eVisa does not guarantee entry; border officers can refuse in rare cases (e-government page).",
+   "Print the eVisa and keep it with the passport at all times in Djibouti.",
+   "Work and study need a traditional visa from an embassy, not the eVisa.",
+   "Check the fee on the platform itself before paying; third-party sites add large service fees."
+  ],
+  "unverified": [
+   "Fee",
+   "Full document list",
+   "Photo rules",
+   "Processing time",
+   "How early to apply",
+   "Biometrics",
+   "Platform pages returned only a script shell"
+  ],
+  "sources": [
+   "https://www.egouv.dj/sousmenu/sousmenu_selected_article/162/12/1",
+   "https://www.evisa.gouv.dj/applicant-api"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Dominican Rep.",
+  "route": "mixed",
+  "summary": "Indians need a tourist visa unless they hold a valid multiple entry visa for the USA, Canada, UK or Schengen, in which case a tourist card is issued on arrival. Check the checklist on the Embassy of the Dominican Republic visa page, fill in the visa form, and submit through the embassy in New Delhi (its page says it works with VFS Global and Atlys India). The embassy approves the file and forwards it to the Dominican Ministry of Foreign Affairs for the final decision.",
+  "applyLinks": [
+   {
+    "label": "Dominican Embassy in India: visa page with checklist, fee and how to apply",
+    "url": "https://www.dominicanembassy.in/visas"
+   },
+   {
+    "label": "Dominican Embassy in India: consular FAQ",
+    "url": "https://www.dominicanembassy.in/consularfaq"
+   },
+   {
+    "label": "Atlys page for the Dominican Republic visa (private partner named on the embassy page)",
+    "url": "https://www.atlys.com/en-IN/visa/dominican-republic-visa"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Download the visa application form (PDF, English)",
+    "url": "https://www.dominicanembassy.in/s/Visa-Form-english.pdf"
+   },
+   {
+    "label": "Photo specification (PDF from the embassy)",
+    "url": "https://www.dominicanembassy.in/s/Photo-specification-fnjj.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Original passport",
+    "note": "Minimum validity 6 months, plus a colour copy of the bio data page and copies of valid and expired visas if available"
+   },
+   {
+    "item": "Visa application form",
+    "note": "Filled in and signed"
+   },
+   {
+    "item": "One passport photo",
+    "note": "White background, 4 by 5 cm as written on the embassy page, high resolution JPG digital file also required"
+   },
+   {
+    "item": "Police Clearance Certificate",
+    "note": "Not older than one year, issued by the Ministry of External Affairs and apostilled for Indians, with a certified Spanish translation"
+   },
+   {
+    "item": "Signed cover letter explaining the purpose of travel",
+    "note": "Original with a certified Spanish translation"
+   },
+   {
+    "item": "Bank statements for the last 3 months",
+    "note": "Must show enough funds for the trip; the business checklist also asks for a bank reference letter with Spanish translation"
+   },
+   {
+    "item": "Travel itinerary and hotel reservation",
+    "note": "The FAQ says an itinerary from a travel agent is enough and no air ticket is needed; do not buy non-refundable tickets before approval"
+   },
+   {
+    "item": "Invitation letter or guarantor documents",
+    "note": "Only when staying with a host or invited; letter in Spanish, notarised and legalised in the Dominican Republic"
+   },
+   {
+    "item": "Online entry and exit digital form",
+    "note": "The embassy page says a digital form (eTicket) is needed to enter or leave the country"
+   }
+  ],
+  "photo": {
+   "size": "4 x 5 cm (as written on the embassy page; the embassy also links a photo specification PDF that could not be read as text)",
+   "background": "White",
+   "format": "High resolution JPG digital file",
+   "notes": "Printed photo is pasted on the form according to the older checklist",
+   "status": "unverified"
+  },
+  "fee": "Tourism visa, single entry: US$100 (INR 8400) per the embassy visa page read on 2026-10-16. Embassy FAQ says payment is only by bank transfer to the embassy account; partner service charges may be extra.",
+  "processing": "Embassy visa page says 21 working days; the embassy FAQ says 7 to 10 working days for Ministry approval. The two pages disagree, so plan for the longer time.",
+  "applyEarly": "UNVERIFIED. Allow at least 4 to 6 weeks and do not book non-refundable tickets before approval.",
+  "biometrics": "The FAQ says applications are submitted in person at the embassy in New Delhi, or scanned by email, or filed by a travel agent or representative. Courier is not accepted. Fingerprints not mentioned.",
+  "centres": "New Delhi (Embassy, B-1/20 Vasant Vihar). The visa page also mentions VFS Global and Atlys India as partners but no VFS city list was found.",
+  "warnings": [
+   "Having all documents does not mean approval; the Ministry in Santo Domingo decides, so avoid non-refundable bookings.",
+   "The police clearance certificate must be apostilled and translated into Spanish, which takes extra time.",
+   "The visa page and FAQ give different passport validity and processing times, so confirm with the embassy by email before submitting.",
+   "Holders of a valid multiple entry visa for USA, Canada, UK or Schengen can get a tourist card on arrival and skip this visa."
+  ],
+  "unverified": [
+   "VFS Global India page for the Dominican Republic (the guessed URL returned 404, so it is not linked)",
+   "Photo specification PDF contents (image based)",
+   "Exact application lead time",
+   "Whether VFS or the embassy handles the paper submission in practice",
+   "eTicket portal (eticket.migracion.gob.do) blocks automated checks"
+  ],
+  "sources": [
+   "https://www.dominicanembassy.in/visas",
+   "https://www.dominicanembassy.in/consularfaq",
+   "https://www.godominicanrepublic.com/travel/entry-requirements"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
+ },
+ {
+  "country": "Ecuador",
+  "route": "online",
+  "summary": "Indian citizens need a visa before travelling to Ecuador, and the application is made only online through the e-VISAS platform of the Ministry of Foreign Affairs and Human Mobility. Register on the platform, choose New Visa, then Temporary Visitor Tourist 90 days, upload the documents and pay the application fee, then pay the visa fee if approved. The official procedure page is on gob.ec.",
+  "applyLinks": [
+   {
+    "label": "Ecuador Foreign Ministry visas page",
+    "url": "https://www.cancilleria.gob.ec/2020/04/14/visas/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months"
+   },
+   {
+    "item": "Visa application form",
+    "note": "Completed on the e-VISAS platform"
+   },
+   {
+    "item": "Passport photo",
+    "note": "Colour, JPG, maximum 1 MB, 5 x 5 cm, white background, both eyes open"
+   },
+   {
+    "item": "Travel itinerary and outbound and return tickets",
+    "note": "Listed for the tourist extension procedure; check the main procedure page"
+   },
+   {
+    "item": "Proof of lawful means of living",
+    "note": "Bank statements for the last 3 months; an older mission page asked for at least USD 1,380 for a 90 day stay, current amount not confirmed"
+   },
+   {
+    "item": "Police record from country of origin or residence",
+    "note": "Older Ecuador consulate pages list it apostilled and translated; sometimes required, confirm on the portal"
+   }
+  ],
+  "photo": {
+   "size": "5 x 5 cm (2 x 2 inches)",
+   "background": "White",
+   "format": "JPG, maximum 1 MB",
+   "notes": "Updated colour photo, neutral expression or natural smile, both eyes open",
+   "status": "verified"
+  },
+  "fee": "Application USD 50 plus USD 30 if the visa is granted, no VAT, per the official gob.ec procedure page (search result, 2026-10-16).",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED. The gob.ec page says the procedure is online only. Some consulates ask for an appointment, so check the portal.",
+  "centres": "Not applicable for the online route. The Ecuador embassy is in New Delhi (Vasant Vihar) but its visa page was not readable.",
+  "warnings": [
+   "India is on Ecuador's special regime list, so a visa is needed before travel.",
+   "Tourist stay is up to 90 days within one year and can be extended once by 90 days.",
+   "Documents such as police records may need apostille and Spanish translation, which takes time.",
+   "Use only the government platform; private sites charge extra service fees."
+  ],
+  "unverified": [
+   "Direct URL of the e-VISAS platform (could not be opened, so not linked; use the link on the gob.ec page)",
+   "Processing time",
+   "Current required bank balance",
+   "Whether police clearance is needed for tourists",
+   "Whether the gob.ec page loads from every network (it timed out from our server)"
+  ],
+  "sources": [
+   "https://www.cancilleria.gob.ec/washington/visas-espanol-english",
+   "https://www.cancilleria.gob.ec/2020/04/14/visas/",
+   "https://www.gob.ec/mremh/tramites/concesion-visa-visitante-temporal-turista-90-dias"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "El Salvador",
+  "route": "embassy",
+  "summary": "The official position for Indian passport holders could not be confirmed. Secondary sites disagree, some saying visa exempt for a short stay, others saying a visa is required, and the Salvadoran immigration list of countries needing a visa could not be read. Check the official list and form F46 (visa consultada) on the Migration site, and ask a Salvadoran mission before booking. Holders of a valid US visa generally enter the CA-4 zone (Guatemala, Honduras, El Salvador, Nicaragua) under common rules, but that was only seen in a travel magazine.",
+  "applyLinks": [
+   {
+    "label": "El Salvador Migration: list of countries that need a visa",
+    "url": "https://www.migracion.gob.sv/servicios/listado-visa/"
+   },
+   {
+    "label": "El Salvador Migration: visas and extensions (forms F44 to F54)",
+    "url": "https://www.migracion.gob.sv/servicios/visas-prorrogas/"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "El Salvador Migration downloads page (forms)",
+    "url": "https://www.migracion.gob.sv/descargas/"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid 6 months with a blank page, per secondary sources"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Secondary sources"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Secondary sources"
+   },
+   {
+    "item": "Visa application form F46 (Visa Consultada)",
+    "note": "Only if a visa is required for your nationality; confirm"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "UNVERIFIED. No Salvadoran embassy in India was found in the sources read; the mission covering India is UNVERIFIED.",
+  "warnings": [
+   "Sources conflict on whether Indians need a visa, so do not rely on aggregators.",
+   "Confirm with the Salvadoran immigration office or a mission before buying tickets.",
+   "Treat any site charging high service fees with caution."
+  ],
+  "unverified": [
+   "Whether Indian citizens need a visa",
+   "Mission covering India and its visa page",
+   "Fee, photo, processing time",
+   "The downloadable list PDF itself (page read, file link not extracted)",
+   "rree.gob.sv blocks automated checks"
+  ],
+  "sources": [
+   "https://www.migracion.gob.sv/servicios/listado-visa/",
+   "https://www.migracion.gob.sv/servicios/visas-prorrogas/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Equatorial Guinea",
+  "route": "online",
+  "summary": "Visitors apply for a single entry tourist e-visa on the official Equatorial Guinea eVisa website: fill in the details, upload documents, pay online and download the e-visa receipt. Approval is reported to take 24 to 72 hours. The portal currently only enables Malabo International Airport as entry point.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Equatorial Guinea e-visa (official portal)",
+    "url": "https://equatorialguinea-evisa.com/index.html"
+   },
+   {
+    "label": "How to apply (official portal)",
+    "url": "https://equatorialguinea-evisa.com/how-to-apply"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Typically valid 6 months, not confirmed on the portal"
+   },
+   {
+    "item": "Passport photo",
+    "note": "Uploaded online, specification not confirmed"
+   },
+   {
+    "item": "Passport bio data page scan",
+    "note": "Typical, not confirmed"
+   },
+   {
+    "item": "Accommodation and return ticket",
+    "note": "Typical, not confirmed"
+   },
+   {
+    "item": "Yellow fever vaccination certificate",
+    "note": "Often asked on arrival; not confirmed here"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED on the portal. A law firm alert (Fragomen, June 2023) states USD 75 government fee; aggregator sites add service fees.",
+  "processing": "Fragomen says confirmation by email within 72 hours; unconfirmed on the portal.",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "No in-person step described for the e-visa route; UNVERIFIED.",
+  "centres": "Not applicable for the online route.",
+  "warnings": [
+   "Only Malabo International Airport is enabled as entry point for the e-visa per the portal.",
+   "Carry a printed copy of the e-visa.",
+   "The portal pages load by JavaScript, so details could not be read; check the site yourself.",
+   "Beware of lookalike agent sites that charge extra."
+  ],
+  "unverified": [
+   "Fee on the portal",
+   "Documents list",
+   "Photo rules",
+   "Processing time on portal",
+   "Validity and stay length"
+  ],
+  "sources": [
+   "https://equatorialguinea-evisa.com/index.html",
+   "https://equatorialguinea-evisa.com/how-to-apply",
+   "https://www.fragomen.com/insights/equatorial-guinea-e-visa-portal-to-be-operational-in-july.html"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Eritrea",
+  "route": "embassy",
+  "summary": "Eritrea has no e-visa for Indians; the visa is handled by the Embassy of Eritrea in New Delhi (Vasant Vihar). A travel agency page says the embassy is not issuing tourist visas at present, so confirm by email or phone first. If it accepts applications, the Eritrean embassy form B62.3 and the usual passport, photo, accommodation and funds documents are submitted in person.",
+  "applyLinks": [
+   {
+    "label": "Eritrean Embassy visa page (US embassy, shows the standard visa rules and form)",
+    "url": "https://us.embassyeritrea.org/visa"
+   },
+   {
+    "label": "Travel agency note on Eritrea Embassy New Delhi (secondary source, says tourist visas not issued)",
+    "url": "https://www.sticholidays.com/sticholidays/packages/visa-info.php?pkgID=828"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Eritrea visa application form B62.3 (PDF, from the Eritrean embassy in the US)",
+    "url": "https://us.embassyeritrea.org/wp-content/uploads/2020/06/Eritrean_Visa_Application_.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid 6 months beyond the trip dates"
+   },
+   {
+    "item": "Visa application form B62.3",
+    "note": "Completed and signed"
+   },
+   {
+    "item": "Passport photo",
+    "note": "The US embassy page states 35 x 45 mm; the New Delhi embassy rule is UNVERIFIED"
+   },
+   {
+    "item": "Letter stating purpose and duration of the trip",
+    "note": "Listed on the US embassy page"
+   },
+   {
+    "item": "Proof of sufficient funds and accommodation or host letter",
+    "note": "Listed on the US embassy page and by the agency page"
+   },
+   {
+    "item": "Return air ticket",
+    "note": "Listed by the agency page"
+   }
+  ],
+  "photo": {
+   "size": "35 x 45 mm (Eritrean embassy in the US; India not confirmed)",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED for India. The US embassy page lists different fees that apply there only.",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED. The agency page says passports are processed in New Delhi only.",
+  "centres": "New Delhi only per the agency page (Embassy, Vasant Vihar); Mumbai honorary consulate does not issue visas.",
+  "warnings": [
+   "Tourist visas may not be issued at present, so check before planning.",
+   "Entry rules change often; confirm by email or phone with the embassy.",
+   "Do not pay agents until the embassy confirms it accepts tourist applications.",
+   "Fees and photo rules on the US page are not for India."
+  ],
+  "unverified": [
+   "Whether tourist visas are being issued in New Delhi",
+   "Fee in India",
+   "Photo rules in India",
+   "Processing time",
+   "Embassy official website and contact (none found)"
+  ],
+  "sources": [
+   "https://us.embassyeritrea.org/visa",
+   "https://www.sticholidays.com/sticholidays/packages/visa-info.php?pkgID=828"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Estonia",
+  "route": "embassy",
+  "summary": "Estonia is represented for Schengen visas in India by Sweden (Estonia's page lists the Swedish Embassy in New Delhi). Use the VFS Global Estonia page for India to start, book an appointment and submit documents. Check the VFS page for the exact visa centre and documents list before booking.",
+  "applyLinks": [
+   {
+    "label": "Estonia visa on VFS Global India",
+    "url": "https://visa.vfsglobal.com/one-pager/estonia/india/english"
+   },
+   {
+    "label": "Book a VFS appointment for Estonia in India",
+    "url": "https://visa.vfsglobal.com/ind/en/est/book-an-appointment"
+   },
+   {
+    "label": "Estonian Foreign Ministry: who issues Estonian visas in India",
+    "url": "https://vm.ee/en/consular-visa-and-travel-information/visa-information/countries-where-estonia-represented-another"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Usual Schengen rules: valid at least 3 months after departure and issued in the last 10 years, with blank pages. Confirm on VFS"
+   },
+   {
+    "item": "Schengen application form and photos",
+    "note": "Per VFS checklist"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Schengen cover, usually EUR 30,000"
+   },
+   {
+    "item": "Flights, accommodation and itinerary",
+    "note": "Usually required"
+   },
+   {
+    "item": "Bank statements and employment or business proof",
+    "note": "Usually required to show funds and ties to India"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Schengen photo standard expected, not confirmed on an official Estonia page",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (VFS pages are JavaScript heavy; fee not read). Check the VFS page.",
+  "processing": "UNVERIFIED",
+  "applyEarly": "Schengen rule: up to 6 months before travel, not later than 15 days before; not confirmed on an Estonian page",
+  "biometrics": "Likely in person at VFS (fingerprints), UNVERIFIED",
+  "centres": "UNVERIFIED (see VFS page)",
+  "warnings": [
+   "Estonia applications from India go through Sweden, not an Estonian embassy, so ask for the Swedish route",
+   "A VFS service fee is usually charged on top of the visa fee",
+   "Apply only through the official VFS link, not agents",
+   "Other Schengen states share the same rules"
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Exact documents list",
+   "Photo rules",
+   "Biometrics",
+   "Application centre cities",
+   "Apply-early window"
+  ],
+  "sources": [
+   "https://vm.ee/en/consular-visa-and-travel-information/visa-information/countries-where-estonia-represented-another",
+   "https://visa.vfsglobal.com/one-pager/estonia/india/english",
+   "https://visa.vfsglobal.com/ind/en/est/book-an-appointment"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Gabon",
+  "route": "online",
+  "summary": "Apply for the Gabon e-visa on the DGDI portal, create an account, fill the form, upload documents and pay. Carry the approved e-visa when you fly to Libreville. I could not confirm that Gabon has a mission in India, so the online route is the one to use.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Gabon e-visa (official portal)",
+    "url": "https://evisa.dgdi.ga/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid passport with enough validity, UNVERIFIED on an official page"
+   },
+   {
+    "item": "Passport photo",
+    "note": "Digital photo upload"
+   },
+   {
+    "item": "Accommodation and itinerary",
+    "note": "Often required"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Often required for Gabon, UNVERIFIED on an official page"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Usually required"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (the portal page is JavaScript and showed no fee text; a free tourist promotion ran in 2025 only)",
+  "processing": "UNVERIFIED (a 2025 press item mentioned under 48 hours during a promotion)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Online only; UNVERIFIED whether any in-person step applies",
+  "centres": "Not applicable (online); no mission in India confirmed",
+  "warnings": [
+   "Use evisa.dgdi.ga only; many lookalike sites charge extra",
+   "The e-visa is reported to be for arrival by air at Libreville (secondary source)",
+   "A 2025 free tourist e-visa campaign ended 30 September 2025, so fees may apply now",
+   "Check yellow fever rules before flying"
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Documents list",
+   "Photo rules",
+   "Air-only arrival rule",
+   "Whether India has a Gabon mission",
+   "These official pages could not be tested by an automatic check from our server, though a researcher opened them. Open them to confirm."
+  ],
+  "sources": [
+   "https://evisa.dgdi.ga/",
+   "https://visasnews.com/en/gabon-launches-new-free-tourist-e-visa-system"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Gambia",
+  "route": "embassy",
+  "summary": "The Gambia Immigration Department lists India among countries whose citizens need a visa. The Gambia government site says visas are obtained from Gambian diplomatic missions in the country of origin. I could not confirm a Gambian mission or online visa route for India, so contact the Gambia Immigration Department first or use the nearest Gambian mission.",
+  "applyLinks": [
+   {
+    "label": "Gambia Immigration Department: visa information",
+    "url": "https://gid.gov.gm/visa"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Typically 6 months validity and blank pages, UNVERIFIED for India"
+   },
+   {
+    "item": "Visa application form",
+    "note": "From the mission, UNVERIFIED"
+   },
+   {
+    "item": "Return or onward ticket and funds",
+    "note": "Listed as an entry condition on the Immigration Department page"
+   },
+   {
+    "item": "Photo",
+    "note": "UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "UNVERIFIED (no Gambian mission in India confirmed)",
+  "warnings": [
+   "Do not rely on agent sites",
+   "A visa does not guarantee entry; arrival screening applies",
+   "You need a return or onward ticket and enough funds",
+   "Email info@gid.gov.gm to confirm the route for Indian passport holders"
+  ],
+  "unverified": [
+   "Whether an online or on-arrival route exists for India",
+   "Fee",
+   "Processing time",
+   "Documents",
+   "Photo",
+   "Which mission serves India",
+   "These official pages could not be tested by an automatic check from our server, though a researcher opened them. Open them to confirm."
+  ],
+  "sources": [
+   "https://gid.gov.gm/visa",
+   "https://gambia.gov.gm/immigration-and-visas"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Ghana",
+  "route": "online",
+  "summary": "Apply for the Ghana e-visa on the official Ghana Immigration Service portal: check eligibility (India is listed), create an account, fill the form, upload documents, pay and wait for the e-visa by email. The portal fee depends on speed, not nationality. Read the applicant guide on the portal for the document checklist.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Ghana e-visa",
+    "url": "https://evisa.immigration.gov.gh/register"
+   },
+   {
+    "label": "Ghana e-visa information, fees and guides",
+    "url": "https://evisa.immigration.gov.gh/visa-information"
+   },
+   {
+    "label": "Ghana e-visa portal home",
+    "url": "https://evisa.immigration.gov.gh/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months beyond your stay (stated on the portal's sample e-visa)"
+   },
+   {
+    "item": "Passport photo and bio page scan",
+    "note": "Uploaded online"
+   },
+   {
+    "item": "Itinerary and accommodation or host details",
+    "note": "Typically required, see the applicant guide"
+   },
+   {
+    "item": "Bank statements",
+    "note": "Typically required, UNVERIFIED"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Typically required for Ghana, UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "See the portal's applicant guide for photo rules",
+   "status": "unverified"
+  },
+  "fee": "Standard USD 260 (96 hours), Priority USD 338 (48 hours), Express USD 442 (5 hours), per application, as shown on the official portal page on 2026-10-16",
+  "processing": "Standard within 96 hours, Priority 48 hours, Express 5 hours (portal)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Online; no in-person step stated on the portal pages I could read",
+  "centres": "Not applicable (online)",
+  "warnings": [
+   "Use evisa.immigration.gov.gh only; copycat sites exist",
+   "Fee depends on speed tier; the portal says it is not nationality based",
+   "Passport needs 6 months validity beyond stay",
+   "Entry is at the officer's discretion even with an e-visa"
+  ],
+  "unverified": [
+   "Full document checklist for Indian applicants",
+   "Photo size and format",
+   "Maximum stay and validity beyond the 30 day sample",
+   "Apply-early window"
+  ],
+  "sources": [
+   "https://evisa.immigration.gov.gh/",
+   "https://evisa.immigration.gov.gh/visa-information",
+   "https://evisa.immigration.gov.gh/register"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Guatemala",
+  "route": "embassy",
+  "summary": "Guatemala has no embassy in India that I could confirm. Indian citizens holding a valid US, Canadian or Schengen visa are reported to enter visa free for up to 90 days (secondary source, unverified officially). Otherwise apply to a Guatemalan consulate or embassy outside India and confirm the route with the Guatemalan Foreign Ministry.",
+  "applyLinks": [
+   {
+    "label": "Example Guatemalan consulate tourist visa page (Embassy in the USA)",
+    "url": "https://www.embaguateusa.gob.gt/general-9"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months beyond the stay (stated on the Embassy in the USA page)"
+   },
+   {
+    "item": "Valid US, Canada or Schengen visa",
+    "note": "Reported to waive the Guatemalan visa for Indians; UNVERIFIED officially"
+   },
+   {
+    "item": "Bank statements",
+    "note": "Last 3 months on the Embassy in the USA page"
+   },
+   {
+    "item": "Photo",
+    "note": "2x2 inch colour photo on the Embassy in the USA page"
+   }
+  ],
+  "photo": {
+   "size": "2x2 inch",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Stated on the Embassy in the USA page, not an Indian route",
+   "status": "unverified"
+  },
+  "fee": "USD 50 single entry, USD 150 multiple entry on the Embassy in the USA page (that mission, not India; date not shown)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "In person at a consulate, per the Embassy in the USA page",
+  "centres": "None confirmed in India",
+  "warnings": [
+   "The visa-free rule for US, Canada or Schengen visa holders comes from secondary sources; check with the Guatemalan Foreign Ministry before flying",
+   "Airlines may ask for an onward ticket",
+   "Fees and rules on the US embassy page are for that mission and may differ",
+   "Do not use agents that claim an Indian route without proof"
+  ],
+  "unverified": [
+   "Official Guatemalan page for the visa waiver",
+   "Which mission serves India",
+   "Fee for Indian applicants",
+   "Processing time"
+  ],
+  "sources": [
+   "https://www.embaguateusa.gob.gt/general-9"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Guinea",
+  "route": "online",
+  "summary": "Guinea runs an e-visa system through the border police (PAF) site. Open the Guinea e-visa page, read the application guidelines, then apply online and pay the fee. Carry the approval printout when you travel. Exact current rules for Indian passports could not be read, so check the portal before paying.",
+  "applyLinks": [
+   {
+    "label": "Guinea e-visa page (border police)",
+    "url": "https://www.paf.gov.gn/visa"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Validity and blank pages rule UNVERIFIED; usually 6 months validity"
+   },
+   {
+    "item": "Passport-style photo",
+    "note": "Typically uploaded online; rules UNVERIFIED"
+   },
+   {
+    "item": "Return or onward ticket and accommodation details",
+    "note": "Commonly asked, UNVERIFIED"
+   },
+   {
+    "item": "Yellow fever vaccination certificate",
+    "note": "Commonly required for entry to West Africa; UNVERIFIED for Guinea on an official page"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "",
+   "format": "",
+   "notes": "Not found on an official page that could be read",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED. The official page only says the e-visa fee is not refunded even if refused.",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "UNVERIFIED (no Indian application centre confirmed)",
+  "warnings": [
+   "The official page states the e-visa fee is kept even if the visa is denied.",
+   "The page title shows a visa waiver message that is generic; Indian citizens should not assume visa-free entry.",
+   "Use only the official PAF site; many agent sites charge large extra service fees.",
+   "Page recommends Chrome or older Internet Explorer; the portal may be slow or fail in other browsers."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Document checklist",
+   "Photo rules",
+   "Whether an embassy route exists in India",
+   "Deep link to the application form (guidelines page returned a server error)"
+  ],
+  "sources": [
+   "https://www.paf.gov.gn/visa"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Guinea-Bissau",
+  "route": "embassy",
+  "summary": "No official Guinea-Bissau visa page could be found or opened. Secondary sites say the online e-visa is suspended and that visas may be issued on arrival or through an embassy abroad. Contact a Guinea-Bissau mission before booking, and do not rely on third-party portals.",
+  "applyLinks": [],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Commonly 6 months validity; UNVERIFIED"
+   },
+   {
+    "item": "Passport photos",
+    "note": "UNVERIFIED"
+   },
+   {
+    "item": "Return ticket and accommodation",
+    "note": "UNVERIFIED"
+   },
+   {
+    "item": "Yellow fever vaccination certificate",
+    "note": "Commonly required; UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "UNVERIFIED (no mission in India confirmed)",
+  "warnings": [
+   "Several private sites sell an 'e-visa' for Guinea-Bissau; the official online system is reported as suspended, so be careful of look-alike sites.",
+   "Confirm with an official mission before flying; entry rules for Indian passports could not be checked.",
+   "Expect a separate agent service fee if you use a visa agency."
+  ],
+  "unverified": [
+   "Official apply link",
+   "Whether Indian citizens get visa on arrival",
+   "Fee",
+   "Processing",
+   "Documents",
+   "Photo rules",
+   "Mission covering India",
+   "No working official apply link could be confirmed. Search for the official visa page."
+  ],
+  "sources": [
+   "https://www.rgb-visa.com/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Guyana",
+  "route": "embassy",
+  "summary": "Indian citizens apply on paper at the Consular Section of the High Commission of Guyana in New Delhi, submitting the form and original documents in person or by post. Pay the fee by demand draft or bank transfer. Apply at least three weeks before travel.",
+  "applyLinks": [
+   {
+    "label": "High Commission of Guyana, New Delhi: how to apply",
+    "url": "https://newdelhihc.mission.gov.gy/consular-services/visa-enter-guyana"
+   },
+   {
+    "label": "Ministry of Foreign Affairs: visa information",
+    "url": "https://www.minfor.gov.gy/visa-information"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Two completed visa application forms with two recent passport-size photographs",
+    "note": "Form is on the Ministry visa page"
+   },
+   {
+    "item": "Covering letter",
+    "note": "Required"
+   },
+   {
+    "item": "Valid passport, at least 6 months validity",
+    "note": "Photocopy of data pages"
+   },
+   {
+    "item": "Bank statement, stamped and signed by the bank",
+    "note": "Evidence of funds for the stay"
+   },
+   {
+    "item": "Letter of invitation from Guyana",
+    "note": "If available"
+   },
+   {
+    "item": "Flight itinerary and hotel reservation",
+    "note": "Required"
+   },
+   {
+    "item": "Yellow fever vaccination certificate",
+    "note": "Required"
+   },
+   {
+    "item": "Copies of all documents",
+    "note": "Originals plus photocopy"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "",
+   "format": "",
+   "notes": "Two recent passport-size photographs; exact dimensions not stated on the page",
+   "status": "unverified"
+  },
+  "fee": "Tourist visa single entry Rs 5,000; multiple entry Rs 8,000 (High Commission page, read 2026-10-16). Non-refundable, paid upfront by demand draft or bank transfer.",
+  "processing": "UNVERIFIED (page only says apply at least three weeks before travel)",
+  "applyEarly": "At least 3 weeks before travel",
+  "biometrics": "Not stated; an interview may be called by a Consular Officer when required. Submission in New Delhi, Mon to Fri 09:15 to 12:30; collection Mon to Thu 14:00 to 16:00, Fri 14:00 to 15:00.",
+  "centres": "New Delhi only (High Commission consular section); postal submission also allowed",
+  "warnings": [
+   "Fees are non-refundable and no excess is refunded, so pay the exact amount.",
+   "Visa is not guaranteed and entry still depends on port-of-entry checks.",
+   "Incomplete forms or missing documents cause delay or refusal.",
+   "Mail applications need your own courier arrangements both ways."
+  ],
+  "unverified": [
+   "Photo dimensions",
+   "Processing time",
+   "Direct download link for the form (Ministry page blocks automated checks)",
+   "Whether an e-visa exists (a third-party site claims so; not seen on official pages)",
+   "These official pages could not be tested by an automatic check from our server, though a researcher opened them. Open them to confirm."
+  ],
+  "sources": [
+   "https://newdelhihc.mission.gov.gy/consular-services/visa-enter-guyana"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
+ },
+ {
+  "country": "Honduras",
+  "route": "embassy",
+  "summary": "Indian passport holders need a visa for Honduras unless they hold a valid US, Canadian or Schengen visa (reported by secondary sources). No official Honduran page or mission in India could be confirmed. Contact the nearest Honduran embassy or consulate for the current process before planning.",
+  "applyLinks": [],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "At least 3 months validity reported by secondary sources; UNVERIFIED"
+   },
+   {
+    "item": "Visa application form and photos",
+    "note": "UNVERIFIED"
+   },
+   {
+    "item": "Return ticket, accommodation, proof of funds",
+    "note": "Commonly asked; UNVERIFIED"
+   },
+   {
+    "item": "Copy of US, Canadian or Schengen visa",
+    "note": "Only if using the visa-free route for holders of those visas; UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "UNVERIFIED (no Honduran mission in India confirmed)",
+  "warnings": [
+   "Agent sites quote fees and times that are not from an official page.",
+   "Check whether your existing US, Canada or Schengen visa gives visa-free entry before applying.",
+   "Entry may also need an online health or travel declaration, UNVERIFIED."
+  ],
+  "unverified": [
+   "Official apply link",
+   "Mission covering India",
+   "Fee",
+   "Processing",
+   "Documents",
+   "Photo rules",
+   "Visa-free rule for US, Canada, Schengen visa holders (only seen on Wikipedia)",
+   "No working official apply link could be confirmed. Search for the official visa page."
+  ],
+  "sources": [],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Iran",
+  "route": "online",
+  "summary": "Apply online on the Iran Ministry of Foreign Affairs e-visa portal and get an application reference number. Upload passport and travel details; some applicants are called for an interview at the Consulate General in Mumbai, which handles Indian applicants. Do not travel until the visa is granted.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Iran e-visa (Ministry of Foreign Affairs)",
+    "url": "https://evisa.mfa.ir/en/"
+   },
+   {
+    "label": "Iran Consulate General Mumbai: tourist visa guidance",
+    "url": "https://mumbai.mfa.gov.ir/en/GeneralCategoryServices/15383"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport valid at least 6 months beyond travel date",
+    "note": "Required"
+   },
+   {
+    "item": "Online application form from the e-visa system",
+    "note": "Include address and phone in India and Iran"
+   },
+   {
+    "item": "Hotel reservation and travel itinerary",
+    "note": "Required unless you have a host in Iran"
+   },
+   {
+    "item": "ID card of host in Iran",
+    "note": "Only if staying with friends or relatives"
+   },
+   {
+    "item": "Visa fee payment receipt",
+    "note": "Per Mumbai consulate page"
+   },
+   {
+    "item": "Notarised consent of legal guardian",
+    "note": "Only for applicants under 18"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "",
+   "format": "",
+   "notes": "Not stated on the pages read",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Some applicants are interviewed in person at the Consulate General in Mumbai when called (Mumbai page).",
+  "centres": "Mumbai (Consulate General of Iran)",
+  "warnings": [
+   "Forged or unrealistic documents lead to rejection and possible entry ban.",
+   "Indian citizens are not on the official 27-country list for 15-day visa-free stay on the portal home page; check the portal for current visa-free or arrival rules.",
+   "Failure to enter within the visa validity means re-applying.",
+   "Sites with look-alike names sell paid services; use the mfa.ir domain."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo specification",
+   "How early to apply",
+   "Current visa-on-arrival eligibility for Indians",
+   "Whether evisa.mfa.ir/en/ redirects without cookies (it loops for scripted requests)"
+  ],
+  "sources": [
+   "https://evisa.mfa.ir/en/",
+   "https://mumbai.mfa.gov.ir/en/GeneralCategoryServices/15383"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
  }
 ]
