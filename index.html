@@ -125,7 +125,7 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
 <section id="visa"><div class="wrap">
  <h2>Visa checker for an Indian passport</h2><p class="sub">Tell us which visas you hold. The map and list show where they ease entry. Rules are summarised from research on 16 October 2026 and are probable, not final.</p>
  <div class="two"><div class="panel">
-  <b>Visas I hold</b>
+  <div style="display:flex;align-items:center;justify-content:space-between;gap:12px"><b>Visas I hold</b><button class="btn ghost" id="visaClear" type="button" style="padding:4px 12px;font-size:12.5px">Clear all</button></div>
   <label class="ck"><input type="checkbox" id="vUS"> US visa (valid, multiple entry)</label>
   <label class="ck"><input type="checkbox" id="vSC"> Schengen visa (valid, multiple entry)</label>
   <label class="ck"><input type="checkbox" id="vUK"> UK visa</label>
@@ -260,7 +260,7 @@ async function boot(){
  function renderVisa(){const q=document.getElementById('vSearch').value.toLowerCase();colorMode=n=>{const s=visaStatus(n);return V[n]||eased(n)?COL[s]:null};hl=new Set();
   document.getElementById('visaLegend').innerHTML=Object.entries(LABEL).map(([k,v])=>`<span><i style="background:${COL[k]}"></i>${v}</span>`).join('');
   document.getElementById('visaList').innerHTML=ALLC.filter(n=>n.toLowerCase().includes(q)).map(n=>{const s=visaStatus(n);const r=VREC[n]||{};return`<div class="vrow"><div class="vh"><span class="dot" style="background:${COL[s]}"></span><b>${esc(n)}</b><i class="ibtn" data-info="${esc(n)}" title="Country details">i</i><span class="tag" style="margin-left:6px">${esc(r.status||'unknown')}</span></div><div class="vr">${eased(n)?'<b style="color:var(--acc2)">Eased by your visa.</b> ':''}${esc(r.rule||LABEL[V[n]||'e'])}</div><div class="vm">Checked ${esc(r.lastChecked||'')} · ${srcLinks(r.sources)}</div></div>`}).join('')}
- document.getElementById('visa').addEventListener('input',renderVisa);renderVisa();colorMode=null;hl=new Set();
+ document.getElementById('visaClear').onclick=()=>{['US','SC','UK','CA','AU','NZ','JP','KR'].forEach(k=>document.getElementById('v'+k).checked=false);renderVisa()};document.getElementById('visa').addEventListener('input',renderVisa);renderVisa();colorMode=null;hl=new Set();
  // ---------- experience finder
  let expT='All';const et=['All',...new Set(EXP.map(e=>e.t))];document.getElementById('expFilter').innerHTML=et.map(t=>`<span class="chip${t==='All'?' on':''}" data-t="${t}">${t}</span>`).join('');
  const rs=n=>'₹'+n.toLocaleString('en-IN');
