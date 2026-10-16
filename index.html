@@ -200,7 +200,7 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
  <div class="tick" id="tickGrid"></div></div></div>
 </div></section>
 
-<a class="fab" id="suggestFab" href="#" target="_blank" rel="noopener">Suggest an update</a>
+<a class="fab" id="suggestFab" href="#" target="_blank" rel="noopener">Suggest an edit</a>
 <div class="modal" id="cmodal"><div class="sheet" id="csheet"><button class="xbtn" id="cclose">Close</button><div id="cbody"></div></div></div>
 <footer><div class="wrap"><p id="dataStamp" style="margin:0 0 8px"></p>Prices, rules and hours are estimates from research on 16 October 2026 and must be confirmed with official sources before booking. Nothing here is a booking, visa or legal service. Map data: Natural Earth via world-atlas (public domain).</div></footer>
 
@@ -395,7 +395,7 @@ async function boot(){
    els.push(ex.length?`<h3>Unique experiences</h3><ul>${ex.map(x=>`<li><b>${esc(x.name)}</b>${x.note?': '+esc(x.note):''}${x.priceInr?` <span class="meta">(about ${rs(x.priceInr)})</span>`:''}</li>`).join('')}</ul>`:`<h3>Unique experiences</h3><p class="meta">None suggested yet.</p>`)}
   if(p&&p.cautions&&p.cautions.length)els.push(`<h3>Good to know</h3><ul>${p.cautions.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`);
   if(p&&p.neighbours&&p.neighbours.length)els.push(`<h3>Nearby countries by land or ferry</h3><p>${p.neighbours.map(x=>`<button class="nbtn" data-go="${esc(x)}">${esc(x)}</button>`).join('')}</p>`);
-  if(suggestUrl(n))els.push(`<a class="sugg" href="${esc(suggestUrl(n))}" target="_blank" rel="noopener">Suggest an update for ${esc(n)}</a>`);
+  if(suggestUrl(n))els.push(`<a class="sugg" href="${esc(suggestUrl(n))}" target="_blank" rel="noopener">Suggest an edit for ${esc(n)}</a>`);
   if(!(p&&p.territory))els.push(`<p style="margin-top:16px"><button class="btn ghost" data-mark="${esc(n)}">${mine.has(n)?'Remove from my visited list':'Mark as visited'}</button></p>`);
   if(p)els.push(`<p class="meta" style="font-size:11px">Profile checked ${esc(p.lastChecked)} (${esc(p.confidence||'')}) · ${srcLinks(p.sources)}. Prices and hours are estimates. Confirm with official sources before booking.</p>`);
   box.innerHTML=els.join('')}

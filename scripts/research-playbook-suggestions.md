@@ -1,4 +1,6 @@
-# Review of reader suggestions (every 3 days)
+# NOTE: reader edits are now processed INSIDE the weekly and the 1st/15th refresh runs (step 2a of those playbooks, via scripts/fetch_suggestions.py and the pickers). There is no separate job. This file stays as the detailed rules for judging a suggestion.
+
+# Rules for judging a reader suggestion
 
 Repo ~/build/100-countries-site. Reports come from the anonymous "Suggest an update" Google Form (no emails collected). Every report is a LEAD, never a fact. Never copy a reader's wording into the data. Never record or repeat any personal details a reader may have typed.
 
