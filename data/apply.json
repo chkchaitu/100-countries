@@ -5034,5 +5034,1849 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin"
+ },
+ {
+  "country": "Uganda",
+  "route": "online",
+  "summary": "Apply for the Uganda e-visa on the official Uganda immigration portal before you travel. Fill the form, upload the documents and pay online, then print the approval letter. Carry the approval letter and your original yellow fever certificate to Entebbe. The Uganda High Commission in New Delhi handles other queries.",
+  "applyLinks": [
+   {
+    "label": "Uganda visa application steps and fees (immigration.go.ug)",
+    "url": "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda"
+   },
+   {
+    "label": "Uganda High Commission, New Delhi",
+    "url": "https://newdelhi.mofa.go.ug/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months; blank pages needed"
+   },
+   {
+    "item": "Passport photo",
+    "note": "Digital photo upload"
+   },
+   {
+    "item": "Yellow fever vaccination certificate",
+    "note": "Original needed at the airport on arrival"
+   },
+   {
+    "item": "Return or onward ticket and itinerary",
+    "note": "Usually requested"
+   },
+   {
+    "item": "Accommodation booking or invitation",
+    "note": "Sometimes requested"
+   },
+   {
+    "item": "Printed e-visa approval letter",
+    "note": "Carry it when you fly"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Portal pages blocked automated checks. Read the upload rules on the portal.",
+   "status": "unverified"
+  },
+  "fee": "Single entry visa US$50 and single East African Tourist Visa US$100, as listed on the immigration.go.ug page (seen in search result 2026-10-16). Agent sites add service fees.",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED (apply well ahead of travel)",
+  "biometrics": "Online application. Fingerprints are normally taken at the airport on arrival (UNVERIFIED).",
+  "centres": "Online from anywhere in India; High Commission is in New Delhi (Vasant Vihar)",
+  "warnings": [
+   "Use only the official portal; fake sites charge US$110 to US$200 extra (warned on a Uganda embassy page).",
+   "Yellow fever certificate is mandatory at entry.",
+   "The e-visa is an approval; the visa is issued at the border, so print the letter.",
+   "Uganda portal may be slow or blocked from some networks."
+  ],
+  "unverified": [
+   "Fee page opened only as a search result (site blocks scripts)",
+   "Processing time",
+   "Photo specs",
+   "Whether the portal is reachable from India today (it did not respond from our server)",
+   "Biometrics at airport"
+  ],
+  "sources": [
+   "https://immigration.go.ug/mandatory-online-visa-applications-all-visa-prone-travellers-uganda",
+   "https://hcikampala.gov.in/pages/NjcNCg,,"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Zambia",
+  "route": "online",
+  "summary": "Create an account on the Zambia Department of Immigration e-services portal and apply for the e-visa (Form 16). Upload the documents as jpeg, tiff or png and pay online by card. Print the approval letter and receipt and show them at the Zambian port of entry.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Zambia e-visa (official portal)",
+    "url": "https://eservices.zambiaimmigration.gov.zm/"
+   },
+   {
+    "label": "Zambia visa types, fees and e-visa steps",
+    "url": "https://www.zambiaimmigration.gov.zm/for-visitors"
+   },
+   {
+    "label": "KAZA UNIVISA (Zambia and Zimbabwe)",
+    "url": "https://www.zambiaimmigration.gov.zm/kaza-univisa"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months from entry, at least 3 full blank pages"
+   },
+   {
+    "item": "Return air ticket",
+    "note": "For air arrivals"
+   },
+   {
+    "item": "Host or hotel physical address",
+    "note": "Required"
+   },
+   {
+    "item": "Funds for stay",
+    "note": "Mainly for land arrivals; may be asked"
+   },
+   {
+    "item": "Uploaded scans",
+    "note": "jpeg, tiff or png"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Sometimes required if coming from a risk country"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "Uploads must be jpeg, tiff or png",
+   "notes": "Photo specs not stated on the page read.",
+   "status": "unverified"
+  },
+  "fee": "Single entry US$25, double entry US$40, multiple entry US$75 (90 day validity), KAZA UNIVISA US$50, as on the official visitors page, read 2026-10-16. A small card charge may apply.",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "None stated for e-visa. Not verified for arrival.",
+  "centres": "Online; no centre in India needed",
+  "warnings": [
+   "Whether Indian nationals can use e-visa or must use another route is only implied (page says all who ordinarily need a visa can apply); check the portal.",
+   "Under 16s cannot apply alone; add them to an adult application.",
+   "Bring the approval letter and receipt.",
+   "KAZA UNIVISA gives 30 days and is not valid if you overnight in Botswana."
+  ],
+  "unverified": [
+   "Processing time",
+   "Photo specs",
+   "Indian-specific eligibility",
+   "Full document list for e-visa"
+  ],
+  "sources": [
+   "https://www.zambiaimmigration.gov.zm/for-visitors",
+   "https://www.zambiaimmigration.gov.zm/kaza-univisa",
+   "https://eservices.zambiaimmigration.gov.zm/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
+ },
+ {
+  "country": "Zimbabwe",
+  "route": "online",
+  "summary": "Apply on the official Zimbabwe eVisa platform: start the application, upload documents and pay. Print the approval and carry it. Options are single, double and multiple entry, or KAZA UNIVISA for Zimbabwe plus Zambia.",
+  "applyLinks": [
+   {
+    "label": "Start a Zimbabwe eVisa application",
+    "url": "https://www.evisa.gov.zw/app/index.html#/start"
+   },
+   {
+    "label": "Zimbabwe eVisa FAQ and visa types",
+    "url": "https://www.evisa.gov.zw/faq.html"
+   },
+   {
+    "label": "Track your eVisa application",
+    "url": "https://www.evisa.gov.zw/app/index.html#/track"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid for the stay; confirm months on the portal"
+   },
+   {
+    "item": "Passport photo",
+    "note": "Upload"
+   },
+   {
+    "item": "Itinerary and accommodation",
+    "note": "Usually requested"
+   },
+   {
+    "item": "Return ticket",
+    "note": "Usually requested"
+   },
+   {
+    "item": "Payment card",
+    "note": "Online fee"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Rules are on the portal application screens.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED. The FAQ says the actual cost is stated in your approval response and may change if the department changes your visa type.",
+  "processing": "About 7 working days on average (official FAQ, read 2026-10-16).",
+  "applyEarly": "Apply at least 3 weeks before travel (official FAQ). Single entry and KAZA valid 1 month, double entry 3 months, multiple 6 months from issue.",
+  "biometrics": "None stated.",
+  "centres": "Online; no centre in India needed",
+  "warnings": [
+   "Immigration can change the visa type and the cost during processing.",
+   "Payment is not refunded if the visa is refused or unused.",
+   "Name must match the passport or the eVisa is invalid; changes need a new application.",
+   "Entry can still be denied by officers."
+  ],
+  "unverified": [
+   "Fee for Indian nationals",
+   "Photo specs",
+   "Document list",
+   "Whether Indian citizens are in the visa on arrival category"
+  ],
+  "sources": [
+   "https://www.evisa.gov.zw/",
+   "https://www.evisa.gov.zw/faq.html"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Botswana",
+  "route": "mixed",
+  "summary": "Apply on the Botswana e-visa portal if it is working, or file Form 1 in person at a Botswana mission or immigration office. There is no Botswana mission in India that we could confirm, so the online route is the practical one for travellers in India.",
+  "applyLinks": [
+   {
+    "label": "Apply on the Botswana e-Visa portal",
+    "url": "https://evisa.gov.bw/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Certified copy of pages 1 and 2, valid at least 6 months"
+   },
+   {
+    "item": "Photos",
+    "note": "Two recent colour passport photos for Form 1 route"
+   },
+   {
+    "item": "Covering letter and trip itinerary",
+    "note": "State reason for visit"
+   },
+   {
+    "item": "Flight itinerary and accommodation bookings",
+    "note": "Required"
+   },
+   {
+    "item": "Intent to depart Botswana",
+    "note": "Statement"
+   },
+   {
+    "item": "Re-entry permit to country of residence",
+    "note": "Only if your country requires one"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Portal has a Photo Requirements page; not read. Form 1 route asks for two colour passport size photos.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED on an official page we could open. Secondary sources list BWP 300 single and BWP 500 multiple entry.",
+  "processing": "Form 1 route 7 to 14 days per gov.bw (seen in search result). Online time UNVERIFIED.",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Online route: none stated. Form 1 route is in person.",
+  "centres": "UNVERIFIED (no confirmed mission in India)",
+  "warnings": [
+   "The e-visa portal has been suspended before; have a fallback.",
+   "Check that Indians need a visa and which route applies on the portal's country list.",
+   "Never pay agents extra for the e-visa.",
+   "Plan well ahead of the safari booking dates."
+  ],
+  "unverified": [
+   "Fee",
+   "Photo specs",
+   "Mission covering India",
+   "Gov.bw page did not respond from our server (listed from search result)",
+   "Indian eligibility"
+  ],
+  "sources": [
+   "https://evisa.gov.bw/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Namibia",
+  "route": "mixed",
+  "summary": "Namibia has a Ministry of Home Affairs online visa portal, and a visa on arrival at some entry points for eligible nationals. Indian eligibility is not confirmed, so check with the Namibia High Commission in New Delhi before booking. Apply in advance with the online portal where it works.",
+  "applyLinks": [
+   {
+    "label": "Namibian visa information from the tourism board",
+    "url": "https://visitnamibia.com.na/visa-information"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months from entry, 3 blank pages (secondary source)"
+   },
+   {
+    "item": "Return ticket",
+    "note": "Usually requested"
+   },
+   {
+    "item": "Accommodation booking",
+    "note": "Usually requested"
+   },
+   {
+    "item": "Bank statement",
+    "note": "Sometimes requested"
+   },
+   {
+    "item": "Photos",
+    "note": "Two colour photos on mission route (secondary source)"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "A secondary source says 2 inch by 2 inch colour photos for mission applications; unconfirmed.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED. Fees are on the Ministry of Home Affairs site, which did not respond from our server.",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "Online; High Commission of Namibia in New Delhi (contact details UNVERIFIED)",
+  "warnings": [
+   "Visa on arrival lists are nationality based; confirm India's status before relying on it.",
+   "The portal has had outages.",
+   "A visa validity is not the same as the permitted stay; check the entry stamp.",
+   "Visas run up to three months from issue for stays up to three months (tourism board)."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing",
+   "Indian nationals' route",
+   "Namibia High Commission New Delhi website",
+   "Photo specs",
+   "Portal and ministry sites did not respond from our server"
+  ],
+  "sources": [
+   "https://visitnamibia.com.na/visa-information"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Tunisia",
+  "route": "embassy",
+  "summary": "Indian passport holders generally need a visa for tourism, unless travelling in an organised group tour through a travel agency (reported by a secondary source, not confirmed officially). Contact the Embassy of Tunisia in New Delhi for the current visa procedure, forms and fee before applying, since no working official Tunisian visa page for India could be opened. Submit the application and passport in person or as the embassy directs.",
+  "applyLinks": [],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Reported by secondary sources: valid at least 6 months after departure, at least 2 blank pages, issued within the last 10 years. Confirm with the embassy."
+   },
+   {
+    "item": "Visa application form",
+    "note": "Obtain from the embassy; not verified"
+   },
+   {
+    "item": "Recent passport photos",
+    "note": "Number and size not verified"
+   },
+   {
+    "item": "Return or onward ticket and hotel booking",
+    "note": "Commonly required"
+   },
+   {
+    "item": "Proof of funds such as bank statements",
+    "note": "Commonly required"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Sometimes required"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "No official Tunisian photo spec found. Follow the embassy checklist.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED (embassy submission in New Delhi is expected)",
+  "centres": "New Delhi (Embassy of Tunisia, Vasant Vihar area per secondary sources). No visa centre found. UNVERIFIED",
+  "warnings": [
+   "The domain tunisianembassy.in now shows an expired-domain placeholder page and is not a reliable source. Do not rely on it.",
+   "Sites such as tunisia-e-visa.com are private agents, not government portals.",
+   "Check whether the embassy will approve the visa itself; some Tunisian tourist visas need approval from the Ministry of Interior in Tunis, which can add time."
+  ],
+  "unverified": [
+   "Official embassy visa page for India",
+   "Fee",
+   "Processing time",
+   "Photo rules",
+   "Document checklist",
+   "Whether an e-visa exists for Indians",
+   "Appointment or walk-in rules",
+   "No working official apply link could be confirmed. Search for the official visa page."
+  ],
+  "sources": [
+   "https://www.tunisianembassy.in/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Afghanistan",
+  "route": "online",
+  "summary": "Afghanistan has introduced a single-entry tourist e-visa (30 days) through the E-Afghans portal, according to the portal's own page. Apply online, wait for approval by email, download and print the e-visa. Check the Indian government travel advisory and the current status of Afghan consular services in India before planning, as this could not be verified.",
+  "applyLinks": [
+   {
+    "label": "E-Afghans portal: apply for the tourist e-visa",
+    "url": "https://eafghans.com/e-visa/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Validity and blank pages not verified"
+   },
+   {
+    "item": "Passport-style photo",
+    "note": "Upload spec not verified"
+   },
+   {
+    "item": "Itinerary and accommodation or tour operator details",
+    "note": "Likely required, not verified"
+   },
+   {
+    "item": "Working email address",
+    "note": "Needed to receive the e-visa"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Portal form was not readable without JavaScript.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (a secondary source says about USD 128)",
+  "processing": "UNVERIFIED (a secondary source says about 1 to 3 weeks)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "None stated for the e-visa; UNVERIFIED",
+  "centres": "UNVERIFIED. No visa centre found in India.",
+  "warnings": [
+   "Check the Indian Ministry of External Affairs travel advisory for Afghanistan before booking; there is no Indian consular help in the usual sense.",
+   "Only the single-entry 30 day tourist e-visa is reported; other visa types go through an Afghan mission.",
+   "Whether eafghans.com is the government's own portal could not be confirmed from a government page, so treat it carefully and avoid agents charging extra."
+  ],
+  "unverified": [
+   "Official ownership of eafghans.com from a government page",
+   "Fee",
+   "Processing time",
+   "Photo rules",
+   "Documents list",
+   "Afghan embassy status in New Delhi"
+  ],
+  "sources": [
+   "https://eafghans.com/e-visa/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Albania",
+  "route": "online",
+  "summary": "Apply for the Albania e-visa on the official e-visa portal (create an account, choose tourism short stay, fill in the form and upload documents) while outside Albania. The approved e-visa is sent by email. Indian citizens holding a valid US, UK or Schengen visa may be eligible to enter without applying; check this on the portal or with an Albanian mission before travel.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Albania e-visa (official portal)",
+    "url": "https://e-visa.al/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid for the stay; exact validity UNVERIFIED"
+   },
+   {
+    "item": "Passport-style photo and passport scan",
+    "note": "Uploaded online"
+   },
+   {
+    "item": "Return ticket",
+    "note": "Commonly required"
+   },
+   {
+    "item": "Hotel booking or host invitation",
+    "note": "Commonly required"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Commonly required"
+   },
+   {
+    "item": "Valid US, UK or Schengen visa",
+    "note": "Only if relying on the visa-holder exemption"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Portal needs JavaScript; specs could not be read.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED (the portal states applications are made online while outside Albania)",
+  "biometrics": "None for the e-visa; stamp visa needs a visit to a diplomatic mission. Details UNVERIFIED",
+  "centres": "Not applicable for e-visa.",
+  "warnings": [
+   "Use only e-visa.al; look-alike agent sites charge extra.",
+   "The portal needs JavaScript and showed a certificate chain warning to automated tools, so its content could not be fully read.",
+   "Entry decision is made at the border, so carry bookings and funds proof."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo rules",
+   "Exact document list",
+   "Indian eligibility for the visa-holder exemption",
+   "Passport validity rule",
+   "The official portal fails an automatic certificate check, so the link could not be tested by a script."
+  ],
+  "sources": [
+   "https://e-visa.al/apply"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Algeria",
+  "route": "embassy",
+  "summary": "Apply in person at the Embassy of Algeria in New Delhi (Visa section, B 6 Anand Niketan), Monday to Friday 09:00 to 12:00. Bring two copies of the signed form, original passport, photos, return ticket, hotel or accommodation proof and proof of funds, and pay by bank cheque in rupees. Collect the passport from 14:00 to 16:00 on working days.",
+  "applyLinks": [
+   {
+    "label": "Algerian Embassy New Delhi: entry visa instructions and fees",
+    "url": "https://embnewdelhi.mfa.gov.dz/en/consular-services/civil-status-1/entry-visa-to-algeria-1"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Download the visa application form (PDF)",
+    "url": "https://embnewdelhi.mfa.gov.dz/media/embnewdelhi/files/pdf/VISA-FORM_5uINEg0.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Original passport",
+    "note": "Valid at least 6 months, at least 1 blank page"
+   },
+   {
+    "item": "Visa application form",
+    "note": "Filled in 2 copies, each with original signature"
+   },
+   {
+    "item": "Passport photos",
+    "note": "2 recent identical photos, white background, no glasses unless medically required"
+   },
+   {
+    "item": "Return flight ticket copy",
+    "note": "Required for tourist visa"
+   },
+   {
+    "item": "Accommodation",
+    "note": "Confirmed hotel booking, or local-authority certified accommodation certificate, or invitation from an Algerian travel agency with itinerary"
+   },
+   {
+    "item": "Proof of sufficient funds",
+    "note": "Required for tourist visa"
+   },
+   {
+    "item": "Cheque for the fee",
+    "note": "Bank cheque in INR payable to Embassy of Algeria in New Delhi"
+   }
+  ],
+  "photo": {
+   "size": "Passport size (exact mm not stated)",
+   "background": "White",
+   "format": "Printed, 2 identical copies",
+   "notes": "Recent, unaltered, no glasses unless medically required.",
+   "status": "verified"
+  },
+  "fee": "Indian nationals: single entry (30 days) INR 8,100; 90 day visa INR 9,700. Payment by bank cheque in INR only (embassy page, read 2026-10-16)",
+  "processing": "UNVERIFIED (embassy says times vary and may be longer if approval from Algerian authorities is needed)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Application is submitted in person in New Delhi; an interview may be requested. Fingerprints UNVERIFIED.",
+  "centres": "New Delhi only (embassy visa section)",
+  "warnings": [
+   "Submission is in person in New Delhi only, mornings Monday to Friday.",
+   "Only a bank cheque in rupees is accepted; the embassy warns against unauthorised intermediaries.",
+   "Incomplete forms or errors cause delays or rejection.",
+   "Travel only on or after the validity start date."
+  ],
+  "unverified": [
+   "Processing time",
+   "How early to apply",
+   "Fingerprint requirement",
+   "Exact photo size"
+  ],
+  "sources": [
+   "https://embnewdelhi.mfa.gov.dz/en/consular-services/civil-status-1/entry-visa-to-algeria-1"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
+ },
+ {
+  "country": "Andorra",
+  "route": "agency",
+  "summary": "Andorra has no visa of its own and no border visa. You reach it only through France or Spain, so Indian citizens need a Schengen visa valid for at least two entries (multiple entry if you enter and leave several times). Apply for it with the French or Spanish mission, for example via France-Visas and VFS France in India.",
+  "applyLinks": [
+   {
+    "label": "Andorra government: travel to Andorra and visa rules",
+    "url": "https://www.govern.ad/en/ministries-and-secretaries-of-state/ministry-of-foreign-affairs/travel-to-andorra"
+   },
+   {
+    "label": "France-Visas: apply for a Schengen visa",
+    "url": "https://france-visas.gouv.fr/"
+   },
+   {
+    "label": "Book a VFS France appointment in India",
+    "url": "https://visa.vfsglobal.com/ind/en/fra/book-an-appointment"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Schengen visa with 2 or more entries",
+    "note": "Needed to enter via France or Spain and re-enter Schengen after Andorra"
+   },
+   {
+    "item": "Passport",
+    "note": "Follow the French or Spanish checklist; typically valid 3 months past departure with blank pages"
+   },
+   {
+    "item": "Travel insurance, itinerary, accommodation, funds",
+    "note": "Per the Schengen mission checklist"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED (set by the Schengen mission)",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Andorra itself requires no photo.",
+   "status": "unverified"
+  },
+  "fee": "No Andorran fee. Schengen fee set by the French or Spanish mission: UNVERIFIED here",
+  "processing": "UNVERIFIED (Schengen mission)",
+  "applyEarly": "UNVERIFIED (Schengen mission)",
+  "biometrics": "For the Schengen visa, fingerprints at the VFS centre. Not verified here.",
+  "centres": "Per VFS France or Spanish visa centres in India. UNVERIFIED",
+  "warnings": [
+   "Entering Andorra means leaving Schengen, so a single-entry Schengen visa is not enough.",
+   "Tell the French or Spanish mission that Andorra is part of the trip.",
+   "Spain's BLS and ministry pages blocked automated checks and are not linked."
+  ],
+  "unverified": [
+   "Schengen fee",
+   "Processing time",
+   "Photo spec",
+   "Spanish visa centre link",
+   "France-Visas page blocks automated checks (403)"
+  ],
+  "sources": [
+   "https://www.govern.ad/en/ministries-and-secretaries-of-state/ministry-of-foreign-affairs/travel-to-andorra",
+   "https://visitandorra.com/en/visitor-information/passports-visas-and-customs/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Angola",
+  "route": "online",
+  "summary": "Indian passport holders do not need a visa for a tourist stay of up to 30 days per entry (90 days per year); the Angolan eVisa platform lists India as visa exempt. Carry your passport, return ticket, hotel booking, proof of funds and a yellow fever vaccination certificate. For business, longer stays or other purposes, apply for an eVisa on the official Angolan portal before travel.",
+  "applyLinks": [
+   {
+    "label": "Angola eVisa portal (official migration service, also lists the visa waiver)",
+    "url": "https://evisa.ao/ao/"
+   },
+   {
+    "label": "Angola Embassy in India: visa services",
+    "url": "https://www.angolaembassyindia.in/visa-services"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months, with blank pages"
+   },
+   {
+    "item": "Yellow fever vaccination certificate",
+    "note": "International certificate; listed on the eVisa portal as a required document"
+   },
+   {
+    "item": "Return flight and accommodation booking in Angola",
+    "note": "Shown at immigration"
+   },
+   {
+    "item": "Proof of funds for the stay",
+    "note": "Minimum amount not stated on the page read"
+   },
+   {
+    "item": "eVisa documents (scanned passport page, etc.)",
+    "note": "Only if you apply for an eVisa instead of using the waiver"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "No visa photo needed for the visa-free tourist entry. eVisa photo rules not read.",
+   "status": "unverified"
+  },
+  "fee": "No fee for visa-free tourist entry (per evisa.ao waiver notice, read 2026-10-16). eVisa fee UNVERIFIED.",
+  "processing": "eVisa portal states processing in 72 hours (page read 2026-10-16). Visa-free entry needs no processing.",
+  "applyEarly": "UNVERIFIED for eVisa; visa-free entry needs no application",
+  "biometrics": "None for visa-free entry; eVisa is fully online per portal. Entry checks at the Angolan border.",
+  "centres": "Not needed for tourism. Embassy of Angola in New Delhi for other visa types (UNVERIFIED which services).",
+  "warnings": [
+   "The waiver is for tourism only; business, work or study travel can be refused at the border without the proper visa.",
+   "Stay is 30 days per entry and 90 days per calendar year.",
+   "Yellow fever certificate is expected on arrival.",
+   "Use only the official evisa.ao portal; many agent sites charge extra."
+  ],
+  "unverified": [
+   "eVisa fee",
+   "eVisa photo specification",
+   "Exact proof-of-funds amount",
+   "Whether the embassy page angolaembassyindia.in is the official mission site (it loads and says tourists are exempt up to 30 days)"
+  ],
+  "sources": [
+   "https://evisa.ao/ao/",
+   "https://www.angolaembassyindia.in/visa-services"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Antigua and Barbuda",
+  "route": "online",
+  "summary": "Indian citizens need a visa. The Antigua and Barbuda High Commission says it no longer issues visas and that all applications are made online through the eVisa portal. Create the application, upload photo and scanned documents, pay by card, then print the electronic entry visa letter.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Antigua and Barbuda eVisa",
+    "url": "https://abevisa.com/"
+   },
+   {
+    "label": "High Commission page: visa rules and eVisa",
+    "url": "https://antigua-barbuda.com/ova_sev/visas"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months from departure date"
+   },
+   {
+    "item": "Recent digital photograph",
+    "note": "Upload"
+   },
+   {
+    "item": "Supporting documents (scanned)",
+    "note": "Typically employment letter, itinerary, accommodation; exact list UNVERIFIED"
+   },
+   {
+    "item": "Onward or return ticket",
+    "note": "Required by High Commission page"
+   },
+   {
+    "item": "Confirmation of accommodation",
+    "note": "Required by High Commission page"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Evidence you can maintain yourself"
+   },
+   {
+    "item": "Credit card for payment",
+    "note": "Required for the online application"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "digital photo upload",
+   "notes": "Portal blocks automated access; specs not read",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (portal blocked automated access)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "No in-India visit; High Commission does not issue visas. Any biometrics on arrival UNVERIFIED.",
+  "centres": "None in India; online only.",
+  "warnings": [
+   "Holders of a valid US, Canadian, UK or Schengen visa or resident card can get a visa on arrival (High Commission page; the page notes a fee of US$100 on a New York consulate page).",
+   "Passport needs 6 months validity from departure.",
+   "Apply only on the official eVisa portal, not agent sites.",
+   "The abevisa.com portal blocks scripts, so check it in a normal browser."
+  ],
+  "unverified": [
+   "eVisa fee",
+   "Processing time",
+   "Photo specification",
+   "Full document list",
+   "Whether the portal site abevisa.com is linked directly from the High Commission page (found as an official search result)"
+  ],
+  "sources": [
+   "https://antigua-barbuda.com/ova_sev/visas"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Bahamas",
+  "route": "online",
+  "summary": "Indian citizens need a visa unless they hold a valid US, UK, Canadian or Schengen visa or residence status (then no Bahamas visa is needed). Everyone else applies for an Electronic Entry Visa on the Ministry of Foreign Affairs eVisa portal, uploading photo and PDF documents and paying by card. Standard processing is 7 to 10 business days, and an interview at a Bahamas overseas office may be requested.",
+  "applyLinks": [
+   {
+    "label": "Bahamas eVisa online services (instructions, fees)",
+    "url": "https://mofa.gov.bs/evisa-online-services"
+   },
+   {
+    "label": "Start the online eVisa application",
+    "url": "https://evisa.mofa.gov.bs/bs-evics-entitlement-online-ui/"
+   },
+   {
+    "label": "Who needs a visa for the Bahamas",
+    "url": "https://mofa.gov.bs/consular-services/needs-visas-enter-bahamas"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "eVisa application form (PDF)",
+    "url": "https://mofa.gov.bs/wp-content/uploads/2020/06/BHS-eVISA-appForm-2v1-200312-1-pdf-master-ldr.pdf"
+   },
+   {
+    "label": "eVisa photo specification (PDF)",
+    "url": "https://mofa.gov.bs/wp-content/uploads/2020/06/eVISA-photoSpecification-1v1-20200415-1.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "More than 6 months validity"
+   },
+   {
+    "item": "Digital photograph (jpg)",
+    "note": "Must meet the photo specification PDF"
+   },
+   {
+    "item": "Scanned supporting documents (PDF)",
+    "note": "Country-specific list shown on the portal; typically job letter, bank letter, accommodation, itinerary"
+   },
+   {
+    "item": "Valid email address and credit or debit card",
+    "note": "Visa, Mastercard or American Express only"
+   },
+   {
+    "item": "Three previous Bahamas visas",
+    "note": "Only for a multiple-entry visa"
+   },
+   {
+    "item": "US, UK, Canada or Schengen visa or residence proof",
+    "note": "Only if using the visa waiver instead of applying"
+   }
+  ],
+  "photo": {
+   "size": "See official specification PDF (not read in detail)",
+   "background": "UNVERIFIED",
+   "format": "jpg",
+   "notes": "The portal asks for an acceptable recent digital photograph in jpg and links a photo specification PDF",
+   "status": "unverified"
+  },
+  "fee": "Single entry visitor visa USD 160; multiple entry 3, 6 or 12 months USD 250; non-refundable; paid at application (mofa.gov.bs, read 2026-10-16)",
+  "processing": "Standard 7 to 10 business days, not counting submission date, if documents are complete and no interview is needed (mofa.gov.bs, read 2026-10-16)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Applicants may be interviewed, and fingerprints taken if required, at the Bahamas visa office chosen in the portal. No Bahamas mission in India was found, so the office may be abroad (UNVERIFIED).",
+  "centres": "UNVERIFIED for India; portal lists preferred appointment offices",
+  "warnings": [
+   "An eVisa does not guarantee entry; border officers can refuse.",
+   "Visa nationals also need the visa to arrive by cruise ship from the US.",
+   "Fees are non-refundable.",
+   "Do not use the pay or resubmit section unless the Visa Office emailed you."
+  ],
+  "unverified": [
+   "Photo size and background (specification PDF not read)",
+   "Which visa office an applicant in India would be assigned",
+   "How early to apply"
+  ],
+  "sources": [
+   "https://mofa.gov.bs/evisa-online-services",
+   "https://mofa.gov.bs/consular-services/needs-visas-enter-bahamas"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
+ },
+ {
+  "country": "Belarus",
+  "route": "mixed",
+  "summary": "Belarus has an e-visa for citizens of 68 listed countries via the E-Pasluga portal (7 days, EUR 60 plus EUR 6 fee for most nationalities), but whether India is on that list could not be confirmed, so check on the portal. The sure route is the Embassy of Belarus in New Delhi: email india.consul@mfa.gov.by for an appointment, then submit the application in person with documents, and pay the fee in rupees at the bank. The embassy page also describes a 30-day visa-free entry through Minsk airport for Indians who hold a multiple-entry Schengen or EU visa that has been used, plus insurance and funds.",
+  "applyLinks": [
+   {
+    "label": "Embassy of Belarus in India: visa rules and appointment by email",
+    "url": "https://india.mfa.gov.by/en/consular_issues/visas/"
+   },
+   {
+    "label": "Belarus e-visa rules (Ministry of Foreign Affairs)",
+    "url": "https://mfa.gov.by/en/visa/general/evisa"
+   },
+   {
+    "label": "E-visa issuance service on E-Pasluga",
+    "url": "https://e-pasluga.by/en_US/services/visas-and-travel/30401e-visa-issuance"
+   },
+   {
+    "label": "Visa-free entry via Minsk airport for Indians (embassy page)",
+    "url": "https://india.mfa.gov.by/en/consular_issues/visas/visa_free"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Embassy visa application form (Word file)",
+    "url": "https://india.mfa.gov.by/kcfinder/upload/india/files/--_%D0%92%D1%96%D0%B7%D0%B0%D0%B2%D0%B0%D1%8F_%D0%B0%D0%BD%D0%BA%D0%B5%D1%82%D0%B0_(%D0%BD%D0%BE%D0%B2%D0%B0%D1%8F).docx"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Application form",
+    "note": "Typed or block letters, signed personally"
+   },
+   {
+    "item": "One colour photo",
+    "note": "See photo rules"
+   },
+   {
+    "item": "Original passport",
+    "note": "2 blank pages, valid 90 days after departure from Belarus"
+   },
+   {
+    "item": "Visa support document (invitation)",
+    "note": "Original; type depends on visa. Tourist support is typically from a Belarusian travel agency (details on the ministry link)"
+   },
+   {
+    "item": "Health insurance copy",
+    "note": "At least EUR 10,000, valid in Belarus for the stay"
+   },
+   {
+    "item": "Hotel booking confirmation on hotel letterhead",
+    "note": "Booking.com style confirmations not accepted"
+   },
+   {
+    "item": "Confirmed flight itinerary",
+    "note": "Required"
+   },
+   {
+    "item": "Bank statement for last 3 months or pay slip",
+    "note": "Required"
+   }
+  ],
+  "photo": {
+   "size": "35 x 45 mm",
+   "background": "plain, evenly lit, light",
+   "format": "Colour print, not older than 6 months, high resolution, no creases or ink",
+   "notes": "Full face covering 70 to 80 percent of the picture; no sunglasses or hat unless ethnic or religious",
+   "status": "verified"
+  },
+  "fee": "Embassy page: 60 EUR payable in INR (120 EUR urgent), paid at the bank by reference to surname, not at the embassy. E-visa: 60 EUR consular fee for most nationalities plus 6 EUR service fee (mfa.gov.by, read 2026-10-16).",
+  "processing": "Embassy: 5 days standard; about 48 hours express for extra fee if available. E-visa: considered within 7 calendar days.",
+  "applyEarly": "Embassy recommends applying not later than one month before the visit; e-visa application at least 7 days before entry.",
+  "biometrics": "Applicant must submit documents personally at the Embassy in New Delhi by prior email appointment (Monday to Thursday 09:30 to 12:30). Biometrics not mentioned.",
+  "centres": "New Delhi only (Embassy of Belarus)",
+  "warnings": [
+   "Appointment is by email only (india.consul@mfa.gov.by), not by phone.",
+   "The embassy states it works with no agents, so beware of facilitation offers.",
+   "Belarus is not in the Schengen area; the visa does not allow travel to the EU. Transit through Russia needs a Russian transit visa.",
+   "Register within the stated days after arrival if staying in private apartments."
+  ],
+  "unverified": [
+   "Whether India is among the 68 e-visa countries",
+   "Visa-free route requires used multiple-entry Schengen or EU visa (embassy page), recheck before travel",
+   "Exact tourist visa support document steps"
+  ],
+  "sources": [
+   "https://india.mfa.gov.by/en/consular_issues/visas/",
+   "https://mfa.gov.by/en/visa/general/evisa",
+   "https://india.mfa.gov.by/en/consular_issues/visas/visa_free"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
+ },
+ {
+  "country": "Belize",
+  "route": "embassy",
+  "summary": "Indian nationals are listed as needing a visa for Belize. Apply at the nearest Belizean diplomatic or consular mission with the visa form, passport, flight itinerary, employment letter and six months of bank statements. No Belize mission in India was found, so confirm with the Belize immigration ministry which mission handles Indian applicants.",
+  "applyLinks": [
+   {
+    "label": "How to apply for a Belize visa",
+    "url": "https://immigration.gov.bz/visa/visa-how-to-apply/"
+   },
+   {
+    "label": "Do you need a visa to visit Belize (India: yes)",
+    "url": "https://immigration.gov.bz/visa/visa-who-qualify/"
+   },
+   {
+    "label": "Belize visa requirements and documents",
+    "url": "https://immigration.gov.bz/visa/visa-requirements/"
+   },
+   {
+    "label": "Belize visa fees",
+    "url": "https://immigration.gov.bz/visa/visa-fees/"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Belize visa application form (PDF)",
+    "url": "https://immigration.gov.bz/wp-content/uploads/2020/12/Visa-Form.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Completed visa application form",
+    "note": "All sections; signature must match passport"
+   },
+   {
+    "item": "Passport",
+    "note": "Valid more than 6 months"
+   },
+   {
+    "item": "Flight itinerary",
+    "note": "Showing arrival in Belize and return date to country of origin"
+   },
+   {
+    "item": "Employment letter",
+    "note": "Issued within last 6 months, with employer, monthly salary and period of employment"
+   },
+   {
+    "item": "Bank statements",
+    "note": "Last six months of transactions"
+   },
+   {
+    "item": "Sponsor documents",
+    "note": "Only if sponsored: financial support letter, sponsor ID, proof of kinship, invitation letter, sponsor employment letter and bank statements"
+   },
+   {
+    "item": "Copies and translations",
+    "note": "Originals and copies; non-English documents must be translated and signed"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Visa requirements page does not list a photo",
+   "status": "unverified"
+  },
+  "fee": "BZD 750 single entry (valid 6 months) for nationals of India, Nepal, Thailand, Myanmar, Bangladesh, Pakistan and Sri Lanka; multiple entry BZD 1,000 (immigration.gov.bz, fees effective 1 May 2020, read 2026-10-16). Currency is Belize dollars.",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED. Submission is at a Belizean mission abroad; none found in India.",
+  "centres": "UNVERIFIED. The Belize immigration page says apply at the nearest Belizean diplomatic or consular mission; no mission in India was found.",
+  "warnings": [
+   "The fee for Indian nationals is much higher than for most nationalities.",
+   "A US visitor visa or US permanent residence may exempt you from the fees (fees page note, which says the fees do not apply to US residents or US visitor visa holders); check the entry rule with Belize immigration.",
+   "Visa stay is 30 days from entry; longer needs an extension in Belize.",
+   "Check which mission accepts applications from India before sending documents."
+  ],
+  "unverified": [
+   "Which Belize mission serves applicants in India",
+   "Processing time",
+   "Photo rules",
+   "Exact rule for Indians holding a US visa"
+  ],
+  "sources": [
+   "https://immigration.gov.bz/visa/visa-how-to-apply/",
+   "https://immigration.gov.bz/visa/visa-requirements/",
+   "https://immigration.gov.bz/visa/visa-fees/",
+   "https://immigration.gov.bz/visa/visa-who-qualify/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Benin",
+  "route": "online",
+  "summary": "Apply online for the Benin e-visa on the official platform evisa.bj before travel, upload your passport and photo, and pay online. Print the approval and carry it with your passport and yellow fever certificate. Fees and exact document list were not readable on the official page (JavaScript form), so check them on the 'costs' page of the portal.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Benin e-visa (official portal)",
+    "url": "https://evisa.bj/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid for at least 6 months and with a blank page (stated by secondary sites, UNVERIFIED on the official page)"
+   },
+   {
+    "item": "Digital passport photo",
+    "note": "Uploaded in the online form"
+   },
+   {
+    "item": "Scan of passport data page",
+    "note": "Uploaded online"
+   },
+   {
+    "item": "Return or onward ticket and accommodation details",
+    "note": "Usually asked, UNVERIFIED"
+   },
+   {
+    "item": "Yellow fever vaccination certificate",
+    "note": "Portal carries a notice about yellow fever card checks at entry; read it before travel"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Digital upload in the e-visa form; rules not readable on the official page",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (official portal has a 'costs of entry visas' page that needs JavaScript; secondary sites quote EUR 50 single entry 30 days, EUR 75 multiple 30 days, EUR 100 multiple 90 days)",
+  "processing": "UNVERIFIED (secondary sites say 1 to 2 business days)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "No visit to a centre in India for the e-visa. Secondary sources say biometrics may be taken on arrival in Benin, UNVERIFIED",
+  "centres": "Not applicable (online). UNVERIFIED whether Benin has a mission in India",
+  "warnings": [
+   "Use only evisa.bj. Sites such as beninevisa.com and benin-visa.com say they are not affiliated with the government and add service fees.",
+   "Carry your yellow fever certificate; the official portal flags checks at entry points.",
+   "Apply well before the flight and keep a printed copy of the approval."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo rules",
+   "Full document list",
+   "Biometrics on arrival",
+   "Mission in India"
+  ],
+  "sources": [
+   "https://evisa.bj/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Bolivia",
+  "route": "embassy",
+  "summary": "Indian citizens need a visa for Bolivia. Bolivia runs an official online visa request system at visas.cancilleria.gob.bo; start there to file the request and see which Bolivian mission handles it. Bolivia has no clearly confirmed embassy in India, so applicants usually go through a Bolivian mission abroad, which must be confirmed before you plan.",
+  "applyLinks": [
+   {
+    "label": "Bolivia online visa request system (Foreign Ministry)",
+    "url": "https://visas.cancilleria.gob.bo/#/"
+   },
+   {
+    "label": "Bolivia Foreign Ministry home page",
+    "url": "https://cancilleria.gob.bo/mre/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months (secondary sources, UNVERIFIED)"
+   },
+   {
+    "item": "Passport photo",
+    "note": "Recent, colour"
+   },
+   {
+    "item": "Return ticket and hotel booking or invitation letter",
+    "note": "Usually asked"
+   },
+   {
+    "item": "Bank statements or proof of funds",
+    "note": "Usually asked"
+   },
+   {
+    "item": "Yellow fever vaccination certificate",
+    "note": "Often required, especially for tropical areas"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Sometimes asked"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Not readable; the visa system page needs JavaScript",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (secondary sites quote about USD 30 for embassy visa; not confirmed)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "UNVERIFIED. No Bolivian mission in India was confirmed on an official page",
+  "warnings": [
+   "India is listed by Bolivian embassy sites among countries needing a visa applied for in advance at a mission, so do not count on a visa at the border.",
+   "Confirm which Bolivian embassy accepts Indian applicants before booking flights.",
+   "Complete the free SIGEMIG pre-registration on the Bolivian migration site if still required (secondary source)."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing",
+   "Photo rules",
+   "Document list",
+   "Which mission covers India",
+   "Biometrics"
+  ],
+  "sources": [
+   "https://visas.cancilleria.gob.bo/#/",
+   "https://cancilleria.gob.bo/mre/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Bosnia and Herz.",
+  "route": "embassy",
+  "summary": "Indian citizens need a visa to enter, exit or transit Bosnia and Herzegovina. Indian passport holders who hold a valid multiple-entry Schengen, US or EU state visa, or a residence permit of those, may enter without a visa (per BiH embassy pages for other countries; check the India entry). Otherwise apply at a Bosnian mission, and confirm which one covers India on the Foreign Ministry page.",
+  "applyLinks": [
+   {
+    "label": "Example BiH embassy visa page and form (Washington, for the general process)",
+    "url": "https://www.bhembassy.org/visainfo.html"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid beyond the stay"
+   },
+   {
+    "item": "Visa application form",
+    "note": "From the mission handling your case"
+   },
+   {
+    "item": "Photo",
+    "note": "Passport style"
+   },
+   {
+    "item": "Proof of accommodation, funds and return ticket",
+    "note": "Usually asked"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Usually asked"
+   },
+   {
+    "item": "Valid multiple-entry Schengen/US/EU visa or residence permit",
+    "note": "Only if using the visa-free exemption"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Not confirmed",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED (BiH embassy states visa applications are submitted in person)",
+  "centres": "UNVERIFIED. No Bosnian embassy in India was confirmed",
+  "warnings": [
+   "The official Foreign Ministry site failed an automated certificate check; open it in a normal browser.",
+   "Check the multiple-entry Schengen/US visa exemption on the official page before applying.",
+   "Airlines may refuse boarding without correct documents."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing",
+   "Photo rules",
+   "Mission covering India",
+   "Biometrics",
+   "India page content not read (certificate error)"
+  ],
+  "sources": [
+   "https://www.bhembassy.org/visainfo.html"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Brunei",
+  "route": "embassy",
+  "summary": "Indian nationals must get a visa before travel from the High Commission of Brunei Darussalam in New Delhi. Fill in the visa application form, submit passport, photos and supporting papers in person during the submission window, then collect the visa. Processing is five working days from submission.",
+  "applyLinks": [
+   {
+    "label": "Brunei High Commission New Delhi: consular services and short visit visa",
+    "url": "https://www.mfa.gov.bn/india-newdelhi/SitePages/consularservices.aspx"
+   },
+   {
+    "label": "Brunei High Commission New Delhi home",
+    "url": "https://www.mfa.gov.bn/india-newdelhi/"
+   },
+   {
+    "label": "Brunei MFA visa information",
+    "url": "https://www.mfa.gov.bn/Pages/Visa-Information.aspx"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Completed visa application form",
+    "note": "One per applicant; the form link was not isolated, see consular services page"
+   },
+   {
+    "item": "Original passport",
+    "note": "Valid at least 6 months past entry date with at least 6 unmarked pages"
+   },
+   {
+    "item": "Copy of passport",
+    "note": ""
+   },
+   {
+    "item": "Two passport-size photos",
+    "note": "Blue or white background"
+   },
+   {
+    "item": "Invitation letter from sponsor in Brunei and/or statutory declaration stamped by a Magistrate in Brunei",
+    "note": "Listed for the short visit visa"
+   },
+   {
+    "item": "Confirmed return flight itinerary",
+    "note": "Copy"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Hotel booking or address in Brunei"
+   },
+   {
+    "item": "Bank statement",
+    "note": "Copy"
+   },
+   {
+    "item": "Marriage/birth certificates, sponsor ID, passport and employment pass copies",
+    "note": "Only if applicable to a family visit"
+   }
+  ],
+  "photo": {
+   "size": "Passport size (exact mm UNVERIFIED)",
+   "background": "Blue or white",
+   "format": "Two recent printed photos",
+   "notes": "Recent photos",
+   "status": "verified"
+  },
+  "fee": "Short visit: INR 1,000 single entry, INR 2,500 multiple entry (High Commission page, checked 2026-10-16)",
+  "processing": "Five working days from submission (High Commission page)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Submission in person at the High Commission is implied; fingerprints UNVERIFIED",
+  "centres": "New Delhi only (High Commission). Submission Mon to Fri 0930 to 1100, collection 1330 to 1430, except public holidays",
+  "warnings": [
+   "The tourist route here needs a sponsor invitation or statutory declaration, so pure self-planned tourism may be hard; ask the High Commission.",
+   "Passport needs 6 unmarked pages.",
+   "Submission window is short (about 90 minutes in the morning).",
+   "Travel health insurance and e-arrival card are asked on entry per secondary sources, UNVERIFIED."
+  ],
+  "unverified": [
+   "Application form download link",
+   "Exact photo size",
+   "Whether fingerprints are taken",
+   "Advance application limit"
+  ],
+  "sources": [
+   "https://www.mfa.gov.bn/india-newdelhi/SitePages/consularservices.aspx"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
+ },
+ {
+  "country": "Bulgaria",
+  "route": "mixed",
+  "summary": "Bulgaria is in the Schengen area since 31 March 2024, so a short stay (Visa C) is applied for at the Bulgarian Embassy in New Delhi via VFS Global. Book a VFS appointment (slots reportedly open on the second Monday of the month at 2 pm), submit documents and biometrics, and wait for the embassy decision.",
+  "applyLinks": [
+   {
+    "label": "Book a VFS appointment for Bulgaria in India",
+    "url": "https://visa.vfsglobal.com/ind/en/bgr/book-an-appointment"
+   },
+   {
+    "label": "Bulgarian MFA: visa for Bulgaria",
+    "url": "https://www.mfa.bg/en/services-travel/consular-services/travel-bulgaria/visa-bulgaria"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Schengen visa application form",
+    "note": "Signed"
+   },
+   {
+    "item": "Passport",
+    "note": "Schengen rules: valid 3 months past departure, issued within 10 years, 2 blank pages (standard rule, UNVERIFIED for this mission)"
+   },
+   {
+    "item": "Photos",
+    "note": "Schengen standard"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "At least EUR 30,000 covering Bulgaria/Schengen"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "At least EUR 50 per day and not less than EUR 500; bank statements for 3 months and income tax returns (old VFS checklist for another country, UNVERIFIED for India now)"
+   },
+   {
+    "item": "Itinerary, flights and accommodation",
+    "note": "Required"
+   },
+   {
+    "item": "Employment or business proof, leave letter",
+    "note": "Usually required"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED (Schengen standard 35 x 45 mm)",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Check the VFS India Bulgaria page",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (Schengen visa fee is EUR 90 plus VFS service fee; not confirmed on a page opened)",
+  "processing": "Up to 15 calendar days normally, can extend to 30 or 60 (VFS checklist for another country, UNVERIFIED for India)",
+  "applyEarly": "Schengen rule: up to 6 months before travel; slots may be released monthly, UNVERIFIED",
+  "biometrics": "Yes, in person at VFS (fingerprints and photo) per Schengen rules",
+  "centres": "VFS Global Bulgaria centres in New Delhi, Ahmedabad, Bengaluru, Chennai, Kolkata, Mumbai are announced for D visas; which of these take C visas is UNVERIFIED. VFS has handled C visas for Bulgaria in New Delhi",
+  "warnings": [
+   "Appointment slots are scarce; reported to open monthly, so check on release day.",
+   "Do not book non-refundable tickets before the visa.",
+   "Other Schengen countries follow the same Schengen rules but apply through their own missions.",
+   "The Bulgarian MFA site blocks automated tools."
+  ],
+  "unverified": [
+   "Fee",
+   "Current document list for India",
+   "Photo rules",
+   "Which cities take C visas",
+   "Processing time for India"
+  ],
+  "sources": [
+   "https://visa.vfsglobal.com/ind/en/bgr",
+   "https://visa.vfsglobal.com/ind/en/bgr/book-an-appointment",
+   "https://www.vfsglobal.com/en/PDF/media-releases/2025/MR_Bulgaria_D_visa_services_rollout_in_India_Oct_2025.pdf"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Burkina Faso",
+  "route": "online",
+  "summary": "Apply through the Burkina Faso eVisa portal (visaburkina.bf): fill in the form, pay the fee online and receive the decision by email. The portal lists a short-stay visa for tourism, business or family visits, valid up to 90 days. Whether an Indian passport holder can use the eVisa or must go through a Burkina Faso mission was not confirmed on an official page.",
+  "applyLinks": [
+   {
+    "label": "Burkina Faso eVisa portal home",
+    "url": "https://www.visaburkina.bf/en/home"
+   },
+   {
+    "label": "Short-stay visa: documents and fees",
+    "url": "https://www.visaburkina.bf/en/entry-visas-to-burkina-faso-the-short-term-visa"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Valid passport",
+    "note": "Validity period not stated on the page read"
+   },
+   {
+    "item": "Completed, dated and signed application form",
+    "note": "Done online on the portal"
+   },
+   {
+    "item": "Two recent colour photos",
+    "note": "3.5 x 4.5 cm, white background"
+   },
+   {
+    "item": "Hotel reservation",
+    "note": "Stated as required for the tourist visa"
+   },
+   {
+    "item": "Proof of the reason for stay",
+    "note": "Listed on the official page"
+   },
+   {
+    "item": "Medical certificate showing no contagious disease",
+    "note": "Listed on the official page"
+   },
+   {
+    "item": "Health insurance certificate covering the stay",
+    "note": "Listed on the official page"
+   },
+   {
+    "item": "Stamp duty payment receipt",
+    "note": "Listed on the official page"
+   },
+   {
+    "item": "Yellow fever vaccination certificate",
+    "note": "Commonly required for entry; not seen on the pages read"
+   }
+  ],
+  "photo": {
+   "size": "3.5 x 4.5 cm",
+   "background": "white",
+   "format": "colour, recent; digital upload specs not stated",
+   "notes": "Two photos listed for the short-stay visa",
+   "status": "verified"
+  },
+  "fee": "Tourist visa: 33 000 F CFA single entry, 55 000 F CFA multiple entries; express visa 104 500 F CFA (official eVisa site, read 2026-10-16). Indian rupee amount not stated.",
+  "processing": "UNVERIFIED (not stated on the pages read)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED (the eVisa is online; any in-person step for Indian applicants not confirmed)",
+  "centres": "UNVERIFIED (no Burkina Faso visa centre in India confirmed)",
+  "warnings": [
+   "Hotel reservation is required for the tourist visa, so book (refundable) accommodation first.",
+   "Use only the .bf government portal; look-alike agent sites charge extra service fees.",
+   "The page also mentions an AES visa; check whether it applies to Indian citizens.",
+   "Check yellow fever certificate rules before travel."
+  ],
+  "unverified": [
+   "Eligibility of Indian passport holders for the eVisa",
+   "Processing time and how early to apply",
+   "Passport validity requirement",
+   "Biometrics and any mission in India",
+   "Yellow fever requirement"
+  ],
+  "sources": [
+   "https://www.visaburkina.bf/en/home",
+   "https://www.visaburkina.bf/en/entry-visas-to-burkina-faso-the-short-term-visa"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Burundi",
+  "route": "online",
+  "summary": "Burundi's Commissariat General des Migrations runs an online visa application with payment, after which you print a visa application certificate and show it at the entry point (airport). Start on the migration.gov.bi airport entry visa form, choose Tourism as the purpose and pay online. The site is mainly in French.",
+  "applyLinks": [
+   {
+    "label": "Apply for the entry (airport) visa online",
+    "url": "https://migration.gov.bi/Apply/step1/8"
+   },
+   {
+    "label": "Visa information and steps (French)",
+    "url": "https://migration.gov.bi/Services"
+   },
+   {
+    "label": "Burundi migration portal home",
+    "url": "https://www.migration.gov.bi"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Validity not stated on the pages read; 6 months is the usual rule"
+   },
+   {
+    "item": "Accommodation (hotel name chosen from a list in the form)",
+    "note": "Required by the online form"
+   },
+   {
+    "item": "Scanned documents",
+    "note": "Upload limit stated as 200 kb each (.pdf, .png, .jpg, .jpeg)"
+   },
+   {
+    "item": "Passport photo",
+    "note": "Spec not stated on the pages read"
+   },
+   {
+    "item": "Return ticket",
+    "note": "Sometimes required; not confirmed on official page"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Sometimes required; not confirmed"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "uploads limited to 200 kb (pdf, png, jpg, jpeg)",
+   "notes": "Photo rules not found on the official pages read",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED for Indian citizens (the official Services page was read but no tourist fee was found for the entry visa; third party sites quote USD 90 single entry, not confirmed).",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "None expected for the airport entry visa; the visa is issued at the entry point. UNVERIFIED.",
+  "centres": "No visa centre in India confirmed",
+  "warnings": [
+   "The visa is collected on arrival, so carry the printed application certificate.",
+   "The online form requires a named hotel or lodging.",
+   "Third party sites quote different prices; trust only migration.gov.bi.",
+   "Cheap look-alike e-visa sites exist; check the domain."
+  ],
+  "unverified": [
+   "Tourist fee for Indian citizens",
+   "Photo specification",
+   "Processing time",
+   "Passport validity and ticket requirement",
+   "Any Burundi mission covering India"
+  ],
+  "sources": [
+   "https://migration.gov.bi/Apply/step1/8",
+   "https://migration.gov.bi/Services",
+   "https://www.migration.gov.bi"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Cabo Verde",
+  "route": "mixed",
+  "summary": "Every foreign visitor must pre-register on the EASE portal at least 5 days before travel and pay the airport security fee (TSA). The EASE site says that from 1 January 2026 nationals of countries on its published list must get an entry visa from a Cabo Verde embassy before arrival. In the PDF list I extracted, India did not appear, but extraction was rough, so confirm on the EASE page.",
+  "applyLinks": [
+   {
+    "label": "EASE pre-registration and airport security fee",
+    "url": "https://www.ease.gov.cv/"
+   },
+   {
+    "label": "Cabo Verde consular portal: visa types",
+    "url": "https://portalconsular.mnec.gov.cv/en/vistos"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid for the stay; exact validity UNVERIFIED"
+   },
+   {
+    "item": "EASE pre-registration confirmation",
+    "note": "Register up to 5 days before the trip"
+   },
+   {
+    "item": "Proof of airport security fee (TSA) payment",
+    "note": "Paid through EASE"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Typically asked at entry; not confirmed on official page"
+   },
+   {
+    "item": "Accommodation booking",
+    "note": "Typically asked; not confirmed"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from a risk country; not confirmed"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "No photo needed for EASE pre-registration as far as seen",
+   "status": "unverified"
+  },
+  "fee": "Airport security fee (TSA) is paid via EASE; amount UNVERIFIED. The consular portal lists a tourism visa with a 60 day use period and 90 day stay, but no fee was read.",
+  "processing": "UNVERIFIED",
+  "applyEarly": "Pre-register at least 5 days before departure (official).",
+  "biometrics": "UNVERIFIED",
+  "centres": "No Cabo Verde mission in India confirmed; if a visa is required apply at the nearest embassy.",
+  "warnings": [
+   "Check the EASE country list for your nationality before booking flights.",
+   "Pre-registration must be done before check-in; airlines may refuse boarding without it.",
+   "Use ease.gov.cv only; copy sites add fees."
+  ],
+  "unverified": [
+   "Whether Indian citizens need a visa or only EASE",
+   "TSA amount",
+   "Nearest embassy covering India",
+   "Photo and passport validity rules"
+  ],
+  "sources": [
+   "https://www.ease.gov.cv/",
+   "https://portalconsular.mnec.gov.cv/en/vistos",
+   "https://www.ease.gov.cv/assets/lista_de_paises.pdf"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Cameroon",
+  "route": "online",
+  "summary": "Apply on the official Cameroon e-visa portal (evisacam.cm): register, log in, open Visa Applications, fill in the form, upload documents and pay. Cameroon embassy pages state that all entry visas must now be applied for online. Fees, photo rules and any in-person step for Indians were not readable without logging in.",
+  "applyLinks": [
+   {
+    "label": "Cameroon e-visa portal home",
+    "url": "https://www.evisacam.cm/ords/dl_portal/r/public_portal/home"
+   },
+   {
+    "label": "Log in or register to apply",
+    "url": "https://www.evisacam.cm/ords/r/dl_portal/public_portal/login-page"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Validity UNVERIFIED"
+   },
+   {
+    "item": "Photo",
+    "note": "Upload; spec UNVERIFIED"
+   },
+   {
+    "item": "Accommodation booking or invitation",
+    "note": "Usually asked; UNVERIFIED"
+   },
+   {
+    "item": "Return ticket",
+    "note": "Usually asked; UNVERIFIED"
+   },
+   {
+    "item": "Bank statement",
+    "note": "Sometimes asked; UNVERIFIED"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Usually required for entry; UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Behind login; not read",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (shown after login)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED (a Cameroon embassy page in the Netherlands mentions collecting biometrics at the border for some applicants; not confirmed for India)",
+  "centres": "UNVERIFIED (no mission in India confirmed)",
+  "warnings": [
+   "Use only evisacam.cm; there are many fake e-visa sites.",
+   "The portal pages are French or English; choose EN at the top.",
+   "Pay only through the portal's own payment step."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Documents list",
+   "Photo rules",
+   "Biometrics",
+   "Mission in India"
+  ],
+  "sources": [
+   "https://www.evisacam.cm/ords/dl_portal/r/public_portal/home",
+   "https://www.evisacam.cm/ords/r/dl_portal/public_portal/login-page"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Central African Republic",
+  "route": "embassy",
+  "summary": "No online visa portal for Central African Republic was found or confirmed. Visas are normally applied for at a Central African Republic embassy; no mission in India was confirmed, so the nearest embassy or the mission covering South Asia has to be contacted. The CAR embassy in Washington states all travellers need a visa.",
+  "applyLinks": [
+   {
+    "label": "CAR embassy visa page (official, Washington, shows the general process)",
+    "url": "https://www.usrcaembassy.org/visa"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Validity UNVERIFIED"
+   },
+   {
+    "item": "Photos",
+    "note": "Spec UNVERIFIED"
+   },
+   {
+    "item": "Application form from the embassy",
+    "note": "Obtained from the embassy"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Usually required; UNVERIFIED"
+   },
+   {
+    "item": "Hotel booking or invitation",
+    "note": "Usually asked; UNVERIFIED"
+   },
+   {
+    "item": "Return ticket",
+    "note": "Usually asked; UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Not confirmed on an official page",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (the Washington embassy page lists its own US fees, not applicable to India)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "None confirmed in India",
+  "warnings": [
+   "Travel advisories for CAR are severe; check your government's advice first.",
+   "Agents quote high service fees; confirm with an embassy.",
+   "Embassy details for India must be confirmed before paying anyone."
+  ],
+  "unverified": [
+   "Whether any mission or e-visa serves Indian applicants",
+   "Fee, documents, photo, processing",
+   "Biometrics"
+  ],
+  "sources": [
+   "https://www.usrcaembassy.org/visa"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
  }
 ]
