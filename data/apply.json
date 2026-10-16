@@ -11180,7 +11180,8 @@
    "Photo size and format",
    "Exact document checklist",
    "Whether VFS or another centre is used in India",
-   "Embassy page could not be opened from our server (connection timeout); content known only from the official search result"
+   "Embassy page could not be opened from our server (connection timeout); content known only from the official search result",
+   "The Romanian embassy visa page in New Delhi timed out and was dropped from the links."
   ],
   "sources": [
    "https://eviza.mae.ro",
@@ -11397,7 +11398,12 @@
   "country": "Sao Tome and Principe",
   "route": "online",
   "summary": "Indian citizens need a visa in advance. The country offers a 30-day tourist e-Visa applied for online; applications are checked in about 5 business days and the approval letter is shown at check-in and at the airport, where the visa is stamped and a stamping fee is paid. The portal listed in the FAQ is www.smf.st, which did not open from our server.",
-  "applyLinks": [],
+  "applyLinks": [
+   {
+    "label": "Sao Tome e-visa information (private guide site, not a government page)",
+    "url": "https://saotomeislands.com/evisa/faq.html"
+   }
+  ],
   "formLinks": [],
   "documents": [
    {
@@ -11444,7 +11450,7 @@
    "Photo rules",
    "Document list for Indians",
    "Sites above returned 406 to scripts but opened in a text fetch",
-   "No working official apply link could be confirmed. Search for the official visa page."
+   "This link is a private visa-guide site, not a government portal. It opens in a browser but blocks automatic checks. The official portal could not be found, so confirm with the Embassy or the Sao Tome immigration authority."
   ],
   "sources": [
    "https://saotomeislands.com/evisa/faq.html",
