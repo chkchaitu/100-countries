@@ -193,7 +193,7 @@ async function boot(){
  const CAT={visa_free:'f',on_arrival:'f',evisa:'e',conditional:'e',visa_required:'r',unknown:'c'};
  Vi.records.forEach(r=>{VREC[r.country]=r;V[r.country]=CAT[r.category]||'c';LEVTXT[r.country]=r.rule;r.easedBy.forEach(k=>{(LEV[k]=LEV[k]||[]).push(r.country)})});
  for(const t of TRIPS)for(const c of t.ctry)CITIES[c]=t.c;
- ALLC=[...new Set([...TRIPS.flatMap(t=>t.ctry),...(T.hubs?T.hubs.countries:[]),...Cp.map(c=>c.country)])].sort();
+ ALLC=[...new Set([...TRIPS.flatMap(t=>t.ctry),...(T.hubs?T.hubs.countries:[]),...(T.extras?T.extras.countries:[]),...Cp.map(c=>c.country)])].sort();
  document.getElementById('sCountries').textContent=ALLC.length;document.getElementById('sAtlasLead').textContent=ALLC.length;
  document.getElementById('sDays').textContent=TRIPS.reduce((a,t)=>a+t.d,0);
  document.getElementById('sNew').textContent=new Set(TRIPS.flatMap(t=>t.ctry)).size;document.getElementById('sTrips').textContent=TRIPS.length;
@@ -264,7 +264,7 @@ async function boot(){
  function openCountry(n){const p=PROFILES[n],v=VREC[n],tr=TRIPS.find(t=>t.ctry.includes(n));const box=document.getElementById('cbody');
   if(!p&&!v){box.innerHTML=`<h2>${esc(n)}</h2><p class="meta">This country is not in the atlas yet. More are coming.</p>`}else{
   const mo=(p&&p.bestMonths)||[];const els=[];
-  els.push(`<h2>${esc(n)}</h2><p class="meta">${esc((p&&p.region)||'')}${p&&p.capital?' · capital '+esc(p.capital):''}${tr?` · <a href="#trips" data-trip="${esc(tr.c)}">Trip ${esc(tr.c)}: ${esc(tr.n)}</a>`:(p&&p.trip==='H'?' · visited hub':'')}</p>`);
+  els.push(`<h2>${esc(n)}</h2><p class="meta">${esc((p&&p.region)||'')}${p&&p.capital?' · capital '+esc(p.capital):''}${tr?` · <a href="#trips" data-trip="${esc(tr.c)}">Trip ${esc(tr.c)}: ${esc(tr.n)}</a>`:(p&&p.trip==='H'?' · visited hub':(p&&p.trip==='X'?' · added on request, thin profile':''))}</p>`);
   if(v)els.push(`<h3>Visa for an Indian passport</h3><p><span class="tag">${esc(CATL[v.category]||'')}</span><span class="tag">${esc(v.status)}</span></p><p>${esc(v.rule)}</p>${v.easedBy&&v.easedBy.length?`<p class="meta">Eased by: ${v.easedBy.map(k=>esc((DATAINFO.visa.visaKeys||{})[k]||k)).join(', ')}.</p>`:''}<p class="meta" style="font-size:12px">Checked ${esc(v.lastChecked)} · ${srcLinks(v.sources)}<br>${esc(v.note||'')}</p>`);
   if(p&&p.places&&p.places.length)els.push(`<h3>Places to visit</h3><ul>${p.places.map(x=>`<li><b>${esc(x.name)}</b>${x.note?': '+esc(x.note):''}${x.fee?` <span class="meta">(${esc(x.fee)})</span>`:''}</li>`).join('')}</ul>`);
   if(mo.length)els.push(`<h3>Best months for a low budget</h3><div class="mo">${MN.map((m,i)=>`<div class="${mo.includes(i+1)?'hi':''}">${m}</div>`).join('')}</div>`);

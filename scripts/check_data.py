@@ -5,7 +5,7 @@ TODAY=datetime.date.today()
 L=lambda p:json.load(open(p,encoding='utf-8'))
 trips,visa,prof=L('data/trips.json'),L('data/visa.json'),L('data/countries.json')
 err,warn=[],[]
-atlas={c for t in trips['trips'] for c in t['countries']}|set(trips.get('hubs',{}).get('countries',[]))
+atlas={c for t in trips['trips'] for c in t['countries']}|set(trips.get('hubs',{}).get('countries',[]))|set(trips.get('extras',{}).get('countries',[]))
 vr={r['country']:r for r in visa['records']};pr={p['country']:p for p in prof}
 for c in sorted(atlas):
     if c not in vr:err.append(f'{c}: no visa record')

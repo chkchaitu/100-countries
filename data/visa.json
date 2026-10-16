@@ -1800,6 +1800,136 @@
    ],
    "lastChecked": "2026-10-16",
    "note": "Probable, not final. The 12 hour transit rule is a traveller report. Confirm on hayya.qa before you fly."
+  },
+  {
+   "country": "China",
+   "name": "China",
+   "trip": "X",
+   "category": "visa_required",
+   "rule": "Visa required before travel for Indian ordinary passport holders. Apply for an L tourist visa through the Chinese Embassy and Consulates in India and their visa application service centres (online form first, then passport submission in person). Standard processing is about 4 working days. Reported embassy fee for Indians is INR 2,900 for single entry under a reduced fee scheme said to run to 31 December 2026 (an older list shows INR 3,900), plus a service centre fee; UNVERIFIED because the embassy pages were not readable. Passport validity: commonly 6 months, UNVERIFIED. India is not on China's 240 hour visa free transit list (55 countries, read on the Chinese consulate Chicago page), and no unilateral visa free entry for Indians was found. No US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visa waives or eases the Chinese visa for Indians.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://chicago.china-consulate.gov.cn/eng/lsfw/qzsq/202605/t20260506_11904889.htm",
+    "https://in.china-embassy.gov.cn/eng/"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "UNVERIFIED: exact current fee, passport validity and fingerprint rules (embassy page returned no content; fee figures come from agent sites). MEA lists China on its travel advisory index, content not read. Restricted areas such as Tibet need extra permits. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Russia",
+   "name": "Russia",
+   "trip": "X",
+   "category": "evisa",
+   "rule": "Visa required. The official Russian MFA e-visa portal (electronic-visa.kdmid.ru) grants a unified e-visa to nationals of 64 states; a secondary source says India is on the list. Reported terms: single entry, stay up to 16 days, valid 60 days from issue, processed in about 4 calendar days, fee about USD 52 (about INR 4,500), entry through listed border points including Moscow and St Petersburg airports. Passport validity, the exact fee and the list of entry points are UNVERIFIED. The Russian Embassy in India page says Indians need a visa but was blocked by a captcha. No US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visa eases the Russian visa for Indians.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://electronic-visa.kdmid.ru/index_en.html",
+    "https://india.mid.ru/en/consular-affairs/visa",
+    "https://hiddenroutes.in/visa/russia"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Ministry of External Affairs warned in September 2026 about recruitment into the Russian armed forces (from news reports). UNVERIFIED: India's presence on the e-visa list and the fee (embassy page blocked by captcha, so the aggregator figure was used). MEA has warned Indians against travel linked to joining the Russian armed forces (news reports, September 2026), and Russia sits on the MEA advisory index. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Israel",
+   "name": "Israel",
+   "trip": "X",
+   "category": "evisa",
+   "rule": "Visa required; Indians are not eligible for the visa free ETA-IL. Indian passport holders resident in India can apply for an eVisa B2 (visit, tourism, business, short studies) on the official Israeli portal israel-entry.piba.gov.il, launched in 2025 per the Embassy of Israel in New Delhi. Handling fee 105 NIS (about INR 2,500), plus a logistics fee of about INR 1,985 charged on an agent site; validity up to 90 days at the consul's decision. Processing time, passport validity and exact entry points are UNVERIFIED. No US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visa was found to waive or ease this for Indians.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://embassies.gov.il/india/en/announcements/evisa",
+    "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
+    "https://www.mea.gov.in/advisories-details.htm?46="
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Check the Ministry of External Affairs advisory (date unread) before travel. UNVERIFIED: gov.il was blocked and the PIBA page needed JavaScript, so fees come from search snippets. The MEA page found says Indians are advised not to travel to Iran or Israel till further notice; its date was not read, so check the current MEA advisory before planning. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Mongolia",
+   "name": "Mongolia",
+   "trip": "X",
+   "category": "evisa",
+   "rule": "Visa required. Mongolia's official portal evisa.mn issues e-visas (tourist K2 type listed by the Immigration Agency) to nationals of an eligible country list; passport must be valid at least 180 days, the e-visa is non-extendable, and the fee is non-refundable. An aggregator shows an e-visa for Indians at about USD 120 for a single entry and 30 days, and also mentions visa on arrival; both are UNVERIFIED, as is whether India is on the official e-visa list. Otherwise apply at a Mongolian mission. Foreigners must register within the time stated on the portal. No visa from the US, UK, Schengen, Canada, Australia, NZ, Japan or Korea was confirmed to waive or ease the Mongolian visa for Indians.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://evisa.mn/",
+    "https://immigration.gov.mn/en/articles/124",
+    "https://apply.joinsherpa.com/visa/mongolia/indian-citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "UNVERIFIED: India's eligibility, fee and stay length (portal pages loaded only partly; the fee came from an aggregator). No MEA advisory was checked for Mongolia. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Ghana",
+   "name": "Ghana",
+   "trip": "X",
+   "category": "evisa",
+   "rule": "Indian ordinary passport holders are not visa exempt, so a visa is needed before travel. Since 25 May 2026 Ghana runs an official online eVisa portal (Ghana Immigration Service with the Foreign Ministry) for tourism or business, offered as an alternative to applying at a Ghana mission. Approval usually takes 72 to 96 hours, the eVisa is emailed and shown printed or digital at any port of entry. A specimen tourist eVisa on the portal shows single entry, 30 days stay, and a note that the passport must be valid at least 6 months beyond the stay. Visa on arrival has been replaced by pre-approval only (host sponsored, not for casual tourists). Fee: UNVERIFIED (not shown on pages read). Yellow fever vaccination certificate: UNVERIFIED on official pages read; Ghana is widely reported to require it for travellers aged 9 months and over, so carry the certificate. An Indian's US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visa does not waive or ease the Ghana visa (no official source says it does).",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://evisa.immigration.gov.gh/",
+    "https://www.fragomen.com/insights/ghana-new-electronic-travel-authorization-eta-and-evisa-requirements-visa-on-arrival-discontinued.html",
+    "https://gis.gov.gh/visas"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Portal read but fee, Indian specific stay length and yellow fever rule are UNVERIFIED; Ghana mission in India page not reachable (domain did not resolve); MEA advisory for Ghana not checked. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Nigeria",
+   "name": "Nigeria",
+   "trip": "X",
+   "category": "evisa",
+   "rule": "Indian citizens need a visa before travel; no visa on arrival was found for Indians. Nigeria Immigration Service offers a Tourism Visa (F5A) through its e-Visa portal: single entry, 30 days, not extendable. Requirements per NIS: passport valid at least 6 months, passport photo, return ticket, hotel booking or host address, and 180 days bank statement. Business single entry visa is also 30 days. Visas over 90 days or other classes are through an embassy. Landing and exit cards are mandatory for all passengers (from 1 May 2025). Fee: UNVERIFIED. Yellow fever card: listed as an entry document on Nigeria's Foreign Ministry travel advisory page, so carry it. Ebola screening info was updated on the UK FCDO page on 28 September 2026 (details not read). An Indian's US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visa does not waive or ease the Nigerian visa; it is only useful as supporting evidence.",
+   "easedBy": [],
+   "status": "confirmed",
+   "sources": [
+    "https://immigration.gov.ng/nigerian-visa",
+    "https://immigration.gov.ng/info-center/tourism-visa-f5a",
+    "https://www.foreignaffairs.gov.ng/travel-advisory",
+    "https://www.gov.uk/foreign-travel-advice/nigeria"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Fee and Indian specific processing time UNVERIFIED; e-visa portal needs login so not read. India MEA advisory for Nigeria not found on the MEA list snippet; UK FCDO advises against all travel to parts of Nigeria and US says reconsider travel. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Bolivia",
+   "name": "Bolivia",
+   "trip": "X",
+   "category": "unknown",
+   "rule": "UNVERIFIED for Indians. Bolivia sorts nationalities into three groups (visa free, visa without prior authorisation, prior consular authorisation). Non-official guides say the US, UK, EU, Canada, Australia, NZ, Japan and South Korea became visa free for 90 days from 1 December 2025, and say India is not in that group. Sources conflict on India: Wikipedia lists visa on arrival (90 days) but cites a note that visa on arrival is no longer available (April 2025), and one guide places most of Asia in a visa on arrival group (USD 30 to 52). Plan on getting a visa from a Bolivian embassy or consulate before travel and confirm with the Bolivian embassy that covers India (not located) and the migration portal migracion.gob.bo (not read). Free online pre-registration SIGEMIG with QR code is expected for all visitors (opens 30 days before travel). Passport validity 6 months, onward ticket and accommodation proof expected. Yellow fever: required for arrivals from endemic countries and for the Amazon lowlands (Beni, Pando, Santa Cruz area below about 2,300 m); CDC lists the vaccine as required for all arriving travellers aged 1 year and over, while other sources call it route dependent; carry the physical yellow booklet. Indian visa holders: no Bolivian easing found; a US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visa is not known to waive it.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://www.bolivianlife.com/travel-tips/bolivia-entry-requirements-visa-sigemig-yellow-fever",
+    "https://lovebolivia.com/bolivia-visa-requirements-2026-by-nationality/",
+    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/bolivia",
+    "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "Category not confirmed: sources conflict on visa on arrival versus visa required. UNVERIFIED: no official Bolivian government or embassy page was read, so India's exact category, fee and stay length are not confirmed; sources conflict. Verify with the embassy before booking. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+  },
+  {
+   "country": "Cuba",
+   "name": "Cuba",
+   "trip": "X",
+   "category": "evisa",
+   "rule": "Indian citizens need a tourist visa before boarding; no visa on arrival. Since 1 July 2025 the old tourist card has been replaced by an electronic visa (eVisa), reported as single entry, 90 days stay, extendable once for 90 days, linked to the passport. Apply through Cuba's official eVisa portal (evisacuba.cu, could not be read: certificate error) or the Cuban embassy in New Delhi (embassy page not read). Also required: the free D'Viajeros online customs and health form, filled within about 7 days before arrival (QR code), passport valid 6 months beyond entry, medical travel insurance, return or onward ticket and accommodation details. Fee: UNVERIFIED (US based agent pages mention about USD 85 and up, not official). Yellow fever certificate: UNVERIFIED; commonly only asked if arriving from a country with yellow fever risk. Canada's advice says Visa and Mastercard cards stopped being accepted in Cuba from 6 June 2026, so carry cash. An Indian's US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visa does not waive or ease the Cuban visa.",
+   "easedBy": [],
+   "status": "probable",
+   "sources": [
+    "https://evisacuba.cu/en/inicio",
+    "https://travel.gc.ca/destinations/cuba",
+    "https://www.weroad.com/blog/cuba-visa",
+    "https://tourismanalytics.com/expertinsights/cuba-makes-electronic-visas-mandatory-from-july-1-2025"
+   ],
+   "lastChecked": "2026-10-16",
+   "note": "UNVERIFIED: evisacuba.cu only seen via search snippet (fetch failed on certificate), Cuban embassy in India page not read, fee and Indian specific rule from secondary sources; MEA advisory for Cuba not checked. Power cuts and fuel shortages reported; check current conditions. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
   }
  ]
 }

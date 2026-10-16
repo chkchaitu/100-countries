@@ -7663,5 +7663,685 @@
   "lastChecked": "2026-10-16",
   "confidence": "research",
   "notes": "Only land border is Saudi Arabia (Abu Samra) and entry needs a Saudi visa (not checked). Practical country adding: flights to Bahrain, Muscat, Dubai. Free 'Doha Stopover' tour via Qatar Airways transit is common, UNVERIFIED. Best months low budget: [10, 11, 3, 4]; best weather: [11, 12, 1, 2, 3]. Warnings: Extreme heat 45 plus C Jun to Sep, humid; sandstorms Mar to Jun; Ramadan hours; no hurricanes; rare floods. Budget pieces: Budget hotel INR 3,500 to 6,000; food INR 1,200 to 2,200; metro and bus INR 300 to 700; sights INR 300 to 800 (estimate) MEA: UNVERIFIED: no MEA advisory for Qatar found; Indian Embassy Doha publishes notices. Gulf region security notices occasional."
+ },
+ {
+  "country": "China",
+  "region": "Asia",
+  "capital": "Beijing",
+  "places": [
+   {
+    "name": "Beijing",
+    "note": "Great Wall, Forbidden City, hutongs",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Shanghai",
+    "note": "The Bund, water towns nearby, fast trains",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Xi'an",
+    "note": "Terracotta Army and city walls",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Chengdu",
+    "note": "Giant pandas and Sichuan food",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Guilin and Yangshuo",
+    "note": "Karst hills, Li River",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Zhangjiajie",
+    "note": "Avatar style sandstone pillars",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Yunnan (Lijiang, Dali)",
+    "note": "Old towns and mountains",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Hangzhou",
+    "note": "West Lake and tea villages",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   4,
+   5,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 3500,
+   "high": 9000
+  },
+  "transport": "Direct flights from Delhi, Mumbai, Kolkata and Bengaluru to Beijing, Shanghai or Guangzhou on Air India and Chinese carriers (route list UNVERIFIED); hubs also include Hong Kong, Singapore, Bangkok. Inside China use the high speed rail network, domestic flights and metros. Foreign cards often fail, so set up Alipay or WeChat Pay for foreigners.",
+  "experiences": [
+   "Walk a quiet section of the Great Wall",
+   "Ride a high speed train between cities",
+   "Eat hotpot in Chengdu",
+   "Visit the pandas in the morning"
+  ],
+  "cautions": [
+   "Visa is required in advance; check the MEA advisory for China and entry rules before booking.",
+   "Google, WhatsApp and many Western apps are blocked; get an eSIM or VPN set up before arrival and keep legal limits in mind.",
+   "Register your stay (hotels do this automatically) and carry your passport; permits are needed for Tibet and some border areas."
+  ],
+  "neighbours": [
+   "Mongolia",
+   "Russia",
+   "Kazakhstan",
+   "Kyrgyzstan",
+   "Tajikistan",
+   "Pakistan",
+   "India",
+   "Nepal",
+   "Bhutan",
+   "Myanmar",
+   "Laos",
+   "Vietnam",
+   "North Korea",
+   "Afghanistan"
+  ],
+  "sources": [
+   "https://chicago.china-consulate.gov.cn/eng/lsfw/qzsq/202605/t20260506_11904889.htm",
+   "https://www.mea.gov.in/travel-advisories"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Russia",
+  "region": "Europe",
+  "capital": "Moscow",
+  "places": [
+   {
+    "name": "Moscow",
+    "note": "Red Square, Kremlin, metro stations",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "St Petersburg",
+    "note": "Hermitage, canals, white nights in June",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Kazan",
+    "note": "Kremlin and Tatar culture",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Lake Baikal",
+    "note": "Deepest lake, ice in winter",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Golden Ring towns (Suzdal, Vladimir)",
+    "note": "Old churches and monasteries",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Sochi",
+    "note": "Black Sea coast and Caucasus mountains",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Kamchatka",
+    "note": "Volcanoes, remote and costly",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Yekaterinburg",
+    "note": "Urals and Trans-Siberian stop",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   9
+  ],
+  "dailyBudgetInr": {
+   "low": 4000,
+   "high": 10000
+  },
+  "transport": "Flights from India to Moscow are limited and routes change; check current Air India or Aeroflot options (UNVERIFIED) or connect via Dubai, Istanbul or Doha. Inside Russia use trains (including the Trans-Siberian), domestic flights and metros. Foreign bank cards generally do not work in Russia, so carry cash and plan payments in advance.",
+  "experiences": [
+   "Take an overnight train between Moscow and St Petersburg",
+   "Ride the Moscow metro",
+   "Visit Lake Baikal in winter or summer",
+   "Try the Trans-Siberian for a segment"
+  ],
+  "cautions": [
+   "MEA has warned Indians about recruitment offers into the Russian armed forces; avoid job offers from unverified agents.",
+   "Check conflict related risks near the Ukraine border and drone disruptions to flights; follow MEA and embassy updates.",
+   "Carry your passport and e-visa printout, register as required and keep cash because international cards and some apps do not work."
+  ],
+  "neighbours": [
+   "Norway",
+   "Finland",
+   "Estonia",
+   "Latvia",
+   "Lithuania",
+   "Poland",
+   "Belarus",
+   "Ukraine",
+   "Georgia",
+   "Azerbaijan",
+   "Kazakhstan",
+   "China",
+   "Mongolia",
+   "North Korea"
+  ],
+  "sources": [
+   "https://electronic-visa.kdmid.ru/index_en.html",
+   "https://www.thehindu.com/news/national/avoid-dangerous-path-of-travelling-to-russia-to-join-army-mea/article71529610.ece"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Israel",
+  "region": "Middle East",
+  "capital": "Jerusalem",
+  "places": [
+   {
+    "name": "Jerusalem",
+    "note": "Old City, Western Wall, holy sites",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Tel Aviv",
+    "note": "Beaches, Bauhaus district, food",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Dead Sea",
+    "note": "Floating, mud and spa",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Haifa and Bahai Gardens",
+    "note": "Terraced gardens and port",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Masada",
+    "note": "Hilltop fortress at sunrise",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Sea of Galilee and Tiberias",
+    "note": "Christian and Jewish heritage",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Acre (Akko)",
+    "note": "Crusader and Ottoman old city",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Eilat",
+    "note": "Red Sea snorkelling",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   3,
+   4,
+   10,
+   11
+  ],
+  "dailyBudgetInr": {
+   "low": 8000,
+   "high": 20000
+  },
+  "transport": "Direct flights between India and Tel Aviv exist on some carriers (current schedule UNVERIFIED); otherwise connect via Dubai, Istanbul, Abu Dhabi or Europe. Inside Israel use trains, buses and shared taxis; public transport is limited on Shabbat (Friday evening to Saturday evening). Israel is very expensive.",
+  "experiences": [
+   "Float in the Dead Sea",
+   "Watch sunrise at Masada",
+   "Eat in the Carmel market in Tel Aviv",
+   "Walk the four quarters of Jerusalem's Old City"
+  ],
+  "cautions": [
+   "Check the MEA advisory before booking; security conditions can change quickly and flights can be disrupted.",
+   "Be ready for detailed border questioning and bring hotel bookings, funds proof and return ticket.",
+   "Heat in summer and strong sun at the Dead Sea; respect dress codes at religious sites and Shabbat closures."
+  ],
+  "neighbours": [
+   "Lebanon",
+   "Syria",
+   "Jordan",
+   "Egypt"
+  ],
+  "sources": [
+   "https://embassies.gov.il/india/en/announcements/evisa",
+   "https://www.mea.gov.in/advisories-details.htm?46="
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Mongolia",
+  "region": "Asia",
+  "capital": "Ulaanbaatar",
+  "places": [
+   {
+    "name": "Ulaanbaatar",
+    "note": "Gandan Monastery, museums, Naadam in July",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Gobi Desert",
+    "note": "Dunes, Flaming Cliffs, camel treks",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Terelj National Park",
+    "note": "Granite rock formations and ger camps",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Kharkhorin and Erdene Zuu",
+    "note": "Ancient capital and monastery",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Lake Khovsgol",
+    "note": "Large alpine lake in the north",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Orkhon Valley",
+    "note": "Waterfall and nomadic landscapes",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Altai Mountains",
+    "note": "Eagle hunters, remote west",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Khustai National Park",
+    "note": "Wild Przewalski horses",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   6,
+   7,
+   8,
+   9
+  ],
+  "dailyBudgetInr": {
+   "low": 4500,
+   "high": 12000
+  },
+  "transport": "No direct India to Ulaanbaatar flights known (UNVERIFIED); connect via Seoul, Beijing, Moscow, Istanbul or Hong Kong with Mongolian Airlines, MIAT or others. Inside Mongolia most trips use 4x4 vans with a driver, a few domestic flights, and the Trans-Mongolian train between Beijing, Ulaanbaatar and Russia. Roads outside towns are rough.",
+  "experiences": [
+   "Stay in a ger camp with a nomadic family",
+   "Ride horses across the steppe",
+   "Watch the Naadam festival in July",
+   "Take the Trans-Mongolian train"
+  ],
+  "cautions": [
+   "Winters are extremely cold (below minus 30 C); plan for summer travel and bring layers even then.",
+   "Pickpocketing in Ulaanbaatar crowds and unlicensed taxis; keep valuables hidden.",
+   "Remote areas have little medical care and mobile coverage; carry insurance and register with your host as required."
+  ],
+  "neighbours": [
+   "Russia",
+   "China"
+  ],
+  "sources": [
+   "https://evisa.mn/",
+   "https://immigration.gov.mn/en/articles/124"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Ghana",
+  "region": "Africa",
+  "capital": "Accra",
+  "places": [
+   {
+    "name": "Cape Coast Castle",
+    "note": "Slave trade fortress and museum on the coast",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Elmina Castle",
+    "note": "UNESCO listed 15th century Portuguese fort",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Kakum National Park",
+    "note": "Rainforest canopy walkway near Cape Coast",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Mole National Park",
+    "note": "Elephant safaris in the north",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Accra",
+    "note": "Jamestown, Makola market, Independence Square, beaches",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Kumasi",
+    "note": "Ashanti capital, Manhyia Palace, Kejetia market",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Lake Volta and Wli Falls",
+    "note": "Highest waterfall in West Africa, Volta region",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Busua and Axim",
+    "note": "Surf beaches in the Western region",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   11,
+   12,
+   1,
+   2,
+   3
+  ],
+  "dailyBudgetInr": {
+   "low": 3000,
+   "high": 9000
+  },
+  "transport": "No confirmed direct India to Accra flight; usually one stop via Addis Ababa, Doha, Dubai, Istanbul or Nairobi to Kotoka International Airport (ACC). Within Ghana: shared tro tro vans, intercity buses (STC, VIP), domestic flights Accra to Kumasi and Tamale, and ride hailing apps in Accra.",
+  "experiences": [
+   "Castle and slave trade heritage tour on the Cape Coast",
+   "Canopy walk at Kakum",
+   "Safari at Mole",
+   "Kente weaving villages near Kumasi",
+   "Highlife and live music nights in Accra",
+   "Street food: jollof, waakye, kelewele"
+  ],
+  "cautions": [
+   "Entry rules changed on 25 May 2026 (eVisa introduced, visa on arrival replaced); confirm on the official portal before booking flights",
+   "Yellow fever certificate is commonly requested at entry and malaria prophylaxis is advised; see a doctor before travel",
+   "Petty theft in crowded Accra markets and taxi overcharging; agree fares first. Same sex relations are criminalised"
+  ],
+  "neighbours": [
+   "Togo",
+   "Burkina Faso",
+   "Cote d'Ivoire"
+  ],
+  "sources": [
+   "https://evisa.immigration.gov.gh/",
+   "https://www.fragomen.com/insights/ghana-new-electronic-travel-authorization-eta-and-evisa-requirements-visa-on-arrival-discontinued.html"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Nigeria",
+  "region": "Africa",
+  "capital": "Abuja",
+  "places": [
+   {
+    "name": "Lagos",
+    "note": "Lekki Conservation Centre, Nike Art Gallery, Lagos Island markets, nightlife",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Abuja",
+    "note": "Aso Rock, Zuma Rock, national mosque and church",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Calabar",
+    "note": "Carnival city, Marina Resort, Drill Monkey Sanctuary",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Yankari Game Reserve",
+    "note": "Elephants and Wikki warm springs in Bauchi State (check advisories)",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Osun Osogbo Sacred Grove",
+    "note": "UNESCO site in Osun State",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Idanre Hills",
+    "note": "Hilltop town with steps and old settlement, Ondo State",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Ibadan",
+    "note": "Old university city and Cocoa House",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Badagry",
+    "note": "Slave trade heritage sites west of Lagos",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   11,
+   12,
+   1,
+   2
+  ],
+  "dailyBudgetInr": {
+   "low": 4000,
+   "high": 12000
+  },
+  "transport": "No confirmed direct India to Nigeria flight; usually one stop via Addis Ababa, Doha, Dubai or Istanbul to Lagos (LOS) or Abuja (ABV). Domestic flights link Lagos, Abuja, Port Harcourt, Calabar and Enugu. Roads are slow; use ride hailing apps and vetted drivers rather than street taxis.",
+  "experiences": [
+   "Nollywood and music scene in Lagos",
+   "Osun festival (August) in Osogbo",
+   "Calabar carnival (December)",
+   "Nigerian food: suya, jollof, pounded yam with egusi",
+   "Kajuru Castle and Jos plateau views (check security first)",
+   "Markets and Afrobeats nightlife"
+  ],
+  "cautions": [
+   "Security: UK FCDO advises against all travel to parts of the north east and north west and against all but essential travel to many other states; US says reconsider travel; follow India MEA and High Commission advice (MEA status UNVERIFIED)",
+   "Kidnapping, armed robbery and scams including fake officials and advance fee fraud; avoid night road travel and street taxis",
+   "Yellow fever certificate expected, malaria is common, Ebola screening notice updated Sept 2026; same sex relations are criminalised"
+  ],
+  "neighbours": [
+   "Benin",
+   "Niger",
+   "Chad",
+   "Cameroon"
+  ],
+  "sources": [
+   "https://immigration.gov.ng/nigerian-visa",
+   "https://www.gov.uk/foreign-travel-advice/nigeria",
+   "https://www.foreignaffairs.gov.ng/travel-advisory"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Bolivia",
+  "region": "South America",
+  "capital": "Sucre (constitutional), La Paz (seat of government)",
+  "places": [
+   {
+    "name": "Salar de Uyuni",
+    "note": "World's largest salt flat, 3 or 4 day jeep tours",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "La Paz",
+    "note": "Cable car system, Witches' Market, Moon Valley",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Lake Titicaca and Isla del Sol",
+    "note": "Copacabana base, Inca sites",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Sucre",
+    "note": "White colonial capital, Dinosaur footprints at Cal Orck'o",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Potosi",
+    "note": "Cerro Rico silver mines and old mint",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Madidi National Park and Rurrenabaque",
+    "note": "Amazon and pampas wildlife",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Tiwanaku",
+    "note": "Pre Inca ruins near La Paz",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Death Road and Chacaltaya",
+    "note": "Mountain biking and high altitude peak from La Paz",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ],
+  "dailyBudgetInr": {
+   "low": 3000,
+   "high": 8000
+  },
+  "transport": "No direct India flights; usually via Dubai, Doha or Europe to Sao Paulo, Lima or Bogota then onward to La Paz (El Alto, 4,061 m) or Santa Cruz (VVI). Within Bolivia: cheap overnight buses, domestic flights (BoA, Amaszonas), shared minibuses and cable cars in La Paz.",
+  "experiences": [
+   "Salt flat sunrise and mirror effect (wet season Dec to Mar)",
+   "Cable car commute in La Paz",
+   "Amazon river and pampas tours from Rurrenabaque",
+   "Hiking Condoriri or Huayna Potosi (altitude acclimatisation needed)",
+   "Local markets and cheap set lunches (almuerzo)"
+  ],
+  "cautions": [
+   "Altitude sickness: La Paz is 3,600 m and Uyuni region over 3,600 m; acclimatise and consider medication",
+   "Fuel, road blockades and strikes can disrupt buses and flights; keep buffer days; fake police and express kidnapping scams reported in cities",
+   "Yellow fever vaccine and malaria care for lowlands; India MEA advisory not checked (UNVERIFIED)"
+  ],
+  "neighbours": [
+   "Peru",
+   "Brazil",
+   "Paraguay",
+   "Argentina",
+   "Chile"
+  ],
+  "sources": [
+   "https://www.bolivianlife.com/travel-tips/bolivia-entry-requirements-visa-sigemig-yellow-fever",
+   "https://lovebolivia.com/bolivia-visa-requirements-2026-by-nationality/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
+ },
+ {
+  "country": "Cuba",
+  "region": "Central America and Caribbean",
+  "capital": "Havana",
+  "places": [
+   {
+    "name": "Old Havana",
+    "note": "UNESCO listed colonial centre, Malecon seafront, classic cars",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Vinales Valley",
+    "note": "Tobacco farms, limestone mogotes, caves",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Trinidad",
+    "note": "Cobbled colonial town with nearby Playa Ancon beach",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Cienfuegos",
+    "note": "French style city on a bay, UNESCO listed",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Santiago de Cuba",
+    "note": "Music, Afro Cuban culture, Castillo del Morro",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Cayo Coco and Varadero",
+    "note": "Resort beaches",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Camaguey",
+    "note": "Maze like UNESCO listed old town",
+    "fee": "UNVERIFIED"
+   },
+   {
+    "name": "Baracoa",
+    "note": "Remote eastern town, chocolate, rainforest and El Yunque",
+    "fee": "UNVERIFIED"
+   }
+  ],
+  "bestMonths": [
+   11,
+   12,
+   1,
+   2,
+   3,
+   4
+  ],
+  "dailyBudgetInr": {
+   "low": 4500,
+   "high": 13000
+  },
+  "transport": "No direct India flights; usually via Europe (Madrid, Paris, Amsterdam), Istanbul, Dubai or Panama or Mexico City to Havana (HAV). Within Cuba: Viazul coaches, shared taxis (colectivos), domestic flights, trains are slow and unreliable. Fuel shortages can affect transport.",
+  "experiences": [
+   "Salsa and son music in Havana and Santiago",
+   "Classic car rides",
+   "Casa particular homestays and paladar meals",
+   "Horse riding and cave visits in Vinales",
+   "Snorkelling and beaches at the cays"
+  ],
+  "cautions": [
+   "Visa and Mastercard cards not accepted from 6 June 2026 per Canada's advice; bring enough cash (USD or EUR) and expect weak banking",
+   "Blackouts, fuel and food shortages and limited internet; book accommodation and have a plan B",
+   "Medical insurance is mandatory at entry; touts and jineteros overcharge tourists; photographing police or military sites can cause trouble"
+  ],
+  "neighbours": [],
+  "sources": [
+   "https://travel.gc.ca/destinations/cuba",
+   "https://www.weroad.com/blog/cuba-visa"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "trip": "X"
  }
 ]
