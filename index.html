@@ -225,7 +225,7 @@ async function boot(){
  function renderVisa(){const q=document.getElementById('vSearch').value.toLowerCase();colorMode=n=>{const s=visaStatus(n);return V[n]||eased(n)?COL[s]:null};hl=new Set();
   document.getElementById('visaLegend').innerHTML=Object.entries(LABEL).map(([k,v])=>`<span><i style="background:${COL[k]}"></i>${v}</span>`).join('');
   document.getElementById('visaList').innerHTML=ALLC.filter(n=>n.toLowerCase().includes(q)).map(n=>{const s=visaStatus(n);const r=VREC[n]||{};return`<div class="row" style="flex-wrap:wrap"><span class="dot" style="background:${COL[s]}"></span><b>${esc(n)}</b><i class="ibtn" data-info="${esc(n)}" title="Country details">i</i><span class="tag" style="margin-left:6px">${esc(r.status||'unknown')}</span><span style="color:var(--mute);margin-left:auto;text-align:right;max-width:62%">${eased(n)?'<b style="color:var(--acc2)">Eased by your visa.</b> ':''}${esc(r.rule||LABEL[V[n]||'e'])}</span><span class="meta" style="flex-basis:100%;font-size:11px;padding-left:20px">Checked ${esc(r.lastChecked||'')} · ${srcLinks(r.sources)}</span></div>`}).join('')}
- document.getElementById('visa').addEventListener('input',renderVisa);renderVisa();
+ document.getElementById('visa').addEventListener('input',renderVisa);renderVisa();colorMode=null;hl=new Set();
  // ---------- experience finder
  let expT='All';const et=['All',...new Set(EXP.map(e=>e.t))];document.getElementById('expFilter').innerHTML=et.map(t=>`<span class="chip${t==='All'?' on':''}" data-t="${t}">${t}</span>`).join('');
  const rs=n=>'₹'+n.toLocaleString('en-IN');
