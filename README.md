@@ -26,7 +26,7 @@ Issues and pull requests that correct a fact should include an official source l
 
 ## What each country page shows
 
-Flag and currency, visa rule for an Indian passport, how to apply (official links, documents, photo, fee), places, best months, budget, transport, unique experiences, cautions, vaccinations and health, and what to do when returning to India. Items marked unverified could not be confirmed on an official page.
+Flag and currency, visa rule for an Indian passport, how to apply (official links, documents, photo, fee) or the visa-free entry conditions, transit rules, places, best months, budget, transport, unique experiences, cautions, vaccinations and health, and what to do when returning to India. Items marked unverified could not be confirmed on an official page.
 
 ## Vision
 

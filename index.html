@@ -240,10 +240,10 @@ function fly(t){target=[-t.lon,t.lat*.8]}
 loop();
 async function loadJSON(p){const r=await fetch(p,{cache:'no-cache'});if(!r.ok)throw new Error(p+' '+r.status);return r.json()}
 async function boot(){
- let T,X,R,Vi,Cp,Tr,Ap,Hl,Hg;
- try{[T,X,R,Vi,Cp,Tr,Ap,Hl,Hg]=await Promise.all([loadJSON('data/trips.json'),loadJSON('data/experiences.json'),loadJSON('data/records.json'),loadJSON('data/visa.json'),loadJSON('data/countries.json'),loadJSON('data/territories.json').catch(()=>[]),loadJSON('data/apply.json').catch(()=>[]),loadJSON('data/health.json').catch(()=>[]),loadJSON('data/health-global.json').catch(()=>({}))])}
+ let T,X,R,Vi,Cp,Tr,Ap,Hl,Hg,Tx;
+ try{[T,X,R,Vi,Cp,Tr,Ap,Hl,Hg,Tx]=await Promise.all([loadJSON('data/trips.json'),loadJSON('data/experiences.json'),loadJSON('data/records.json'),loadJSON('data/visa.json'),loadJSON('data/countries.json'),loadJSON('data/territories.json').catch(()=>[]),loadJSON('data/apply.json').catch(()=>[]),loadJSON('data/health.json').catch(()=>[]),loadJSON('data/health-global.json').catch(()=>({})),loadJSON('data/transit.json').catch(()=>[])])}
  catch(err){document.querySelector('header .lead').insertAdjacentHTML('afterend','<div class="note">Could not load the data files ('+esc(err.message)+'). Open this page from its web address, not as a local file.</div>');return}
- DATAINFO={trips:T,exp:X,rec:R,visa:Vi};const APPLY={};Ap.forEach(a=>{APPLY[a.country]=a});const HEALTH={};Hl.forEach(a=>{HEALTH[a.country]=a});Cp.forEach(c=>{PROFILES[c.country]=c});Tr.forEach(t=>{PROFILES[t.country]=t;VREC[t.country]=Object.assign({country:t.country},t.visa)});
+ DATAINFO={trips:T,exp:X,rec:R,visa:Vi};const APPLY={};Ap.forEach(a=>{APPLY[a.country]=a});const HEALTH={};Hl.forEach(a=>{HEALTH[a.country]=a});const TRANSIT={};Tx.forEach(a=>{TRANSIT[a.country]=a});Cp.forEach(c=>{PROFILES[c.country]=c});Tr.forEach(t=>{PROFILES[t.country]=t;VREC[t.country]=Object.assign({country:t.country},t.visa)});
  TRIPS=T.trips.map(t=>({c:t.code,n:t.name,d:t.days,lo:t.budgetLakh.low,hi:t.budgetLakh.high,lat:t.lat,lon:t.lon,m:t.bestMonths,tags:t.tags,ctry:t.countries,note:t.note,checked:t.lastChecked,src:t.sources}));
  EXP=X.items.map(e=>({n:e.name,t:e.type,p:e.priceInr,place:e.place,trip:e.trip,checked:e.lastChecked,src:e.sources}));
  REC=R.items.map(r=>[r.value,r.text,r.lastChecked,r.sources]);
@@ -346,6 +346,19 @@ async function boot(){
   ${(a.otherHealth||[]).length?`<h4>Other health notes</h4><ul>${li(a.otherHealth)}</ul>`:''}
   ${(a.unverified||[]).length?`<div class="unv"><b>Could not verify:</b> ${a.unverified.map(esc).join('; ')}</div>`:''}
   <p class="meta" style="font-size:11.5px;margin-top:10px">Check with a doctor or a travel clinic 6 to 8 weeks before you go. Checked ${esc(a.lastChecked)} · ${srcLinks(a.sources)}</p></div>`}
+ const EZ={US:'US visa',SC:'Schengen visa',UK:'UK visa',CA:'Canada visa',AU:'Australia visa',NZ:'New Zealand visa',JP:'Japan visa',KR:'South Korea visa'};
+ const TV={yes:'Visa needed',no:'No visa needed',depends:'Depends',unverified:'Not verified'};
+ function transitHtml(n){const a=TRANSIT[n];if(!a)return'';const as=a.airside||{},ls=a.landside||{};
+  const t=(k,x)=>`<span class="tag ${x==='no'?'okt':''}">${esc(k)}: ${esc(TV[x]||x||'Not verified')}</span>`;
+  const row=(k,x)=>x&&!/^not applicable$/i.test(x)?`<div class="arow"><span>${k}</span><div>${esc(x)}</div></div>`:'';
+  const ez=(a.easedBy||[]).map(c=>`<span class="tag okt">${esc(EZ[c]||c)}</span>`).join('');
+  return `<h3>Transit through here</h3><div class="applybox"><p>${t('Airside (stay in the airport)',as.visaNeeded)}${t('Leaving the airport',ls.visaNeeded)}<span class="tag ${a.confidence==='official'?'okt':''}">${esc(CONFL[a.confidence]||a.confidence)}</span></p>
+  <div class="arows">${row('Airside',as.rule)}${as.maxHours&&!/unverified/i.test(as.maxHours)?row('Longest layover',as.maxHours):''}${row('Leaving the airport',ls.rule)}${ls.scheme&&!/^(none|unverified)/i.test(ls.scheme)?row('Scheme',ls.scheme):''}${row('Overland or sea',a.landTransit)}${row('Transit visa',a.howToGet)}${a.fee&&!/^unverified/i.test(a.fee)?row('Fee',a.fee):''}</div>
+  ${ez?`<h4>Visas that may waive the transit visa</h4><p>${ez}</p>`:''}
+  ${(as.conditions||[]).length?`<h4>Conditions</h4><ul>${as.conditions.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`:''}
+  ${(a.warnings||[]).length?`<h4>Watch out for</h4><ul>${a.warnings.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>`:''}
+  ${(a.unverified||[]).length?`<div class="unv"><b>Could not verify:</b> ${a.unverified.map(esc).join('; ')}</div>`:''}
+  <p class="meta" style="font-size:11.5px;margin-top:10px">Transit rules differ by airline, ticket type and airport. Confirm with your airline before you fly. Checked ${esc(a.lastChecked)} · ${srcLinks(a.sources)}</p></div>`}
  function returnHtml(n){const g=Hg||{};if(!g.returnRules)return'';const yf=(g.yellowFeverRiskCountries||[]).includes(n),po=(g.polioCountries||[]).includes(n);
   const rr=t=>(g.returnRules||[]).find(r=>r.title.toLowerCase().includes(t));
   const note=[];
@@ -366,6 +379,7 @@ async function boot(){
   els.push(`<h2>${flagImg(p)}${esc(n)}${p&&p.currency?`<span class="cur">${p.currency.symbol?`<b class="sym">${esc(p.currency.symbol)}</b> `:''}${esc(p.currency.name)} (${esc(p.currency.code)})</span>`:''}</h2><p class="meta">${esc((p&&p.region)||'')}${p&&p.capital?' · capital '+esc(p.capital):''}${tr?` · <a href="#trips" data-trip="${esc(tr.c)}">Trip ${esc(tr.c)}: ${esc(tr.n)}</a>`:(p&&p.trip==='H'?' · visited hub':(p&&p.trip==='X'?' · added on request, thin profile':''))}</p>`);
   if(v)els.push(`<h3>Visa for an Indian passport</h3><p><span class="tag">${esc(CATL[v.category]||'')}</span><span class="tag">${esc(v.status)}</span></p><p>${esc(v.rule)}</p>${v.easedBy&&v.easedBy.length?`<p class="meta">Eased by: ${v.easedBy.map(k=>esc((DATAINFO.visa.visaKeys||{})[k]||k)).join(', ')}.</p>`:''}<p class="meta" style="font-size:12px">Checked ${esc(v.lastChecked)} · ${srcLinks(v.sources)}<br>${esc(v.note||'')}</p>`);
   els.push(applyHtml(n,v));
+  if(!(p&&p.territory))els.push(transitHtml(n));
   if(!(p&&p.territory)){els.push(healthHtml(n));els.push(returnHtml(n))}
   if(p&&p.places&&p.places.length)els.push(`<h3>Places to visit</h3><ul>${p.places.map(x=>`<li><b>${esc(x.name)}</b>${x.note?': '+esc(x.note):''}${x.fee?` <span class="meta">(${esc(x.fee)})</span>`:''}</li>`).join('')}</ul>`);
   if(mo.length)els.push(`<h3>Best months for a low budget</h3><div class="mo">${MN.map((m,i)=>`<div class="${mo.includes(i+1)?'hi':''}">${m}</div>`).join('')}</div>`);

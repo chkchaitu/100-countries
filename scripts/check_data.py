@@ -51,6 +51,15 @@ if os.path.exists('data/health-global.json'):
     g=L('data/health-global.json')
     for k in g.get('yellowFeverRiskCountries',[])+g.get('polioCountries',[]):
         if k not in pr:err.append(f'health-global: {k} not in countries.json')
+
+# transit.json: transit visa rules
+if os.path.exists('data/transit.json'):
+    for a in L('data/transit.json'):
+        c=a.get('country')
+        if c not in pr:err.append(f'transit: {c} not in countries.json')
+        if not a.get('lastChecked'):err.append(f'transit: {c} missing lastChecked')
+        if a.get('confidence') not in('official','partial','thin'):err.append(f'transit: {c} bad confidence')
+        if _re.search('[\u2014\u2013]',json.dumps(a,ensure_ascii=False)):err.append(f'transit: {c} has em or en dash')
 # stale (visa rules go stale after 45 days, profiles after 180)
 stale=[]
 for c,r in vr.items():
@@ -61,7 +70,7 @@ for c,p in pr.items():
     if age>180:stale.append((age,c,'profile'))
 
 # staleness of apply and health data (over 180 days)
-for fn,label in (('data/apply.json','apply'),('data/health.json','health')):
+for fn,label in (('data/apply.json','apply'),('data/health.json','health'),('data/transit.json','transit')):
     if os.path.exists(fn):
         for a in L(fn):
             age=(TODAY-datetime.date.fromisoformat(a['lastChecked'])).days
