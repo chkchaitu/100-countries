@@ -54,7 +54,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "id"
+  "iso": "id",
+  "currency": {
+   "name": "Indonesian rupiah",
+   "code": "IDR"
+  }
  },
  {
   "country": "Vietnam",
@@ -133,7 +137,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "vn"
+  "iso": "vn",
+  "currency": {
+   "name": "Vietnamese dong",
+   "code": "VND"
+  }
  },
  {
   "country": "Cambodia",
@@ -207,7 +215,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "kh"
+  "iso": "kh",
+  "currency": {
+   "name": "Cambodian riel",
+   "code": "KHR"
+  }
  },
  {
   "country": "Laos",
@@ -284,7 +296,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "la"
+  "iso": "la",
+  "currency": {
+   "name": "Lao kip",
+   "code": "LAK"
+  }
  },
  {
   "country": "Brunei",
@@ -341,7 +357,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "bn"
+  "iso": "bn",
+  "currency": {
+   "name": "Brunei dollar",
+   "code": "BND"
+  }
  },
  {
   "country": "Sri Lanka",
@@ -417,7 +437,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "lk"
+  "iso": "lk",
+  "currency": {
+   "name": "Sri Lankan rupee",
+   "code": "LKR"
+  }
  },
  {
   "country": "Maldives",
@@ -478,7 +502,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "mv"
+  "iso": "mv",
+  "currency": {
+   "name": "Maldivian rufiyaa",
+   "code": "MVR"
+  }
  },
  {
   "country": "Bangladesh",
@@ -546,7 +574,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "bd"
+  "iso": "bd",
+  "currency": {
+   "name": "Bangladeshi taka",
+   "code": "BDT"
+  }
  },
  {
   "country": "Bhutan",
@@ -629,7 +661,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "bt"
+  "iso": "bt",
+  "currency": {
+   "name": "Bhutanese ngultrum",
+   "code": "BTN"
+  }
  },
  {
   "country": "Oman",
@@ -701,7 +737,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "om"
+  "iso": "om",
+  "currency": {
+   "name": "Omani rial",
+   "code": "OMR"
+  }
  },
  {
   "country": "Bahrain",
@@ -772,7 +812,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "bh"
+  "iso": "bh",
+  "currency": {
+   "name": "Bahraini dinar",
+   "code": "BHD"
+  }
  },
  {
   "country": "Saudi Arabia",
@@ -833,7 +877,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "sa"
+  "iso": "sa",
+  "currency": {
+   "name": "Saudi riyal",
+   "code": "SAR"
+  }
  },
  {
   "country": "Jordan",
@@ -913,7 +961,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "jo"
+  "iso": "jo",
+  "currency": {
+   "name": "Jordanian dinar",
+   "code": "JOD"
+  }
  },
  {
   "country": "Kazakhstan",
@@ -981,7 +1033,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "kz"
+  "iso": "kz",
+  "currency": {
+   "name": "Kazakhstani tenge",
+   "code": "KZT"
+  }
  },
  {
   "country": "Kyrgyzstan",
@@ -1049,7 +1105,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "kg"
+  "iso": "kg",
+  "currency": {
+   "name": "Kyrgyzstani som",
+   "code": "KGS"
+  }
  },
  {
   "country": "Uzbekistan",
@@ -1119,7 +1179,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "uz"
+  "iso": "uz",
+  "currency": {
+   "name": "Uzbekistani som",
+   "code": "UZS"
+  }
  },
  {
   "country": "Azerbaijan",
@@ -1184,7 +1248,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "az"
+  "iso": "az",
+  "currency": {
+   "name": "Azerbaijani manat",
+   "code": "AZN"
+  }
  },
  {
   "country": "Armenia",
@@ -1254,7 +1322,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "am"
+  "iso": "am",
+  "currency": {
+   "name": "Armenian dram",
+   "code": "AMD"
+  }
  },
  {
   "country": "Japan",
@@ -1332,7 +1404,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "jp"
+  "iso": "jp",
+  "currency": {
+   "name": "Japanese yen",
+   "code": "JPY"
+  }
  },
  {
   "country": "Taiwan",
@@ -1395,7 +1471,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "tw"
+  "iso": "tw",
+  "currency": {
+   "name": "New Taiwan dollar",
+   "code": "TWD"
+  }
  },
  {
   "country": "Philippines",
@@ -1462,7 +1542,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "ph"
+  "iso": "ph",
+  "currency": {
+   "name": "Philippine peso",
+   "code": "PHP"
+  }
  },
  {
   "country": "Switzerland",
@@ -1535,7 +1619,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "ch"
+  "iso": "ch",
+  "currency": {
+   "name": "Swiss franc",
+   "code": "CHF"
+  }
  },
  {
   "country": "Liechtenstein",
@@ -1586,7 +1674,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "li"
+  "iso": "li",
+  "currency": {
+   "name": "Swiss franc",
+   "code": "CHF"
+  }
  },
  {
   "country": "France",
@@ -1657,7 +1749,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "fr"
+  "iso": "fr",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Monaco",
@@ -1719,7 +1815,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "mc"
+  "iso": "mc",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Italy",
@@ -1798,7 +1898,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "it"
+  "iso": "it",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Vatican",
@@ -1858,7 +1962,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "va"
+  "iso": "va",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "San Marino",
@@ -1913,7 +2021,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "sm"
+  "iso": "sm",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Slovenia",
@@ -1984,7 +2096,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "si"
+  "iso": "si",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Croatia",
@@ -2052,7 +2168,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "hr"
+  "iso": "hr",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Hungary",
@@ -2119,7 +2239,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "hu"
+  "iso": "hu",
+  "currency": {
+   "name": "Hungarian forint",
+   "code": "HUF"
+  }
  },
  {
   "country": "Slovakia",
@@ -2180,7 +2304,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "sk"
+  "iso": "sk",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Austria",
@@ -2252,7 +2380,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "at"
+  "iso": "at",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Czechia",
@@ -2317,7 +2449,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "cz"
+  "iso": "cz",
+  "currency": {
+   "name": "Czech koruna",
+   "code": "CZK"
+  }
  },
  {
   "country": "Poland",
@@ -2381,7 +2517,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "pl"
+  "iso": "pl",
+  "currency": {
+   "name": "Polish zloty",
+   "code": "PLN"
+  }
  },
  {
   "country": "Serbia",
@@ -2449,7 +2589,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "rs"
+  "iso": "rs",
+  "currency": {
+   "name": "Serbian dinar",
+   "code": "RSD"
+  }
  },
  {
   "country": "Bosnia and Herz.",
@@ -2520,7 +2664,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "ba"
+  "iso": "ba",
+  "currency": {
+   "name": "Bosnia convertible mark",
+   "code": "BAM"
+  }
  },
  {
   "country": "Montenegro",
@@ -2592,7 +2740,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "me"
+  "iso": "me",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Albania",
@@ -2657,7 +2809,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "al"
+  "iso": "al",
+  "currency": {
+   "name": "Albanian lek",
+   "code": "ALL"
+  }
  },
  {
   "country": "North Macedonia",
@@ -2727,7 +2883,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "mk"
+  "iso": "mk",
+  "currency": {
+   "name": "Macedonian denar",
+   "code": "MKD"
+  }
  },
  {
   "country": "Turkey",
@@ -2790,7 +2950,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "tr"
+  "iso": "tr",
+  "currency": {
+   "name": "Turkish lira",
+   "code": "TRY"
+  }
  },
  {
   "country": "Finland",
@@ -2861,7 +3025,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "fi"
+  "iso": "fi",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Estonia",
@@ -2915,7 +3083,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "ee"
+  "iso": "ee",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Latvia",
@@ -2969,7 +3141,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "lv"
+  "iso": "lv",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Lithuania",
@@ -3032,7 +3208,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "lt"
+  "iso": "lt",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Denmark",
@@ -3090,7 +3270,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "dk"
+  "iso": "dk",
+  "currency": {
+   "name": "Danish krone",
+   "code": "DKK"
+  }
  },
  {
   "country": "Sweden",
@@ -3155,7 +3339,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "se"
+  "iso": "se",
+  "currency": {
+   "name": "Swedish krona",
+   "code": "SEK"
+  }
  },
  {
   "country": "Norway",
@@ -3224,7 +3412,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "no"
+  "iso": "no",
+  "currency": {
+   "name": "Norwegian krone",
+   "code": "NOK"
+  }
  },
  {
   "country": "Iceland",
@@ -3295,7 +3487,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "is"
+  "iso": "is",
+  "currency": {
+   "name": "Icelandic krona",
+   "code": "ISK"
+  }
  },
  {
   "country": "Spain",
@@ -3373,7 +3569,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "es"
+  "iso": "es",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Portugal",
@@ -3437,7 +3637,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "pt"
+  "iso": "pt",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Morocco",
@@ -3511,7 +3715,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "ma"
+  "iso": "ma",
+  "currency": {
+   "name": "Moroccan dirham",
+   "code": "MAD"
+  }
  },
  {
   "country": "Andorra",
@@ -3564,7 +3772,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "ad"
+  "iso": "ad",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Malta",
@@ -3620,7 +3832,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "mt"
+  "iso": "mt",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Greece",
@@ -3676,7 +3892,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "gr"
+  "iso": "gr",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "United Kingdom",
@@ -3751,7 +3971,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "gb"
+  "iso": "gb",
+  "currency": {
+   "name": "Pound sterling",
+   "code": "GBP"
+  }
  },
  {
   "country": "Ireland",
@@ -3819,7 +4043,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "ie"
+  "iso": "ie",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Kenya",
@@ -3890,7 +4118,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "ke"
+  "iso": "ke",
+  "currency": {
+   "name": "Kenyan shilling",
+   "code": "KES"
+  }
  },
  {
   "country": "Tanzania",
@@ -3958,7 +4190,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "tz"
+  "iso": "tz",
+  "currency": {
+   "name": "Tanzanian shilling",
+   "code": "TZS"
+  }
  },
  {
   "country": "Rwanda",
@@ -4024,7 +4260,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "rw"
+  "iso": "rw",
+  "currency": {
+   "name": "Rwandan franc",
+   "code": "RWF"
+  }
  },
  {
   "country": "Uganda",
@@ -4097,7 +4337,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "ug"
+  "iso": "ug",
+  "currency": {
+   "name": "Ugandan shilling",
+   "code": "UGX"
+  }
  },
  {
   "country": "Ethiopia",
@@ -4148,7 +4392,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "et"
+  "iso": "et",
+  "currency": {
+   "name": "Ethiopian birr",
+   "code": "ETB"
+  }
  },
  {
   "country": "Mauritius",
@@ -4211,7 +4459,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "mu"
+  "iso": "mu",
+  "currency": {
+   "name": "Mauritian rupee",
+   "code": "MUR"
+  }
  },
  {
   "country": "Madagascar",
@@ -4272,7 +4524,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "mg"
+  "iso": "mg",
+  "currency": {
+   "name": "Malagasy ariary",
+   "code": "MGA"
+  }
  },
  {
   "country": "South Africa",
@@ -4352,7 +4608,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "za"
+  "iso": "za",
+  "currency": {
+   "name": "South African rand",
+   "code": "ZAR"
+  }
  },
  {
   "country": "Lesotho",
@@ -4406,7 +4666,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "ls"
+  "iso": "ls",
+  "currency": {
+   "name": "Lesotho loti",
+   "code": "LSL"
+  }
  },
  {
   "country": "eSwatini",
@@ -4470,7 +4734,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "sz"
+  "iso": "sz",
+  "currency": {
+   "name": "Swazi lilangeni",
+   "code": "SZL"
+  }
  },
  {
   "country": "Zimbabwe",
@@ -4528,7 +4796,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "iso": "zw"
+  "iso": "zw",
+  "currency": {
+   "name": "Zimbabwe Gold",
+   "code": "ZWG"
+  }
  },
  {
   "country": "Zambia",
@@ -4590,7 +4862,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "zm"
+  "iso": "zm",
+  "currency": {
+   "name": "Zambian kwacha",
+   "code": "ZMW"
+  }
  },
  {
   "country": "Botswana",
@@ -4647,7 +4923,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin",
-  "iso": "bw"
+  "iso": "bw",
+  "currency": {
+   "name": "Botswana pula",
+   "code": "BWP"
+  }
  },
  {
   "country": "Namibia",
@@ -4717,7 +4997,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "na"
+  "iso": "na",
+  "currency": {
+   "name": "Namibian dollar",
+   "code": "NAD"
+  }
  },
  {
   "country": "Seychelles",
@@ -4774,7 +5058,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "sc"
+  "iso": "sc",
+  "currency": {
+   "name": "Seychellois rupee",
+   "code": "SCR"
+  }
  },
  {
   "country": "Egypt",
@@ -4850,7 +5138,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "eg"
+  "iso": "eg",
+  "currency": {
+   "name": "Egyptian pound",
+   "code": "EGP"
+  }
  },
  {
   "country": "Tunisia",
@@ -4916,7 +5208,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "tn"
+  "iso": "tn",
+  "currency": {
+   "name": "Tunisian dinar",
+   "code": "TND"
+  }
  },
  {
   "country": "Australia",
@@ -4990,7 +5286,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "au"
+  "iso": "au",
+  "currency": {
+   "name": "Australian dollar",
+   "code": "AUD"
+  }
  },
  {
   "country": "New Zealand",
@@ -5059,7 +5359,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "nz"
+  "iso": "nz",
+  "currency": {
+   "name": "New Zealand dollar",
+   "code": "NZD"
+  }
  },
  {
   "country": "Samoa",
@@ -5119,7 +5423,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "ws"
+  "iso": "ws",
+  "currency": {
+   "name": "Samoan tala",
+   "code": "WST"
+  }
  },
  {
   "country": "Fiji",
@@ -5189,7 +5497,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "fj"
+  "iso": "fj",
+  "currency": {
+   "name": "Fijian dollar",
+   "code": "FJD"
+  }
  },
  {
   "country": "Vanuatu",
@@ -5255,7 +5567,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "vu"
+  "iso": "vu",
+  "currency": {
+   "name": "Vanuatu vatu",
+   "code": "VUV"
+  }
  },
  {
   "country": "Bahamas",
@@ -5318,7 +5634,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "bs"
+  "iso": "bs",
+  "currency": {
+   "name": "Bahamian dollar",
+   "code": "BSD"
+  }
  },
  {
   "country": "Jamaica",
@@ -5381,7 +5701,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "jm"
+  "iso": "jm",
+  "currency": {
+   "name": "Jamaican dollar",
+   "code": "JMD"
+  }
  },
  {
   "country": "Dominican Rep.",
@@ -5444,7 +5768,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "do"
+  "iso": "do",
+  "currency": {
+   "name": "Dominican peso",
+   "code": "DOP"
+  }
  },
  {
   "country": "Barbados",
@@ -5507,7 +5835,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "bb"
+  "iso": "bb",
+  "currency": {
+   "name": "Barbadian dollar",
+   "code": "BBD"
+  }
  },
  {
   "country": "Trinidad and Tobago",
@@ -5576,7 +5908,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "tt"
+  "iso": "tt",
+  "currency": {
+   "name": "Trinidad and Tobago dollar",
+   "code": "TTD"
+  }
  },
  {
   "country": "Panama",
@@ -5642,7 +5978,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "pa"
+  "iso": "pa",
+  "currency": {
+   "name": "Panamanian balboa and US dollar",
+   "code": "PAB"
+  }
  },
  {
   "country": "Costa Rica",
@@ -5713,7 +6053,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "cr"
+  "iso": "cr",
+  "currency": {
+   "name": "Costa Rican colon",
+   "code": "CRC"
+  }
  },
  {
   "country": "Mexico",
@@ -5787,7 +6131,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "mx"
+  "iso": "mx",
+  "currency": {
+   "name": "Mexican peso",
+   "code": "MXN"
+  }
  },
  {
   "country": "Colombia",
@@ -5859,7 +6207,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "co"
+  "iso": "co",
+  "currency": {
+   "name": "Colombian peso",
+   "code": "COP"
+  }
  },
  {
   "country": "Ecuador",
@@ -5928,7 +6280,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "ec"
+  "iso": "ec",
+  "currency": {
+   "name": "US dollar",
+   "code": "USD"
+  }
  },
  {
   "country": "Peru",
@@ -6003,7 +6359,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "pe"
+  "iso": "pe",
+  "currency": {
+   "name": "Peruvian sol",
+   "code": "PEN"
+  }
  },
  {
   "country": "Argentina",
@@ -6072,7 +6432,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "ar"
+  "iso": "ar",
+  "currency": {
+   "name": "Argentine peso",
+   "code": "ARS"
+  }
  },
  {
   "country": "Brazil",
@@ -6131,7 +6495,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "br"
+  "iso": "br",
+  "currency": {
+   "name": "Brazilian real",
+   "code": "BRL"
+  }
  },
  {
   "country": "Chile",
@@ -6200,7 +6568,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "cl"
+  "iso": "cl",
+  "currency": {
+   "name": "Chilean peso",
+   "code": "CLP"
+  }
  },
  {
   "country": "Kosovo",
@@ -6247,7 +6619,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "xk"
+  "iso": "xk",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Bulgaria",
@@ -6309,7 +6685,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "bg"
+  "iso": "bg",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Romania",
@@ -6365,7 +6745,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "ro"
+  "iso": "ro",
+  "currency": {
+   "name": "Romanian leu",
+   "code": "RON"
+  }
  },
  {
   "country": "Cyprus",
@@ -6414,7 +6798,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "cy"
+  "iso": "cy",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Saint Lucia",
@@ -6475,7 +6863,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "lc"
+  "iso": "lc",
+  "currency": {
+   "name": "East Caribbean dollar",
+   "code": "XCD"
+  }
  },
  {
   "country": "Saint Vincent and the Grenadines",
@@ -6522,7 +6914,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "vc"
+  "iso": "vc",
+  "currency": {
+   "name": "East Caribbean dollar",
+   "code": "XCD"
+  }
  },
  {
   "country": "Grenada",
@@ -6578,7 +6974,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "gd"
+  "iso": "gd",
+  "currency": {
+   "name": "East Caribbean dollar",
+   "code": "XCD"
+  }
  },
  {
   "country": "Dominica",
@@ -6638,7 +7038,11 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
-  "iso": "dm"
+  "iso": "dm",
+  "currency": {
+   "name": "East Caribbean dollar",
+   "code": "XCD"
+  }
  },
  {
   "country": "Malaysia",
@@ -6720,7 +7124,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "research",
   "notes": "Land via Johor Bahru causeway to Singapore (bus/train), KTM or bus to Hat Yai Thailand, ferry from Penang/Melaka to Indonesia (Sumatra), Kuching to Brunei by bus. Singapore needs its own visa for Indians. MDAC only; no embassy fee. Best months low budget: [2, 3, 5, 6, 9]; best weather: [2, 3, 6, 7, 8]. Warnings: West coast wet Apr to Oct monsoon peaks Sep to Oct; east coast (Perhentian, Taman Negara) monsoon Nov to Feb and many islands close; haze Aug to Sep possible; flash floods Nov to Jan. Budget pieces: Stay hostel or budget hotel INR 1,000 to 2,200; food INR 600 to 1,200; local transport INR 300 to 600; sights INR 300 to 500 (estimate) MEA: UNVERIFIED: MEA lists no travel advisory for Malaysia on https://www.mea.gov.in/travel-advisories (Tavily snippet shows list of other countries); Indian High Commission Kuala Lumpur issues occasional notices.",
-  "iso": "my"
+  "iso": "my",
+  "currency": {
+   "name": "Malaysian ringgit",
+   "code": "MYR"
+  }
  },
  {
   "country": "Singapore",
@@ -6799,7 +7207,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "research",
   "notes": "Cheap land route: bus 170 or Causeway Link from Woodlands to Johor Bahru, KTM Shuttle Tebrau. Ferry from HarbourFront/Tanah Merah to Batam and Bintan (Indonesia): Indonesia visa on arrival status for Indians not checked. Visa requirement is a major cost item; budget time to apply. Best months low budget: [2, 3, 6]; best weather: [2, 3, 4, 7, 8]. Warnings: Humid all year; heavy rain Nov to Jan northeast monsoon; haze from Indonesian fires Aug to Oct possible; no typhoons. Budget pieces: Hostel dorm or budget room INR 3,000 to 5,500; hawker meals INR 800 to 1,500; MRT/bus INR 400 to 700; sights INR 300 to 1,500 (estimate) MEA: UNVERIFIED: no MEA advisory found in search; check Indian High Commission Singapore.",
-  "iso": "sg"
+  "iso": "sg",
+  "currency": {
+   "name": "Singapore dollar",
+   "code": "SGD"
+  }
  },
  {
   "country": "Nepal",
@@ -6877,7 +7289,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "research",
   "notes": "Only India border is open by land for ordinary passport holders; Tibet needs Chinese visa and permits (not checked). Easy 'second country' from India by bus or train to border towns. Nepal is the cheapest passport stamp on this list. Best months low budget: [3, 4, 5, 10, 11]; best weather: [10, 11, 3, 4]. Warnings: Monsoon Jun to Sep: landslides on highways, leeches, flight delays at Lukla; heat in Terai Apr to Jun; earthquake zone; trekking cold Dec to Feb above 3,000 m. Budget pieces: Guesthouse INR 700 to 1,800; dal bhat and cafes INR 500 to 1,000; local bus or microbus INR 150 to 400; sights INR 200 to 500 (estimate, Indians pay lower SAARC rates) MEA: UNVERIFIED: no MEA advisory found; Indian Embassy Kathmandu issues notices on border and events. Check mea.gov.in travel advisories.",
-  "iso": "np"
+  "iso": "np",
+  "currency": {
+   "name": "Nepalese rupee",
+   "code": "NPR"
+  }
  },
  {
   "country": "Thailand",
@@ -6960,7 +7376,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "research",
   "notes": "Land crossings: Nong Khai to Vientiane (Laos, Friendship Bridge, train), Aranyaprathet to Poipet (Cambodia, scam prone), Hat Yai to Malaysia (Padang Besar). Myanmar land travel restricted. Count land border entries (max 2 per year visa free). Best months low budget: [5, 6, 9, 10]; best weather: [11, 12, 1, 2]. Warnings: Monsoon May to Oct; southern Andaman coast rough seas and ferry cuts May to Oct; Gulf islands better in those months; heat and burning haze in north Mar to Apr; floods Sep to Nov; typhoon spillover rare. Budget pieces: Hostel or guesthouse INR 1,000 to 2,500; street food INR 700 to 1,300; BTS/MRT, songthaew, tuktuk INR 400 to 800; sights INR 400 to 900 (estimate) MEA: UNVERIFIED: MEA advisories exist on cyber scam jobs in Thailand and Myanmar border (job scam trafficking). Search confirmation needed; check https://www.mea.gov.in/travel-advisories.",
-  "iso": "th"
+  "iso": "th",
+  "currency": {
+   "name": "Thai baht",
+   "code": "THB"
+  }
  },
  {
   "country": "South Korea",
@@ -7039,7 +7459,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "research",
   "notes": "Ferries Busan to Fukuoka/Shimonoseki Japan (Indian visa needed for Japan) and Incheon to Chinese ports (check status). Visa is the main hurdle for Indian passports; US or Schengen visa may help approval odds only informally (UNVERIFIED). Best months low budget: [3, 4, 5, 10, 11]; best weather: [4, 5, 10]. Warnings: Rainy season (jangma) late Jun to Jul; typhoons Aug to Sep; very cold Dec to Feb; fine dust spring; heat waves Jul to Aug; autumn is peak and pricey. Budget pieces: Hostel or guesthouse INR 2,800 to 5,000; food INR 1,500 to 2,500; T-money subway and bus INR 400 to 700; sights INR 300 to 1,000 (estimate) MEA: UNVERIFIED: no MEA advisory found; Indian Embassy Seoul publishes notices.",
-  "iso": "kr"
+  "iso": "kr",
+  "currency": {
+   "name": "South Korean won",
+   "code": "KRW"
+  }
  },
  {
   "country": "Canada",
@@ -7117,7 +7541,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "research",
   "notes": "USA by land or train: Amtrak Maple Leaf Toronto to New York, bus from Vancouver to Seattle. US visa required for the USA. Note: the user context assumption 'visa-exempt with a valid US visa' is NOT supported by sources for Indians. Best months low budget: [5, 9, 10]; best weather: [6, 7, 8, 9]. Warnings: Winter Nov to Mar: heavy snow, minus 20 to minus 40 in prairies; wildfire smoke Jun to Sep in west; Atlantic coast storms Sep to Oct; summer is peak and expensive. Budget pieces: Hostel or budget hotel INR 5,000 to 8,500; food INR 2,500 to 4,500; transit INR 800 to 1,500; sights INR 1,000 to 2,500 (estimate) MEA: UNVERIFIED: MEA has issued advisories for Indians in Canada in past years (hate crimes, 2023) but a current 2026 advisory was not found; check https://www.mea.gov.in/travel-advisories.",
-  "iso": "ca"
+  "iso": "ca",
+  "currency": {
+   "name": "Canadian dollar",
+   "code": "CAD"
+  }
  },
  {
   "country": "United States of America",
@@ -7197,7 +7625,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "research",
   "notes": "Land to Mexico (Tijuana, Cancun not by land) and Canada (Niagara Rainbow Bridge, bus). Bahamas has e-visa/visa on arrival for Indians with US visa (not verified here). A valid US B1/B2 visa helps with many third country concessions (e.g. UAE conditional, Georgia waiver). Fees and bond policy volatile. Best months low budget: [4, 5, 9, 10]; best weather: [5, 6, 9, 10]. Warnings: Atlantic hurricanes Jun to Nov (Florida, Gulf); tornado season Apr to Jun in Plains; extreme heat Jun to Aug in southwest and Las Vegas; winter storms Dec to Mar; wildfires west Aug to Oct. Budget pieces: Hostel or motel INR 6,000 to 10,000; food INR 3,000 to 5,000; transit INR 800 to 1,500 (cities), car rental extra; sights INR 1,000 to 2,000 (estimate, taxes and tips extra) MEA: UNVERIFIED: MEA has issued advisories for Indian students and visitors on US laws and safety; current 2026 advisory not confirmed in search; check https://www.mea.gov.in/travel-advisories. Also US Presidential Proclamation 10998 (entry limits, 39 countries from 1 Jan 2026) does not list India per snippet, UNVERIFIED.",
-  "iso": "us"
+  "iso": "us",
+  "currency": {
+   "name": "US dollar",
+   "code": "USD"
+  }
  },
  {
   "country": "United Arab Emirates",
@@ -7278,7 +7710,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "research",
   "notes": "Land by bus to Oman (Muscat) from Dubai possible; Oman visa for Indians (eVisa) not verified here. Qatar by air only (Saudi border). This conditional visa is a strong reason to keep a US/UK/EU stamp. Best months low budget: [10, 11, 4]; best weather: [11, 12, 1, 2, 3]. Warnings: Extreme heat above 45 C Jun to Sep; humidity, summer flash floods possible Mar to Apr; sandstorms Mar to Jun; Ramadan changes opening hours. Budget pieces: Budget hotel or hostel INR 3,000 to 5,500; food INR 1,200 to 2,200; Dubai Metro/Nol card INR 500 to 900; sights INR 500 to 1,000 (estimate) MEA: UNVERIFIED: MEA has not issued a standing UAE advisory in found sources; Indian Consulate Dubai and Embassy Abu Dhabi issue advisories on visa and overstay.",
-  "iso": "ae"
+  "iso": "ae",
+  "currency": {
+   "name": "UAE dirham",
+   "code": "AED"
+  }
  },
  {
   "country": "Georgia",
@@ -7358,7 +7794,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "research",
   "notes": "Land to Armenia (Sadakhlo, marshrutka Tbilisi to Yerevan about GEL 35 to 40 UNVERIFIED), Azerbaijan (Red Bridge, e-visa needed), Turkey at Sarpi near Batumi. Russia crossing at Upper Lars not recommended. Indian visa waivers via US/UK/Schengen apply. Best months low budget: [4, 5, 9, 10]; best weather: [5, 6, 9, 10]. Warnings: Heat in Tbilisi Jul to Aug; heavy snow and Kazbegi road closures Nov to Mar; spring rain in Batumi; landslide risk on mountain roads; check political protest news in Tbilisi. Budget pieces: Guesthouse or hostel INR 1,500 to 3,000; food INR 1,000 to 1,800; marshrutka and metro INR 300 to 700; sights INR 300 to 700 (estimate) MEA: UNVERIFIED: no current MEA advisory found; Indian Embassy Tbilisi exists (check for notices).",
-  "iso": "ge"
+  "iso": "ge",
+  "currency": {
+   "name": "Georgian lari",
+   "code": "GEL"
+  }
  },
  {
   "country": "Germany",
@@ -7447,7 +7887,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "research",
   "notes": "Land hub: Netherlands, Belgium, Luxembourg, France, Switzerland, Austria, Czechia, Poland, Denmark by train or Flixbus within Schengen; the 90 days limit is shared across all Schengen countries. Germany also offers other free entry regimes via other EU states. Best months low budget: [3, 4, 10, 11]; best weather: [5, 6, 7, 8, 9]. Warnings: Winter Dec to Feb cold and short days; summer heatwaves Jul to Aug increasing; floods in west/south Jun to Jul; Christmas markets Nov to Dec. Budget pieces: Hostel or budget hotel INR 4,000 to 6,500; food INR 1,800 to 3,000; transit INR 600 to 1,000; sights INR 500 to 1,000 (estimate) MEA: UNVERIFIED: no MEA travel advisory for Germany found; Indian embassy Berlin notices.",
-  "iso": "de"
+  "iso": "de",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Luxembourg",
@@ -7529,7 +7973,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "research",
   "notes": "Luxembourg is the cheapest of the four to move through because transport is free; train to Brussels about 3 hours, Trier 50 minutes. The Embassy of Luxembourg in New Delhi accepts applications: Indians apply there (via official site). Best months low budget: [3, 4, 5, 9, 10]; best weather: [5, 6, 7, 8, 9]. Warnings: Mild; wet winters; heatwaves Jul to Aug; occasional Ardennes floods Jul 2021 style; Christmas markets Dec. Budget pieces: Hostel or budget hotel INR 5,500 to 8,500; food INR 2,000 to 3,200; transport free (about INR 0); sights INR 300 to 800 (estimate; prices highest of the four) MEA: UNVERIFIED: no MEA advisory for Luxembourg found; Indian Embassy Brussels is accredited.",
-  "iso": "lu"
+  "iso": "lu",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Belgium",
@@ -7612,7 +8060,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "research",
   "notes": "Belgium is the central hub: train to Amsterdam 2 hours, Luxembourg 3 hours, Paris 1.5 hours, Cologne 2 hours. Also an EU/NATO capital where Indian Embassy is based. Best months low budget: [3, 4, 5, 9, 10]; best weather: [5, 6, 7, 8, 9]. Warnings: Rain frequent year round; cool winters; heatwaves in July; Flanders floods possible; Christmas markets Dec. Budget pieces: Hostel or budget hotel INR 4,500 to 7,000; food INR 1,800 to 3,000; transit INR 600 to 1,000; sights INR 500 to 900 (estimate) MEA: UNVERIFIED: no MEA advisory for Belgium found; Indian Embassy Brussels.",
-  "iso": "be"
+  "iso": "be",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Netherlands",
@@ -7695,7 +8147,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "research",
   "notes": "Train from Amsterdam to Brussels (about 2 hours), Cologne (3 hours), Antwerp. Netherlands Schengen visa processed via VFS Global in India (not verified today). Dutch overseas parts (Aruba, Curacao) separate visa rules not checked. Best months low budget: [3, 4, 10, 11]; best weather: [5, 6, 7, 8, 9]. Warnings: Rain and wind year round; cool winters; tulips Apr; storms Oct to Mar; heatwaves Jul; cycling season peak. Budget pieces: Hostel or budget hotel INR 5,000 to 8,000; food INR 2,000 to 3,500; OV-chipkaart transit INR 700 to 1,200; sights INR 500 to 1,000 (estimate; Amsterdam high) MEA: UNVERIFIED: no MEA advisory for Netherlands found; Indian Embassy The Hague.",
-  "iso": "nl"
+  "iso": "nl",
+  "currency": {
+   "name": "Euro",
+   "code": "EUR"
+  }
  },
  {
   "country": "Qatar",
@@ -7777,7 +8233,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "research",
   "notes": "Only land border is Saudi Arabia (Abu Samra) and entry needs a Saudi visa (not checked). Practical country adding: flights to Bahrain, Muscat, Dubai. Free 'Doha Stopover' tour via Qatar Airways transit is common, UNVERIFIED. Best months low budget: [10, 11, 3, 4]; best weather: [11, 12, 1, 2, 3]. Warnings: Extreme heat 45 plus C Jun to Sep, humid; sandstorms Mar to Jun; Ramadan hours; no hurricanes; rare floods. Budget pieces: Budget hotel INR 3,500 to 6,000; food INR 1,200 to 2,200; metro and bus INR 300 to 700; sights INR 300 to 800 (estimate) MEA: UNVERIFIED: no MEA advisory for Qatar found; Indian Embassy Doha publishes notices. Gulf region security notices occasional.",
-  "iso": "qa"
+  "iso": "qa",
+  "currency": {
+   "name": "Qatari riyal",
+   "code": "QAR"
+  }
  },
  {
   "country": "China",
@@ -7870,7 +8330,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AJ",
-  "iso": "cn"
+  "iso": "cn",
+  "currency": {
+   "name": "Chinese yuan",
+   "code": "CNY"
+  }
  },
  {
   "country": "Russia",
@@ -7962,7 +8426,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AG",
-  "iso": "ru"
+  "iso": "ru",
+  "currency": {
+   "name": "Russian ruble",
+   "code": "RUB"
+  }
  },
  {
   "country": "Israel",
@@ -8045,7 +8513,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AH",
-  "iso": "il"
+  "iso": "il",
+  "currency": {
+   "name": "Israeli shekel",
+   "code": "ILS"
+  }
  },
  {
   "country": "Mongolia",
@@ -8126,7 +8598,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AJ",
-  "iso": "mn"
+  "iso": "mn",
+  "currency": {
+   "name": "Mongolian togrog",
+   "code": "MNT"
+  }
  },
  {
   "country": "Ghana",
@@ -8211,7 +8687,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "T",
-  "iso": "gh"
+  "iso": "gh",
+  "currency": {
+   "name": "Ghanaian cedi",
+   "code": "GHS"
+  }
  },
  {
   "country": "Nigeria",
@@ -8297,7 +8777,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "T",
-  "iso": "ng"
+  "iso": "ng",
+  "currency": {
+   "name": "Nigerian naira",
+   "code": "NGN"
+  }
  },
  {
   "country": "Bolivia",
@@ -8384,7 +8868,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AF",
-  "iso": "bo"
+  "iso": "bo",
+  "currency": {
+   "name": "Bolivian boliviano",
+   "code": "BOB"
+  }
  },
  {
   "country": "Cuba",
@@ -8465,7 +8953,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AE",
-  "iso": "cu"
+  "iso": "cu",
+  "currency": {
+   "name": "Cuban peso",
+   "code": "CUP"
+  }
  },
  {
   "country": "Kuwait",
@@ -8535,7 +9027,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AH",
-  "iso": "kw"
+  "iso": "kw",
+  "currency": {
+   "name": "Kuwaiti dinar",
+   "code": "KWD"
+  }
  },
  {
   "country": "Pakistan",
@@ -8607,7 +9103,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AI",
-  "iso": "pk"
+  "iso": "pk",
+  "currency": {
+   "name": "Pakistani rupee",
+   "code": "PKR"
+  }
  },
  {
   "country": "Myanmar",
@@ -8679,7 +9179,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AJ",
-  "iso": "mm"
+  "iso": "mm",
+  "currency": {
+   "name": "Myanmar kyat",
+   "code": "MMK"
+  }
  },
  {
   "country": "Tajikistan",
@@ -8750,7 +9254,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AJ",
-  "iso": "tj"
+  "iso": "tj",
+  "currency": {
+   "name": "Tajikistani somoni",
+   "code": "TJS"
+  }
  },
  {
   "country": "Timor-Leste",
@@ -8829,7 +9337,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AC",
-  "iso": "tl"
+  "iso": "tl",
+  "currency": {
+   "name": "US dollar",
+   "code": "USD"
+  }
  },
  {
   "country": "Turkmenistan",
@@ -8913,7 +9425,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AJ",
-  "iso": "tm"
+  "iso": "tm",
+  "currency": {
+   "name": "Turkmenistani manat",
+   "code": "TMT"
+  }
  },
  {
   "country": "Belarus",
@@ -8994,7 +9510,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AG",
-  "iso": "by"
+  "iso": "by",
+  "currency": {
+   "name": "Belarusian ruble",
+   "code": "BYN"
+  }
  },
  {
   "country": "Moldova",
@@ -9071,7 +9591,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AG",
-  "iso": "md"
+  "iso": "md",
+  "currency": {
+   "name": "Moldovan leu",
+   "code": "MDL"
+  }
  },
  {
   "country": "Senegal",
@@ -9158,7 +9682,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "U",
-  "iso": "sn"
+  "iso": "sn",
+  "currency": {
+   "name": "West African CFA franc",
+   "code": "XOF"
+  }
  },
  {
   "country": "Côte d'Ivoire",
@@ -9244,7 +9772,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "T",
-  "iso": "ci"
+  "iso": "ci",
+  "currency": {
+   "name": "West African CFA franc",
+   "code": "XOF"
+  }
  },
  {
   "country": "Mozambique",
@@ -9332,7 +9864,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "W",
-  "iso": "mz"
+  "iso": "mz",
+  "currency": {
+   "name": "Mozambican metical",
+   "code": "MZN"
+  }
  },
  {
   "country": "Malawi",
@@ -9417,7 +9953,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "W",
-  "iso": "mw"
+  "iso": "mw",
+  "currency": {
+   "name": "Malawian kwacha",
+   "code": "MWK"
+  }
  },
  {
   "country": "Cabo Verde",
@@ -9494,7 +10034,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "U",
-  "iso": "cv"
+  "iso": "cv",
+  "currency": {
+   "name": "Cape Verdean escudo",
+   "code": "CVE"
+  }
  },
  {
   "country": "Angola",
@@ -9574,7 +10118,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "W",
-  "iso": "ao"
+  "iso": "ao",
+  "currency": {
+   "name": "Angolan kwanza",
+   "code": "AOA"
+  }
  },
  {
   "country": "Algeria",
@@ -9656,7 +10204,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AA",
-  "iso": "dz"
+  "iso": "dz",
+  "currency": {
+   "name": "Algerian dinar",
+   "code": "DZD"
+  }
  },
  {
   "country": "Papua New Guinea",
@@ -9736,7 +10288,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AC",
-  "iso": "pg"
+  "iso": "pg",
+  "currency": {
+   "name": "Papua New Guinean kina",
+   "code": "PGK"
+  }
  },
  {
   "country": "Guatemala",
@@ -9817,7 +10373,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AD",
-  "iso": "gt"
+  "iso": "gt",
+  "currency": {
+   "name": "Guatemalan quetzal",
+   "code": "GTQ"
+  }
  },
  {
   "country": "Belize",
@@ -9896,7 +10456,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AD",
-  "iso": "bz"
+  "iso": "bz",
+  "currency": {
+   "name": "Belize dollar",
+   "code": "BZD"
+  }
  },
  {
   "country": "Guyana",
@@ -9975,7 +10539,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AF",
-  "iso": "gy"
+  "iso": "gy",
+  "currency": {
+   "name": "Guyanese dollar",
+   "code": "GYD"
+  }
  },
  {
   "country": "Paraguay",
@@ -10056,7 +10624,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AF",
-  "iso": "py"
+  "iso": "py",
+  "currency": {
+   "name": "Paraguayan guarani",
+   "code": "PYG"
+  }
  },
  {
   "country": "Afghanistan",
@@ -10135,7 +10707,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AI",
-  "iso": "af"
+  "iso": "af",
+  "currency": {
+   "name": "Afghan afghani",
+   "code": "AFN"
+  }
  },
  {
   "country": "Iran",
@@ -10216,7 +10792,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AI",
-  "iso": "ir"
+  "iso": "ir",
+  "currency": {
+   "name": "Iranian rial",
+   "code": "IRR"
+  }
  },
  {
   "country": "Iraq",
@@ -10295,7 +10875,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AH",
-  "iso": "iq"
+  "iso": "iq",
+  "currency": {
+   "name": "Iraqi dinar",
+   "code": "IQD"
+  }
  },
  {
   "country": "Lebanon",
@@ -10371,7 +10955,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AH",
-  "iso": "lb"
+  "iso": "lb",
+  "currency": {
+   "name": "Lebanese pound",
+   "code": "LBP"
+  }
  },
  {
   "country": "Syria",
@@ -10450,7 +11038,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AI",
-  "iso": "sy"
+  "iso": "sy",
+  "currency": {
+   "name": "Syrian pound",
+   "code": "SYP"
+  }
  },
  {
   "country": "Yemen",
@@ -10527,7 +11119,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AI",
-  "iso": "ye"
+  "iso": "ye",
+  "currency": {
+   "name": "Yemeni rial",
+   "code": "YER"
+  }
  },
  {
   "country": "Libya",
@@ -10607,7 +11203,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AA",
-  "iso": "ly"
+  "iso": "ly",
+  "currency": {
+   "name": "Libyan dinar",
+   "code": "LYD"
+  }
  },
  {
   "country": "North Korea",
@@ -10683,7 +11283,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AJ",
-  "iso": "kp"
+  "iso": "kp",
+  "currency": {
+   "name": "North Korean won",
+   "code": "KPW"
+  }
  },
  {
   "country": "Benin",
@@ -10762,7 +11366,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "T",
-  "iso": "bj"
+  "iso": "bj",
+  "currency": {
+   "name": "West African CFA franc",
+   "code": "XOF"
+  }
  },
  {
   "country": "Burkina Faso",
@@ -10836,7 +11444,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "Y",
-  "iso": "bf"
+  "iso": "bf",
+  "currency": {
+   "name": "West African CFA franc",
+   "code": "XOF"
+  }
  },
  {
   "country": "Mali",
@@ -10906,7 +11518,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "Y",
-  "iso": "ml"
+  "iso": "ml",
+  "currency": {
+   "name": "West African CFA franc",
+   "code": "XOF"
+  }
  },
  {
   "country": "Niger",
@@ -10976,7 +11592,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "Y",
-  "iso": "ne"
+  "iso": "ne",
+  "currency": {
+   "name": "West African CFA franc",
+   "code": "XOF"
+  }
  },
  {
   "country": "Togo",
@@ -11058,7 +11678,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "T",
-  "iso": "tg"
+  "iso": "tg",
+  "currency": {
+   "name": "West African CFA franc",
+   "code": "XOF"
+  }
  },
  {
   "country": "Gambia",
@@ -11139,7 +11763,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "U",
-  "iso": "gm"
+  "iso": "gm",
+  "currency": {
+   "name": "Gambian dalasi",
+   "code": "GMD"
+  }
  },
  {
   "country": "Guinea",
@@ -11223,7 +11851,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "U",
-  "iso": "gn"
+  "iso": "gn",
+  "currency": {
+   "name": "Guinean franc",
+   "code": "GNF"
+  }
  },
  {
   "country": "Guinea-Bissau",
@@ -11304,7 +11936,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "U",
-  "iso": "gw"
+  "iso": "gw",
+  "currency": {
+   "name": "West African CFA franc",
+   "code": "XOF"
+  }
  },
  {
   "country": "Sierra Leone",
@@ -11380,7 +12016,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "U",
-  "iso": "sl"
+  "iso": "sl",
+  "currency": {
+   "name": "Sierra Leonean leone",
+   "code": "SLE"
+  }
  },
  {
   "country": "Liberia",
@@ -11456,7 +12096,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "U",
-  "iso": "lr"
+  "iso": "lr",
+  "currency": {
+   "name": "Liberian dollar",
+   "code": "LRD"
+  }
  },
  {
   "country": "Mauritania",
@@ -11533,7 +12177,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "Y",
-  "iso": "mr"
+  "iso": "mr",
+  "currency": {
+   "name": "Mauritanian ouguiya",
+   "code": "MRU"
+  }
  },
  {
   "country": "Cameroon",
@@ -11612,7 +12260,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "V",
-  "iso": "cm"
+  "iso": "cm",
+  "currency": {
+   "name": "Central African CFA franc",
+   "code": "XAF"
+  }
  },
  {
   "country": "Central African Republic",
@@ -11682,7 +12334,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "Y",
-  "iso": "cf"
+  "iso": "cf",
+  "currency": {
+   "name": "Central African CFA franc",
+   "code": "XAF"
+  }
  },
  {
   "country": "Chad",
@@ -11754,7 +12410,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "Y",
-  "iso": "td"
+  "iso": "td",
+  "currency": {
+   "name": "Central African CFA franc",
+   "code": "XAF"
+  }
  },
  {
   "country": "Congo",
@@ -11824,7 +12484,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "V",
-  "iso": "cg"
+  "iso": "cg",
+  "currency": {
+   "name": "Central African CFA franc",
+   "code": "XAF"
+  }
  },
  {
   "country": "Democratic Republic of the Congo",
@@ -11899,7 +12563,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "V",
-  "iso": "cd"
+  "iso": "cd",
+  "currency": {
+   "name": "Congolese franc",
+   "code": "CDF"
+  }
  },
  {
   "country": "Gabon",
@@ -11976,7 +12644,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "V",
-  "iso": "ga"
+  "iso": "ga",
+  "currency": {
+   "name": "Central African CFA franc",
+   "code": "XAF"
+  }
  },
  {
   "country": "Equatorial Guinea",
@@ -12050,7 +12722,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "V",
-  "iso": "gq"
+  "iso": "gq",
+  "currency": {
+   "name": "Central African CFA franc",
+   "code": "XAF"
+  }
  },
  {
   "country": "Sao Tome and Principe",
@@ -12126,7 +12802,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "V",
-  "iso": "st"
+  "iso": "st",
+  "currency": {
+   "name": "Sao Tome dobra",
+   "code": "STN"
+  }
  },
  {
   "country": "Comoros",
@@ -12205,7 +12885,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "W",
-  "iso": "km"
+  "iso": "km",
+  "currency": {
+   "name": "Comorian franc",
+   "code": "KMF"
+  }
  },
  {
   "country": "Djibouti",
@@ -12278,7 +12962,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "Z",
-  "iso": "dj"
+  "iso": "dj",
+  "currency": {
+   "name": "Djiboutian franc",
+   "code": "DJF"
+  }
  },
  {
   "country": "Eritrea",
@@ -12352,7 +13040,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "Z",
-  "iso": "er"
+  "iso": "er",
+  "currency": {
+   "name": "Eritrean nakfa",
+   "code": "ERN"
+  }
  },
  {
   "country": "Somalia",
@@ -12423,7 +13115,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "Z",
-  "iso": "so"
+  "iso": "so",
+  "currency": {
+   "name": "Somali shilling",
+   "code": "SOS"
+  }
  },
  {
   "country": "South Sudan",
@@ -12496,7 +13192,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "Z",
-  "iso": "ss"
+  "iso": "ss",
+  "currency": {
+   "name": "South Sudanese pound",
+   "code": "SSP"
+  }
  },
  {
   "country": "Sudan",
@@ -12576,7 +13276,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "Z",
-  "iso": "sd"
+  "iso": "sd",
+  "currency": {
+   "name": "Sudanese pound",
+   "code": "SDG"
+  }
  },
  {
   "country": "Burundi",
@@ -12652,7 +13356,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "W",
-  "iso": "bi"
+  "iso": "bi",
+  "currency": {
+   "name": "Burundian franc",
+   "code": "BIF"
+  }
  },
  {
   "country": "Ukraine",
@@ -12731,7 +13439,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AG",
-  "iso": "ua"
+  "iso": "ua",
+  "currency": {
+   "name": "Ukrainian hryvnia",
+   "code": "UAH"
+  }
  },
  {
   "country": "Uruguay",
@@ -12807,7 +13519,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AF",
-  "iso": "uy"
+  "iso": "uy",
+  "currency": {
+   "name": "Uruguayan peso",
+   "code": "UYU"
+  }
  },
  {
   "country": "Venezuela",
@@ -12885,7 +13601,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AF",
-  "iso": "ve"
+  "iso": "ve",
+  "currency": {
+   "name": "Venezuelan bolivar",
+   "code": "VES"
+  }
  },
  {
   "country": "Suriname",
@@ -12964,7 +13684,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AF",
-  "iso": "sr"
+  "iso": "sr",
+  "currency": {
+   "name": "Surinamese dollar",
+   "code": "SRD"
+  }
  },
  {
   "country": "Haiti",
@@ -13039,7 +13763,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AE",
-  "iso": "ht"
+  "iso": "ht",
+  "currency": {
+   "name": "Haitian gourde",
+   "code": "HTG"
+  }
  },
  {
   "country": "Honduras",
@@ -13116,7 +13844,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AD",
-  "iso": "hn"
+  "iso": "hn",
+  "currency": {
+   "name": "Honduran lempira",
+   "code": "HNL"
+  }
  },
  {
   "country": "El Salvador",
@@ -13195,7 +13927,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AD",
-  "iso": "sv"
+  "iso": "sv",
+  "currency": {
+   "name": "US dollar",
+   "code": "USD"
+  }
  },
  {
   "country": "Nicaragua",
@@ -13273,7 +14009,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AD",
-  "iso": "ni"
+  "iso": "ni",
+  "currency": {
+   "name": "Nicaraguan cordoba",
+   "code": "NIO"
+  }
  },
  {
   "country": "Antigua and Barbuda",
@@ -13352,7 +14092,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AE",
-  "iso": "ag"
+  "iso": "ag",
+  "currency": {
+   "name": "East Caribbean dollar",
+   "code": "XCD"
+  }
  },
  {
   "country": "Saint Kitts and Nevis",
@@ -13430,7 +14174,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AE",
-  "iso": "kn"
+  "iso": "kn",
+  "currency": {
+   "name": "East Caribbean dollar",
+   "code": "XCD"
+  }
  },
  {
   "country": "Kiribati",
@@ -13509,7 +14257,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AB",
-  "iso": "ki"
+  "iso": "ki",
+  "currency": {
+   "name": "Australian dollar",
+   "code": "AUD"
+  }
  },
  {
   "country": "Marshall Islands",
@@ -13587,7 +14339,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AB",
-  "iso": "mh"
+  "iso": "mh",
+  "currency": {
+   "name": "US dollar",
+   "code": "USD"
+  }
  },
  {
   "country": "Micronesia",
@@ -13667,7 +14423,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AB",
-  "iso": "fm"
+  "iso": "fm",
+  "currency": {
+   "name": "US dollar",
+   "code": "USD"
+  }
  },
  {
   "country": "Nauru",
@@ -13746,7 +14506,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AB",
-  "iso": "nr"
+  "iso": "nr",
+  "currency": {
+   "name": "Australian dollar",
+   "code": "AUD"
+  }
  },
  {
   "country": "Palau",
@@ -13830,7 +14594,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AB",
-  "iso": "pw"
+  "iso": "pw",
+  "currency": {
+   "name": "US dollar",
+   "code": "USD"
+  }
  },
  {
   "country": "Solomon Islands",
@@ -13913,7 +14681,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AC",
-  "iso": "sb"
+  "iso": "sb",
+  "currency": {
+   "name": "Solomon Islands dollar",
+   "code": "SBD"
+  }
  },
  {
   "country": "Tonga",
@@ -13997,7 +14769,11 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AC",
-  "iso": "to"
+  "iso": "to",
+  "currency": {
+   "name": "Tongan paanga",
+   "code": "TOP"
+  }
  },
  {
   "country": "Tuvalu",
@@ -14081,6 +14857,10 @@
   "lastChecked": "2026-10-16",
   "confidence": "thin",
   "trip": "AC",
-  "iso": "tv"
+  "iso": "tv",
+  "currency": {
+   "name": "Australian dollar",
+   "code": "AUD"
+  }
  }
 ]
