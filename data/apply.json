@@ -11458,5 +11458,421 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin"
+ },
+ {
+  "country": "Serbia",
+  "route": "online",
+  "summary": "Create an account on the Serbian eID portal (eid.gov.rs), then apply for a type C short-stay visa on the Welcome to Serbia portal and upload passport data, photo and travel plan. An approved visa may be issued as an electronic Digital Travel Authorization or as a sticker. The Serbian embassy in New Delhi says it stamps passports for sticker visas, taking hard copies of the online documents (Mon to Thu, 11am to 1pm, no appointment). Holders of a valid Schengen, UK, EU or US visa can enter visa free for up to 90 days instead.",
+  "applyLinks": [
+   {
+    "label": "Apply for a Serbian visa online (Welcome to Serbia portal)",
+    "url": "https://welcometoserbia.gov.rs/"
+   },
+   {
+    "label": "Serbia eServices for foreign citizens (login or register)",
+    "url": "https://eforeigner.welcometoserbia.gov.rs/"
+   },
+   {
+    "label": "Serbian visa requirements (Ministry of Foreign Affairs)",
+    "url": "https://www.mfa.gov.rs/en/citizens/travel-serbia/visa-requirements"
+   },
+   {
+    "label": "Embassy of Serbia in New Delhi: visa FAQ",
+    "url": "https://newdelhi.mfa.gov.rs/en/citizens/frequently-asked-questions"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 90 days after departure, at least 2 consecutive blank pages, issued within the last 10 years"
+   },
+   {
+    "item": "Visa application form",
+    "note": "Completed online on the portal"
+   },
+   {
+    "item": "Photo",
+    "note": "3.5 x 4.5 cm"
+   },
+   {
+    "item": "Proof of purpose of trip",
+    "note": "For tourism, proof of payment for the trip from a travel agency (voucher or receipt); for a private visit, a certified invitation letter"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Adequate and valid"
+   },
+   {
+    "item": "Funds, accommodation and return proof",
+    "note": "Evidence of means of subsistence, accommodation and intent to leave before the visa expires"
+   }
+  ],
+  "photo": {
+   "size": "3.5 x 4.5 cm",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED (digital upload on portal)",
+   "notes": "Size from Ministry of Foreign Affairs page; background and file specs not confirmed",
+   "status": "unverified"
+  },
+  "fee": "Visa C (up to 90 days): 92 EUR (9,240 INR) per the Embassy of Serbia in New Delhi FAQ (page seen 2026-10-16); child under 12: 47 EUR; appeal 100 EUR",
+  "processing": "UNVERIFIED",
+  "applyEarly": "Third-party law firm says up to 3 months before travel; not confirmed on an official page. UNVERIFIED",
+  "biometrics": "No fingerprints mentioned. For sticker visas, the passport is submitted at the Embassy in New Delhi with hard copies of the documents.",
+  "centres": "New Delhi (Embassy of Serbia, Chanakyapuri). No visa centre in other Indian cities found.",
+  "warnings": [
+   "Visa free entry for up to 90 days applies only with a valid Schengen, UK, EU or US visa or residence permit (multiple entry for the FAQ wording)",
+   "Online applications need an eID account first; apply only through gov.rs domains",
+   "Incomplete applications are not accepted and the mission may ask for extra documents",
+   "Confirm whether the portal currently offers the e-visa to Indian nationals; the list of eligible countries is limited"
+  ],
+  "unverified": [
+   "Processing time",
+   "How early to apply",
+   "Photo background and file format",
+   "Whether the Digital Travel Authorization is offered to Indian passport holders",
+   "Portal pages are JavaScript driven, so form fields were not read"
+  ],
+  "sources": [
+   "https://www.mfa.gov.rs/en/citizens/travel-serbia/visa-requirements",
+   "https://www.mfa.gov.rs/en/citizens/travel-serbia/visa-regime/indija",
+   "https://newdelhi.mfa.gov.rs/en/citizens/frequently-asked-questions",
+   "https://welcometoserbia.gov.rs/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Sierra Leone",
+  "route": "online",
+  "summary": "Apply on the Government of Sierra Leone eVisa system (evisa.sl): create an application, upload passport and photo, pay online and print the approval. Each traveller needs a separate visa, including children. No Sierra Leone mission in India was found, so there is no embassy route confirmed from India.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Sierra Leone e-visa (official eVisa system)",
+    "url": "https://www.evisa.sl/#/apply"
+   },
+   {
+    "label": "Sierra Leone eVisa home page",
+    "url": "https://www.evisa.sl/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Typically valid at least 6 months (from a non official tour operator page, so UNVERIFIED)"
+   },
+   {
+    "item": "Passport style photo",
+    "note": "Uploaded online"
+   },
+   {
+    "item": "Passport bio page scan",
+    "note": "Uploaded online"
+   },
+   {
+    "item": "Flight and accommodation details",
+    "note": "Often requested; confirm on the portal"
+   },
+   {
+    "item": "Yellow fever vaccination certificate",
+    "note": "Commonly checked on arrival; confirm with the Ministry of Health"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Portal is JavaScript only and could not be read",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (the official portal renders only in a browser). Do not rely on agent pages.",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED. Biometrics are likely taken at the airport on arrival (not confirmed).",
+  "centres": "No Sierra Leone mission in India found. UNVERIFIED",
+  "warnings": [
+   "Use only evisa.sl; many agent sites charge extra service fees",
+   "Each traveller, including infants, needs a separate visa",
+   "Print the approval and carry it with your passport",
+   "Check yellow fever certificate rules before travel"
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo specs",
+   "Document list",
+   "Whether India has a covering mission",
+   "Portal content is JavaScript only"
+  ],
+  "sources": [
+   "https://www.evisa.sl/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Slovakia",
+  "route": "agency",
+  "summary": "Indians need a Schengen short-stay visa. Book an appointment with BLS International (the official Slovak visa partner) in Delhi, Mumbai or Bangalore, and submit your application, documents and fingerprints there. The Slovak Embassy in New Delhi decides, taking about 15 working days from receipt. Other Schengen countries follow the same rules but you apply to the main destination country.",
+  "applyLinks": [
+   {
+    "label": "Book a BLS appointment for Slovakia in India",
+    "url": "https://blsslovakiavisa.com/india"
+   },
+   {
+    "label": "Slovakia visa information on VFS Global (fees, forms, checklist)",
+    "url": "https://visa.vfsglobal.com/one-pager/slovakia/india/english/"
+   },
+   {
+    "label": "Embassy of Slovakia in New Delhi: Schengen visa page",
+    "url": "https://www.mzv.sk/en/web/dilli-en/visa-and-services/schengen-visa"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 3 months after leaving the Schengen area, issued within the last 10 years, with at least 2 blank pages (standard Schengen rule)"
+   },
+   {
+    "item": "Schengen visa application form",
+    "note": "Completed and signed"
+   },
+   {
+    "item": "Photo",
+    "note": "One recent colour photo on a light background, full face, no head covering unless for religious reasons"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Mandatory for Schengen; must cover emergency care and repatriation"
+   },
+   {
+    "item": "Flight reservation and accommodation proof",
+    "note": "Round trip itinerary and hotel bookings or invitation"
+   },
+   {
+    "item": "Bank statements and income proof",
+    "note": "Recent statements, ITR or salary slips to show funds"
+   },
+   {
+    "item": "Employment or business proof",
+    "note": "Leave letter, NOC or business registration, depending on status"
+   },
+   {
+    "item": "Original supporting documents in English",
+    "note": "Embassy may ask for more documents or an interview"
+   }
+  ],
+  "photo": {
+   "size": "Standard Schengen/ICAO photo (exact mm not stated on the page read)",
+   "background": "Light (white or off-white)",
+   "format": "Printed on photographic paper, stuck on the form; not older than 6 months",
+   "notes": "Full face, non smiling, no sunglasses or hat; a photo booth is available at the centre if rejected",
+   "status": "verified"
+  },
+  "fee": "Visa fee 90 EUR adult, 45 EUR child 6 to 12, plus a service charge of 30 EUR (incl. GST) per the Slovakia visa page on VFS (seen 2026-10-16); the page says the same fee applies to all tourist categories",
+  "processing": "15 working days from receipt at the Embassy (transit time between centre and Embassy not counted)",
+  "applyEarly": "UNVERIFIED (Schengen rule: up to 6 months before travel, but not confirmed for this mission)",
+  "biometrics": "Yes. Fingerprints at the visa application centre; children under 12 are exempt.",
+  "centres": "Delhi, Mumbai, Bangalore (BLS Slovakia centres)",
+  "warnings": [
+   "Book only via the BLS website; never pay anyone for an appointment",
+   "Do not apply online at the Embassy; the Embassy page says to use BLS",
+   "Travel insurance is mandatory and fees are non refundable if refused",
+   "Slovakia and VFS pages both exist; the BLS site is the one carrying the current booking system"
+  ],
+  "unverified": [
+   "How early to apply",
+   "Exact photo dimensions",
+   "Embassy page blocks automated checks (403)",
+   "Whether VFS or BLS currently runs the centres: both pages are live, BLS is the one the Embassy names"
+  ],
+  "sources": [
+   "https://blsslovakiavisa.com/india",
+   "https://visa.vfsglobal.com/one-pager/slovakia/india/english/",
+   "https://www.mzv.sk/en/web/dilli-en/visa-and-services/schengen-visa"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Slovenia",
+  "route": "mixed",
+  "summary": "Indians need a Schengen short-stay (C) visa. Start on the VFS Global Slovenia India page to begin the application, book an appointment and pay, then submit documents and fingerprints at a VFS centre. The Embassy of Slovenia in New Delhi also handles visitors by email appointment. Other Schengen countries follow the same rules but you apply to the main destination country.",
+  "applyLinks": [
+   {
+    "label": "Slovenia visa on VFS Global India (apply, book, track)",
+    "url": "https://visa.vfsglobal.com/ind/en/svn/apply-visa"
+   },
+   {
+    "label": "Book a VFS appointment for Slovenia in India",
+    "url": "https://visa.vfsglobal.com/ind/en/svn/book-an-appointment"
+   },
+   {
+    "label": "Embassy of Slovenia in New Delhi: visa information and fees",
+    "url": "https://www.gov.si/en/representations/embassy-new-delhi/visa-information/"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Schengen visa application form (Embassy of Slovenia, Word)",
+    "url": "https://www.gov.si/assets/ministrstva/MZEZ/Dokumenti/konzularne-zadeve/oddelek-za-vize/vloge-za-vize-januar-2020/Application-for-Schengen-Visa-C-SLV-ENG.docx"
+   },
+   {
+    "label": "Short-stay visa checklist (PDF)",
+    "url": "https://www.vfsglobal.com/slovenia/india/pdf/checklist-for-short-stay-visa.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 3 months after leaving the Schengen area, issued within the last 10 years, with at least 2 blank pages (standard Schengen rule)"
+   },
+   {
+    "item": "Schengen visa application form",
+    "note": "Completed and signed"
+   },
+   {
+    "item": "Photo",
+    "note": "One recent colour photo on a light background, full face, no head covering unless for religious reasons"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Mandatory for Schengen; must cover emergency care and repatriation"
+   },
+   {
+    "item": "Flight reservation and accommodation proof",
+    "note": "Round trip itinerary and hotel bookings or invitation"
+   },
+   {
+    "item": "Bank statements and income proof",
+    "note": "Recent statements, ITR or salary slips to show funds"
+   },
+   {
+    "item": "Employment or business proof",
+    "note": "Leave letter, NOC or business registration, depending on status"
+   },
+   {
+    "item": "Original supporting documents in English",
+    "note": "Embassy may ask for more documents or an interview"
+   },
+   {
+    "item": "Common information sheet for Schengen applicants in India",
+    "note": "Embassy lists the standard supporting documents (PDF on its visa page)"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "ICAO compliant photo",
+   "notes": "The EU rule is an ICAO compliant photo; the VFS page is JavaScript only",
+   "status": "unverified"
+  },
+  "fee": "Schengen C visa 90 EUR per the Embassy of Slovenia consular fee list (seen 2026-10-16); appeal 153 EUR. VFS service charge UNVERIFIED",
+  "processing": "UNVERIFIED (Schengen rule: usually up to 15 calendar days)",
+  "applyEarly": "UNVERIFIED (Schengen rule: up to 6 months before travel)",
+  "biometrics": "Yes. Fingerprints are part of the application where applicable (per the Embassy checklist); taken at the application centre.",
+  "centres": "UNVERIFIED (VFS page is JavaScript only; check the list on the VFS Slovenia page)",
+  "warnings": [
+   "Submit original supporting documents in English or Slovenian",
+   "The embassy may call you for an interview or ask for more documents",
+   "The embassy moved to Block C-36, Anand Niketan, New Delhi in 2025; use the new address",
+   "Pay embassy fees by UPI or bank transfer only; the embassy does not take cash"
+  ],
+  "unverified": [
+   "VFS service charge",
+   "Processing time",
+   "Photo specs",
+   "Application centre cities",
+   "VFS pages are JavaScript only"
+  ],
+  "sources": [
+   "https://www.gov.si/en/representations/embassy-new-delhi/visa-information/",
+   "https://www.vfsglobal.com/slovenia/india/pdf/checklist-for-short-stay-visa.pdf",
+   "https://visa.vfsglobal.com/ind/en/svn/apply-visa"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Solomon Islands",
+  "route": "online",
+  "summary": "Apply on the Solomon Islands Immigration eVisa portal: register with an email, log in, complete the tourist visa form, attach documents and pay by Visa or Mastercard. The visa grant letter is emailed and you must show a copy on arrival.",
+  "applyLinks": [
+   {
+    "label": "How to apply for the Solomon Islands e-visa online",
+    "url": "https://immigration.gov.sb/how-to-apply-online/"
+   },
+   {
+    "label": "Tourist visa details and Apply Online button",
+    "url": "https://immigration.gov.sb/visitor-visa-tourist"
+   },
+   {
+    "label": "All visa categories (including Mutual Reciprocal)",
+    "url": "https://immigration.gov.sb/visas"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport bio page copy",
+    "note": "Passport should be valid at least 6 months or entry may be refused"
+   },
+   {
+    "item": "Cover letter stating purpose of visit",
+    "note": "Addressed to the Director, Solomon Islands Immigration Division"
+   },
+   {
+    "item": "Return or onward air ticket",
+    "note": "Itinerary copy"
+   },
+   {
+    "item": "Hotel confirmation",
+    "note": "If staying at a hotel"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Evidence you can support yourself"
+   },
+   {
+    "item": "Visa grant letter",
+    "note": "Print and carry on arrival"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Photo not listed on the tourist visa page",
+   "status": "unverified"
+  },
+  "fee": "Tourist visa 50 USD plus online lodgement fee 50 USD, per the Immigration Division page (seen 2026-10-16); extension 100 USD while in country",
+  "processing": "UNVERIFIED (page says it varies by visa category)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "None mentioned for online applications.",
+  "centres": "No visa centre in India; the Immigration Division is in Honiara. No Solomon Islands mission in India found. UNVERIFIED",
+  "warnings": [
+   "Pay only on immigration.gov.sb",
+   "Indian citizens may qualify for a Mutual Reciprocal Visa category listed on the site; check the category page for fees and eligibility",
+   "Use an active email since all notices go there",
+   "Visa is valid 1 year, multiple entry, 3 months per stay; work is not permitted"
+  ],
+  "unverified": [
+   "Processing time",
+   "Photo specs",
+   "How early to apply",
+   "Mutual Reciprocal visa terms for Indians",
+   "Whether the portal login page itself loads (not opened)"
+  ],
+  "sources": [
+   "https://immigration.gov.sb/visitor-visa-tourist",
+   "https://immigration.gov.sb/visas",
+   "https://immigration.gov.sb/how-to-apply-online/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
  }
 ]
