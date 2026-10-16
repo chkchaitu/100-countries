@@ -12667,5 +12667,387 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "partial"
+ },
+ {
+  "country": "Tuvalu",
+  "route": "agency",
+  "summary": "Tuvalu has no embassy in India and no online portal that could be confirmed. Secondary sources say Indian passport holders get an entry permit (visa on arrival) for up to 30 days at Funafuti airport. Carry a passport valid 6 months, a return or onward ticket, proof of accommodation and proof of funds, and contact the nearest Tuvalu mission before you travel.",
+  "applyLinks": [
+   {
+    "label": "Tuvalu consular services and visa notes (Tuvalu mission to the UN)",
+    "url": "http://www.un.int/tuvalu/tuvalu/consular-services"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months from arrival, with a blank page"
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Needed on arrival"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Hotel booking or host letter"
+   },
+   {
+    "item": "Proof of sufficient funds",
+    "note": "Bank statement or cash, sometimes asked"
+   },
+   {
+    "item": "Application form",
+    "note": "Filled on arrival if the officer asks; sometimes required"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Photo rules not found on an official page; carry two passport size photos as a precaution.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (an official page was not found; secondary sources quote AUD 100, sold as visa on arrival)",
+  "processing": "On arrival (secondary sources)",
+  "applyEarly": "No advance application needed per secondary sources; check with a Tuvalu mission",
+  "biometrics": "No biometrics step in India found",
+  "centres": "UNVERIFIED (no Tuvalu mission in India found; flights to Funafuti go via Fiji)",
+  "warnings": [
+   "Flights are very infrequent (via Fiji), so book flights and accommodation first",
+   "Airlines may ask for proof you will be admitted; carry printed documents",
+   "Entry rules can change at short notice; confirm with a Tuvalu mission or the airline",
+   "Fee in AUD is paid in cash on arrival per secondary reports, so carry it"
+  ],
+  "unverified": [
+   "Whether Indian citizens get visa on arrival, official fee, photo rules, and nearest mission for India (all only from the Tuvalu UN mission page and secondary sources)"
+  ],
+  "sources": [
+   "http://www.un.int/tuvalu/tuvalu/consular-services"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Ukraine",
+  "route": "online",
+  "summary": "Ukraine lists India as a visa country that can use the e-Visa (single or double entry, 30 days, tourism category) at the MFA e-Visa site. Register, fill the form, upload documents, pay, then wait for the visa by email. The Ukrainian embassy in New Delhi also takes paper applications. Under martial law, check the current travel advice and whether flights and borders are open before applying.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Ukraine e-Visa (MFA)",
+    "url": "https://evisa.mfa.gov.ua/"
+   },
+   {
+    "label": "Ukraine MFA e-Visa page with the steps",
+    "url": "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine/e-visa"
+   },
+   {
+    "label": "Embassy of Ukraine in India: e-Visa page",
+    "url": "https://india.mfa.gov.ua/en/consular-issues/entry-and-stay-foreigners-ukraine/5333-oformlennya-jelektronnih-viz-dlya-vjizdu-v-ukrajinu"
+   },
+   {
+    "label": "Register a paper visa application (visa.mfa.gov.ua)",
+    "url": "https://visa.mfa.gov.ua"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid for the stay; exact validity UNVERIFIED"
+   },
+   {
+    "item": "Photo",
+    "note": "Digital photo uploaded online"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Bank statement, usually required"
+   },
+   {
+    "item": "Accommodation or invitation",
+    "note": "Hotel booking or invitation, usually required"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Often required; exact rule UNVERIFIED"
+   },
+   {
+    "item": "Return ticket",
+    "note": "Usually required"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Pages blocked automated access (Cloudflare), so photo rules could not be read.",
+   "status": "unverified"
+  },
+  "fee": "Single entry e-Visa USD 20, double entry USD 30, doubled for urgent processing; non-refundable on refusal (Ukraine MFA visa information page, seen in an official search result 2026-10-16)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "E-Visa: no visit. Paper visa: embassy in New Delhi (details UNVERIFIED)",
+  "centres": "New Delhi (embassy); other centres UNVERIFIED",
+  "warnings": [
+   "Ukraine is under martial law and most foreign governments advise against travel; check the advisories first",
+   "Fees are not refunded if the visa is refused",
+   "Apply only on the official evisa.mfa.gov.ua site",
+   "E-Visa tourism route availability for Indians should be confirmed on the site, as the list of countries changes"
+  ],
+  "unverified": [
+   "Processing time",
+   "Document list and photo rules",
+   "Early application window",
+   "Embassy appointment details",
+   "All four official pages returned 403 (Cloudflare) to automated checks, so only search result text was read"
+  ],
+  "sources": [
+   "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine/visa-information",
+   "https://mfa.gov.ua/en/consular-affairs/entry-and-stay-foreigners-ukraine/entry-regime-ukraine-foreign-citizens"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Uruguay",
+  "route": "embassy",
+  "summary": "Indian citizens need a consular tourist visa for Uruguay (the Interior Ministry visa table lists India as visa needed). Apply through the Uruguayan embassy in New Delhi, which sends the file to Uruguayan Migration for authorisation, then stamps the visa. Uruguay's own information site says authorisation usually takes at least 20 business days.",
+  "applyLinks": [
+   {
+    "label": "Uruguay entry and visa guide (tourist visa documents)",
+    "url": "https://www.liveinuruguay.uy/entryprocedures"
+   },
+   {
+    "label": "Uruguay visa regime table (India needs a visa)",
+    "url": "https://www.gub.uy/ministerio-interior/comunicacion/publicaciones/regimen-visas-admision"
+   },
+   {
+    "label": "Uruguay Ministry of Foreign Affairs (find the embassy for India)",
+    "url": "https://www.gub.uy/ministerio-relaciones-exteriores/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months after arrival, in good condition"
+   },
+   {
+    "item": "Photo",
+    "note": "One passport size photo, 5 x 5 cm"
+   },
+   {
+    "item": "Application form",
+    "note": "Completed and signed"
+   },
+   {
+    "item": "Round trip ticket or reservation",
+    "note": "Required"
+   },
+   {
+    "item": "Hotel reservation or other proof of accommodation and income",
+    "note": "Required"
+   },
+   {
+    "item": "Invitation letter",
+    "note": "Only if staying with a friend or relative (secondary source)"
+   }
+  ],
+  "photo": {
+   "size": "5 x 5 cm (one photo)",
+   "background": "UNVERIFIED",
+   "format": "Printed",
+   "notes": "From the Live in Uruguay official guide.",
+   "status": "verified"
+  },
+  "fee": "UNVERIFIED (no official fee found for India)",
+  "processing": "At least 20 business days for authorisation, per liveinuruguay.uy",
+  "applyEarly": "UNVERIFIED; apply well before travel, allow at least 1 to 2 months",
+  "biometrics": "Submission at the embassy in New Delhi expected; details UNVERIFIED",
+  "centres": "New Delhi (embassy; address and hours UNVERIFIED on an official page)",
+  "warnings": [
+   "Authorisation by Migration in Montevideo takes weeks, so do not buy non-refundable tickets first",
+   "Embassy contact details found only on agent sites; confirm the current embassy page before posting documents",
+   "Third party agents add service fees",
+   "Tourist visa stay is 90 days, extendable by 90 (official guide)"
+  ],
+  "unverified": [
+   "Embassy page for India, appointment method, fee, processing at the embassy, photo background"
+  ],
+  "sources": [
+   "https://www.liveinuruguay.uy/entryprocedures",
+   "https://www.gub.uy/ministerio-interior/comunicacion/publicaciones/regimen-visas-admision"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Vatican",
+  "route": "mixed",
+  "summary": "Vatican City has no visa of its own and no border control. Entry is through Italy, so an Indian citizen needs a Schengen visa for Italy (or another Schengen state). Apply for an Italian Schengen tourist visa through the Italian embassy and its VFS centre in India, then walk into Vatican City from Rome.",
+  "applyLinks": [
+   {
+    "label": "Italian Embassy New Delhi: consular services and visas",
+    "url": "https://ambnewdelhi.esteri.it/en/servizi-consolari-e-visti/"
+   },
+   {
+    "label": "VFS Global: Italy visa in India",
+    "url": "https://www.vfsglobal.com/Italy/India/"
+   },
+   {
+    "label": "Vatican City State official site",
+    "url": "https://www.vaticanstate.va/en/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Schengen rules: valid 3 months beyond departure, issued within 10 years, 2 blank pages"
+   },
+   {
+    "item": "Photo",
+    "note": "Schengen style photo"
+   },
+   {
+    "item": "Bank statements",
+    "note": "Usually last 6 months"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Schengen cover, EUR 30,000"
+   },
+   {
+    "item": "Flights and accommodation",
+    "note": "Bookings for the Italy trip"
+   },
+   {
+    "item": "Employment proof",
+    "note": "Letter, leave approval or business proof"
+   }
+  ],
+  "photo": {
+   "size": "35 x 45 mm (Schengen standard; not confirmed on an Italian page in this check)",
+   "background": "UNVERIFIED",
+   "format": "Printed",
+   "notes": "Check the VFS Italy page for the exact specification.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (Italy Schengen fee not checked here)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Schengen visa biometrics at the VFS centre in India",
+  "centres": "UNVERIFIED",
+  "warnings": [
+   "No separate Vatican visa exists; the Italy Schengen visa covers the visit",
+   "Museums need advance tickets, which are not a visa document",
+   "Apply at the mission of the main destination country in the Schengen area",
+   "ETIAS does not apply to Indian passport holders, who need a Schengen visa"
+  ],
+  "unverified": [
+   "Fee, processing time, photo and document lists (Italian pages not fully read), VFS centre cities"
+  ],
+  "sources": [
+   "https://ambnewdelhi.esteri.it/en/servizi-consolari-e-visti/",
+   "https://www.vfsglobal.com/Italy/India/",
+   "https://www.vaticanstate.va/en/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Venezuela",
+  "route": "embassy",
+  "summary": "Indian ordinary passport holders need a visa for Venezuela, applied for at the Venezuelan embassy in New Delhi. The embassy lists a Tourist visa (T) page with the required documents: passport, residence proof, photos, bank letter, employment letter, tickets, medical certificate, hotel or invitation, and payment of the consular fee. Contact the embassy by phone before sending anything.",
+  "applyLinks": [
+   {
+    "label": "Embassy of Venezuela in India: tourist visa (T) requirements",
+    "url": "https://india.embajada.gob.ve/visa-de-turista-t/"
+   },
+   {
+    "label": "Embassy of Venezuela in India: visas list",
+    "url": "https://india.embajada.gob.ve/tramites-a-extranjeros/visas/"
+   },
+   {
+    "label": "Embassy of Venezuela in India: home page",
+    "url": "https://india.embajada.gob.ve/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Original passport",
+    "note": "Valid at least 6 months"
+   },
+   {
+    "item": "Proof of residence in country of origin",
+    "note": "Required"
+   },
+   {
+    "item": "Two recent photos",
+    "note": "Front view, colour, ID size"
+   },
+   {
+    "item": "Bank letter",
+    "note": "Showing account opening date, number and balance"
+   },
+   {
+    "item": "Employment letter",
+    "note": "Time of work, post and salary"
+   },
+   {
+    "item": "Property or business ownership proof",
+    "note": "Listed; may be alternative evidence"
+   },
+   {
+    "item": "Return or exit ticket or itinerary",
+    "note": "Photocopy"
+   },
+   {
+    "item": "Medical certificate",
+    "note": "From health authority of the home country"
+   },
+   {
+    "item": "Hotel reservation or invitation letter",
+    "note": "Required"
+   },
+   {
+    "item": "Consular fee payment proof",
+    "note": "Amount UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "ID size (exact mm UNVERIFIED)",
+   "background": "UNVERIFIED",
+   "format": "Two printed photos, colour, front view",
+   "notes": "Embassy page says two recent colour front photos, ID size.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Not stated on the page; assume in person or by post at the embassy, confirm by phone",
+  "centres": "New Delhi (embassy, Vasant Vihar; phone +91 11 4168 0218 / 4168 0219 on the embassy site)",
+  "warnings": [
+   "Document list is long (bank letter, medical certificate); missing items cause delays",
+   "Fee amount is not published on the page found; secondary figures vary, so ask the embassy",
+   "Check travel advisories and flight availability to Venezuela",
+   "Do not use agents that promise instant visas"
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo size",
+   "Appointment or submission method",
+   "Whether an e-visa is open to Indian residents (a secondary source claims so, not confirmed)"
+  ],
+  "sources": [
+   "https://india.embajada.gob.ve/visa-de-turista-t/",
+   "https://india.embajada.gob.ve/tramites-a-extranjeros/visas/",
+   "https://www.eoicaracas.gov.in/page/exemption"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
  }
 ]
