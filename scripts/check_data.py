@@ -24,6 +24,20 @@ for c,p in pr.items():
     for k in('region','places','bestMonths','sources','lastChecked'):
         if not p.get(k):err.append(f'{c}: profile missing {k}')
     if any(not(1<=m<=12) for m in p.get('bestMonths',[])):err.append(f'{c}: bad month')
+
+# apply.json (how to apply): pilot covers some countries only
+import os,re as _re
+if os.path.exists('data/apply.json'):
+    ap=L('data/apply.json')
+    for a in ap:
+        c=a.get('country')
+        if c not in pr:err.append(f'apply: {c} not in countries.json')
+        if not a.get('lastChecked'):err.append(f'apply: {c} missing lastChecked')
+        if a.get('confidence') not in('official','partial','thin'):err.append(f'apply: {c} bad confidence')
+        for k in('applyLinks','formLinks'):
+            for u in a.get(k,[]):
+                if not str(u.get('url','')).startswith('http'):err.append(f'apply: {c} bad url in {k}')
+        if _re.search('[\u2014\u2013]',json.dumps(a,ensure_ascii=False)):err.append(f'apply: {c} has em or en dash')
 # stale (visa rules go stale after 45 days, profiles after 180)
 stale=[]
 for c,r in vr.items():

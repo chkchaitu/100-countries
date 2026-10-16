@@ -1,0 +1,1005 @@
+[
+ {
+  "country": "United Kingdom",
+  "route": "online",
+  "summary": "Complete the Standard Visitor visa application online on GOV.UK and pay the fee. During the online form you book an appointment at a visa application centre in India, where you prove your identity, give fingerprints and a photo, and hand in documents. A decision usually comes within 3 weeks and a successful applicant gets a digital eVisa linked to a UKVI account.",
+  "applyLinks": [
+   {
+    "label": "GOV.UK: Apply for a Standard Visitor visa",
+    "url": "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa"
+   },
+   {
+    "label": "GOV.UK: Standard Visitor overview and eligibility",
+    "url": "https://www.gov.uk/standard-visitor"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport or travel document",
+    "note": "Must be valid for the whole stay in the UK. Number of blank pages not confirmed on the pages read."
+   },
+   {
+    "item": "Travel dates and where you will stay",
+    "note": "Entered in the online form."
+   },
+   {
+    "item": "Estimated trip cost and who pays",
+    "note": "Name and address of anyone paying for the trip is asked if relevant."
+   },
+   {
+    "item": "Home address and how long you have lived there",
+    "note": "Entered in the online form."
+   },
+   {
+    "item": "Parents' names and dates of birth",
+    "note": "If known."
+   },
+   {
+    "item": "Annual income",
+    "note": "If you have an income. Supporting proof of funds and employment is what the visa centre checks, exact list is shown in the online application."
+   },
+   {
+    "item": "Travel history for past 10 years",
+    "note": "Only sometimes required, depending on circumstances."
+   },
+   {
+    "item": "Employer address and phone",
+    "note": "Only sometimes required."
+   },
+   {
+    "item": "Partner details and UK family member details",
+    "note": "Only sometimes required."
+   },
+   {
+    "item": "Certified English translations",
+    "note": "Needed for any document not in English or Welsh."
+   },
+   {
+    "item": "TB test certificate",
+    "note": "Only if visiting for more than 6 months."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "GOV.UK says the photo is taken at the visa application centre at the appointment, so no photo is uploaded in advance on the pages read.",
+   "status": "unverified"
+  },
+  "fee": "GBP 135 for a Standard Visitor visa (up to 6 months). Long-term visas: 2 year GBP 506, 5 year GBP 903, 10 year GBP 1,128 (gov.uk page read 2026-10-16). A separate visa application centre service charge may apply, UNVERIFIED.",
+  "processing": "Usually within 3 weeks of applying, proving identity and providing documents (GOV.UK, 2026-10-16). Faster decision services may exist, see GOV.UK.",
+  "applyEarly": "Earliest you can apply is 3 months before you travel (GOV.UK).",
+  "biometrics": "Yes. In-person appointment at a visa application centre to prove identity, give fingerprints and a photo, and provide documents. Passport is returned the same day. Appointment is booked inside the online application.",
+  "centres": "UNVERIFIED (the UK visa application centre list for India was not opened; the gov.uk page only says the centre could be in another country).",
+  "warnings": [
+   "Each family member needs their own application, fee and appointment.",
+   "No refund if you are refused or get a shorter visa than asked for, and a long-term visa may be cancelled if travel history shows long periods living in the UK.",
+   "Allowed activities are limited; you cannot work, claim public funds or live in the UK through frequent visits.",
+   "You must show you will leave at the end of the visit and can fund the trip and return travel."
+  ],
+  "unverified": [
+   "Photo specification",
+   "Visa application centre cities and service charges in India",
+   "Exact proof-of-funds and employment document list",
+   "Passport blank page requirement"
+  ],
+  "sources": [
+   "https://www.gov.uk/standard-visitor/apply-standard-visitor-visa",
+   "https://www.gov.uk/standard-visitor"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "United States of America",
+  "route": "embassy",
+  "summary": "Complete the online DS-160 nonimmigrant visa application and pay the visa fee. Then create a profile on the official appointment system (ustraveldocs / usvisascheduling) and book two appointments: biometrics (photo and fingerprints) at a visa application centre, then the interview at the US Embassy or a Consulate. Bring the DS-160 confirmation page, passport and fee receipt. Some renewals of a previous India-issued B1/B2 may qualify for interview waiver.",
+  "applyLinks": [
+   {
+    "label": "USTravelDocs India (official appointment service)",
+    "url": "https://www.ustraveldocs.com/"
+   },
+   {
+    "label": "US Mission India: Apply for a nonimmigrant visa",
+    "url": "https://in.usembassy.gov/apply-for-a-nonimmigrant-visa"
+   },
+   {
+    "label": "US Mission India: Visas",
+    "url": "https://in.usembassy.gov/visas/"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "DS-160 online nonimmigrant visa application (State Dept, seen in search result)",
+    "url": "https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/forms/ds-160-online-nonimmigrant-visa-application.html"
+   }
+  ],
+  "documents": [
+   {
+    "item": "DS-160 confirmation page with barcode",
+    "note": "Required. Bring the original; if the form was corrected after booking, the embassy says to bring both the original and corrected confirmation pages."
+   },
+   {
+    "item": "Passport",
+    "note": "Must be valid for travel to the US; generally valid at least 6 months beyond the stay unless exempt by country agreement."
+   },
+   {
+    "item": "Photo",
+    "note": "Uploaded in DS-160. If upload fails, bring one printed photo in the required format."
+   },
+   {
+    "item": "Visa fee payment receipt",
+    "note": "Needed to book the appointment."
+   },
+   {
+    "item": "Appointment confirmation",
+    "note": "Needed at the centre and the interview."
+   },
+   {
+    "item": "Supporting evidence of trip purpose, ties to India and funds",
+    "note": "Only sometimes asked at interview; not a fixed list on the pages read."
+   },
+   {
+    "item": "Previous US visa",
+    "note": "Only if applying for interview waiver as a renewal."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "Digital upload in DS-160; printed copy only as fallback",
+   "notes": "Embassy page links to Photograph Requirements but exact size and background were not read on an official page.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (travel.state.gov blocked automated access and ustraveldocs needs JavaScript). Check the Visa fees page on ustraveldocs. The embassy page notes a consular exchange rate of 98 rupees per US dollar from 25 May 2026.",
+  "processing": "UNVERIFIED. Wait is mainly for appointment availability; check the Appointment wait times page on ustraveldocs.",
+  "applyEarly": "UNVERIFIED. Expedited appointment requests are possible only with an already confirmed appointment and slots are very limited.",
+  "biometrics": "Yes. Photo and fingerprints at a visa application centre appointment before the interview, then an interview at the US Embassy or a Consulate, unless interview waiver applies.",
+  "centres": "Five locations in India with embassy or consulates: New Delhi, Mumbai, Chennai, Hyderabad, Kolkata (from official embassy page email contacts and a video guide); visa application centre city list UNVERIFIED.",
+  "warnings": [
+   "Visa fees are non-refundable and non-transferable.",
+   "Only use the official appointment service and the US Mission; report fraud to support-india@usvisascheduling.com.",
+   "Presidential Proclamation 10998 restricts entry for 39 countries; India is not stated in the text read, but check the State Dept page.",
+   "A visa does not guarantee entry, and mistakes in the DS-160 can cause rescheduling."
+  ],
+  "unverified": [
+   "Fee amount",
+   "Photo size and background",
+   "Processing and wait times",
+   "Visa application centre cities",
+   "Interview waiver current eligibility rules"
+  ],
+  "sources": [
+   "https://in.usembassy.gov/apply-for-a-nonimmigrant-visa",
+   "https://in.usembassy.gov/visas/",
+   "https://www.ustraveldocs.com/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Canada",
+  "route": "online",
+  "summary": "Apply for a visitor visa (temporary resident visa) online with IRCC and pay the fee. Most applicants then get a biometric instruction letter and give fingerprints and a photo at a VFS Global Canada visa application centre in India. Upload the biometric instruction letter as VFS now requires, and wait for the decision.",
+  "applyLinks": [
+   {
+    "label": "IRCC: Visitor visa (temporary resident visa)",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html"
+   },
+   {
+    "label": "IRCC: Biometrics",
+    "url": "https://www.canada.ca/en/immigration-refugees-citizenship/services/biometrics.html"
+   },
+   {
+    "label": "VFS Global Canada in India",
+    "url": "https://visa.vfsglobal.com/ind/en/can"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Valid passport",
+    "note": "Validity rule and blank pages not confirmed on a page opened."
+   },
+   {
+    "item": "Biometric instruction letter",
+    "note": "VFS India says it must be uploaded from 24 February 2026 when booking biometrics."
+   },
+   {
+    "item": "Proof of funds, travel purpose, ties to India",
+    "note": "Typical; the exact checklist is generated in the IRCC online account and was not read."
+   },
+   {
+    "item": "Digital photo",
+    "note": "Only sometimes required with the application; unconfirmed."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Photo is taken as part of biometrics at the VFS centre; any application upload photo rules were not read.",
+   "status": "unverified"
+  },
+  "fee": "Visitor visa CAD 100 per person; maximum CAD 500 per family of 5 or more applying together at the same time and place (IRCC fee list opened 2026-10-16). Biometrics CAD 85 per person, family maximum CAD 170 (IRCC biometrics page, seen in search result). VFS service charge UNVERIFIED.",
+  "processing": "Varies by country and excludes biometrics time (IRCC). IRCC's India figure was not read; a secondary site claims about 88 days as of January 2026, treat as unconfirmed.",
+  "applyEarly": "UNVERIFIED on an official page. Apply well ahead because India times can be long.",
+  "biometrics": "Yes for most applicants (fingerprints and photo) at a VFS Global Canada visa application centre in India, unless exempt.",
+  "centres": "VFS Canada India lists 10 visa application centres (VFS search result), including Ahmedabad and Mumbai; full city list UNVERIFIED.",
+  "warnings": [
+   "Processing time does not include the biometrics step.",
+   "Biometric instruction letter must be uploaded to VFS to book (from 24 Feb 2026).",
+   "VFS may charge a separate service fee on top of IRCC fees.",
+   "Indian citizens normally need a visitor visa; eTA eligibility for Indian passport holders was not confirmed on an official page."
+  ],
+  "unverified": [
+   "Processing time for India",
+   "Photo specifications",
+   "Full VFS centre list and service fee",
+   "Passport validity and document checklist",
+   "IRCC pages mostly blocked to automated fetch"
+  ],
+  "sources": [
+   "https://ircc.canada.ca/english/information/fees/fees.asp",
+   "https://ircc.canada.ca/english/helpcentre/answer.asp?qnum=1237"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Australia",
+  "route": "online",
+  "summary": "Apply online for the Visitor visa (subclass 600), Tourist stream (apply overseas), through an ImmiAccount on the Department of Home Affairs site. Upload scanned colour documents and pay the fee online. If the Department asks for biometrics, book an appointment at a VFS Global biometrics centre in India (or use the Australian Immi App if eligible), and do health checks only if asked.",
+  "applyLinks": [
+   {
+    "label": "Visitor visa 600 Tourist stream (apply overseas), Home Affairs",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/tourist-stream-overseas"
+   },
+   {
+    "label": "Visa fees and charges (current visa pricing)",
+    "url": "https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges/current-visa-pricing"
+   },
+   {
+    "label": "Biometrics information, Home Affairs",
+    "url": "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/biometrics"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid passport. Provide the pages showing photo, personal details, issue and expiry dates. Get a new passport before applying if needed."
+   },
+   {
+    "item": "National identity card",
+    "note": "Only if you have one."
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Itemised personal bank statements for a 3 month period, pay slips, audited accounts, tax records, term deposits or credit card statements."
+   },
+   {
+    "item": "Proof of reasons to return home",
+    "note": "Employer letter confirming you will return to your job, student proof, family ties, or home and assets in India."
+   },
+   {
+    "item": "Invitation letter",
+    "note": "Only if visiting a relative or friend. It should state relationship, purpose, length of stay and whether you will stay with them. Add their proof of funds if they pay."
+   },
+   {
+    "item": "Proof of change of name",
+    "note": "Only if applicable, for example a marriage certificate."
+   },
+   {
+    "item": "Police certificate or military record",
+    "note": "Only if requested or applicable."
+   },
+   {
+    "item": "Birth certificate showing both parents, and consent Form 1229",
+    "note": "Only for applicants under 18."
+   },
+   {
+    "item": "English translations",
+    "note": "All non English documents need translations. Scan everything in colour, one file per multi page document."
+   },
+   {
+    "item": "Health examinations",
+    "note": "Only if the Department tells you, or you choose to do them before applying."
+   },
+   {
+    "item": "Travel or health insurance",
+    "note": "Not a visa requirement; the Department strongly recommends adequate health insurance."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "Documents are uploaded as colour scans or photos in ImmiAccount; a separate passport style photo was not listed on the page read.",
+   "notes": "The tourist stream page lists no photo specification. Facial biometrics are collected if requested.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED. The official pricing page loads the amount by script. Secondary sites report AUD 250 base charge for offshore Tourist stream from 1 July 2026, but this was not confirmed on an official page. Biometrics centres also charge a service fee.",
+  "processing": "UNVERIFIED. The Department says to use its visa processing time guide tool, which shows recently decided applications and is a guide only.",
+  "applyEarly": "UNVERIFIED. Apply well before travel and do not book flights until the visa is granted in writing.",
+  "biometrics": "Only if the Department asks. It will say whether you attend an Australian Biometrics Collection Centre (VFS Global operates them) by appointment, or can use the Australian Immi App. Bring your passport. The biometrics centre charges a service fee. Which Indian city centres offer this: UNVERIFIED.",
+  "centres": "UNVERIFIED on an official page. Secondary sources mention VFS biometrics centres in major cities such as Delhi, Mumbai, Bengaluru, Chennai, Hyderabad, Kolkata.",
+  "warnings": [
+   "You must be outside Australia when the visa is decided, and must not travel until you get the grant in writing.",
+   "Each family member, including children on your passport, needs a separate application.",
+   "Refusals mostly come from weak proof of funds or of ties to India (genuine visitor requirement); give as much evidence as possible.",
+   "Only a registered migration agent, legal practitioner or exempt person can give immigration assistance; use the official ImmiAccount, not lookalike sites."
+  ],
+  "unverified": [
+   "Fee amount in AUD",
+   "Processing time",
+   "Photo specification",
+   "Biometrics centre cities and VFS service fee",
+   "How early you can apply"
+  ],
+  "sources": [
+   "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/tourist-stream-overseas",
+   "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/biometrics",
+   "https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges/current-visa-pricing"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Germany",
+  "route": "embassy",
+  "summary": "Fill in the online Schengen application on the VIDEX site, print it with the barcode pages, sign, and gather the Tourism checklist documents. Book and pay for an appointment at any VFS Global visa centre in India, submit the file there, and pay the visa fee at the end of the appointment. Applications go to the German Consulate General Mumbai for decision. Other Schengen countries follow the same Schengen rules but apply through their own missions.",
+  "applyLinks": [
+   {
+    "label": "VFS Global Germany India (appointments)",
+    "url": "https://visa.vfsglobal.com/ind/en/deu/"
+   },
+   {
+    "label": "VIDEX online Schengen application form",
+    "url": "https://videx.diplo.de/videx/visum-erfassung/#/videx-kurzfristiger-aufenthalt"
+   },
+   {
+    "label": "German Missions in India: Schengen visa",
+    "url": "https://india.diplo.de/in-en/service/2633538-2633538"
+   },
+   {
+    "label": "Submission at a Visa Application Centre (3 steps)",
+    "url": "https://india.diplo.de/in-en/service/1908750-1908750"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Checklist for Schengen visa, Tourism (PDF)",
+    "url": "https://india.diplo.de/resource/blob/2579864/cc2a277cff807cc08278250e2eb23e47/tourism-data.pdf"
+   },
+   {
+    "label": "Paper Schengen application form (only if online form not possible)",
+    "url": "https://india.diplo.de/resource/blob/1866462/ade94bd7a05b747d483fb23dfbd05cd3/ac-antrag-data.pdf"
+   },
+   {
+    "label": "Biometric photo requirements (PDF)",
+    "url": "https://india.diplo.de/resource/blob/1862508/332690e7c0caef02dd37188bdab3bbd3/fotomustertafel-data.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Signed Schengen application form",
+    "note": "Filled on VIDEX, all pages printed including barcodes."
+   },
+   {
+    "item": "Signed declaration of true and complete information, and declaration on travel medical insurance",
+    "note": "Both are in the checklist set."
+   },
+   {
+    "item": "Passport",
+    "note": "Issued within the last 10 years, valid at least 3 months after planned return, at least two empty pages, no remarks on the data page. Copy of biometric and address pages."
+   },
+   {
+    "item": "Photo",
+    "note": "At least 1 biometric photo, 35x45 mm, not older than 6 months."
+   },
+   {
+    "item": "Cover letter and itinerary",
+    "note": "Personal covering letter, proof of transport and a detailed travel itinerary or travel agency booking certificate."
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Hotel bookings or holiday rental, or host letter, address proof and ID copy if staying with family or friends. Needed for each Schengen state visited."
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Minimum cover EUR 30,000, valid in the whole Schengen area. Indian policies are accepted only from the approved insurers list on the German mission site."
+   },
+   {
+    "item": "Employment proof, if employed",
+    "note": "Pay slips for 3 months, employment contract, leave sanction letter, applicant's own bank statements for 3 months stamped by the bank (no passbook copies), ITR acknowledgment for 2 assessment years or Form 16."
+   },
+   {
+    "item": "Self employed proof, if applicable",
+    "note": "Company registration with GST number, ITR for 2 years or Form 16, bank statements for 3 months."
+   },
+   {
+    "item": "Retired or student proof, if applicable",
+    "note": "Pension statements and bank statements for retirees; enrolment certificate, NOC from school or university and bank statements for students."
+   },
+   {
+    "item": "Sponsor documents",
+    "note": "Only if someone else pays: sponsor letter, passport copy, sponsor's bank statements for 3 months, relationship proof. German sponsors may add a Verpflichtungserklaerung. Company sponsors in India add 3 years of company ITR."
+   }
+  ],
+  "photo": {
+   "size": "35x45 mm",
+   "background": "White",
+   "format": "Printed biometric photo, not older than 6 months, 70 to 80 percent face coverage",
+   "notes": "The mission links a photo specification sheet (PDF). Photos can be taken at the VFS centres.",
+   "status": "verified"
+  },
+  "fee": "EUR 90 for adults (INR 9,900), EUR 45 for ages 6 to 12 (INR 5,000), free under 6, per the German mission page dated 01.10.2026 (subject to change). Paid at the end of the appointment. A separate VFS service charge is paid when booking; its amount is UNVERIFIED.",
+  "processing": "About 15 days on average after the application reaches the Consulate, plus up to 6 working days for logistics from VFS to the Consulate, per the German mission pages.",
+  "applyEarly": "The forms may be submitted up to 6 months before travel. If travel is within 15 calendar days of the application reaching the visa section, the mission returns the file with a fee refund. Plan at least 2 to 3 weeks, more in peak season.",
+  "biometrics": "Yes, first time Schengen applicants give fingerprints in person at a VFS Global centre. Fingerprints taken in the last 59 months for a Schengen visa in India may allow an authorised person to submit instead.",
+  "centres": "VFS Global visa centres across India; Schengen applications can be submitted at any of them regardless of residence, and are decided in Mumbai. Exact city list: see VFS site (page needs JavaScript, UNVERIFIED here).",
+  "warnings": [
+   "Appointments are scarce; check VFS regularly for new slots and do not rely on agents who promise priority. The mission says neither it nor VFS can expedite.",
+   "The VFS service charge is paid at booking and refunded only in limited cases; the visa fee is not refunded even on refusal.",
+   "Indian travel insurance is accepted only from the approved insurer list; most refusals are for incomplete or unverifiable documents.",
+   "A Schengen visa normally bars work; some business or work activities need prior approval from German authorities."
+  ],
+  "unverified": [
+   "VFS service charge amount",
+   "Full list of VFS centre cities",
+   "Whether the Indian passport holder gets multiple entry visa (cascade rules: C2 after 2 lawful visas in 3 years are stated, but grant is discretionary)"
+  ],
+  "sources": [
+   "https://india.diplo.de/in-en/service/2633538-2633538",
+   "https://india.diplo.de/in-en/service/1908750-1908750",
+   "https://india.diplo.de/in-en/service/1984596-1984596",
+   "https://india.diplo.de/in-en/2674158-2674158",
+   "https://india.diplo.de/in-en/service/1984578-1984578"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official",
+  "schengenNote": "Germany stands in for the Schengen visa here. Other Schengen countries follow the same Schengen rules but you apply through that country's own mission or visa centre."
+ },
+ {
+  "country": "Japan",
+  "route": "agency",
+  "summary": "Submit a tourist (short stay) visa application at a VFS Global Japan Visa Application Centre in India; no prior appointment is needed per the Embassy. Download the visa application form, prepare the documents list, pay the visa fee and VFS service charge at submission. An eVISA (electronic single entry tourist visa) is also offered through VFS for residents of India.",
+  "applyLinks": [
+   {
+    "label": "VFS Global Japan India",
+    "url": "https://visa.vfsglobal.com/ind/en/jpn"
+   },
+   {
+    "label": "VFS Japan visa types, fees and photo specs (Delhi one pager)",
+    "url": "https://www.vfsglobal.com/one-pager/japan/india/delhi/index.html"
+   },
+   {
+    "label": "Embassy of Japan in India: Visa",
+    "url": "https://www.in.emb-japan.go.jp/itpr_en/visa.html"
+   },
+   {
+    "label": "Embassy of Japan in India: JAPAN eVISA",
+    "url": "https://www.in.emb-japan.go.jp/itpr_ja/11_000001_01148.html"
+   },
+   {
+    "label": "MOFA JAPAN eVISA system",
+    "url": "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Visa application form linked from the VFS Japan page",
+    "url": "https://www.mofa.go.jp/files/100497463.doc"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid passport. Exact validity and blank page rules: UNVERIFIED (checklist on VFS page not readable)."
+   },
+   {
+    "item": "Visa application form",
+    "note": "One completed and signed form with 1 photo."
+   },
+   {
+    "item": "Photo",
+    "note": "1 photo, 45x35 mm, see photo section."
+   },
+   {
+    "item": "Itinerary, flights and hotel proof, funds proof, employment proof, bank statements, ITR",
+    "note": "Typically requested for tourism but UNVERIFIED: the official requirement list loads by script or PDF. Check the Tourism requirement list on VFS."
+   },
+   {
+    "item": "Photocopies",
+    "note": "VFS says all photocopies must be on A4 size."
+   }
+  ],
+  "photo": {
+   "size": "45mm x 35mm (passport size), 1 photo",
+   "background": "Plain white, colour",
+   "format": "Printed on good quality paper, not more than 6 months old, face visible 70 to 80 percent, looking straight ahead",
+   "notes": "Per the VFS Global Japan Delhi page. Photo booths exist at some VFS centres (secondary report).",
+   "status": "verified"
+  },
+  "fee": "Visa fee INR 500 for Indian nationals, single or multiple entry (VFS page effective 1 April 2025; Embassy page snippet also states INR 500 from 1 July 2026). Plus VFS service charge INR 800 per application, and optional courier return INR 550. Paid in INR at submission.",
+  "processing": "Minimum 5 working days from the day the application reaches the Embassy of Japan, New Delhi (indicative, per VFS). Can be longer in busy periods.",
+  "applyEarly": "Embassy page snippet: applications are accepted from 3 months before the travel date; plan well in advance.",
+  "biometrics": "UNVERIFIED. The sources read describe submission of documents at VFS and no biometrics step. The eVISA rules say an in person interview may sometimes be requested.",
+  "centres": "VFS Japan centres include New Delhi, Mumbai (with Ahmedabad, Pune and Goa under Mumbai), plus drop off or collection points in Gurugram, Chandigarh, Lucknow, Agra, Amritsar, Jaipur, Dehradun, Ludhiana and Guwahati per the Delhi page. South India cities (Bengaluru, Chennai, Hyderabad, Kochi, Kolkata) are reported by secondary sources only.",
+  "warnings": [
+   "The visa fee is refunded only if the visa is refused; the VFS service charge is not refundable.",
+   "Outside New Delhi and Mumbai, fees are often paid by separate demand drafts per applicant (visa fee, service charge, courier), so check the local centre rules.",
+   "Embassy and MOFA pages block automated reading (403), so check the live Embassy page for the latest fee and document list.",
+   "eVISA covers single entry tourism up to 90 days only; you must show the issuance notice on a mobile device at the airport, a printout or screenshot is not accepted."
+  ],
+  "unverified": [
+   "Official tourism document checklist",
+   "Passport validity rules",
+   "Biometrics or interview requirement",
+   "Embassy of Japan visa page (403 blocked; fee seen only as a search snippet)",
+   "Whether VFS appointment booking is now needed"
+  ],
+  "sources": [
+   "https://www.vfsglobal.com/one-pager/japan/india/delhi/index.html",
+   "https://www.vfsglobal.com/one-pager/japan/india/mumbai/index.html",
+   "https://visa.vfsglobal.com/ind/en/jpn"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "China",
+  "route": "mixed",
+  "summary": "Indian citizens apply for a tourist (L) visa through the Chinese Visa Application Service Center for India (visaforchina.cn, India site), which only handles ordinary passports. Fill in the online form, then submit documents and fingerprints at the centre. The official page recommends applying about three months before travel.",
+  "applyLinks": [
+   {
+    "label": "Chinese Visa Application Service Center, India (country selector)",
+    "url": "https://www.visaforchina.cn/"
+   },
+   {
+    "label": "Chinese Visa Application Service Center, Delhi page (form entry)",
+    "url": "https://www.visaforchina.cn/DEL3_EN/"
+   },
+   {
+    "label": "Embassy of China in India",
+    "url": "https://in.china-embassy.gov.cn/eng/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Official page warns that under 6 months validity risks refusal or refused entry. Blank page count UNVERIFIED"
+   },
+   {
+    "item": "Online application form printout",
+    "note": "Filled in on the service centre site, then submitted with documents"
+   },
+   {
+    "item": "Passport photo",
+    "note": "Exact rules UNVERIFIED on official page"
+   },
+   {
+    "item": "Itinerary, hotel booking, return flight",
+    "note": "Typically requested for tourist visas, UNVERIFIED on official page"
+   },
+   {
+    "item": "Invitation letter",
+    "note": "Only sometimes required, UNVERIFIED"
+   },
+   {
+    "item": "Proof of employment or funds",
+    "note": "Sometimes requested, UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Photo rules page could not be opened on the official site",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "Official page recommends applying three months before arriving in China (read 2026-10-16)",
+  "biometrics": "UNVERIFIED on official page; submission is at the service centre (the centre handles ordinary passport applications)",
+  "centres": "Selector lists India cities New Delhi, Mumbai and Kolkata",
+  "warnings": [
+   "Passport with under 6 months validity risks refusal or refused entry (official notice).",
+   "Use only visaforchina.cn and the embassy site; agents add their own fees.",
+   "The centre only handles ordinary passports.",
+   "Fee, photo and checklist pages were not readable, so confirm on the site before paying."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo specification",
+   "Full document checklist",
+   "Biometrics rules",
+   "Whether visa-free or other facilitation currently applies to Indian citizens"
+  ],
+  "sources": [
+   "https://www.visaforchina.cn/",
+   "https://www.visaforchina.cn/DEL3_EN/",
+   "https://in.china-embassy.gov.cn/eng/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "United Arab Emirates",
+  "route": "online",
+  "summary": "UAE entry permits are issued by the Federal Authority for Identity, Citizenship, Customs and Port Security (ICP). Apply through the ICP Smart Services platform or the UAEICP smart app, or through a UAE sponsor or airline, in order to get the permit before travel. Details for Indian passport holders could not be confirmed on an official page.",
+  "applyLinks": [
+   {
+    "label": "ICP Smart Services Platform",
+    "url": "https://smartservices.icp.gov.ae/echannels/web/client/default.html#/login"
+   },
+   {
+    "label": "ICP home page",
+    "url": "https://icp.gov.ae/en/"
+   },
+   {
+    "label": "UAE government portal, Visa and Emirates ID",
+    "url": "https://u.ae/en/information-and-services/visa-and-emirates-id"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Validity and blank pages UNVERIFIED"
+   },
+   {
+    "item": "Passport style photo",
+    "note": "UNVERIFIED"
+   },
+   {
+    "item": "Return or onward ticket and hotel booking",
+    "note": "Commonly requested, UNVERIFIED"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Sometimes requested, UNVERIFIED"
+   },
+   {
+    "item": "Existing US, UK or Schengen visa or residence",
+    "note": "Some facilitation rules exist for Indian citizens, UNVERIFIED on an official page"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Not found",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED; expected to be none for a pre-arranged entry permit",
+  "centres": "UNVERIFIED; the online ICP route needs no centre",
+  "warnings": [
+   "ICP warns about fake calls and counterfeit websites that misuse its name; use only the Smart Services platform and the UAEICP app.",
+   "Third-party sites add service fees.",
+   "Check eligibility conditions for Indian passports on the official portal before booking."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing",
+   "Photo rules",
+   "Document checklist",
+   "Indian-citizen specific rules",
+   "Whether a visa on arrival exists for Indian passports"
+  ],
+  "sources": [
+   "https://icp.gov.ae/en/",
+   "https://u.ae/en/information-and-services/visa-and-emirates-id"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Russia",
+  "route": "online",
+  "summary": "India is on the official list of countries whose citizens can get the Russian unified e-visa. Fill in the application on the MFA site, pay the consular fee by an international card from a non-Russian bank, then print or save the approval notice and show it to the carrier and at the border. No invitation or booking confirmation is needed.",
+  "applyLinks": [
+   {
+    "label": "Russian e-visa portal (MFA)",
+    "url": "https://evisa.kdmid.ru/"
+   },
+   {
+    "label": "E-visa information site",
+    "url": "https://electronic-visa.kdmid.ru/"
+   },
+   {
+    "label": "E-visa processing rules",
+    "url": "https://evisa.kdmid.ru/Home/Instruction"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Number and validity entered online; blank pages and exact validity rule UNVERIFIED"
+   },
+   {
+    "item": "Digital photo",
+    "note": "Uploaded in the form; system rejects non-compliant photos"
+   },
+   {
+    "item": "Email address and phone",
+    "note": "Required; site advises avoiding Gmail because delivery is unreliable"
+   },
+   {
+    "item": "Hotel name, address and phone",
+    "note": "Enter intended accommodation; no booking confirmation required"
+   },
+   {
+    "item": "Insurance",
+    "note": "Not mandatory for the e-visa per official FAQ"
+   },
+   {
+    "item": "Separate application for each child",
+    "note": "Children travelling with parents need their own e-visa"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "Digital upload in the online form",
+   "notes": "Requirements are shown inside the application form; if rejected, contact the visa centre used for payment",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED. The FAQ says the invoice is in dirhams or yuan and is paid by international card; no refund in any outcome",
+  "processing": "Up to 4 calendar days, not counting the day of submission; a returned application restarts the count (official site, 2026-10-16)",
+  "applyEarly": "UNVERIFIED. Visa is valid 120 days from issue, stay up to 30 days from entry (official FAQ, for visas issued from 23 Aug 2025)",
+  "biometrics": "None: fully online, no consulate visit (official site)",
+  "centres": "Not applicable; online only. Payment support goes through the named visa centres (sinovisa, GKD)",
+  "warnings": [
+   "Cards issued by Russian banks do not work, and PayPal or invoice payment is not available; payment is non-refundable.",
+   "Entry and exit only through the listed checkpoints; a different exit point is not allowed.",
+   "Errors in an issued e-visa cannot be corrected, a new application is needed.",
+   "Register your stay within 7 working days unless a hotel does it for you."
+  ],
+  "unverified": [
+   "Fee amount",
+   "Photo size and format",
+   "Passport validity rule",
+   "Whether Indian citizens face extra restrictions or flight availability"
+  ],
+  "sources": [
+   "https://electronic-visa.kdmid.ru/",
+   "https://electronic-visa.kdmid.ru/country.html",
+   "https://electronic-visa.kdmid.ru/faq.html",
+   "https://electronic-visa.kdmid.ru/checkpoint.html"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Turkey",
+  "route": "mixed",
+  "summary": "Indian ordinary passport holders need a visa. If you hold a valid Schengen, US, UK or Ireland visa or residence permit, apply for the 30-day single-entry e-Visa online at evisa.gov.tr and print or save the approval. If you do not hold one of those, apply for a sticker visa: fill the pre-application online, then submit passport and documents through the Turkish mission or its visa application centre in India.",
+  "applyLinks": [
+   {
+    "label": "Turkey official e-Visa portal",
+    "url": "https://www.evisa.gov.tr/en/"
+   },
+   {
+    "label": "Turkish MFA visa information for foreigners (India entry)",
+    "url": "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa"
+   },
+   {
+    "label": "Turkish MFA pre-application system for sticker visa",
+    "url": "https://www.mfa.gov.tr/pre-application-system-for-turkish-sticker-visa.en.mfa"
+   },
+   {
+    "label": "VFS Global Turkey, India (sticker visa centre page)",
+    "url": "https://visa.vfsglobal.com/ind/en/tur/apply-visa"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid passport; exact validity and blank page rules not confirmed on an official page, check the portal"
+   },
+   {
+    "item": "Supporting visa or residence permit (e-Visa route only)",
+    "note": "Valid Schengen, US, UK or Ireland visa or residence permit, per Turkish MFA; must be valid when you apply and enter"
+   },
+   {
+    "item": "Online application data and personal details",
+    "note": "Filled on evisa.gov.tr for e-Visa, or on the pre-application system for sticker visa"
+   },
+   {
+    "item": "Sticker visa: signed application form, passport and originals of uploaded documents",
+    "note": "Per Turkish MFA pre-application page; the exact checklist (bank statements, itinerary, hotel, insurance, employment proof) is UNVERIFIED"
+   },
+   {
+    "item": "Hotel booking and funds proof",
+    "note": "Sometimes asked by airlines or at the border; UNVERIFIED on an official page"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "No photo is normally needed for the e-Visa; sticker visa photo rules not confirmed",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (evisa.gov.tr page is JavaScript only and showed no content; a third-party agent site quoted about USD 81.50 for the e-Visa, not official)",
+  "processing": "UNVERIFIED (e-Visa is usually near instant per secondary sources; sticker visa takes days to weeks per secondary sources)",
+  "applyEarly": "UNVERIFIED (e-Visa use-within window of 180 days is from a secondary source)",
+  "biometrics": "e-Visa: none, online only. Sticker visa: in-person submission at the mission or visa application centre, biometrics UNVERIFIED",
+  "centres": "UNVERIFIED (VFS Global Turkey India page exists; city list not read)",
+  "warnings": [
+   "The e-Visa is conditional: without a valid Schengen, US, UK or Ireland visa or residence permit, an Indian citizen cannot use it.",
+   "The official portal is evisa.gov.tr only; look-alike agent sites charge extra fees.",
+   "Stay on the e-Visa is single entry for 30 days.",
+   "Airlines check the supporting visa before boarding."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Photo rules for sticker visa",
+   "Full sticker visa document checklist",
+   "VFS centre cities and biometrics",
+   "Passport validity rule"
+  ],
+  "sources": [
+   "https://www.evisa.gov.tr/en/",
+   "https://www.mfa.gov.tr/visa-information-for-foreigners.en.mfa",
+   "https://www.mfa.gov.tr/pre-application-system-for-turkish-sticker-visa.en.mfa"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Singapore",
+  "route": "agency",
+  "summary": "Indian citizens need a visa. You cannot apply directly: submit Form 14A, passport and 2 photos to an Authorised Visa Agent in India, who files online with the Singapore High Commission. Pay the processing fee and agent service fee when you apply, then wait for the result.",
+  "applyLinks": [
+   {
+    "label": "High Commission of Singapore, New Delhi: visa information and agent list",
+    "url": "https://new-delhi.mfa.gov.sg/consular-services/visa-information"
+   },
+   {
+    "label": "ICA: check if you need an entry visa",
+    "url": "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements"
+   },
+   {
+    "label": "Authorised Visa Agents list (PDF, updated 2 July 2026)",
+    "url": "https://isomer-user-content.by.gov.sg/226/f6c58207-d1c8-4fcc-b7d8-47ad7d707776/Updated%20AVAs%20List%20Year%2002%20July%202026.pdf"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Form 14A",
+    "url": "https://www.ica.gov.sg/docs/default-source/ica/forms/form14a.pdf"
+   },
+   {
+    "label": "Form V39A (letter of introduction, if needed)",
+    "url": "https://www.ica.gov.sg/docs/default-source/ica/forms/formv39a.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Form 14A",
+    "note": "Completed and signed by the applicant"
+   },
+   {
+    "item": "Passport",
+    "note": "At least 6 months validity on the date of entry into Singapore"
+   },
+   {
+    "item": "2 passport-size colour photos",
+    "note": "Taken within the last 3 months"
+   },
+   {
+    "item": "Form V39A or letter of introduction",
+    "note": "Only sometimes, case by case; local contact must be a Singapore citizen or PR aged 21 or above"
+   },
+   {
+    "item": "Documents in Hindi",
+    "note": "Must be translated into English"
+   },
+   {
+    "item": "Cover letter, salary slips or bank statements, itinerary",
+    "note": "Often asked by agents; not listed on the official page, UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "35 mm wide by 45 mm high, no borders",
+   "background": "Plain white, no shadows",
+   "format": "Printed colour photo taken within the last 3 months",
+   "notes": "Full face, upper shoulders visible, eyes open, hair not covering eyebrows or eyes, no glare on spectacles, avoid white headgear or plain white clothing (religious headgear allowed if face is visible)",
+   "status": "verified"
+  },
+  "fee": "INR 2100 non-refundable visa processing fee per application, plus agent service fee of up to INR 1300 (High Commission page, last updated 11 August 2026 per search result)",
+  "processing": "Generally 3 to 5 working days, some take longer (High Commission page)",
+  "applyEarly": "UNVERIFIED on the official page; it says you need not buy a flight before applying",
+  "biometrics": "None stated; submission is through the agent",
+  "centres": "Authorised Visa Agents across India (see the official agent list PDF, not opened); High Commission is in New Delhi",
+  "warnings": [
+   "Applications go only through Authorised Visa Agents, so check the agent is on the official list.",
+   "Do not buy a flight ticket before the visa is approved; the fee is non-refundable even if refused.",
+   "A visa does not guarantee entry; officers at the checkpoint decide entry and length of stay.",
+   "Incomplete forms or documents can cause rejection or delay."
+  ],
+  "unverified": [
+   "Exact apply-early window",
+   "Agent city list (PDF not opened)",
+   "Extra supporting documents such as bank statements"
+  ],
+  "sources": [
+   "https://new-delhi.mfa.gov.sg/consular-services/visa-information",
+   "https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
+ },
+ {
+  "country": "Thailand",
+  "route": "online",
+  "summary": "For tourism, Indian ordinary passport holders can currently enter Thailand without a visa for up to 30 days (rule from 15 September 2026, per the Thai Embassy in New Delhi). For a longer stay or certainty, apply for a Tourist visa on the official Thai e-Visa website. Also complete the Thailand Digital Arrival Card before arrival.",
+  "applyLinks": [
+   {
+    "label": "Thailand official e-Visa website",
+    "url": "https://www.thaievisa.go.th/"
+   },
+   {
+    "label": "Royal Thai Embassy New Delhi visa page",
+    "url": "https://newdelhi.thaiembassy.org/en/page/visa"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Validity and blank page rules UNVERIFIED on an official page; commonly 6 months"
+   },
+   {
+    "item": "Photo, bank statements, flight and hotel bookings",
+    "note": "Typical e-Visa checklist, uploaded online; the official checklist was not readable, UNVERIFIED"
+   },
+   {
+    "item": "Visa exemption entry",
+    "note": "No visa document needed for tourism, but immigration may ask for onward ticket and funds; UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Uploaded on the e-Visa portal; portal page was empty to the fetcher",
+   "status": "unverified"
+  },
+  "fee": "Tourist e-Visa via Embassy New Delhi table in an official search result: single entry INR 3,000, multiple entry (6 months) INR 13,500; page itself timed out when opened, so UNVERIFIED as of 2026-10-16. Visa exemption: no fee",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED (a secondary source says apply about 4 weeks ahead)",
+  "biometrics": "UNVERIFIED; e-Visa system is online only since 1 January 2025 per Embassy page snippet",
+  "centres": "Online only; Royal Thai Embassy in New Delhi. Other consulates UNVERIFIED",
+  "warnings": [
+   "The visa exemption stay was cut to 30 days from 15 September 2026; check the stamp at entry.",
+   "Tourist e-Visa holders get up to 60 days per entry per Embassy table; the 30-day cut applies to the exemption.",
+   "Rules changed recently, so recheck the Embassy page before travel.",
+   "Apply only on thaievisa.go.th; avoid agents who add large fees."
+  ],
+  "unverified": [
+   "Official e-Visa fee on a page that loaded",
+   "Photo rules",
+   "Document checklist",
+   "Processing time",
+   "Apply-early window"
+  ],
+  "sources": [
+   "https://www.thaievisa.go.th/",
+   "https://newdelhi.thaiembassy.org/en/page/visa"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ }
+]

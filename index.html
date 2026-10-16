@@ -91,6 +91,17 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
 .sheet{max-width:860px;margin:0 auto;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px;position:relative}
 .sheet h2{font-size:30px}.sheet h3{font-size:17px;margin:18px 0 6px;color:var(--acc)}.xbtn{position:absolute;right:14px;top:12px;background:#ff6b6b;border:0;color:#1b0a0a;font-weight:700;border-radius:9px;padding:7px 16px;cursor:pointer;box-shadow:0 2px 10px rgba(255,107,107,.45);transition:transform .12s,box-shadow .12s}
 .xbtn:hover{transform:translateY(-1px);box-shadow:0 4px 16px rgba(255,107,107,.7)}
+.applybox{background:rgba(255,255,255,.035);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.applybox h4{margin:16px 0 6px;font-size:14px;color:var(--ink)}
+.abtns{display:flex;flex-wrap:wrap;gap:8px;margin:8px 0}
+.abtn{display:inline-block;background:var(--acc2);color:#04201d;font-weight:700;font-size:13px;text-decoration:none;border-radius:9px;padding:7px 13px}
+.abtn.alt{background:transparent;color:var(--acc2);border:1px solid var(--acc2)}
+.abtn:hover{filter:brightness(1.1)}
+.tag.okt{background:rgba(94,224,138,.18);color:#7ff0a4;border-color:rgba(94,224,138,.5)}
+.chk{list-style:none;padding-left:0!important}.chk li{padding-left:22px;position:relative}.chk li::before{content:'\2610';position:absolute;left:0;color:var(--acc2)}
+.photobox{background:var(--bg2);border:1px dashed var(--line);border-radius:10px;padding:10px 12px;font-size:13.5px}
+.arow{display:grid;grid-template-columns:96px 1fr;gap:10px;padding:6px 0;border-bottom:1px solid var(--line);font-size:13.5px}.arow span{color:var(--mute)}
+.unv{margin-top:12px;background:rgba(255,209,102,.08);border:1px solid rgba(255,209,102,.35);border-radius:10px;padding:9px 12px;font-size:12.5px;color:#f0d79a}
 .sheet ul{margin:4px 0;padding-left:18px}.sheet li{margin:3px 0}.nbtn{background:var(--bg2);border:1px solid var(--line);color:var(--ink);border-radius:8px;padding:3px 9px;margin:2px;cursor:pointer;font-size:13px}
 .mo{display:grid;grid-template-columns:repeat(12,1fr);gap:3px;margin:6px 0}.mo div{text-align:center;font-size:11px;padding:6px 0;border-radius:6px;background:#1a2447;color:var(--mute)}.mo div.hi{background:var(--acc2);color:#04201d;font-weight:700}
 .navsearch{margin-left:auto;min-width:170px;padding:6px 10px;font-size:13px}.ibtn{display:inline-block;margin-left:6px;border:1px solid var(--line);border-radius:50%;width:16px;height:16px;line-height:14px;font-size:10px;text-align:center;color:var(--acc2);font-style:normal}
@@ -224,10 +235,10 @@ function fly(t){target=[-t.lon,t.lat*.8]}
 loop();
 async function loadJSON(p){const r=await fetch(p,{cache:'no-cache'});if(!r.ok)throw new Error(p+' '+r.status);return r.json()}
 async function boot(){
- let T,X,R,Vi,Cp,Tr;
- try{[T,X,R,Vi,Cp,Tr]=await Promise.all([loadJSON('data/trips.json'),loadJSON('data/experiences.json'),loadJSON('data/records.json'),loadJSON('data/visa.json'),loadJSON('data/countries.json'),loadJSON('data/territories.json').catch(()=>[])])}
+ let T,X,R,Vi,Cp,Tr,Ap;
+ try{[T,X,R,Vi,Cp,Tr,Ap]=await Promise.all([loadJSON('data/trips.json'),loadJSON('data/experiences.json'),loadJSON('data/records.json'),loadJSON('data/visa.json'),loadJSON('data/countries.json'),loadJSON('data/territories.json').catch(()=>[]),loadJSON('data/apply.json').catch(()=>[])])}
  catch(err){document.querySelector('header .lead').insertAdjacentHTML('afterend','<div class="note">Could not load the data files ('+esc(err.message)+'). Open this page from its web address, not as a local file.</div>');return}
- DATAINFO={trips:T,exp:X,rec:R,visa:Vi};Cp.forEach(c=>{PROFILES[c.country]=c});Tr.forEach(t=>{PROFILES[t.country]=t;VREC[t.country]=Object.assign({country:t.country},t.visa)});
+ DATAINFO={trips:T,exp:X,rec:R,visa:Vi};const APPLY={};Ap.forEach(a=>{APPLY[a.country]=a});Cp.forEach(c=>{PROFILES[c.country]=c});Tr.forEach(t=>{PROFILES[t.country]=t;VREC[t.country]=Object.assign({country:t.country},t.visa)});
  TRIPS=T.trips.map(t=>({c:t.code,n:t.name,d:t.days,lo:t.budgetLakh.low,hi:t.budgetLakh.high,lat:t.lat,lon:t.lon,m:t.bestMonths,tags:t.tags,ctry:t.countries,note:t.note,checked:t.lastChecked,src:t.sources}));
  EXP=X.items.map(e=>({n:e.name,t:e.type,p:e.priceInr,place:e.place,trip:e.trip,checked:e.lastChecked,src:e.sources}));
  REC=R.items.map(r=>[r.value,r.text,r.lastChecked,r.sources]);
@@ -305,12 +316,28 @@ async function boot(){
  
  // ---------- country panel
  const CATL={visa_free:'Visa-free',on_arrival:'Visa on arrival',evisa:'E-visa',conditional:'Conditional: depends on a visa you hold',visa_required:'Visa needed in advance',unknown:'Check the rule',territory:'Not a country: no visa for the territory itself'};
+ const ROUTE={online:'Apply online',embassy:'Embassy or consulate',agency:'Through an authorised agency or visa centre',mixed:'Online or through a mission'};
+ const CONFL={official:'Read on official pages',partial:'Partly verified',thin:'Mostly unverified'};
+ const lnk=(a,cls)=>(a||[]).filter(u=>/^https?:/.test(u.url)).map(u=>`<a class="${cls}" href="${esc(u.url)}" target="_blank" rel="noopener">${esc(u.label||u.url)}</a>`).join('');
+ function applyHtml(n,v){const a=APPLY[n];if(!a||!v||v.category==='visa_free')return'';
+  const row=(k,x)=>x?`<div class="arow"><span>${k}</span><div>${esc(x)}</div></div>`:'';
+  return `<h3>How to apply from India</h3><div class="applybox"><p><span class="tag">${esc(ROUTE[a.route]||a.route)}</span><span class="tag ${a.confidence==='official'?'okt':''}">${esc(CONFL[a.confidence]||a.confidence)}</span></p>
+  ${a.schengenNote?`<p class="meta">${esc(a.schengenNote)}</p>`:''}<p>${esc(a.summary)}</p>
+  ${a.applyLinks&&a.applyLinks.length?`<div class="abtns">${lnk(a.applyLinks,'abtn')}</div>`:''}
+  ${a.formLinks&&a.formLinks.length?`<p class="meta" style="margin:10px 0 4px">Official forms</p><div class="abtns">${lnk(a.formLinks,'abtn alt')}</div>`:''}
+  ${a.documents&&a.documents.length?`<h4>Documents checklist</h4><ul class="chk">${a.documents.map(d=>`<li><b>${esc(d.item)}</b>${d.note?': '+esc(d.note):''}</li>`).join('')}</ul>`:''}
+  ${a.photo&&(a.photo.size||a.photo.notes)?`<h4>Passport photo</h4><div class="photobox"><div>${[a.photo.size&&'Size: '+esc(a.photo.size),a.photo.background&&'Background: '+esc(a.photo.background),a.photo.format&&'Format: '+esc(a.photo.format)].filter(Boolean).join(' · ')}</div>${a.photo.notes?`<div class="meta">${esc(a.photo.notes)}</div>`:''}<span class="tag ${a.photo.status==='verified'?'okt':''}">${a.photo.status==='verified'?'verified':'not verified'}</span></div>`:'<h4>Passport photo</h4><div class="photobox"><span class="meta">Photo rules not verified. Check the official page.</span></div>'}
+  <h4>Fee, time and visits</h4><div class="arows">${row('Fee',a.fee)}${row('Processing',a.processing)}${row('Apply',a.applyEarly)}${row('Biometrics',a.biometrics)}${row('Centres',a.centres)}</div>
+  ${a.warnings&&a.warnings.length?`<h4>Watch out for</h4><ul>${a.warnings.map(w=>`<li>${esc(w)}</li>`).join('')}</ul>`:''}
+  ${a.unverified&&a.unverified.length?`<div class="unv"><b>Could not verify:</b> ${a.unverified.map(esc).join('; ')}</div>`:''}
+  <p class="meta" style="font-size:11.5px;margin-top:10px">Typical checklist. Confirm on the official page before you pay or book. Checked ${esc(a.lastChecked)} · ${srcLinks(a.sources)}</p></div>`}
  function flagImg(p){return p&&p.iso?`<img class="flag" src="https://flagcdn.com/w40/${p.iso}.png" srcset="https://flagcdn.com/w80/${p.iso}.png 2x" alt="" loading="lazy" onerror="this.remove()">`:''}
  function openCountry(n){const p=PROFILES[n],v=VREC[n],tr=TRIPS.find(t=>t.ctry.includes(n));const box=document.getElementById('cbody');
   if(!p&&!v){box.innerHTML=`<h2>${esc(n)}</h2><p class="meta">${esc(n)} is a territory or disputed area, not one of the 195 countries in the atlas.</p>`}else{
   const mo=(p&&p.bestMonths)||[];const els=[];
   els.push(`<h2>${flagImg(p)}${esc(n)}</h2><p class="meta">${esc((p&&p.region)||'')}${p&&p.capital?' · capital '+esc(p.capital):''}${tr?` · <a href="#trips" data-trip="${esc(tr.c)}">Trip ${esc(tr.c)}: ${esc(tr.n)}</a>`:(p&&p.trip==='H'?' · visited hub':(p&&p.trip==='X'?' · added on request, thin profile':''))}</p>`);
   if(v)els.push(`<h3>Visa for an Indian passport</h3><p><span class="tag">${esc(CATL[v.category]||'')}</span><span class="tag">${esc(v.status)}</span></p><p>${esc(v.rule)}</p>${v.easedBy&&v.easedBy.length?`<p class="meta">Eased by: ${v.easedBy.map(k=>esc((DATAINFO.visa.visaKeys||{})[k]||k)).join(', ')}.</p>`:''}<p class="meta" style="font-size:12px">Checked ${esc(v.lastChecked)} · ${srcLinks(v.sources)}<br>${esc(v.note||'')}</p>`);
+  els.push(applyHtml(n,v));
   if(p&&p.places&&p.places.length)els.push(`<h3>Places to visit</h3><ul>${p.places.map(x=>`<li><b>${esc(x.name)}</b>${x.note?': '+esc(x.note):''}${x.fee?` <span class="meta">(${esc(x.fee)})</span>`:''}</li>`).join('')}</ul>`);
   if(mo.length)els.push(`<h3>Best months for a low budget</h3><div class="mo">${MN.map((m,i)=>`<div class="${mo.includes(i+1)?'hi':''}">${m}</div>`).join('')}</div>`);
   if(p&&p.dailyBudgetInr)els.push(`<h3>Typical daily budget</h3><p>${rs(p.dailyBudgetInr.low)} to ${rs(p.dailyBudgetInr.high)} per person for a mid-range stay, food and local transport. Estimate.</p>`);
