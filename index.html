@@ -78,6 +78,69 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
   <p class="lead">Plan your way to 100 countries. <span id="sAtlasLead">115</span> countries with visa rules for an Indian passport, cheapest months, day-by-day plans, places to visit and the odd experiences worth a detour.</p>
   <p><a class="btn" href="#trips">Explore the trips</a> <a class="btn ghost" href="#visa">Check where my visas work</a></p>
   <div class="stats"><div><b id="sCountries">115</b><span>countries in the atlas</span></div><div><b id="sTrips">18</b><span>trips</span></div><div><b id="sNew">101</b><span>countries the trips add</span></div><div><b id="sDays">248</b><span>travel days</span></div><div><b id="sBudget">₹42 to 65 lakh</b><span>for all trips</span></div></div>
+  <div class="legend" id="globeLegend"></div>
+ </div>
+ <div id="globeBox"><canvas id="globe" width="1100" height="1100"></canvas><div class="globeTip">Drag to spin. Tap a trip below to fly there.</div></div>
+</header>
+
+<section id="trips"><div class="wrap">
+ <h2>Pick a trip</h2><p class="sub">Each trip is built around cheap start cities, overland hops and one day per country where that is enough.</p>
+ <div class="chips" id="tripFilter"></div>
+ <div class="grid" id="tripGrid"></div>
+</div></section>
+
+<section id="planner"><div class="wrap">
+ <h2>Plan builder</h2><p class="sub">Tick trips to build your own journey. Totals update as you go, and the globe highlights where you will be.</p>
+ <div class="two"><div class="panel"><div id="planList"></div></div>
+ <div class="panel"><h3>Your plan</h3><div id="planOut"></div><div class="bar"><i id="planBar" style="width:0%"></i></div><small id="planHint" style="color:var(--mute)"></small></div></div>
+</div></section>
+
+<section id="visa"><div class="wrap">
+ <h2>Visa checker for an Indian passport</h2><p class="sub">Tell us which visas you hold. The map and list show where they ease entry. Rules are summarised from research on 16 October 2026 and are probable, not final.</p>
+ <div class="two"><div class="panel">
+  <b>Visas I hold</b>
+  <label class="ck"><input type="checkbox" id="vUS"> US visa (valid, multiple entry)</label>
+  <label class="ck"><input type="checkbox" id="vSC"> Schengen visa (valid, multiple entry)</label>
+  <label class="ck"><input type="checkbox" id="vUK"> UK visa</label>
+  <label class="ck"><input type="checkbox" id="vCA"> Canada visa</label>
+  <label class="ck"><input type="checkbox" id="vOT"> Australia, NZ, Japan or Korea visa</label>
+  <div style="margin:12px 0"><input type="text" id="vSearch" placeholder="Search a country" style="width:100%"></div>
+  <div class="legend" id="visaLegend"></div>
+  <div class="note">Not legal advice. Confirm every rule on the destination's official site 2 to 3 months before you travel.</div>
+ </div><div class="panel res" id="visaList"></div></div>
+</div></section>
+
+<section id="finder"><div class="wrap">
+ <h2>Experience finder</h2><p class="sub">Filter odd and wonderful things by type and budget.</p>
+ <div class="chips" id="expFilter"></div>
+ <label style="font-size:13px;color:var(--mute)">Max price: <b id="expPriceLbl" style="color:var(--ink)">₹1,00,000</b></label>
+ <input type="range" id="expPrice" min="500" max="500000" step="500" value="100000">
+ <div class="grid" id="expGrid" style="margin-top:12px"></div>
+</div></section>
+
+<section id="months"><div class="wrap">
+ <h2>Best months for a low budget</h2><p class="sub">Slide to a month and see which trips are cheap and still comfortable then.</p>
+ <input type="range" id="monthSlider" min="1" max="12" value="3"><div class="tl" id="monthTl"></div>
+ <div class="grid" id="monthGrid"></div>
+</div></section>
+
+<section id="records"><div class="wrap">
+ <h2>Records and bucket-list moments</h2><p class="sub">Longest, highest, fastest, deepest, found along the routes. Claims are from search results and should be checked before you plan around one.</p>
+ <div class="rec" id="recGrid"></div>
+</div></section>
+
+<section id="tracker"><div class="wrap">
+ <h2>My progress to 100</h2><p class="sub">Tick every country you have already visited, from anywhere in the atlas. The ring shows how many you have and how many remain to reach 100, and the planner below suggests the cheapest trips to close the gap. Your list stays in your browser and is never uploaded.</p>
+ <div class="two"><div class="panel">
+  <div class="prog" id="prog"><div><span><b id="progN">0</b>of 100</span></div></div>
+  <p id="progMsg" style="text-align:center;color:var(--mute);margin:10px 0 0"></p>
+  <div class="stats" style="justify-content:center;margin:14px 0 6px"><div><b id="remN">100</b><span>to go</span></div><div><b id="atlasN">0</b><span>in this atlas</span></div></div>
+  <div style="display:flex;gap:8px;justify-content:center;flex-wrap:wrap;margin-top:10px"><button class="btn ghost" id="resetTick">Reset</button><button class="btn ghost" id="exportTick">Copy my list</button></div>
+  <div id="routeTo100" style="margin-top:16px"></div>
+ </div>
+ <div class="panel"><div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:8px"><input type="text" id="tickSearch" placeholder="Search a country" style="flex:1;min-width:140px"><select id="tickRegion"><option value="">All regions</option></select></div>
+ <div class="legend" style="margin:0 0 6px"><span>Tap to mark visited. Orange outline: counted toward your 100.</span></div>
+ <div class="tick" id="tickGrid" style="max-height:420px"></div></div></div>
 </div></section>
 
 <div class="modal" id="cmodal"><div class="sheet" id="csheet"><button class="xbtn" id="cclose">Close</button><div id="cbody"></div></div></div>
