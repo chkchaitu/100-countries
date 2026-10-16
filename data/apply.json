@@ -8657,5 +8657,673 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "partial"
+ },
+ {
+  "country": "Iraq",
+  "route": "online",
+  "summary": "Iraq runs an official e-visa portal (evisa.iq). Open it, use the visa search to check the rule for Indian passports, then fill in the form, upload a passport scan and a digital photo, pay online and print the e-visa that arrives by email. Show the printout at the border. Whether Indian citizens get the tourist e-visa, and the exact fee, could not be read, so check the portal before paying.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Iraq e-visa (official portal)",
+    "url": "https://evisa.iq/en"
+   },
+   {
+    "label": "Check visa rules by nationality (visa search)",
+    "url": "https://evisa.iq/en/Instructions"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid passport; exact validity and blank pages rule UNVERIFIED"
+   },
+   {
+    "item": "Digital photo",
+    "note": "White background, per the portal"
+   },
+   {
+    "item": "Email address",
+    "note": "The e-visa is sent by email; print it for the border"
+   },
+   {
+    "item": "Accommodation and return ticket",
+    "note": "Sometimes asked; UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "White",
+   "format": "Digital photo upload",
+   "notes": "Portal says a digital photo with a white background; size and file limits not read",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED. The portal says fees are paid online; no amount for Indian citizens was readable.",
+  "processing": "UNVERIFIED (portal says no embassy visit is needed)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "None stated for the e-visa; UNVERIFIED",
+  "centres": "Online only. Iraq also has an embassy in New Delhi, not checked here.",
+  "warnings": [
+   "Use only evisa.iq. Look-alike sites such as evisairaq.com state they are third-party agents, not government.",
+   "The e-visa is stated to be valid for 30 days, single or multiple entry.",
+   "Iraq travel carries security risks; check Indian government advisories and entry rules (some regions have separate rules)."
+  ],
+  "unverified": [
+   "Eligibility of Indian passports for the e-visa",
+   "Fee",
+   "Processing time",
+   "Passport validity and document list",
+   "Photo size"
+  ],
+  "sources": [
+   "https://evisa.iq/en",
+   "https://evisa.iq/en/Instructions"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Kiribati",
+  "route": "embassy",
+  "summary": "Kiribati has no online visa system and no mission in India. Check the Visa Exemption Order and the Visitor Visa form on the Ministry of Foreign Affairs and Immigration site to see whether Indian passport holders need a visa. If so, download the Visitor Visa form and email the Visa Officer. Flights go via Fiji, so also check Fiji's rules.",
+  "applyLinks": [
+   {
+    "label": "Kiribati Immigration: visa page and exemption list",
+    "url": "https://www.mfa.gov.ki/immigration"
+   },
+   {
+    "label": "Kiribati visa forms page",
+    "url": "https://www.mfa.gov.ki/visa/"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Download the Visitor Visa application form (PDF)",
+    "url": "https://www.mfa.gov.ki/wp-content/uploads/2020/11/Visitor-Visa-FINAL.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Validity and blank pages UNVERIFIED on an official page"
+   },
+   {
+    "item": "Visitor Visa form",
+    "note": "Filled in; contents not read"
+   },
+   {
+    "item": "Return or onward ticket and funds",
+    "note": "Commonly required; UNVERIFIED"
+   },
+   {
+    "item": "Accommodation or sponsor details",
+    "note": "Sometimes; UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "",
+   "format": "",
+   "notes": "Not found on an official page that could be read",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED (no Kiribati mission in India confirmed)",
+  "centres": "None in India confirmed; the Kiribati High Commission in Suva, Fiji exists per the ministry site",
+  "warnings": [
+   "Whether India is on the visa exemption list could not be read (it is in a PDF that could not be parsed).",
+   "Visa enquiries go to visaofficer@mfa.gov.ki per the ministry page.",
+   "Plan transit visas for Fiji or other hubs separately."
+  ],
+  "unverified": [
+   "Indian passport exemption status",
+   "Visitor visa fee",
+   "Processing time",
+   "Document list",
+   "Photo rules"
+  ],
+  "sources": [
+   "https://www.mfa.gov.ki/immigration",
+   "https://www.mfa.gov.ki/visa/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Kosovo",
+  "route": "embassy",
+  "summary": "Indian passport holders need a short-stay (type C) visa unless they hold a valid multi-entry Schengen visa or a Schengen residence permit (then visa-free for up to 15 days). Download the form from the Kosovo embassies site and submit in person at a Kosovo diplomatic or consular mission, no later than three months before the trip. No Kosovo mission in India was confirmed, so check which mission covers you.",
+  "applyLinks": [
+   {
+    "label": "Kosovo visa rules, documents and form (official embassies site)",
+    "url": "https://ambasadat.net/visas"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Download the short-stay visa application form (DOC)",
+    "url": "https://ambasadat.net/wp-content/uploads/2022/03/VISA-APPLICATION-FORM-1.doc"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 3 months after leaving Kosovo, at least 2 blank pages"
+   },
+   {
+    "item": "Signed application form",
+    "note": "Original, signed"
+   },
+   {
+    "item": "Photo",
+    "note": "ICAO standard, not older than 1 month"
+   },
+   {
+    "item": "Purpose of stay evidence",
+    "note": "Required"
+   },
+   {
+    "item": "Accommodation or proof of means for it",
+    "note": "Required"
+   },
+   {
+    "item": "Proof of sufficient funds",
+    "note": "For stay and return"
+   },
+   {
+    "item": "Health insurance valid in Kosovo",
+    "note": "Whole stay"
+   },
+   {
+    "item": "Copies and translations",
+    "note": "Two copies of all documents; translate into Albanian, Serbian or English"
+   }
+  ],
+  "photo": {
+   "size": "ICAO standard (exact size not stated)",
+   "background": "",
+   "format": "",
+   "notes": "Not older than 1 month; ICAO standards",
+   "status": "unverified"
+  },
+  "fee": "EUR 40 for type C visa (official Kosovo embassies page, read 2026-10-16). Payment details come from the mission you apply to.",
+  "processing": "UNVERIFIED",
+  "applyEarly": "Apply in person no later than 3 months before the visit",
+  "biometrics": "Application is submitted in person at the mission",
+  "centres": "UNVERIFIED (no Kosovo mission in India confirmed)",
+  "warnings": [
+   "Valid multi-entry Schengen visa or Schengen residence permit gives visa-free entry for up to 15 days only.",
+   "All documents in two copies and in Albanian, Serbian or English.",
+   "Refusal can be appealed within 8 calendar days at the mission where you applied.",
+   "Having the visa does not guarantee entry."
+  ],
+  "unverified": [
+   "Which mission accepts Indian applicants",
+   "Processing time",
+   "Photo size"
+  ],
+  "sources": [
+   "https://ambasadat.net/visas"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Kuwait",
+  "route": "online",
+  "summary": "Kuwait has an official Ministry of Interior e-visa portal. Create an account on kuwaitvisa.moi.gov.kw, choose the Tourism visa, check on the portal whether Indian passports are eligible, upload your documents and pay online. The portal lists a 6-month passport rule, a 30-day entry permit and up to 90 days of stay, single entry.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Kuwait e-visa (official portal)",
+    "url": "https://kuwaitvisa.moi.gov.kw/"
+   },
+   {
+    "label": "Visa types and conditions",
+    "url": "https://kuwaitvisa.moi.gov.kw/visa-instructions"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months (portal)"
+   },
+   {
+    "item": "Photo and passport scan",
+    "note": "Uploaded online; specs UNVERIFIED"
+   },
+   {
+    "item": "Hotel booking and return ticket",
+    "note": "Commonly asked; UNVERIFIED"
+   },
+   {
+    "item": "Eligibility proof",
+    "note": "Indian eligibility rules for the tourism e-visa not read; UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "",
+   "format": "",
+   "notes": "Not found on an official page that could be read",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "None for the e-visa; UNVERIFIED",
+  "centres": "Online only",
+  "warnings": [
+   "Portal terms: entry permit valid 30 days from issue, stay no more than 90 days, single entry, no working.",
+   "Indian eligibility for the tourism e-visa could not be read; check the portal's eligibility list before paying.",
+   "Use only kuwaitvisa.moi.gov.kw; many paid agent sites copy it."
+  ],
+  "unverified": [
+   "Indian eligibility for tourism e-visa",
+   "Fee",
+   "Processing time",
+   "Document list",
+   "Photo rules"
+  ],
+  "sources": [
+   "https://kuwaitvisa.moi.gov.kw/",
+   "https://kuwaitvisa.moi.gov.kw/visa-instructions"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Kyrgyzstan",
+  "route": "online",
+  "summary": "Kyrgyzstan has an official e-visa portal run by its Ministry of Foreign Affairs. Check the 'Do I need a visa' tool for India on the information page, then apply for a visa, verify your email within 72 hours, upload a passport scan and photo, and pay by card. The portal states review takes about 5 working days, and fees are not refunded if refused.",
+  "applyLinks": [
+   {
+    "label": "Apply for a Kyrgyzstan e-visa (official portal)",
+    "url": "https://www.evisa.e-gov.kg/"
+   },
+   {
+    "label": "Do I need a visa? and FAQ",
+    "url": "https://www.evisa.e-gov.kg/get_information.php?lng=en"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid travel document; validity rule UNVERIFIED"
+   },
+   {
+    "item": "Scan of passport and digital photo",
+    "note": "Uploaded online"
+   },
+   {
+    "item": "Credit or debit card",
+    "note": "Open to international payments; does not have to be in your name"
+   },
+   {
+    "item": "Email address",
+    "note": "For verification within 72 hours and the result"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "",
+   "format": "Digital photo upload",
+   "notes": "Portal asks for a digital photo; specs not read",
+   "status": "unverified"
+  },
+  "fee": "Depends on visa category, type and period; exact amount UNVERIFIED. Not refundable.",
+  "processing": "About 5 working days per the FAQ (UNVERIFIED for India)",
+  "applyEarly": "Portal advises not to buy air tickets before approval",
+  "biometrics": "None for the e-visa; UNVERIFIED",
+  "centres": "Online only",
+  "warnings": [
+   "Check every detail: mistakes lead to rejection, and there is no refund.",
+   "Do not buy tickets before approval.",
+   "Foreign visitors must register at their place of stay within 5 working days of entry unless exempt.",
+   "Use only evisa.e-gov.kg."
+  ],
+  "unverified": [
+   "Whether India is eligible for the e-visa (selector needs JavaScript)",
+   "Fee amount",
+   "Photo specs",
+   "Passport validity rule"
+  ],
+  "sources": [
+   "https://www.evisa.e-gov.kg/",
+   "https://www.evisa.e-gov.kg/get_information.php?lng=en"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Latvia",
+  "route": "embassy",
+  "summary": "Latvia issues Schengen short-stay visas to Indian residents through its Embassy in New Delhi, with applications lodged at VFS Global centres in India. Book a VFS appointment, appear in person for fingerprints and photo, and pay the 90 EUR visa fee plus the VFS service charge. Apply at least 15 days before travel and no more than six months ahead.",
+  "applyLinks": [
+   {
+    "label": "Book a VFS appointment in India for Latvia",
+    "url": "https://visa.vfsglobal.com/ind/en/lva/book-an-appointment"
+   },
+   {
+    "label": "Embassy of Latvia in India: Schengen short stay visa page",
+    "url": "https://www2.mfa.gov.lv/en/newdelhi/consular-section/visa"
+   },
+   {
+    "label": "Embassy of Latvia in New Delhi homepage",
+    "url": "https://www2.mfa.gov.lv/en/newdelhi"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 3 months after planned departure from Schengen, at least 2 blank pages, issued within the last 10 years; copies of ID page and previous visas"
+   },
+   {
+    "item": "Schengen application form",
+    "note": "Completed and signed"
+   },
+   {
+    "item": "Two colour photos",
+    "note": "35 x 45 mm, taken in the last 6 months, white background"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Valid for the whole Schengen area and the full stay, minimum cover 30,000 EUR including repatriation"
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Hotel booking or rental, or invitation if staying with a host"
+   },
+   {
+    "item": "Financial proof",
+    "note": "Original bank statements for the last 3 months, stamped and signed; payslips for 3 months; employer leave approval; pension statements if relevant"
+   },
+   {
+    "item": "Invitation",
+    "note": "Only if visiting a host, approved by the Latvian migration authority and dated within 6 months of applying"
+   },
+   {
+    "item": "Flight reservation and itinerary",
+    "note": "Typical Schengen requirement; check the Embassy page for the exact list"
+   }
+  ],
+  "photo": {
+   "size": "35 x 45 mm",
+   "background": "white",
+   "format": "Printed colour photo, taken within the last 6 months",
+   "notes": "Photo can also be taken digitally at the VFS centre; must meet ICAO standards",
+   "status": "verified"
+  },
+  "fee": "Visa fee 90 EUR (45 EUR for children aged 6 to under 12), per Embassy of Latvia page read 2026-10-16. VFS service charge for short stay not confirmed on the pages opened (2434 INR was stated on the long-stay student page).",
+  "processing": "Decision within 15 calendar days of lodging, up to 45 days in individual cases; at least 10 working days for nationals under prior consultation (not Indians per the page).",
+  "applyEarly": "At least 15 calendar days before travel, and no more than 6 months before the start of the visit.",
+  "biometrics": "Yes. All Schengen applicants in India must appear in person for fingerprints and digital photo, at a VFS Latvia centre (or the Embassy by appointment for family members of EU nationals).",
+  "centres": "UNVERIFIED list of cities; VFS Latvia centres in India are listed on the VFS booking page, which needs JavaScript.",
+  "warnings": [
+   "Apply to Latvia only if Latvia is your main destination by days of stay; otherwise apply to the main destination country.",
+   "Book a VFS appointment via the official link only; agents add fees.",
+   "Bank statements must be originals, stamped and signed.",
+   "Schengen rules are common to all Schengen states, but each state accepts applications through its own mission."
+  ],
+  "unverified": [
+   "VFS Latvia centre cities",
+   "Current VFS service charge for short stay",
+   "Exact appointment availability"
+  ],
+  "sources": [
+   "https://www2.mfa.gov.lv/en/newdelhi/consular-section/visa",
+   "https://visa.vfsglobal.com/ind/en/lva/book-an-appointment",
+   "https://www2.mfa.gov.lv/en/newdelhi"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Lebanon",
+  "route": "embassy",
+  "summary": "Indian citizens need a visa before travel and cannot get one on arrival. Applications go through the VFS Global Lebanon centre in India, which handles visas for the Lebanese Embassy. Complete the form, submit documents and passport in person, and pay the visa fee and VFS fee.",
+  "applyLinks": [
+   {
+    "label": "VFS Global Lebanon in India: visa information, fees and forms",
+    "url": "https://www.vfsglobal.com/one-pager/lebanon/india/english"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Application form and document list (via the VFS Lebanon India page)",
+    "url": "https://www.vfsglobal.com/one-pager/lebanon/india/english"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid for at least 6 months is typical; old passports showing travel history must also be submitted per VFS"
+   },
+   {
+    "item": "Completed visa application form",
+    "note": "Download from the VFS Lebanon page"
+   },
+   {
+    "item": "Photographs",
+    "note": "Recent, see photo rules"
+   },
+   {
+    "item": "Supporting documents for tourist category",
+    "note": "Hotel booking, return ticket, bank statements are typical; exact list is on the VFS page (tourist tab, JavaScript)"
+   },
+   {
+    "item": "Passport with no Israeli stamp or visa",
+    "note": "Applicants with an Israeli stamp or visa must use a new passport without it, per VFS"
+   }
+  ],
+  "photo": {
+   "size": "35-40 mm width; face 70 to 80 percent of the photo",
+   "background": "UNVERIFIED (not stated in the text read)",
+   "format": "Printed on high quality photo paper, high resolution, colour",
+   "notes": "Taken within last 6 months, looking at camera, eyes open and clear, no glare on glasses",
+   "status": "verified"
+  },
+  "fee": "Per VFS Lebanon India page read 2026-10-16: single entry 8250 INR, double entry 11750 INR, multiple entry 16450 INR; VFS service fee 1920 INR (incl. GST); plus 150 INR convenience charge at the centre. Business tab was read; tourist tab assumed same, UNVERIFIED.",
+  "processing": "Delhi submissions at least 5 to 7 working days, other locations at least 11 to 12 working days; some need further enquiry.",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "Documents lodged in person at the centre; fingerprints UNVERIFIED.",
+  "centres": "New Delhi confirmed (Delhi is named in processing times); other locations exist but cities UNVERIFIED.",
+  "warnings": [
+   "Check the Indian MEA travel advisory for Lebanon before booking; security conditions can change quickly.",
+   "An Israeli stamp or visa in the passport can lead to refusal.",
+   "Maximum visa validity requested is 90 days.",
+   "Fees are in INR and can change without notice."
+  ],
+  "unverified": [
+   "Tourist tab document list",
+   "Tourist fee (business tab read)",
+   "Centre cities",
+   "Booking page URL (visa.vfsglobal.com lbn path returned 404)",
+   "How early to apply"
+  ],
+  "sources": [
+   "https://www.vfsglobal.com/one-pager/lebanon/india/english"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Lesotho",
+  "route": "online",
+  "summary": "Lesotho's e-visa portal is currently suspended, according to the Ministry of Home Affairs page. Applications are being taken by email to the Immigration visa applications address given there. Email your application and documents, wait for approval, and carry the approval when travelling. Confirm the current process with the ministry before booking.",
+  "applyLinks": [
+   {
+    "label": "Lesotho Ministry of Home Affairs e-visa page (notice and email address)",
+    "url": "https://www.homeaffairs.gov.ls/e-visa"
+   },
+   {
+    "label": "Lesotho High Commission UK: entry and visa guidance",
+    "url": "https://lesothohc.org.uk/dealing-with-lesotho/travel-advice-passport-and-entry-requirements"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Typically valid 6 months with blank pages; UNVERIFIED"
+   },
+   {
+    "item": "Photo",
+    "note": "UNVERIFIED"
+   },
+   {
+    "item": "Return ticket and accommodation",
+    "note": "Typical; UNVERIFIED"
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Typical; UNVERIFIED"
+   },
+   {
+    "item": "Yellow fever certificate",
+    "note": "Only if arriving from an affected country; UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED (the old e-visa advertised 72 hours; portal now suspended)",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "UNVERIFIED. No Lesotho mission in India was confirmed.",
+  "warnings": [
+   "The Lesotho e-visa portal is suspended; do not pay third-party sites claiming to issue Lesotho e-visas.",
+   "Lesotho warns that sites other than the official portal are fraudulent.",
+   "Email address VISA-Applications.Immigration@gov.ls is quoted by the Ministry page; confirm before sending documents."
+  ],
+  "unverified": [
+   "Fee",
+   "Processing time",
+   "Document list and photo rules",
+   "Whether any mission in India or nearby accepts applications",
+   "Whether the evisa portal has reopened (evisa.gov.ls did not resolve)"
+  ],
+  "sources": [
+   "https://www.homeaffairs.gov.ls/e-visa",
+   "https://lesothohc.org.uk/dealing-with-lesotho/travel-advice-passport-and-entry-requirements"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
+ },
+ {
+  "country": "Liberia",
+  "route": "online",
+  "summary": "Indian travellers pre-apply for a Liberia Visa on Arrival on the Liberia Immigration Service portal, pay the fee online, and print the confirmation. On landing at the airport, show it, give biometrics and receive the visa sticker. The portal says that if there is a Liberian embassy in your country you must apply there instead; no Liberian mission in India was confirmed.",
+  "applyLinks": [
+   {
+    "label": "Apply for Liberia Visa on Arrival (official portal)",
+    "url": "https://visaonarrival.lis.gov.lr/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months from entry date"
+   },
+   {
+    "item": "Recent passport-size photo",
+    "note": "Upload with application"
+   },
+   {
+    "item": "Purpose of travel",
+    "note": "Tourism, business or transit"
+   },
+   {
+    "item": "Return ticket, accommodation, yellow fever certificate",
+    "note": "Commonly requested; UNVERIFIED on the portal"
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "Digital upload",
+   "notes": "Portal only says a recent passport-size photo is needed",
+   "status": "unverified"
+  },
+  "fee": "USD 102.50, non-refundable, per the official portal read 2026-10-16.",
+  "processing": "UNVERIFIED",
+  "applyEarly": "Apply at least 7 days before the flight and no more than 3 months in advance (official portal).",
+  "biometrics": "At the airport on arrival in Liberia (biometric data collection); nothing needed in India.",
+  "centres": "Not applicable (online). Valid only for arrival by air.",
+  "warnings": [
+   "Visa on Arrival is for air arrival only and is valid for a single visit.",
+   "Fee is non-refundable and Liberia can decline an application.",
+   "Officer sets stay at 30 or 90 days at the airport.",
+   "Use only the official lis.gov.lr portal."
+  ],
+  "unverified": [
+   "Whether a Liberian mission in India exists and takes applications",
+   "Photo specifications",
+   "Processing time",
+   "Yellow fever certificate rule"
+  ],
+  "sources": [
+   "https://visaonarrival.lis.gov.lr/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Libya",
+  "route": "embassy",
+  "summary": "Libya has an embassy in New Delhi, which is the place to ask about a visa. Indian government advice has barred travel to Libya since 2016 for security reasons, so tourist travel is not realistic for Indian citizens. No official Libyan e-visa portal or India visa-centre page could be verified.",
+  "applyLinks": [],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months with blank pages is typical; UNVERIFIED"
+   },
+   {
+    "item": "Photo, itinerary, invitation",
+    "note": "Libya normally requires a sponsor or invitation; UNVERIFIED"
+   }
+  ],
+  "photo": {
+   "size": "",
+   "background": "",
+   "format": "",
+   "notes": "",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED",
+  "biometrics": "UNVERIFIED",
+  "centres": "Embassy of the State of Libya, D-1/27 Vasant Vihar, New Delhi 110057 (per an MEA protocol listing seen in search results; the page returned 404 when re-checked).",
+  "warnings": [
+   "Indian government has restricted travel to Libya since April 2016 on security grounds (per the Indian Embassy in Tunis page seen in search; page returned an error when re-checked).",
+   "Check the MEA advisory before any plan.",
+   "Ignore agents offering Libya e-visas; none was verified on an official site.",
+   "Libyan authorities in practice need an in-country approval after embassy submission."
+  ],
+  "unverified": [
+   "Any official e-visa or embassy visa page",
+   "Fee, processing, documents and photo rules",
+   "Current embassy contact and opening hours",
+   "Current MEA travel advisory text",
+   "No working official apply link could be confirmed. Search for the official visa page."
+  ],
+  "sources": [
+   "https://www.embassyofindiatunis.gov.in/india-libya-bilateral-relations.php"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
  }
 ]
