@@ -1001,5 +1001,2166 @@
   ],
   "lastChecked": "2026-10-16",
   "confidence": "thin"
+ },
+ {
+  "country": "France",
+  "route": "mixed",
+  "summary": "Fill in the online application on the France-Visas portal, then book an appointment at the VFS France centre in India. Visit the centre with the printed form and documents to give fingerprints and submit.",
+  "applyLinks": [
+   {
+    "label": "Apply on the France-Visas portal",
+    "url": "https://france-visas.gouv.fr/"
+   },
+   {
+    "label": "Book a VFS appointment in India",
+    "url": "https://visa.vfsglobal.com/ind/en/fra/book-an-appointment"
+   },
+   {
+    "label": "French Embassy in India: apply for a visa",
+    "url": "https://in.ambafrance.org/fr/demander-un-visa"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Typically valid at least 3 months beyond the planned departure from Schengen, issued within the last 10 years, with at least 2 blank pages. Check the mission checklist."
+   },
+   {
+    "item": "Completed and signed visa application form",
+    "note": "Online form or PDF as directed by the mission"
+   },
+   {
+    "item": "Recent passport photos",
+    "note": "See photo rules; follow the mission checklist"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Schengen-wide cover, typically at least EUR 30,000, for the whole stay"
+   },
+   {
+    "item": "Return flight booking and day-by-day itinerary",
+    "note": "Reservations, not necessarily paid tickets"
+   },
+   {
+    "item": "Accommodation proof",
+    "note": "Hotel bookings or an invitation/host letter"
+   },
+   {
+    "item": "Bank statements and proof of funds",
+    "note": "Typically last 3 to 6 months"
+   },
+   {
+    "item": "Employment or business proof, and income tax returns",
+    "note": "Employer letter and leave approval, or business registration; students bring school letter"
+   },
+   {
+    "item": "Old passports and previous visas",
+    "note": "Only if you have them"
+   },
+   {
+    "item": "Invitation or sponsor documents",
+    "note": "Only sometimes required, for visits to family or friends"
+   }
+  ],
+  "photo": {
+   "size": "35 x 45 mm (standard Schengen size, not confirmed on an official page opened for this entry)",
+   "background": "Plain light background, typically",
+   "format": "Printed, recent, face clearly visible",
+   "notes": "Confirm on the mission or visa centre checklist",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (not read on an official page during this check)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED (Schengen rules usually allow applying up to 6 months before travel, but not confirmed on an official page here)",
+  "biometrics": "Fingerprints are normally taken in person at the VFS centre, not confirmed on an official page here",
+  "centres": "UNVERIFIED (VFS centres are in major Indian cities; confirm the list on the VFS page)",
+  "warnings": [
+   "Apply to the mission responsible for your main destination (the country where you spend the most nights), not just any Schengen country.",
+   "Visa centres charge a separate service fee on top of the visa fee.",
+   "Common refusals: weak proof of funds or ties to India, unclear purpose, missing insurance or inconsistent itinerary.",
+   "Use only the official portal or visa centre; avoid look-alike agent sites."
+  ],
+  "unverified": [
+   "France-Visas portal content (returns 403 to scripts)",
+   "VFS appointment page content (JavaScript)",
+   "Current fee",
+   "Processing time",
+   "Exact document checklist",
+   "Photo rules"
+  ],
+  "sources": [
+   "https://in.ambafrance.org/",
+   "https://in.ambafrance.org/fr/demander-un-visa",
+   "https://visa.vfsglobal.com/ind/en/fra/book-an-appointment"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Italy",
+  "route": "mixed",
+  "summary": "Complete the online form on the Italian Visto per l'Italia portal and print it. Then book an appointment at the VFS Italy centre in India and submit documents and fingerprints.",
+  "applyLinks": [
+   {
+    "label": "Fill in the Italy visa application (Vistoperitalia)",
+    "url": "https://vistoperitalia.esteri.it/"
+   },
+   {
+    "label": "Book a VFS appointment in India",
+    "url": "https://visa.vfsglobal.com/ind/en/ita/book-an-appointment"
+   },
+   {
+    "label": "Italian Embassy New Delhi",
+    "url": "https://ambnewdelhi.esteri.it/en/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Typically valid at least 3 months beyond the planned departure from Schengen, issued within the last 10 years, with at least 2 blank pages. Check the mission checklist."
+   },
+   {
+    "item": "Completed and signed visa application form",
+    "note": "Online form or PDF as directed by the mission"
+   },
+   {
+    "item": "Recent passport photos",
+    "note": "See photo rules; follow the mission checklist"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Schengen-wide cover, typically at least EUR 30,000, for the whole stay"
+   },
+   {
+    "item": "Return flight booking and day-by-day itinerary",
+    "note": "Reservations, not necessarily paid tickets"
+   },
+   {
+    "item": "Accommodation proof",
+    "note": "Hotel bookings or an invitation/host letter"
+   },
+   {
+    "item": "Bank statements and proof of funds",
+    "note": "Typically last 3 to 6 months"
+   },
+   {
+    "item": "Employment or business proof, and income tax returns",
+    "note": "Employer letter and leave approval, or business registration; students bring school letter"
+   },
+   {
+    "item": "Old passports and previous visas",
+    "note": "Only if you have them"
+   },
+   {
+    "item": "Invitation or sponsor documents",
+    "note": "Only sometimes required, for visits to family or friends"
+   }
+  ],
+  "photo": {
+   "size": "35 x 45 mm (standard Schengen size, not confirmed on an official page opened for this entry)",
+   "background": "Plain light background, typically",
+   "format": "Printed, recent, face clearly visible",
+   "notes": "Confirm on the mission or visa centre checklist",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (not read on an official page during this check)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED (Schengen rules usually allow applying up to 6 months before travel, but not confirmed on an official page here)",
+  "biometrics": "Fingerprints normally taken in person at the VFS centre, not confirmed here",
+  "centres": "UNVERIFIED",
+  "warnings": [
+   "Apply to the mission responsible for your main destination (the country where you spend the most nights), not just any Schengen country.",
+   "Visa centres charge a separate service fee on top of the visa fee.",
+   "Common refusals: weak proof of funds or ties to India, unclear purpose, missing insurance or inconsistent itinerary.",
+   "Use only the official portal or visa centre; avoid look-alike agent sites."
+  ],
+  "unverified": [
+   "Visa centre page content (JavaScript)",
+   "Italian embassy visa page details",
+   "Current fee",
+   "Processing time",
+   "Exact document checklist",
+   "Photo rules"
+  ],
+  "sources": [
+   "https://vistoperitalia.esteri.it/",
+   "https://ambnewdelhi.esteri.it/en/",
+   "https://visa.vfsglobal.com/ind/en/ita/book-an-appointment"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Spain",
+  "route": "mixed",
+  "summary": "Book an appointment through the official BLS Spain Visa site for India, prepare the application form and documents, and attend the BLS centre to submit them with fingerprints.",
+  "applyLinks": [
+   {
+    "label": "Spain visa in India (official BLS site)",
+    "url": "https://india.blsspainvisa.com/"
+   },
+   {
+    "label": "Spanish Embassy New Delhi",
+    "url": "https://www.exteriores.gob.es/Embajadas/nuevadelhi/en/Paginas/index.aspx"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Typically valid at least 3 months beyond the planned departure from Schengen, issued within the last 10 years, with at least 2 blank pages. Check the mission checklist."
+   },
+   {
+    "item": "Completed and signed visa application form",
+    "note": "Online form or PDF as directed by the mission"
+   },
+   {
+    "item": "Recent passport photos",
+    "note": "See photo rules; follow the mission checklist"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Schengen-wide cover, typically at least EUR 30,000, for the whole stay"
+   },
+   {
+    "item": "Return flight booking and day-by-day itinerary",
+    "note": "Reservations, not necessarily paid tickets"
+   },
+   {
+    "item": "Accommodation proof",
+    "note": "Hotel bookings or an invitation/host letter"
+   },
+   {
+    "item": "Bank statements and proof of funds",
+    "note": "Typically last 3 to 6 months"
+   },
+   {
+    "item": "Employment or business proof, and income tax returns",
+    "note": "Employer letter and leave approval, or business registration; students bring school letter"
+   },
+   {
+    "item": "Old passports and previous visas",
+    "note": "Only if you have them"
+   },
+   {
+    "item": "Invitation or sponsor documents",
+    "note": "Only sometimes required, for visits to family or friends"
+   }
+  ],
+  "photo": {
+   "size": "35 x 45 mm (standard Schengen size, not confirmed on an official page opened for this entry)",
+   "background": "Plain light background, typically",
+   "format": "Printed, recent, face clearly visible",
+   "notes": "Confirm on the mission or visa centre checklist",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (not read on an official page during this check)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED (Schengen rules usually allow applying up to 6 months before travel, but not confirmed on an official page here)",
+  "biometrics": "Fingerprints normally taken in person at the BLS centre, not confirmed here",
+  "centres": "UNVERIFIED",
+  "warnings": [
+   "Apply to the mission responsible for your main destination (the country where you spend the most nights), not just any Schengen country.",
+   "Visa centres charge a separate service fee on top of the visa fee.",
+   "Common refusals: weak proof of funds or ties to India, unclear purpose, missing insurance or inconsistent itinerary.",
+   "Use only the official portal or visa centre; avoid look-alike agent sites."
+  ],
+  "unverified": [
+   "Spanish embassy page (blocks automated checks, 403)",
+   "BLS fee and checklist pages",
+   "Current fee",
+   "Processing time",
+   "Exact document checklist",
+   "Photo rules"
+  ],
+  "sources": [
+   "https://india.blsspainvisa.com/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Netherlands",
+  "route": "mixed",
+  "summary": "Check the Dutch government visa information, then book an appointment at the VFS Netherlands centre in India. Submit the application and documents with fingerprints at the centre.",
+  "applyLinks": [
+   {
+    "label": "Book a VFS appointment in India",
+    "url": "https://visa.vfsglobal.com/ind/en/nld/book-an-appointment"
+   },
+   {
+    "label": "Netherlands and You: India",
+    "url": "https://www.netherlandsandyou.nl/web/india"
+   },
+   {
+    "label": "Netherlands Worldwide",
+    "url": "https://www.netherlandsworldwide.nl/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Typically valid at least 3 months beyond the planned departure from Schengen, issued within the last 10 years, with at least 2 blank pages. Check the mission checklist."
+   },
+   {
+    "item": "Completed and signed visa application form",
+    "note": "Online form or PDF as directed by the mission"
+   },
+   {
+    "item": "Recent passport photos",
+    "note": "See photo rules; follow the mission checklist"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Schengen-wide cover, typically at least EUR 30,000, for the whole stay"
+   },
+   {
+    "item": "Return flight booking and day-by-day itinerary",
+    "note": "Reservations, not necessarily paid tickets"
+   },
+   {
+    "item": "Accommodation proof",
+    "note": "Hotel bookings or an invitation/host letter"
+   },
+   {
+    "item": "Bank statements and proof of funds",
+    "note": "Typically last 3 to 6 months"
+   },
+   {
+    "item": "Employment or business proof, and income tax returns",
+    "note": "Employer letter and leave approval, or business registration; students bring school letter"
+   },
+   {
+    "item": "Old passports and previous visas",
+    "note": "Only if you have them"
+   },
+   {
+    "item": "Invitation or sponsor documents",
+    "note": "Only sometimes required, for visits to family or friends"
+   }
+  ],
+  "photo": {
+   "size": "35 x 45 mm (standard Schengen size, not confirmed on an official page opened for this entry)",
+   "background": "Plain light background, typically",
+   "format": "Printed, recent, face clearly visible",
+   "notes": "Confirm on the mission or visa centre checklist",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (not read on an official page during this check)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED (Schengen rules usually allow applying up to 6 months before travel, but not confirmed on an official page here)",
+  "biometrics": "Fingerprints normally taken in person, not confirmed here",
+  "centres": "UNVERIFIED",
+  "warnings": [
+   "Apply to the mission responsible for your main destination (the country where you spend the most nights), not just any Schengen country.",
+   "Visa centres charge a separate service fee on top of the visa fee.",
+   "Common refusals: weak proof of funds or ties to India, unclear purpose, missing insurance or inconsistent itinerary.",
+   "Use only the official portal or visa centre; avoid look-alike agent sites."
+  ],
+  "unverified": [
+   "Deep Dutch short stay visa page (guessed URL returned 404, not included)",
+   "VFS page content (JavaScript)",
+   "Current fee",
+   "Processing time",
+   "Exact document checklist",
+   "Photo rules"
+  ],
+  "sources": [
+   "https://www.netherlandsandyou.nl/web/india",
+   "https://visa.vfsglobal.com/ind/en/nld/book-an-appointment",
+   "https://www.netherlandsworldwide.nl/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Switzerland",
+  "route": "mixed",
+  "summary": "Check the Swiss visa information, then book an appointment at the VFS Switzerland centre in India. Submit the form, documents and fingerprints there.",
+  "applyLinks": [
+   {
+    "label": "Book a VFS appointment in India",
+    "url": "https://visa.vfsglobal.com/ind/en/che/book-an-appointment"
+   },
+   {
+    "label": "Swiss Embassy in India (FDFA)",
+    "url": "https://www.eda.admin.ch/newdelhi"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Typically valid at least 3 months beyond the planned departure from Schengen, issued within the last 10 years, with at least 2 blank pages. Check the mission checklist."
+   },
+   {
+    "item": "Completed and signed visa application form",
+    "note": "Online form or PDF as directed by the mission"
+   },
+   {
+    "item": "Recent passport photos",
+    "note": "See photo rules; follow the mission checklist"
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Schengen-wide cover, typically at least EUR 30,000, for the whole stay"
+   },
+   {
+    "item": "Return flight booking and day-by-day itinerary",
+    "note": "Reservations, not necessarily paid tickets"
+   },
+   {
+    "item": "Accommodation proof",
+    "note": "Hotel bookings or an invitation/host letter"
+   },
+   {
+    "item": "Bank statements and proof of funds",
+    "note": "Typically last 3 to 6 months"
+   },
+   {
+    "item": "Employment or business proof, and income tax returns",
+    "note": "Employer letter and leave approval, or business registration; students bring school letter"
+   },
+   {
+    "item": "Old passports and previous visas",
+    "note": "Only if you have them"
+   },
+   {
+    "item": "Invitation or sponsor documents",
+    "note": "Only sometimes required, for visits to family or friends"
+   }
+  ],
+  "photo": {
+   "size": "35 x 45 mm (standard Schengen size, not confirmed on an official page opened for this entry)",
+   "background": "Plain light background, typically",
+   "format": "Printed, recent, face clearly visible",
+   "notes": "Confirm on the mission or visa centre checklist",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (not read on an official page during this check)",
+  "processing": "UNVERIFIED",
+  "applyEarly": "UNVERIFIED (Schengen rules usually allow applying up to 6 months before travel, but not confirmed on an official page here)",
+  "biometrics": "Fingerprints normally taken in person, not confirmed here",
+  "centres": "UNVERIFIED",
+  "warnings": [
+   "Apply to the mission responsible for your main destination (the country where you spend the most nights), not just any Schengen country.",
+   "Visa centres charge a separate service fee on top of the visa fee.",
+   "Common refusals: weak proof of funds or ties to India, unclear purpose, missing insurance or inconsistent itinerary.",
+   "Use only the official portal or visa centre; avoid look-alike agent sites."
+  ],
+  "unverified": [
+   "Swiss FDFA pages (return 403 to scripts, not opened)",
+   "VFS page content (JavaScript)",
+   "Current fee",
+   "Processing time",
+   "Exact document checklist",
+   "Photo rules"
+  ],
+  "sources": [
+   "https://visa.vfsglobal.com/ind/en/che/book-an-appointment"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Austria",
+  "route": "mixed",
+  "summary": "Austria has no online visa. Book an appointment through the VFS Global Austria page for India (VFS collects the application for the Austrian Embassy in New Delhi, which decides it). Fill in the Schengen form C and the Tourism checklist from the embassy, then attend the VFS centre in person for fingerprints and a photo and pay in INR.",
+  "applyLinks": [
+   {
+    "label": "Book a VFS appointment for Austria in India",
+    "url": "https://visa.vfsglobal.com/ind/en/aut/book-an-appointment"
+   },
+   {
+    "label": "VFS Austria visa application centres in India",
+    "url": "https://visa.vfsglobal.com/ind/en/aut/attend-centre"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 3 months after the planned departure from the Schengen area, issued within the last 10 years, at least 2 blank pages. Bring copies of the photo page and old visas."
+   },
+   {
+    "item": "Completed and signed Schengen visa application form",
+    "note": "One per traveller."
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Minimum cover EUR 30,000, valid in all Schengen countries for the whole trip."
+   },
+   {
+    "item": "Round-trip flight reservation and accommodation proof",
+    "note": "Hotel bookings or an invitation if staying with a host."
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Recent bank statements. Sweden states a guide of SEK 700 per day of stay."
+   },
+   {
+    "item": "Proof of employment or business and ties to India",
+    "note": "Leave letter or employer letter, ITR or business papers. Shows you will return."
+   },
+   {
+    "item": "Visa C tourism checklist",
+    "note": "The embassy publishes a tourism checklist (see form links); the contents of that PDF were not read in text form, so follow it for the exact list."
+   },
+   {
+    "item": "German translation of documents",
+    "note": "Only if the consulate asks. English documents need no translation."
+   }
+  ],
+  "photo": {
+   "size": "35 x 45 mm",
+   "background": "UNVERIFIED (embassy points to ICAO criteria and a photo criteria PDF)",
+   "format": "Colour, ICAO compliant",
+   "notes": "The embassy page says passport photo according to ICAO criteria, colour, 35x45 mm. A photo criteria PDF is linked on the same page.",
+   "status": "verified"
+  },
+  "fee": "UNVERIFIED. The embassy says consular fees are paid in INR at the current exchange rate and points to the VFS Fees section; the amount was not read.",
+  "processing": "Up to 15 calendar days after receipt, can extend to 45 calendar days in individual cases (embassy checklist).",
+  "applyEarly": "No earlier than 6 months and no later than 15 days before departure (embassy page). Book early because VFS appointments can be scarce.",
+  "biometrics": "Yes, in person at a VFS centre: ten fingerprints and a photo, unless fingerprints were taken within the last 59 months. Children under 12 are exempt.",
+  "centres": "VFS centres across India; see the VFS attend-centre page for the current list (not itemised here).",
+  "warnings": [
+   "Applications lodged less than 15 days before travel are rejected.",
+   "The embassy only accepts applicants whose habitual residence is in its territory (India, Bhutan, Maldives, Nepal, Sri Lanka).",
+   "Apply only through VFS and the embassy pages; Austria does not issue visas through agents.",
+   "A Schengen visa issued by Austria is meant for trips where Austria is the main destination."
+  ],
+  "unverified": [
+   "Visa fee amount",
+   "VFS service fee",
+   "Photo background colour",
+   "Contents of the tourism checklist PDF",
+   "Current VFS centre list"
+  ],
+  "sources": [
+   "https://www.bmeia.gv.at/en/austrian-embassy-new-delhi/travels-to-austria/entry-and-residence/how-to-apply",
+   "https://www.bmeia.gv.at/en/austrian-embassy-new-delhi",
+   "https://www.bmeia.gv.at/en/austrian-embassy-new-delhi/travels-to-austria/entry-and-residence/visa"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Belgium",
+  "route": "mixed",
+  "summary": "Create an account on Belgium's VisaOnWeb site and fill in the short stay (C) application online, then print it. Take the printout and supporting documents to the chosen Belgian VFS Visa Application Centre in India, where your photo is taken live and fingerprints are taken if needed. The Embassy of Belgium in New Delhi decides the case.",
+  "applyLinks": [
+   {
+    "label": "Fill in the Belgian visa application on VisaOnWeb",
+    "url": "https://visaonweb.diplomatie.be/"
+   },
+   {
+    "label": "Belgian Embassy India: visa for Belgium if you live in India",
+    "url": "http://india.diplomatie.belgium.be/en/travel-belgium/visa-belgium/visa-belgium-if-you-live-india"
+   },
+   {
+    "label": "VFS Belgium visa application centres in India",
+    "url": "https://visa.vfsglobal.com/ind/en/bel/attend-centre"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Visa C for Tourism: required documents (PDF)",
+    "url": "http://india.diplomatie.belgium.be/sites/default/files/2026-04/visa_c-for_tourism%20%286%29.pdf"
+   },
+   {
+    "label": "List of supporting documents for short stay visas in India (PDF)",
+    "url": "http://india.diplomatie.belgium.be/sites/default/files/2023-06/List%20of%20supporting%20documents%20to%20be%20submitted%20by%20applicants%20for%20short%20stay%20visas%20in%20India.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 3 months after the planned departure from the Schengen area, issued within the last 10 years, at least 2 blank pages. Bring copies of the photo page and old visas."
+   },
+   {
+    "item": "Completed and signed Schengen visa application form",
+    "note": "One per traveller."
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Minimum cover EUR 30,000, valid in all Schengen countries for the whole trip."
+   },
+   {
+    "item": "Round-trip flight reservation and accommodation proof",
+    "note": "Hotel bookings or an invitation if staying with a host."
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Recent bank statements. Sweden states a guide of SEK 700 per day of stay."
+   },
+   {
+    "item": "Proof of employment or business and ties to India",
+    "note": "Leave letter or employer letter, ITR or business papers. Shows you will return."
+   },
+   {
+    "item": "Family, work and property evidence",
+    "note": "The embassy asks for as much as possible on family background, regular income and property to show intent to leave Schengen."
+   },
+   {
+    "item": "Proof of fee payment",
+    "note": "The fee payment proof must be shown at application or the file is not admissible."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "Taken live at the VFS centre",
+   "notes": "The embassy page says your picture is taken live at the visa application centre for all applicants, so no printed photo is mentioned.",
+   "status": "unverified"
+  },
+  "fee": "EUR 90 handling fee for a short stay C visa (EUR 45 for ages 6 to 12, free under 6), paid in INR at the embassy rate; VFS service fee INR 2750 inclusive of taxes (Belgian Embassy page, updated 13 Oct 2026).",
+  "processing": "UNVERIFIED (not stated on the pages read; the common Schengen rule is 15 calendar days, up to 45).",
+  "applyEarly": "UNVERIFIED on the Belgian page. The online form stays valid for 30 days, so book the VFS visit before it expires.",
+  "biometrics": "Yes: photo taken live and fingerprints where required, in person at the VFS centre.",
+  "centres": "Belgian VFS centres in India; see the VFS attend-centre page (cities not itemised here).",
+  "warnings": [
+   "The online form is deleted after 30 days if you do not confirm it at the VFS centre.",
+   "The service fee is charged even for applicants exempt from the visa fee.",
+   "The handling fee is non-refundable and must be proven at submission.",
+   "Only official passport holders and EU family members apply directly at the embassy; ordinary applicants go through VFS."
+  ],
+  "unverified": [
+   "Processing time on a Belgian page",
+   "Photo size and background",
+   "How early to apply",
+   "List of VFS centre cities",
+   "Contents of tourism PDF (not read)"
+  ],
+  "sources": [
+   "http://india.diplomatie.belgium.be/en/travel-belgium/visa-belgium/visa-belgium-if-you-live-india",
+   "https://visaonweb.diplomatie.be/",
+   "https://visa.vfsglobal.com/ind/en/bel/attend-centre"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Portugal",
+  "route": "mixed",
+  "summary": "Fill in the Schengen application form, then book an appointment and pay the VFS service fee online through the VFS Portugal India page. Attend the VFS centre in person with the documents and give biometrics. The Embassy of Portugal in New Delhi (or the Consulate in Goa) decides the application.",
+  "applyLinks": [
+   {
+    "label": "VFS Portugal India: visa information and tourist visa page",
+    "url": "https://www.vfsglobal.com/one-pager/portugal/india/english"
+   },
+   {
+    "label": "Book a VFS appointment for Portugal in India",
+    "url": "https://visa.vfsglobal.com/ind/en/prt/book-an-appointment"
+   },
+   {
+    "label": "VFS Portugal: how to apply",
+    "url": "https://visa.vfsglobal.com/ind/en/prt/apply-visa"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Download the Schengen visa application form (PDF)",
+    "url": "https://www.vfsglobal.com/one-pager/portugal/india/english/pdf/schengen_form_en_new_2024.pdf"
+   },
+   {
+    "label": "Tourism visa checklist, New Delhi (PDF)",
+    "url": "https://www.vfsglobal.com/one-pager/portugal/india/english/pdf/tourism-checklist-newdelhi.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 3 months after the planned departure from the Schengen area, issued within the last 10 years, at least 2 blank pages. Bring copies of the photo page and old visas."
+   },
+   {
+    "item": "Completed and signed Schengen visa application form",
+    "note": "One per traveller."
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Minimum cover EUR 30,000, valid in all Schengen countries for the whole trip."
+   },
+   {
+    "item": "Round-trip flight reservation and accommodation proof",
+    "note": "Hotel bookings or an invitation if staying with a host."
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Recent bank statements. Sweden states a guide of SEK 700 per day of stay."
+   },
+   {
+    "item": "Proof of employment or business and ties to India",
+    "note": "Leave letter or employer letter, ITR or business papers. Shows you will return."
+   },
+   {
+    "item": "Own working phone number on the form",
+    "note": "The embassy may judge the file incomplete if an agent's number is used."
+   }
+  ],
+  "photo": {
+   "size": "35 to 40 mm wide, face 70 to 90 percent of the photo",
+   "background": "UNVERIFIED",
+   "format": "Printed, sharp, under 6 months old",
+   "notes": "VFS Portugal page: no more than 6 months old, 35-40 mm wide, head and top of shoulders, good quality, no creases.",
+   "status": "verified"
+  },
+  "fee": "INR 9736 (EUR 90) visa fee for adults, at the current rate; VFS service charge INR 3384 including GST. Optional courier INR 750 (VFS Portugal India page, read 2026-10-16).",
+  "processing": "Decision within 15 calendar days of the application being admissible, up to 45 calendar days in individual cases.",
+  "applyEarly": "Up to 6 months before travel (one VFS passage says 3 months; the other says 6 months) and at least 15 working days before travel.",
+  "biometrics": "Yes: fingerprints and photo in person at a VFS centre. Third persons cannot submit for you.",
+  "centres": "VFS centres per the embassy rules include Ahmedabad, Bengaluru, Chandigarh, Chennai, Jalandhar, Mumbai, Kolkata, with New Delhi and the Consulate in Goa (Portugal visa portal, which blocks scripts).",
+  "warnings": [
+   "Pay the VFS service fee online when booking; the appointment is confirmed only after payment.",
+   "Neither the visa fee nor service fee is refunded if refused.",
+   "The VFS page gives both 3 and 6 months for early application, so check at booking time.",
+   "The embassy warns that using an agent may lead to refusal."
+  ],
+  "unverified": [
+   "Photo background colour",
+   "Which early-apply window is correct (3 vs 6 months)",
+   "Official Portuguese ministry pages block automated checks (vistos.mne.gov.pt and the embassy site returned 403)"
+  ],
+  "sources": [
+   "https://www.vfsglobal.com/one-pager/portugal/india/english",
+   "https://visa.vfsglobal.com/ind/en/prt/apply-visa"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Greece",
+  "route": "mixed",
+  "summary": "Complete the online application form on the Global Visa Center World (GVCW) site for Greece and print it. Book an appointment at a GVCW Visa Application Center in India, pay the visa and service fee in INR, and attend with documents and biometrics. The Greek Embassy in New Delhi decides, and may call you to interview.",
+  "applyLinks": [
+   {
+    "label": "Book a GVCW appointment for Greece in India",
+    "url": "https://in-gr.gvcworld.eu/en/schedule-appointment"
+   },
+   {
+    "label": "Greece Schengen tourism visa info and documents",
+    "url": "https://in-gr.gvcworld.eu/en/visa-info-tourism"
+   },
+   {
+    "label": "Required documents checklist",
+    "url": "https://in-gr.gvcworld.eu/en/visa-required-documents"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Visa application form",
+    "note": "Fully completed and signed."
+   },
+   {
+    "item": "Two passport photos",
+    "note": "Colour, 3.5 x 4 cm, facing forward, white background."
+   },
+   {
+    "item": "Passport",
+    "note": "Valid at least 3 months after return to India, at least 2 blank visa pages, issued within 10 years, plus a copy of the ID page and visa pages."
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Minimum EUR 30,000, valid in all Schengen countries for the whole visa validity."
+   },
+   {
+    "item": "Purpose-specific documents",
+    "note": "Itinerary, accommodation, funds and employment proof as in the GVCW checklist; the checklist is a downloadable PDF on the site."
+   }
+  ],
+  "photo": {
+   "size": "3.5 x 4 cm (two photos)",
+   "background": "White",
+   "format": "Colour, facing forward",
+   "notes": "From the GVCW Greece tourism page.",
+   "status": "verified"
+  },
+  "fee": "UNVERIFIED. GVCW says the visa and service fee are paid in INR at the centre; the amounts were not read on pages opened.",
+  "processing": "Up to 15 days, extendable to 45 working days where other Schengen states must be consulted. Add 5 days if lodging outside New Delhi.",
+  "applyEarly": "Up to 6 months before travel and no later than 15 working days before travel.",
+  "biometrics": "Yes: biometrics at the GVCW centre in India. Interview at the Greek Embassy in New Delhi possible.",
+  "centres": "GVCW Visa Application Centers for Greece across India (list page not opened); New Delhi VAC forwards other-city files to the embassy.",
+  "warnings": [
+   "Beware of fake sites and agents who sell appointments; GVCW warns about this on its page.",
+   "Walk-in applications were suspended on Oct 15, 16 and 19 2026 and resume on Oct 21 (GVCW notice).",
+   "Apply early; last-minute appointments are hard to find.",
+   "One separate document pack is needed per applicant, A4 format only."
+  ],
+  "unverified": [
+   "Visa fee and service fee amounts",
+   "List of centre cities",
+   "Greek MFA pages (mfa.gr returned 403)",
+   "Whether the embassy accepts direct applications for ordinary passports"
+  ],
+  "sources": [
+   "https://in-gr.gvcworld.eu/en/visa-info-tourism",
+   "https://in-gr.gvcworld.eu/en",
+   "https://in-gr.gvcworld.eu/en/news/important-notice-temporary-suspension-of-walk-in-applications-at-visa-application-centres-in"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Sweden",
+  "route": "mixed",
+  "summary": "Fill in the Schengen visa form (119031) from the Swedish Migration Agency, then book an appointment at one of VFS Global's nine centres in India. Attend with your passport and documents; fingerprints are taken. The Embassy of Sweden decides, usually within 15 days.",
+  "applyLinks": [
+   {
+    "label": "Book a VFS appointment for Sweden in India",
+    "url": "https://visa.vfsglobal.com/ind/en/swe/book-an-appointment"
+   },
+   {
+    "label": "Swedish Migration Agency: apply for a Schengen visa",
+    "url": "https://www.migrationsverket.se/en/you-want-to-apply/visiting-sweden/visiting-sweden-for-up-to-90-days-entry-visa.html"
+   },
+   {
+    "label": "Embassy of Sweden India: apply for a visa",
+    "url": "https://www.swedenabroad.se/en/about-sweden-non-swedish-citizens/india/going-to-sweden/visiting-sweden/apply-for-a-visa"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Download the Schengen visa application form 119031 (PDF)",
+    "url": "https://www.migrationsverket.se/download/18.2cd2e409193b84c506a2f9dc/1738227829389/119031_blvisa_en.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 3 months after the planned departure from the Schengen area, issued within the last 10 years, at least 2 blank pages. Bring copies of the photo page and old visas."
+   },
+   {
+    "item": "Completed and signed Schengen visa application form",
+    "note": "One per traveller."
+   },
+   {
+    "item": "Passport",
+    "note": "Valid at least 3 months after the visa expires, issued within 10 years, at least 2 blank pages."
+   },
+   {
+    "item": "Purpose of visit",
+    "note": "Be able to describe it; itinerary and bookings."
+   },
+   {
+    "item": "Medical travel insurance",
+    "note": "At least EUR 30,000, valid in all Schengen countries."
+   },
+   {
+    "item": "Funds",
+    "note": "SEK 700 per day of the visit; bank statements or a sponsor's undertaking."
+   },
+   {
+    "item": "Proof you will leave",
+    "note": "Return ticket and ties to India."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Migration Agency says a passport photo is only needed when a representative applies for you (front-facing, under 6 months old). Photo is otherwise taken at the VFS centre; not confirmed.",
+   "status": "unverified"
+  },
+  "fee": "VFS service fee EUR 19 per application on top of the visa fee (Embassy of Sweden page). The visa fee itself was UNVERIFIED on pages read.",
+  "processing": "Normally within 15 calendar days (Embassy of Sweden page).",
+  "applyEarly": "No more than 6 months before the start of the stay (Embassy of Sweden page).",
+  "biometrics": "Yes: fingerprints are taken at VFS, unless given for a Schengen visa in the past 5 years, in which case a representative may apply with a power of attorney.",
+  "centres": "VFS Global centres in New Delhi, Mumbai, Pune, Kolkata, Chennai, Bangalore, Hyderabad, Lucknow and Ahmedabad.",
+  "warnings": [
+   "The Embassy says it has no accredited travel agent.",
+   "Applications are normally submitted via VFS, not at the embassy.",
+   "Border police decide on entry and cannot give advance decisions.",
+   "Show funds of SEK 700 per day, or a sponsor's cover."
+  ],
+  "unverified": [
+   "Visa fee amount",
+   "Photo size and background",
+   "Whether the Swedish page lists photos for VFS applicants"
+  ],
+  "sources": [
+   "https://www.swedenabroad.se/en/about-sweden-non-swedish-citizens/india/going-to-sweden/visiting-sweden/apply-for-a-visa",
+   "https://www.migrationsverket.se/en/you-want-to-apply/visiting-sweden/visiting-sweden-for-up-to-90-days-entry-visa.html"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Norway",
+  "route": "mixed",
+  "summary": "Register your application and pay the visa fee on the Norwegian Application Portal (linked from the embassy visa page), then print the application form it emails you. Book an appointment at a VFS Global centre in India and hand in the form, passport, photo, insurance and the tourist checklist documents; fingerprints are taken at the first visit. The embassy in New Delhi decides, usually within 15 working days, and VFS returns the passport.",
+  "applyLinks": [
+   {
+    "label": "Norway embassy: how to apply for a visitor's visa from India (start here, links to the online registration)",
+    "url": "https://www.norway.no/en/india/services-info/visitors-visa-res-permit/visitors-visa"
+   },
+   {
+    "label": "Book a VFS appointment in India for Norway",
+    "url": "https://visa.vfsglobal.com/ind/en/nor/book-an-appointment"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Tourist visa document checklist (PDF, January 2024)",
+    "url": "https://www.norway.no/contentassets/3dbfe5adb1e441fda67722af6fc743e8/tourist-visa-document-checklist-january-2024.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Printed application form (schengen.pdf)",
+    "note": "Emailed to you after you complete the online registration and pay; sign the cover letter too."
+   },
+   {
+    "item": "Passport",
+    "note": "Must be valid at least three months after planned departure from the Schengen area. Blank pages not stated on the page read; the checklist PDF should be checked."
+   },
+   {
+    "item": "Photograph",
+    "note": "Must comply with international (ICAO) standards."
+   },
+   {
+    "item": "Travel health insurance",
+    "note": "At least EUR 30,000, valid in all Schengen countries and for the whole stay, including repatriation. Normally bought in your home country."
+   },
+   {
+    "item": "Tourist visa checklist documents",
+    "note": "Fill in and bring the tourist checklist (flights, accommodation, funds, employment proof and so on). The PDF text could not be extracted, so the exact items are UNVERIFIED here."
+   },
+   {
+    "item": "Group applications",
+    "note": "Two or more tourists can register as a group of up to 16 on the portal. Only sometimes relevant."
+   },
+   {
+    "item": "Travel agency letter and written consent",
+    "note": "Only if an agent applies on your behalf."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED (page says international standards, ICAO)",
+   "background": "UNVERIFIED",
+   "format": "Printed photo per ICAO guidelines",
+   "notes": "The embassy page only says the photo must comply with international standards and links the ICAO guidelines.",
+   "status": "unverified"
+  },
+  "fee": "EUR 90 visa fee (children 6 to under 12: EUR 45; under 6: free), paid online at registration; plus VFS service fee EUR 20 per applicant paid at the VFS counter. As stated on the embassy page read 2026-10-16.",
+  "processing": "Normally 15 working days after the embassy receives the application; some cases go to UDI and take up to 45 working days. Allow 2 more days for courier to Delhi VFS and 4 to 6 days for other cities.",
+  "applyEarly": "Up to 6 months before departure (the checklist page mentions 3 months for registration); apply at least 4 weeks before travel and never later than 15 days before.",
+  "biometrics": "Yes. Applicants appear in person at a VFS centre in India for photo and fingerprints on the first application (fingerprints reused if taken within 59 months).",
+  "centres": "VFS centres in Delhi, Mumbai, Chandigarh, Kolkata, Ahmedabad, Hyderabad, Chennai, Pune and Bangalore (cities named for courier times on the embassy page).",
+  "warnings": [
+   "Do not buy flights before the visa is granted; the embassy says so.",
+   "You must register online and pay the fee before you can hand in documents at VFS.",
+   "Visa agents are not connected to the embassy or VFS, may charge very high fees and have no influence on the decision.",
+   "Do not ask for a multiple entry visa unless needed; it can lead to a partly rejected application."
+  ],
+  "unverified": [
+   "Exact tourist checklist items (PDF text not readable by our tools)",
+   "Photo size and background",
+   "Application Portal Norway address (selfservice.udi.no did not load for our check)",
+   "UDI application form PDF (blocks automated checks)",
+   "VFS page content (JavaScript site)"
+  ],
+  "sources": [
+   "https://www.norway.no/en/india/services-info/visitors-visa-res-permit/visitors-visa",
+   "https://www.norway.no/contentassets/3dbfe5adb1e441fda67722af6fc743e8/tourist-visa-document-checklist-january-2024.pdf",
+   "https://visa.vfsglobal.com/ind/en/nor"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Denmark",
+  "route": "mixed",
+  "summary": "Complete the online application and pay the visa fee on the Danish ApplyVisa portal first, then wait up to 24 hours and book an appointment at a VFS Global centre in India. Walk-ins are no longer accepted. Take your documents and give your photo and fingerprints at VFS; the Embassy in New Delhi decides, normally within 15 days.",
+  "applyLinks": [
+   {
+    "label": "Apply online and pay (Danish ApplyVisa portal)",
+    "url": "https://applyvisa.um.dk/NVP.App/frontpage"
+   },
+   {
+    "label": "Book a VFS appointment in India for Denmark",
+    "url": "https://visa.vfsglobal.com/ind/en/dnk/book-an-appointment"
+   },
+   {
+    "label": "Danish Embassy in India: visa information",
+    "url": "https://um.dk/indien/en"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Standard Schengen rule: valid 3 months beyond departure with blank pages. UNVERIFIED on a Danish page for India."
+   },
+   {
+    "item": "Photo",
+    "note": "Required at VFS. Specification UNVERIFIED."
+   },
+   {
+    "item": "Flights, accommodation, itinerary",
+    "note": "Typical Schengen requirement. Danish checklist not opened."
+   },
+   {
+    "item": "Proof of funds and employment",
+    "note": "Typical Schengen requirement. Danish checklist not opened."
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Standard Schengen minimum EUR 30,000. Not confirmed on a Danish page."
+   },
+   {
+    "item": "Checklist",
+    "note": "The Embassy says processing time counts only when all documents on the relevant checklist are provided. The checklist itself was not found."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "No Danish photo rule found on the pages opened.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED (paid online on ApplyVisa before booking VFS; the amount was not on a page we could read)",
+  "processing": "Embassy processing time is 15 days when all documents are provided, not counting transport between VFS and the Embassy. Up to 45 calendar days if further enquiries or the Danish Immigration Service are involved (Embassy page, 2026-10-16).",
+  "applyEarly": "UNVERIFIED on a Danish page. General Schengen rule: up to 6 months before travel and no later than 15 days before.",
+  "biometrics": "Application is submitted at VFS by appointment; biometrics at VFS is the standard Schengen process but not stated explicitly on the page read, so UNVERIFIED.",
+  "centres": "UNVERIFIED (VFS site is JavaScript only and could not be read).",
+  "warnings": [
+   "Finish the online application and payment on ApplyVisa before booking VFS; allow up to 24 hours before the booking works.",
+   "Walk-ins at VFS are no longer possible.",
+   "The Embassy advises not to buy plane tickets or accommodation before approval.",
+   "VFS may charge a separate service fee, amount not confirmed."
+  ],
+  "unverified": [
+   "Visa fee",
+   "Document checklist",
+   "Photo rules",
+   "VFS centre cities and service fee",
+   "Exact apply-early rule",
+   "ApplyVisa portal content (JavaScript app)"
+  ],
+  "sources": [
+   "https://um.dk/indien/en",
+   "https://um.dk/indien/en/travel-and-residence/",
+   "https://applyvisa.um.dk/NVP.App/frontpage"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Finland",
+  "route": "mixed",
+  "summary": "Fill in the Schengen visa application online on the Finnish visa site (or as a PDF), check the document list on finlandvisa.fi, then book an appointment at the Finland Visa Application Centre run by VFS Global in India. Submit in person with biometrics. The visa fee is paid for the application and VFS may add a service fee.",
+  "applyLinks": [
+   {
+    "label": "Finnish Embassy: where and how to apply for a visa (India)",
+    "url": "https://finlandabroad.fi/web/ind/where-and-how-to-apply-for-a-visa-"
+   },
+   {
+    "label": "Finland visa application and document lists (finlandvisa.fi)",
+    "url": "https://finlandvisa.fi/"
+   },
+   {
+    "label": "Book a VFS appointment in India for Finland",
+    "url": "https://visa.vfsglobal.com/ind/en/fin/book-an-appointment"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Completed visa application",
+    "note": "Online on finlandvisa.fi, or a PDF filled by hand or computer."
+   },
+   {
+    "item": "Documents listed on finlandvisa.fi",
+    "note": "The site is JavaScript only, so the exact list is UNVERIFIED here. Typical Schengen items: passport, photo, flights, accommodation, funds, insurance of EUR 30,000."
+   },
+   {
+    "item": "Passport and photo",
+    "note": "Standard Schengen rules; Finnish specifics UNVERIFIED."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Not found on a readable official page.",
+   "status": "unverified"
+  },
+  "fee": "EUR 90 (INR 10,000) for an adult Schengen visa; EUR 45 (INR 5,000) for children 6 to 11; free for children under 6. From the Finland abroad India fee page as shown in an official search result, 2026-10-16. VFS service fee is extra, amount UNVERIFIED.",
+  "processing": "UNVERIFIED (standard Schengen rule is 15 calendar days, up to 45).",
+  "applyEarly": "UNVERIFIED (standard Schengen rule is up to 6 months before and not later than 15 days before).",
+  "biometrics": "Yes. All applications are submitted in person and biometrics are collected at the same time; fingerprints are skipped if taken less than 59 months ago. Centre: VFS in New Delhi is named for residence permits; for visas use the VFS booking page.",
+  "centres": "UNVERIFIED (VFS pages need JavaScript).",
+  "warnings": [
+   "Always check the document list on finlandvisa.fi, the embassy says to do this even if you use the PDF form.",
+   "An appointment is mandatory; no walk-ins.",
+   "VFS can charge a service fee on top of the visa fee.",
+   "Apply to Finland only if it is your main destination or first Schengen entry."
+  ],
+  "unverified": [
+   "finlandabroad.fi pages block automated checks (403); content taken from official search result snippets",
+   "Document list",
+   "Photo rules",
+   "Processing time",
+   "VFS centre cities and service fee"
+  ],
+  "sources": [
+   "https://finlandabroad.fi/web/ind/where-and-how-to-apply-for-a-visa- (search result snippet only)",
+   "https://finlandabroad.fi/web/ind/visa-fee (search result snippet only)",
+   "https://finlandvisa.fi/",
+   "https://visa.vfsglobal.com/ind/en/fin"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Poland",
+  "route": "embassy",
+  "summary": "Book an appointment through the VFS Global website for Poland in India; slots are released weekly for the Delhi embassy and monthly for the Mumbai consulate, depending on your state of residence. Prepare the tourist checklist documents and the printed Schengen form, then submit in person at a VFS centre. Passports are collected at VFS after the decision.",
+  "applyLinks": [
+   {
+    "label": "Book a VFS appointment in India for Poland",
+    "url": "https://visa.vfsglobal.com/ind/en/pol/book-an-appointment"
+   },
+   {
+    "label": "Poland in India: Schengen (C-type) visa guide",
+    "url": "https://www.gov.pl/web/india/c-type-schengen-visa"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Schengen visa application form (PDF)",
+    "url": "https://www.gov.pl/attachment/db1dddb1-fb15-4b3c-b327-37068bb31fda"
+   },
+   {
+    "label": "Checklist: tourism and visiting family or friends (PDF, 18 Feb 2026)",
+    "url": "https://www.gov.pl/attachment/3e1d61ed-e4e8-40cb-b6d0-27e36d6d0e62"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Issued within the last 10 years, valid 3 months after leaving Schengen, at least two blank pages."
+   },
+   {
+    "item": "Visa application form",
+    "note": "Filled without blanks, signed."
+   },
+   {
+    "item": "One colour photo",
+    "note": "35 x 45 mm, face 70 to 80 percent, white background, not older than 6 months."
+   },
+   {
+    "item": "Cover letter",
+    "note": "Purpose, duration, accompanying persons, transport and accommodation."
+   },
+   {
+    "item": "Proof of transport and itinerary",
+    "note": "Flight reservation and itinerary."
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Original certificate, at least EUR 30,000, from a company on the approved Indian insurers list; not handwritten."
+   },
+   {
+    "item": "Proof of accommodation and funds, employment proof",
+    "note": "Listed on the tourism checklist; text only partly readable, so details are UNVERIFIED."
+   },
+   {
+    "item": "Fee waiver proof",
+    "note": "Only for categories such as children under 6, students; original documents needed."
+   }
+  ],
+  "photo": {
+   "size": "35 mm x 45 mm",
+   "background": "White",
+   "format": "Colour passport-type photo, face 70 to 80 percent of the photo, not older than 6 months",
+   "notes": "From the official Poland tourism checklist.",
+   "status": "verified"
+  },
+  "fee": "UNVERIFIED for the standard Schengen fee in INR. The embassy page says to see the consular fee table and the VFS website. The reconsideration fee for a Schengen visa is listed as INR 9504 (2026-10-16), which suggests the visa fee but is not stated as such. Children 6 to under 12 pay half.",
+  "processing": "Decision within 15 calendar days of submission, up to 45 days in individual cases (gov.pl, 2026-10-16).",
+  "applyEarly": "No earlier than 6 months and as a rule no later than 15 calendar days before the trip.",
+  "biometrics": "Application must be submitted in person at a VFS centre. Fingerprints are part of the standard Schengen process but not stated on the page read.",
+  "centres": "VFS centres in Delhi, Mumbai, Bangalore, Chennai, Hyderabad, Kolkata, Chandigarh, Jaipur, Ahmedabad and Bhopal are listed by a non-official site, so UNVERIFIED. Delhi embassy covers northern, eastern and central states; Mumbai covers southern and western states (list on gov.pl).",
+  "warnings": [
+   "Your state of residence decides whether you apply under Delhi or Mumbai; check the jurisdiction list on the gov.pl page.",
+   "Delhi slots come once a week (Wednesday 11:00) and Mumbai once a month on the last working day, two months ahead, so book early.",
+   "The visa fee is not refunded if the visa is refused.",
+   "Use only the approved insurers list for travel medical insurance."
+  ],
+  "unverified": [
+   "Standard Schengen fee in INR",
+   "Full tourism checklist detail beyond what was readable",
+   "VFS centre cities and service fee",
+   "VFS pages (JavaScript)"
+  ],
+  "sources": [
+   "https://www.gov.pl/web/india/c-type-schengen-visa",
+   "https://www.gov.pl/web/india/consular-fees",
+   "https://www.gov.pl/attachment/3e1d61ed-e4e8-40cb-b6d0-27e36d6d0e62",
+   "https://visa.vfsglobal.com/ind/en/pol/book-an-appointment"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Czechia",
+  "route": "embassy",
+  "summary": "Applicants living in India apply at any VFS Global centre; book an appointment on the VFS Czech Republic page for India. Bring the form, passport, photo, flight, hotel, cover letter, itinerary, insurance and bank statements. The Czech embassy in New Delhi decides, normally within 15 calendar days of receipt.",
+  "applyLinks": [
+   {
+    "label": "VFS visa types, fees, documents and forms for Czech tourist visa (India)",
+    "url": "https://visa.vfsglobal.com/one-pager/czechrepublic/india/index.html"
+   },
+   {
+    "label": "Czech Embassy New Delhi: how to apply for a short-term visa",
+    "url": "https://mzv.gov.cz/delhitest02/cz/visa_and_consular/index.html"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Embassy checklist for Schengen visa documents (PDF)",
+    "url": "https://www.vfsglobal.com/czechrepublic/india/pdf/Embassy-of-the-Czech-Republic-in-New-Delhi-checklist.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Application form",
+    "note": "Completed and signed."
+   },
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months (VFS) or 3 months beyond return (embassy checklist), issued within 10 years, at least two empty pages. Photocopy of bio page, last page and last 2 Schengen visas."
+   },
+   {
+    "item": "Photograph",
+    "note": "Colour, white background, face at least 80 percent of the frame; two recent photos on the embassy checklist, one stated by VFS."
+   },
+   {
+    "item": "Flight ticket and itinerary",
+    "note": "Including intra-Schengen transfers."
+   },
+   {
+    "item": "Cover letter",
+    "note": "Signed, explains purpose of visit."
+   },
+   {
+    "item": "Hotel reservation",
+    "note": "Or host proof if staying with a friend."
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "At least EUR 30,000, valid for all Schengen countries and the whole trip."
+   },
+   {
+    "item": "Bank statement",
+    "note": "Last 3 months, bank stamped and signed. If sponsored, a notarized sponsorship affidavit with sponsor's bank statement."
+   },
+   {
+    "item": "Employer letter",
+    "note": "Pay slips for 3 months are not mandatory."
+   },
+   {
+    "item": "Photocopies",
+    "note": "A4 size only."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED (35 x 45 mm appears only on a non-India VFS page)",
+   "background": "White",
+   "format": "Colour, face at least 80 percent of frame, not older than 6 months",
+   "notes": "From the Czech embassy checklist and VFS India page.",
+   "status": "unverified"
+  },
+  "fee": "The embassy fee page lists Schengen visa EUR 60 = INR 4,700 and child 6 to 12 EUR 35 = INR 2,700, but that page may be outdated (Schengen fee is EUR 90 in most missions). Current VFS fee UNVERIFIED. VFS service fee extra, amount UNVERIFIED.",
+  "processing": "Normally 15 calendar days from receipt at the Embassy, extendable to 30 or 60 days (VFS India page).",
+  "applyEarly": "From 3 months before, and no later than 15 days before travel; book the appointment at least 45 days ahead (embassy page).",
+  "biometrics": "Applications are lodged at VFS in person. Biometrics are standard Schengen practice but not stated on the pages read, so UNVERIFIED.",
+  "centres": "Any VFS Global centre in India; the list of cities was not readable (JavaScript).",
+  "warnings": [
+   "The embassy page URL contains 'delhitest02' and may be an old copy; check dates and fees on the VFS page.",
+   "Groups of more than 10 must contact the Embassy at least 1 month before departure.",
+   "Applications missing any listed document are not accepted at the VFS counter.",
+   "Photocopies must be on A4 size only."
+  ],
+  "unverified": [
+   "Current visa fee (embassy page looks outdated)",
+   "VFS centre cities and service fee",
+   "Exact photo size",
+   "Biometrics rule",
+   "Embassy main site (www.mzv.gov.cz/newdelhi) returned 404 on the deep page"
+  ],
+  "sources": [
+   "https://mzv.gov.cz/delhitest02/cz/visa_and_consular/index.html",
+   "https://mzv.gov.cz/delhitest02/cz/visa_and_consular/consular_and_visa_fees/index.html",
+   "https://visa.vfsglobal.com/one-pager/czechrepublic/india/index.html",
+   "https://www.vfsglobal.com/czechrepublic/india/pdf/Embassy-of-the-Czech-Republic-in-New-Delhi-checklist.pdf"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Hungary",
+  "route": "mixed",
+  "summary": "Hungary uses the Schengen short-stay (C) visa. Check the tourist checklist, fill in the Schengen application form online, print and sign it, then book an appointment at a Hungary visa application centre run by VFS Global in India. You hand in the documents and give biometrics there, and the Embassy of Hungary in New Delhi or the Consulate General in Mumbai decides the case depending on where you live.",
+  "applyLinks": [
+   {
+    "label": "Book a VFS appointment for Hungary in India",
+    "url": "https://visa.vfsglobal.com/ind/en/hun/book-an-appointment"
+   },
+   {
+    "label": "Hungary visa information for India (fees, tourist documents, photo rules, form)",
+    "url": "https://visa.vfsglobal.com/one-pager/hungary/india/english/"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Download the tourist document checklist (PDF)",
+    "url": "https://visa.vfsglobal.com/one-pager/hungary/india/english/pdf/tourist-visa-document.pdf"
+   },
+   {
+    "label": "Download the Schengen application form C (PDF)",
+    "url": "https://visa.vfsglobal.com/one-pager/hungary/india/english/pdf/Application-Form-C-new-updated.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Front and back photocopy. The VFS page says handwritten passports and passports with manual corrections on the data page are not accepted. Validity and blank pages are not stated on the tourist tab; the usual Schengen rule is valid 3 months beyond departure with 2 blank pages (UNVERIFIED for Hungary)."
+   },
+   {
+    "item": "Application form",
+    "note": "Schengen form C, filled in and printed, signed."
+   },
+   {
+    "item": "Two photographs",
+    "note": "Colour, white background, 35 to 40 mm wide, less than six months old."
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "Mandatory for every applicant including children, from a Schengen approved insurer on the VFS list."
+   },
+   {
+    "item": "Air ticket booking",
+    "note": "Listed on the tourist checklist."
+   },
+   {
+    "item": "Accommodation proof",
+    "note": "Travel agency prepaid programme certificate, or hotel reservation with deposit paid or a cancellation fee payable."
+   },
+   {
+    "item": "Employment certificate with leave permission",
+    "note": "Signed and stamped by the employer. Students bring an enrolment certificate."
+   },
+   {
+    "item": "Salary slips, last three months",
+    "note": "Pension slips for retirees. Students use the sponsor's."
+   },
+   {
+    "item": "Income tax return acknowledgment, last two assessment years",
+    "note": "Students use the sponsor's."
+   },
+   {
+    "item": "Bank statement, last three months",
+    "note": "Signed and stamped by the bank."
+   },
+   {
+    "item": "Business registration certificate",
+    "note": "Only if self-employed."
+   },
+   {
+    "item": "Notarised authorisation letter",
+    "note": "Only if a third person submits the application for you."
+   }
+  ],
+  "photo": {
+   "size": "35 to 40 mm wide (passport size), 3.5 cm by 4.5 cm quoted on the document list",
+   "background": "White",
+   "format": "Printed colour photographs, sharp, full face with top of shoulders, not older than six months",
+   "notes": "Glasses allowed if eyes are clear with no reflection. Head covering only for religious reasons. Two photos on the tourist list. Photo can also be taken at the centre for INR 165.",
+   "status": "verified"
+  },
+  "fee": "Visa fee INR 9600 for an adult, INR 4800 for a child 6 to 12, free under 6 (VFS Hungary India page, read 2026-10-16). Plus VFS service charge INR 2133 with biometrics or INR 1600 without, per application. The same page also quotes INR 2259 and INR 1807 in another line, so confirm at booking.",
+  "processing": "UNVERIFIED on the Hungary page.",
+  "applyEarly": "UNVERIFIED on the Hungary page. Schengen rules generally allow applying up to 6 months before travel.",
+  "biometrics": "Yes. The VFS service fee has a with-biometrics rate, collected at the VFS Hungary visa application centre.",
+  "centres": "VFS lists separate checklists for Mumbai, Chennai, Bengaluru, Cochin, Pune, Goa, Puducherry, Hyderabad and Ahmedabad (south and west, Consulate General Mumbai) and for the rest (Embassy New Delhi). Delhi, Kolkata and Jalandhar are covered by New Delhi. Exact centre list UNVERIFIED on the page read.",
+  "warnings": [
+   "Optional VFS extras (courier, SMS, premium lounge, form filling at INR 2100) cost extra and are not required.",
+   "Fees are not refundable if the visa is refused.",
+   "Use the checklist for your region: New Delhi and Mumbai jurisdictions have different checklists.",
+   "Third-country family of Hungarian citizens no longer get the C-EEA visitor visa; they apply for a normal C visa."
+  ],
+  "unverified": [
+   "Processing time",
+   "How early to apply",
+   "Exact passport validity and blank pages for Hungary",
+   "Full list of Hungary centres in India",
+   "Hungarian embassy and consulate pages (not opened)"
+  ],
+  "sources": [
+   "https://visa.vfsglobal.com/one-pager/hungary/india/english/",
+   "https://visa.vfsglobal.com/ind/en/hun/book-an-appointment"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Ireland",
+  "route": "mixed",
+  "summary": "Ireland needs a visit (Short Stay C) visa for Indian citizens. Create the application on the AVATS online system, print and sign it, pay the fee as the VFS booking process directs, then book an appointment at a VFS visa application centre in India to hand in documents and give biometrics. The Embassy of Ireland in New Delhi decides and the passport comes back via VFS.",
+  "applyLinks": [
+   {
+    "label": "Create your Irish visa application on AVATS",
+    "url": "https://www.visas.inis.gov.ie/avats/onlinehome.aspx"
+   },
+   {
+    "label": "Book a VFS appointment for Ireland in India",
+    "url": "https://visa.vfsglobal.com/ind/en/irl/book-an-appointment"
+   },
+   {
+    "label": "Embassy of Ireland India: how to apply for a visa",
+    "url": "https://www.ireland.ie/en/india/newdelhi/services/visas/visas-for-ireland"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Printed and signed AVATS application form",
+    "note": "Generated at the end of the online form."
+   },
+   {
+    "item": "Passport",
+    "note": "Original. Damaged passports must be replaced first. Validity rule not stated on the pages read."
+   },
+   {
+    "item": "Supporting documents for a visit",
+    "note": "Depend on your reason for travel. The embassy points to the checklist on irishimmigration.ie, which blocks automated checks and was not read."
+   },
+   {
+    "item": "All documents in English",
+    "note": "Certified translation for any other language. Originals are scanned and returned by VFS."
+   },
+   {
+    "item": "Flight booking",
+    "note": "Not required. Flights booked before the visa are at your own risk."
+   },
+   {
+    "item": "Photo",
+    "note": "Passport size colour photo. Exact specification UNVERIFIED."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Irish immigration photo rules were not readable (site blocks scripts).",
+   "status": "unverified"
+  },
+  "fee": "Single entry INR 5,300, multiple entry INR 9,000 (Embassy of Ireland India page, read 2026-10-16). Paid to VFS when booking, plus VFS service charges. Fee waivers exist for some categories, see irishimmigration.ie fees page (not readable).",
+  "processing": "Visit visa 6 to 8 weeks from the embassy receiving the application in New Delhi, not counting VFS appointment wait or document transit (embassy page updated 17 September 2026).",
+  "applyEarly": "Apply up to 90 days before travel (embassy page).",
+  "biometrics": "Yes. Residents of India aged 5 or over give biometrics at the VFS centre unless exempt.",
+  "centres": "VFS Ireland centres in India. Exact city list UNVERIFIED on the pages read. The embassy page mentions Delhi and Kolkata for collection cases.",
+  "warnings": [
+   "Short stay visa refusals can no longer be appealed from 1 June 2026; you must reapply on AVATS.",
+   "Do not claim a fee waiver you are not eligible for, the visa is refused.",
+   "Documents sent after submission are not accepted unless an officer asks.",
+   "Indian holders of a suitable UK visitor visa may use the British and Irish Visa Scheme and travel on to Ireland without a separate visa (embassy page)."
+  ],
+  "unverified": [
+   "Photo specification",
+   "Document checklist for visit visas",
+   "Fee waiver rules",
+   "Passport validity rule",
+   "VFS Ireland city list",
+   "A site claim that Indian passport holders pay no visa fee conflicts with the embassy fee of INR 5,300 and was not confirmed"
+  ],
+  "sources": [
+   "https://www.ireland.ie/en/india/newdelhi/services/visas/visas-for-ireland",
+   "https://www.ireland.ie/en/india/newdelhi/services/visas/processing-times-and-decisions/",
+   "https://www.ireland.ie/en/india/newdelhi/services/visas/visa-documentation/",
+   "https://visa.vfsglobal.com/ind/en/irl/book-an-appointment"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Iceland",
+  "route": "mixed",
+  "summary": "Iceland uses the Schengen short-stay visa and the Embassy of Iceland in New Delhi handles applications from India. Fill in the Schengen application form, prepare the tourism checklist, and book an appointment at a VFS Global Iceland visa application centre. First-time Iceland applicants must attend in person.",
+  "applyLinks": [
+   {
+    "label": "Book a VFS appointment for Iceland in India",
+    "url": "https://visa.vfsglobal.com/ind/en/isl/book-an-appointment"
+   },
+   {
+    "label": "Iceland visa information for India (fees, documents, photo rules)",
+    "url": "https://visa.vfsglobal.com/one-pager/iceland/india/english/"
+   },
+   {
+    "label": "Iceland government page: apply for a Schengen visa",
+    "url": "https://island.is/en/get-a-visa"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Download the tourism document checklist (PDF)",
+    "url": "https://visa.vfsglobal.com/one-pager/iceland/india/english/pdf/checklist-for-tourism-visa.pdf"
+   },
+   {
+    "label": "Download the Schengen visa application form in English (PDF)",
+    "url": "https://visa.vfsglobal.com/one-pager/iceland/india/english/pdf/Schengen_Visa_Form__IS__EN-Final.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 3 months after leaving Schengen, 2 blank pages, issued in the last 10 years, no remarks on the data page. Bring previous passports."
+   },
+   {
+    "item": "Application form",
+    "note": "Fully completed Schengen form."
+   },
+   {
+    "item": "One photograph",
+    "note": "Colour, white background, not older than six months."
+   },
+   {
+    "item": "Itinerary and covering letter",
+    "note": "Covering all Schengen stays, with a short letter on purpose and plan."
+   },
+   {
+    "item": "Accommodation proof",
+    "note": "Hotel or rental bookings for the whole trip, or host proof if staying with family or friends."
+   },
+   {
+    "item": "Flight reservation",
+    "note": "Return or round trip booking, not paid in full. Intra-Schengen transport if visiting several states."
+   },
+   {
+    "item": "Travel medical insurance",
+    "note": "All Schengen countries, at least EUR 30,000 or USD 50,000, for the full stay, from an approved insurer."
+   },
+   {
+    "item": "Bank statement, last three months",
+    "note": "Stamped and signed by the bank, in the applicant's or sponsor's name. A sponsor adds a signed letter and passport copy."
+   },
+   {
+    "item": "Income tax return acknowledgment, last two assessment years",
+    "note": "Plus payslips for three months, employment contract and leave approval if employed. Registration certificate if self-employed. Pension statements if retired."
+   },
+   {
+    "item": "Full colour passport copy",
+    "note": "All pages, plus visa pages of old passports for Schengen, US, UK, Canada, Australia visas from the last three years."
+   },
+   {
+    "item": "Parental consent",
+    "note": "Only for minors travelling with one parent or alone."
+   },
+   {
+    "item": "Highest educational certificate",
+    "note": "Listed under general information."
+   }
+  ],
+  "photo": {
+   "size": "Passport size, 35 to 40 mm wide, face 70 to 80 percent of the photo",
+   "background": "Plain light coloured (white on the checklist)",
+   "format": "One printed colour photo, under six months old, high quality paper",
+   "notes": "Neutral expression, mouth closed, eyes visible, no shadows. Head covering only for religious reasons.",
+   "status": "verified"
+  },
+  "fee": "Adult visa INR 9900 (EUR 90), child 6 to 12 INR 4950 (EUR 45) (VFS Iceland India page, read 2026-10-16). VFS service charge INR 2900 per applicant on top.",
+  "processing": "Usually 15 calendar days from the embassy receiving the application, not counting transport from VFS (VFS page). island.is says about two weeks.",
+  "applyEarly": "VFS recommends applying at least two weeks before travel and earlier before holidays. Maximum lead time UNVERIFIED on these pages.",
+  "biometrics": "Personal appearance is requested for first-time Iceland applicants; VFS takes the photo and fingerprints.",
+  "centres": "VFS centres in Ahmedabad, Bengaluru, Chandigarh, Chennai, Cochin, Goa, Hyderabad, Kolkata, Mumbai, New Delhi and Pune (island.is list, partly visible).",
+  "warnings": [
+   "Apply to Iceland only if Iceland is your main destination, meaning where you spend the most nights, or first entry if equal.",
+   "Visa and VFS service fees are not refunded on refusal.",
+   "Submit photocopies; VFS does not guarantee return of originals.",
+   "Optional extras such as online form filling (INR 2875) and lounge are not required."
+  ],
+  "unverified": [
+   "Maximum advance booking window",
+   "Whether the VFS centre list is complete"
+  ],
+  "sources": [
+   "https://visa.vfsglobal.com/one-pager/iceland/india/english/",
+   "https://island.is/en/get-a-visa",
+   "https://island.is/en/get-a-visa/where-to-apply-schengen",
+   "https://visa.vfsglobal.com/ind/en/isl/book-an-appointment"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official",
+  "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
+ },
+ {
+  "country": "Sri Lanka",
+  "route": "online",
+  "summary": "Apply for the Electronic Travel Authorization (tourist visa) on the official eta.gov.lk site before you fly. The official fees page lists India among 40 countries whose nationals get the 30 day tourist ETA free of charge from 25 May 2026. At the airport carry the ETA approval, a passport valid 6 months, a confirmed return ticket and proof of funds.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Sri Lanka ETA online",
+    "url": "https://www.eta.gov.lk/slvisa/visainfo/apply.jsp?locale=en_US"
+   },
+   {
+    "label": "Sri Lanka ETA fees and free countries list",
+    "url": "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months from arrival date."
+   },
+   {
+    "item": "Online ETA application",
+    "note": "Filled in on the official portal."
+   },
+   {
+    "item": "Confirmed return ticket",
+    "note": "Shown at the port of entry."
+   },
+   {
+    "item": "Proof of sufficient funds",
+    "note": "Shown at the port of entry if asked."
+   },
+   {
+    "item": "Copy of ETA approval",
+    "note": "Print or keep on phone for immigration."
+   },
+   {
+    "item": "Payment card",
+    "note": "Only needed if you extend beyond 30 days or if fee rules change."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "The application page read did not state a photo requirement.",
+   "status": "unverified"
+  },
+  "fee": "Free of charge for Indian nationals for a tourist ETA of 30 days (eta.gov.lk fees page, effective 25.05.2026, read 2026-10-16). Other nationals pay USD 50. Stays beyond 30 days attract extension fees after arrival.",
+  "processing": "UNVERIFIED on the official pages read. Third-party sites say 1 to 3 days.",
+  "applyEarly": "UNVERIFIED. Apply well before departure; the 30 day stay counts from arrival.",
+  "biometrics": "None for the ETA. Immigration at the airport may take fingerprints on arrival.",
+  "centres": "Not applicable, fully online. Sri Lanka missions can also take ETA applications.",
+  "warnings": [
+   "Use only eta.gov.lk; look-alike paid agent sites are common.",
+   "The free scheme covers 30 days with double entry; the second entry only gets the balance of the 30 days.",
+   "Extensions beyond 30 days are applied for on the immigration portal after arriving and cost a fee.",
+   "Fee policy changed in 2026, so re-read the fees page before you apply."
+  ],
+  "unverified": [
+   "Processing time",
+   "Photo specification",
+   "Which passport scan or upload fields the form asks for"
+  ],
+  "sources": [
+   "https://www.eta.gov.lk/slvisa/visainfo/fees.jsp?locale=en_US",
+   "https://eta.gov.lk/",
+   "https://www.eta.gov.lk/slvisa/visainfo/apply.jsp?locale=en_US"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
+ },
+ {
+  "country": "Vietnam",
+  "route": "online",
+  "summary": "Apply for the Vietnam e-visa on the official National Electronic Visa portal at evisa.gov.vn. Upload a portrait photo and a scan of your passport data page, fill in the entry details, pay online by card and download the e-visa once approved. Print it and carry it on arrival.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Vietnam e-visa (official portal)",
+    "url": "https://evisa.gov.vn/"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months beyond entry date (secondary sources, not read on the portal)."
+   },
+   {
+    "item": "Passport data page scan",
+    "note": "Clear colour JPG of the page with photo and details."
+   },
+   {
+    "item": "Portrait photo",
+    "note": "Recent, white background (secondary sources)."
+   },
+   {
+    "item": "Entry details",
+    "note": "Purpose, arrival date, border gate, and where you will stay."
+   },
+   {
+    "item": "Payment card",
+    "note": "International card for the online fee."
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Not confirmed as required by the portal. Immigration may ask on arrival."
+   }
+  ],
+  "photo": {
+   "size": "4 cm by 6 cm per secondary sources",
+   "background": "White",
+   "format": "JPG under 2 MB per secondary sources",
+   "notes": "The official portal is a script-driven app and could not be read for specs.",
+   "status": "unverified"
+  },
+  "fee": "USD 25 single entry, USD 50 multiple entry, non-refundable if refused (official portal text in search result, 2026-10-16).",
+  "processing": "UNVERIFIED on the official portal. Secondary sites say 3 to 5 working days.",
+  "applyEarly": "UNVERIFIED. Secondary sources suggest 2 to 3 weeks before travel.",
+  "biometrics": "None for the e-visa.",
+  "centres": "Not applicable, fully online.",
+  "warnings": [
+   "Apply only on evisa.gov.vn; many paid lookalike agent sites charge much more.",
+   "Check entry and exit gate and dates carefully because the fee is not refunded if wrong.",
+   "Spelling must match the passport exactly.",
+   "Keep the registration code and email for status checks."
+  ],
+  "unverified": [
+   "Processing time",
+   "Photo and scan specifications",
+   "Passport validity rule",
+   "How early to apply",
+   "Maximum e-visa validity for Indian nationals",
+   "The official e-visa portal fails a certificate check from scripts, so the link could not be tested automatically. It is the government portal named in official sources."
+  ],
+  "sources": [
+   "https://evisa.gov.vn/",
+   "https://evisa.gov.vn/e-visa/foreigners"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Indonesia",
+  "route": "online",
+  "summary": "Indian passport holders can use the B1 visa on arrival, which can be applied for ahead of travel as an electronic visa on arrival (e-VoA) on the official immigration portal. Create an account on evisa.imigrasi.go.id, fill in passport, flight and stay details, upload the requested documents and pay the fee by card. Carry the approval on your phone or printed, and if you skip the online step you can pay at the arrival counter instead.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Indonesia e-visa (official portal)",
+    "url": "https://evisa.imigrasi.go.id/"
+   },
+   {
+    "label": "Official portal page on the Visitor Visa (e-VoA) with fee and stay rules",
+    "url": "https://evisa.imigrasi.go.id/front/info/evoa"
+   },
+   {
+    "label": "Indonesian Embassy in New Delhi",
+    "url": "https://kemlu.go.id/newdelhi/en"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Validity and blank page rules not confirmed on a page I could open. Commonly at least 6 months validity."
+   },
+   {
+    "item": "Passport style photo or selfie",
+    "note": "Asked in the online form. Exact rules UNVERIFIED."
+   },
+   {
+    "item": "Return or onward ticket",
+    "note": "Commonly required at entry. Not confirmed on an official page I could open."
+   },
+   {
+    "item": "Proof of accommodation",
+    "note": "Sometimes asked."
+   },
+   {
+    "item": "Proof of funds",
+    "note": "Official portal FAQ says you must be financially sufficient for the stay. Not always checked."
+   },
+   {
+    "item": "Payment card",
+    "note": "Fee is paid online by debit or credit card."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Portal blocks automated access, so photo rules could not be read.",
+   "status": "unverified"
+  },
+  "fee": "IDR 500,000 for the Visitor Visa, as shown in search snippets of the official portal FAQ (checked 2026-10-16). Card payments may add bank charges. Extension, if needed, is a separate fee.",
+  "processing": "UNVERIFIED on an official page. Secondary sources say apply at least 48 hours before departure.",
+  "applyEarly": "UNVERIFIED. Portal says the visa is valid 90 days from issue and the stay is 30 days from arrival.",
+  "biometrics": "No embassy visit for the online route. Photo and fingerprints are taken at immigration on arrival (not confirmed on an official page).",
+  "centres": "No application centre needed. Indonesian Embassy is in New Delhi for other visa types.",
+  "warnings": [
+   "Use only evisa.imigrasi.go.id. Many lookalike agent sites charge several times the IDR 500,000 fee.",
+   "Stay is 30 days from arrival, not the 90 day validity of the visa.",
+   "Some Indonesian islands add a separate local tourism levy that is not part of the visa fee.",
+   "The portal and imigrasi.go.id returned 403 to scripts, so check the current fee and eligibility there before paying."
+  ],
+  "unverified": [
+   "Eligibility of Indian passports for B1 (secondary sources only, official page blocked)",
+   "Passport validity, photo rules, onward ticket rule",
+   "Processing time",
+   "Whether the online step is mandatory or the arrival counter is still allowed"
+  ],
+  "sources": [
+   "https://evisa.imigrasi.go.id/front/info/evoa",
+   "https://evisa.imigrasi.go.id/front/faq/59e5c2c3-525d-485b-928b-ed25079d0fd1",
+   "https://kemlu.go.id/newdelhi/en"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "South Korea",
+  "route": "agency",
+  "summary": "Indian citizens apply for a short-term tourist visa (C-3-9) through the Korean mission and its authorised visa application centres in India. Fill the electronic application form on the visa centre site, book an appointment, submit the passport and documents in person at the centre for your region, and pay the visa fee plus service charge. The mission decides, and the centre returns the passport.",
+  "applyLinks": [
+   {
+    "label": "Korea Visa Portal (official Ministry of Justice portal)",
+    "url": "https://www.visa.go.kr/openPage.do?MENU_ID=10101"
+   },
+   {
+    "label": "BLS Korea visa centre: tourist visa (C-3-9) checklist, fee and forms",
+    "url": "https://kor.blsinternational.com/tourist_visa.php"
+   },
+   {
+    "label": "Korea Visa Application Centre for Chennai and Bengaluru: visa types and fees",
+    "url": "https://www.visaforkorea-ce.com/visa-type.html"
+   }
+  ],
+  "formLinks": [
+   {
+    "label": "Visa application form (PDF, BLS)",
+    "url": "https://kor.blsinternational.com/assets/pdf/VISA-APPLICATION-FORM.pdf"
+   },
+   {
+    "label": "Tourist visa document checklist (PDF, BLS)",
+    "url": "https://kor.blsinternational.com/assets/pdf/Tourist-visa.pdf"
+   }
+  ],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Plus copy of the first and last page."
+   },
+   {
+    "item": "Visa application form",
+    "note": "Electronic form, printed."
+   },
+   {
+    "item": "One passport photo",
+    "note": "3.5 x 4.5 cm, white background."
+   },
+   {
+    "item": "Covering letter",
+    "note": "Listed by BLS."
+   },
+   {
+    "item": "Travel itinerary",
+    "note": "Listed by BLS."
+   },
+   {
+    "item": "E-ticket (refundable)",
+    "note": "Listed by BLS."
+   },
+   {
+    "item": "Accommodation confirmation (refundable)",
+    "note": "Listed by BLS."
+   },
+   {
+    "item": "Employment certificate or student bonafide certificate",
+    "note": "Listed by BLS."
+   },
+   {
+    "item": "Financial documents",
+    "note": "2 years of income tax returns and last 6 months of bank statements, per BLS page."
+   },
+   {
+    "item": "Aadhaar card copy",
+    "note": "Listed by BLS."
+   }
+  ],
+  "photo": {
+   "size": "3.5 x 4.5 cm",
+   "background": "White",
+   "format": "Printed photo, colour, facing the camera, face about 80 percent of the frame",
+   "notes": "As listed on the BLS Korea checklist.",
+   "status": "verified"
+  },
+  "fee": "Visa fee INR 3,600 for single entry up to 90 days (express INR 6,300), plus BLS service charge INR 1,100, as on the BLS Korea page (checked 2026-10-16). The Chennai/Bengaluru centre page shows a different service charge (INR 1,600) and a courier option (INR 550), so confirm with your own centre.",
+  "processing": "BLS page: about 10 working days, longer if interview or extra documents. Chennai/Bengaluru centre page: standard 25 to 27 working days, express 7 to 9 working days.",
+  "applyEarly": "Chennai/Bengaluru centre says no earlier than 89 days before travel. Apply well before the date.",
+  "biometrics": "Submit in person at the visa centre. Fingerprint requirement not confirmed.",
+  "centres": "Centres are run by BLS and by the Chennai/Bengaluru visa centre. Chennai consulate covers Andhra Pradesh, Karnataka, Tamil Nadu and Puducherry. New Delhi embassy covers other regions. Full city list UNVERIFIED.",
+  "warnings": [
+   "Which centre you use depends on where you live. Check the jurisdiction before booking.",
+   "Different centres publish different service charges and processing times, so read the page for your own centre.",
+   "Do not buy non refundable tickets or hotels before the visa is issued. Use refundable bookings.",
+   "Agent sites charge far more than the official fee."
+  ],
+  "unverified": [
+   "Whether an e-visa or K-ETA style option exists for Indians (not found)",
+   "Fingerprint requirement",
+   "Full list of centre cities",
+   "visa.go.kr page content (opened, but not read in detail)"
+  ],
+  "sources": [
+   "https://kor.blsinternational.com/tourist_visa.php",
+   "https://www.visaforkorea-ce.com/visa-type.html",
+   "https://www.visa.go.kr/openPage.do?MENU_ID=10101"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "partial"
+ },
+ {
+  "country": "Egypt",
+  "route": "online",
+  "summary": "India is on the official list of nationalities that can get the Egypt e-visa. Register on the official e-visa portal, fill in the form, upload the requested items and pay the fee by card. A download link for the e-visa is sent to you, and you show it at the port of arrival.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Egypt e-visa (official portal)",
+    "url": "https://visa2egypt.gov.eg/"
+   },
+   {
+    "label": "e-visa portal FAQ: eligible countries, fees, requirements",
+    "url": "https://visa2egypt.gov.eg/eVisa/FAQ"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "Valid at least 6 months from arrival date (official FAQ)."
+   },
+   {
+    "item": "Passport scan and photo upload",
+    "note": "Asked in the online form. Exact specs UNVERIFIED."
+   },
+   {
+    "item": "Payment card",
+    "note": "Fee is paid online by card."
+   },
+   {
+    "item": "Return ticket and hotel booking",
+    "note": "Sometimes asked at entry. Not confirmed on the portal page read."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Portal pages read did not state photo rules.",
+   "status": "unverified"
+  },
+  "fee": "Single entry tourist visa USD 30, multiple entry tourist visa USD 65, per the official portal FAQ (checked 2026-10-16).",
+  "processing": "UNVERIFIED on an official page. Secondary sources say apply at least 7 days before travel.",
+  "applyEarly": "UNVERIFIED. Portal says single entry is valid 3 months with a 30 day stay (secondary source).",
+  "biometrics": "None for the e-visa route.",
+  "centres": "No centre needed. Embassy in New Delhi handles other visa types, page not verified.",
+  "warnings": [
+   "Use only the .gov.eg portal. Agent sites add large service fees.",
+   "The fee changed recently (USD 25 to USD 30), so old guides are wrong.",
+   "Passport must have 6 months validity from arrival.",
+   "Check the e-visa is not rejected for name or passport typos; fees are not refunded."
+  ],
+  "unverified": [
+   "Photo rules",
+   "Processing time and booking window",
+   "Embassy in India page (egyptembassyindia.org did not resolve)",
+   "Whether Indians can still get a visa on arrival"
+  ],
+  "sources": [
+   "https://visa2egypt.gov.eg/eVisa/FAQ",
+   "https://visa2egypt.gov.eg/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
+ },
+ {
+  "country": "Kenya",
+  "route": "online",
+  "summary": "Kenya no longer issues visas to most visitors. Indian citizens need an approved Electronic Travel Authorisation (eTA) before travel. Apply on the official eTA site with passport details, photo, itinerary and accommodation, pay by card, and carry the approval.",
+  "applyLinks": [
+   {
+    "label": "Apply for the Kenya eTA (official portal)",
+    "url": "https://etakenya.go.ke/"
+   },
+   {
+    "label": "How to apply and document list",
+    "url": "https://etakenya.go.ke/how-to-apply"
+   },
+   {
+    "label": "eTA types and fees",
+    "url": "https://etakenya.go.ke/eligibility"
+   },
+   {
+    "label": "eTA FAQ",
+    "url": "https://etakenya.go.ke/faqs"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "At least 6 months validity and at least one blank page."
+   },
+   {
+    "item": "Selfie or passport type photo",
+    "note": "Upload."
+   },
+   {
+    "item": "Contact details",
+    "note": "Email and phone number."
+   },
+   {
+    "item": "Travel itinerary",
+    "note": "Arrival and departure."
+   },
+   {
+    "item": "Accommodation booking confirmation",
+    "note": "Required."
+   },
+   {
+    "item": "Payment card",
+    "note": "Credit or debit card."
+   },
+   {
+    "item": "Purpose specific documents",
+    "note": "Only sometimes: invitation letters for business or family visits, vaccination certificates, hospital referral for medical."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Portal says selfie or passport type photo, no specs read.",
+   "status": "unverified"
+  },
+  "fee": "Standard single entry eTA USD 30, transit eTA USD 20, one year multi-entry USD 300, per the official eligibility page (checked 2026-10-16). Expedited processing adds USD 100 per the official FAQ. Payment charges may apply.",
+  "processing": "Typically 3 working days, may take longer (official how-to-apply page). Expedited option processes immediately.",
+  "applyEarly": "Apply as soon as travel is booked. Secondary source says up to 3 months ahead and at least 3 days before.",
+  "biometrics": "None.",
+  "centres": "No application centre. Online only.",
+  "warnings": [
+   "Apply only on etakenya.go.ke or the official Kenya Travel Authorisation app.",
+   "Approval does not guarantee entry, immigration decides at arrival.",
+   "India is not on the exempt list for ordinary passports, so the eTA is required.",
+   "Apply at least a few days before flying; do not leave it to the last 72 hours."
+  ],
+  "unverified": [
+   "Photo specifications",
+   "Exact allowed stay length for Indian citizens",
+   "Whether India appears in the eligibility country table (page list not read in full)"
+  ],
+  "sources": [
+   "https://etakenya.go.ke/how-to-apply",
+   "https://etakenya.go.ke/eligibility",
+   "https://etakenya.go.ke/faqs"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "official"
+ },
+ {
+  "country": "Saudi Arabia",
+  "route": "mixed",
+  "summary": "Saudi has an official tourist eVisa portal at visa.visitsaudi.com, but whether Indian passport holders qualify directly could not be confirmed. Secondary sources say Indians who hold a valid US, UK or Schengen visa that has been used once can get an eVisa or visa on arrival. Otherwise Indians apply through the Saudi visa application centre in India (VFS). Check eligibility on the official portal first.",
+  "applyLinks": [
+   {
+    "label": "Saudi eVisa portal (official)",
+    "url": "https://visa.visitsaudi.com/"
+   },
+   {
+    "label": "Visit Saudi: tourist visa requirements",
+    "url": "https://www.visitsaudi.com/en/plan-your-trip/visa-regulations"
+   },
+   {
+    "label": "Saudi Ministry of Foreign Affairs visa portal",
+    "url": "https://visa.mofa.gov.sa/"
+   },
+   {
+    "label": "VFS Global Saudi Arabia visa centre for India",
+    "url": "https://www.vfsglobal.com/saudi/india"
+   }
+  ],
+  "formLinks": [],
+  "documents": [
+   {
+    "item": "Passport",
+    "note": "At least 6 months validity."
+   },
+   {
+    "item": "Passport style photo",
+    "note": "Uploaded online."
+   },
+   {
+    "item": "Valid US, UK or Schengen visa",
+    "note": "Only for the eligibility route for Indians. Secondary sources say it must have been used at least once."
+   },
+   {
+    "item": "Health insurance",
+    "note": "Included automatically in the eVisa fee per secondary source."
+   },
+   {
+    "item": "Hotel booking and return ticket",
+    "note": "Sometimes asked."
+   }
+  ],
+  "photo": {
+   "size": "UNVERIFIED",
+   "background": "UNVERIFIED",
+   "format": "UNVERIFIED",
+   "notes": "Not read on an official page.",
+   "status": "unverified"
+  },
+  "fee": "UNVERIFIED on an official page. Secondary sources show about SAR 535 all-in (visa SAR 300, insurance, VAT) for the eVisa. Confirm at checkout.",
+  "processing": "UNVERIFIED. eVisa is usually quick, VFS route can take several days.",
+  "applyEarly": "UNVERIFIED. Official portal says the eVisa is one year, multiple entry, up to 90 days per stay.",
+  "biometrics": "None for eVisa. Embassy or VFS route may need fingerprints, UNVERIFIED.",
+  "centres": "VFS Global Saudi centres in India, city list UNVERIFIED.",
+  "warnings": [
+   "Indian passports are not on the plain eligibility list in secondary sources, so do not pay an agent before confirming on the official portal.",
+   "Final fee at checkout is higher than the headline visa fee because of insurance and VAT.",
+   "The US, UK or Schengen visa must be valid and used.",
+   "Hajj is not covered by the tourist visa."
+  ],
+  "unverified": [
+   "Whether Indians can use the portal directly (visa.visitsaudi.com returned 403 to scripts)",
+   "Fees",
+   "Processing time",
+   "VFS page contents and city list",
+   "Photo rules"
+  ],
+  "sources": [
+   "https://www.visitsaudi.com/en/plan-your-trip/visa-regulations",
+   "https://visa.visitsaudi.com/",
+   "https://www.vfsglobal.com/saudi/india",
+   "https://visa.mofa.gov.sa/"
+  ],
+  "lastChecked": "2026-10-16",
+  "confidence": "thin"
  }
 ]
