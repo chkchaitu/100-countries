@@ -944,8 +944,12 @@
  {
   "country": "Thailand",
   "route": "visafree",
-  "summary": "Indian passport holders can enter Thailand without a visa for tourism for up to 30 days per entry from 15 September 2026, when Thailand replaced its 60-day exemption and ended Visa on Arrival for India. Before flying, fill in the free Thailand Digital Arrival Card (TDAC), preferably 3 days ahead, and carry a return ticket, accommodation details and funds. For longer stays apply for a Tourist e-visa.",
+  "summary": "Indian ordinary passport holders can enter Thailand without a visa for tourism or short-term business for up to 30 days, effective from 15 September 2026 until further announcement (Royal Thai Embassy, New Delhi). Before flying, fill in the free Thailand Digital Arrival Card (TDAC), preferably 3 days ahead, and carry a return ticket, accommodation details and funds. For longer stays or other purposes apply for an e-visa at thaievisa.go.th.",
   "applyLinks": [
+   {
+    "label": "Official entry rules for Indians (Royal Thai Embassy, New Delhi)",
+    "url": "https://newdelhi.thaiembassy.org/en/page/visa"
+   },
    {
     "label": "Complete the Thailand Digital Arrival Card (TDAC)",
     "url": "https://tdac.immigration.go.th/arrival-card/"
@@ -1007,27 +1011,27 @@
   "biometrics": "UNVERIFIED (photos or fingerprints may be taken at Thai immigration)",
   "centres": "Not applicable",
   "warnings": [
-   "WHAT CHANGED: until 14 September 2026 Indians had a 60-day visa exemption (July 2024 scheme; India's MEA table still shows 60 days). From 15 September 2026 the 60-day scheme was revoked, India moved to a 30-day tourism-only exemption, and India's Visa on Arrival was withdrawn. Source: Thai Government PRD announcement dated 4 September 2026 (Royal Gazette 31 August 2026); the PRD page does not name India, the India placement comes from secondary reports and should be confirmed on the Thai Embassy in New Delhi page.",
+   "WHAT CHANGED: until 14 September 2026 Indians had a 60-day visa exemption. From 15 September 2026 India is on a 30-day exemption for tourism and short-term business, stated on the Royal Thai Embassy New Delhi visa page (page updated 16 September 2026, 'until further announcement'). Secondary reports add that Visa on Arrival no longer applies to India, which the embassy page does not say.",
    "Entry for tourism only; work or other purposes need the matching visa. People already in Thailand before 15 September keep the stay on their stamp.",
    "Visa-exempt arrivals by land border are reportedly limited to twice a calendar year (secondary source, UNVERIFIED). Apply for a Tourist e-visa if you need 60 days.",
    "Use only the official TDAC site and the official e-visa portal; fake arrival-card sites charge fees. No end date for the exemption announced."
   ],
   "unverified": [
-   "India named on an official Thai page (PRD page lists only the scheme)",
    "Passport validity requirement",
    "Entry funds amounts",
    "Extension fee",
    "Land-border limit",
    "Biometrics",
-   "Thai Embassy New Delhi page timed out"
+   "Whether Visa on Arrival for India has ended (reported by secondary sites only)"
   ],
   "sources": [
+   "https://newdelhi.thaiembassy.org/en/page/visa",
    "https://thailand.prd.go.th/en/content/category/detail/id/48/iid/538547",
    "https://tdac.immigration.go.th/arrival-card/",
    "https://www.mfa.go.th/en/page/visa-exemption"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "partial"
+  "lastChecked": "2026-10-17",
+  "confidence": "official"
  },
  {
   "country": "France",

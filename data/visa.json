@@ -1627,16 +1627,17 @@
    "name": "Thailand",
    "trip": "H",
    "category": "visa_free",
-   "rule": "From 15 Sep 2026 Indian ordinary passport holders get 30 days visa free for tourism (previously 60 days). Extension once by up to 30 days at immigration, fee reported 1,900 THB. Visa exempt land border entries capped at 2 per calendar year. Entered before 15 Sep keeps the 60 days stamped. Thailand Digital Arrival Card (TDAC) free, submit within 3 days before arrival (beware copycat sites). Visa on arrival no longer applies to India. Onward ticket and funds can be asked.",
+   "rule": "From 15 Sep 2026 Indian ordinary passport holders get 30 days visa free for tourism or short-term business (previously 60 days), until further announcement. Extension once by up to 30 days at immigration, fee reported 1,900 THB. Visa exempt land border entries capped at 2 per calendar year. Entered before 15 Sep keeps the 60 days stamped. Thailand Digital Arrival Card (TDAC) free, submit within 3 days before arrival (beware copycat sites). Visa on arrival no longer applies to India. Onward ticket and funds can be asked.",
    "easedBy": [],
    "status": "confirmed",
    "sources": [
+    "https://newdelhi.thaiembassy.org/en/page/visa",
     "https://www.visa-requirements.io/visa-requirements/thailand/from/indian-passport-holders/visa-exemption-2026",
     "https://visasnews.com/en/thailand-introduces-new-visa-free-and-visa-on-arrival-rules-on-september-15-2026",
     "https://www.envoyglobal.com/news-alert/thailand-reduces-visa-exempt-stay-periods-starting-september-2026"
    ],
-   "lastChecked": "2026-10-16",
-   "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+   "lastChecked": "2026-10-17",
+   "note": "Confirmed on the Royal Thai Embassy New Delhi visa page (updated 16 Sep 2026). Extension fee, land-border cap and the end of Visa on Arrival come from secondary sources. Confirm 2 to 3 months before travel."
   },
   {
    "country": "South Korea",
