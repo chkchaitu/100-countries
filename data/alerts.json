@@ -1,0 +1,32 @@
+{
+ "about": "Active travel alerts for an Indian passport holder: airline suspensions, Indian embassy or MEA advisories, entry restrictions and closures. An alert stays listed until it is lifted. sourceLevel is official (official page read) or news (reported by news, official page not read yet).",
+ "lastChecked": "2026-10-19",
+ "alerts": [
+  {
+   "id": "saudi-arabia-air-india-suspension",
+   "country": "Saudi Arabia",
+   "type": "flights",
+   "severity": "high",
+   "title": "Air India and Air India Express flights suspended",
+   "summary": "Air India and Air India Express have suspended flights to Jeddah, Riyadh and Dammam until 24 October 2026 because of security concerns in West Asia. Passengers get a free date change. Check with the airline before booking.",
+   "since": "2026-10-17",
+   "until": "2026-10-24",
+   "lastChecked": "2026-10-19",
+   "sourceLevel": "news",
+   "sources": ["https://www.thehindu.com/news/national/air-india-and-ai-express-cancel-saudi-arabia-flights-till-oct-24/article71595997.ece", "https://www.deccanherald.com/india/air-india-ai-express-cancel-saudi-arabia-flights-till-oct-24-4186271"]
+  },
+  {
+   "id": "saudi-arabia-embassy-advisory",
+   "country": "Saudi Arabia",
+   "type": "advisory",
+   "severity": "high",
+   "title": "Indian Embassy in Riyadh safety advisory",
+   "summary": "The Indian Embassy in Riyadh asked Indians in Saudi Arabia to take precautions against possible aerial attacks, stay indoors during attacks and follow local authorities. Travellers, including Umrah pilgrims, should expect airport disruption and cancelled flights that could extend a stay. Saudi authorities have said visitors who overstay because no flights are available can leave without fines.",
+   "since": "2026-10-13",
+   "until": "",
+   "lastChecked": "2026-10-19",
+   "sourceLevel": "news",
+   "sources": ["https://www.indiatoday.in/world/story/saudi-arabia-safety-advisory-india-warns-nationals-houthi-strikes-ptag-3020353-2026-10-18", "https://www.aninews.in/news/world/middle-east/indian-embassy-advises-its-citizens-in-saudi-arabia-to-stay-indoors-amid-security-crisis20261013193434/"]
+  }
+ ]
+}

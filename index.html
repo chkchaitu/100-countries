@@ -88,6 +88,9 @@ table{width:100%;border-collapse:collapse;font-size:14px}th,td{padding:8px;borde
 .rec{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px}
 .rec .card b{font-family:Georgia,serif;font-size:26px;color:var(--acc);display:block}
 footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(--line)}
+.alertbar{display:none;background:#3a1418;border-bottom:1px solid #8a2a32;color:#ffd0d4;font-size:13px;text-align:center;padding:7px 12px}.alertbar a{color:#fff;font-weight:600}
+.alert{background:#2a1218;border:1px solid #7a2a34;border-left:4px solid var(--bad);border-radius:12px;padding:12px 14px;margin:10px 0;font-size:14px}.alert h4{margin:0 0 4px;font-size:15px}.alert .meta{color:var(--mute);font-size:12px}
+.alert.mid{border-left-color:var(--warn)}.abadge{display:inline-block;font-size:11px;border-radius:6px;padding:2px 7px;margin:2px 3px 2px 0;background:rgba(255,107,107,.18);color:#ffb3b8;border:1px solid rgba(255,107,107,.5)}
 .note{background:#241c10;border:1px solid #5a4318;color:#f5d596;border-radius:12px;padding:10px 14px;font-size:13px;margin:12px 0}
 .modal{position:fixed;inset:0;background:rgba(5,8,20,.78);display:none;z-index:60;overflow:auto;padding:22px 12px}.modal.on{display:block}
 .sheet{max-width:860px;margin:0 auto;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:22px;position:relative}
@@ -118,6 +121,7 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
 </style></head><body>
 <nav><div class="wrap"><b>World Atlas</b><a href="#trips">Trips</a><a href="#planner">Plan builder</a><a href="#visa">Visa checker</a><a href="#finder">Experiences</a><a href="#months">Best months</a><a href="#records">Records</a><a href="#tracker">My progress</a><input class="navsearch" id="navSearch" list="countryList" type="text" placeholder="Find any country"><datalist id="countryList"></datalist></div></nav>
 
+<div class="alertbar" id="alertBar"></div>
 <header class="wrap hero">
  <div>
   <span class="pill in"><img class="flag" src="https://flagcdn.com/w40/in.png" srcset="https://flagcdn.com/w80/in.png 2x" alt="India flag">Built for Indian passport holders</span>
@@ -128,6 +132,11 @@ footer{padding:36px 0;color:var(--mute);font-size:13px;border-top:1px solid var(
  </div>
  <div id="globeBox"><canvas id="globe" width="1100" height="1100"></canvas><div class="globeTip">Drag to spin. Tap a trip below to fly there.</div></div>
 </header>
+
+<section id="alerts" style="display:none"><div class="wrap">
+ <h2>Travel alerts</h2><p class="sub" id="alertSub">Active restrictions that affect an Indian passport holder. They stay here until they are lifted.</p>
+ <div id="alertList"></div>
+</div></section>
 
 <section id="trips"><div class="wrap">
  <h2>Pick a trip</h2><p class="sub">Each trip is built around cheap start cities, overland hops and one day per country where that is enough.</p>
@@ -213,6 +222,17 @@ const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;',
 const host=u=>{try{return new URL(u).hostname.replace(/^www\./,'')}catch(e){return u}};
 const SUGGEST={form:'https://docs.google.com/forms/d/e/1FAIpQLSdo2_lS1AdHSOOhL3TIneZcpUytRuCJ_xQ-eUGA7bj55UkG_Q/viewform',countryEntry:'entry.203921257'};// form = public Google Form link; countryEntry = the entry.NNN id used to prefill the country
 const suggestUrl=(n)=>{if(!SUGGEST.form)return'';let u=SUGGEST.form+(SUGGEST.form.includes('?')?'&':'?')+'usp=pp_url';if(n&&SUGGEST.countryEntry)u+='&'+SUGGEST.countryEntry+'='+encodeURIComponent(n);return u};
+let ALERTS=[];
+const alertsFor=list=>{const s=list?new Set(list):null;return ALERTS.filter(a=>!s||s.has(a.country))};
+const alertHtml=a=>`<div class="alert ${a.severity==='high'?'':'mid'}"><h4>${esc(a.country)}: ${esc(a.title)}</h4><p style="margin:0 0 6px">${esc(a.summary)}</p><p class="meta">Since ${esc(a.since)}${a.until?' · expected until '+esc(a.until):' · until lifted'} · checked ${esc(a.lastChecked)} · ${a.sourceLevel==='official'?'official page read':'reported by news, official page not read yet'} · ${srcLinks(a.sources)}</p></div>`;
+const alertBadge=list=>{const n=alertsFor(list).length;return n?`<span class="abadge">&#9888; ${n} travel alert${n>1?'s':''}</span>`:''};
+let alertScope=null,alertLabel='';
+function renderAlerts(list,label){alertScope=list||null;alertLabel=label||'';const sec=document.getElementById('alerts');if(!sec)return;const all=ALERTS,sh=alertsFor(alertScope);
+ sec.style.display=all.length?'':'none';
+ document.getElementById('alertSub').innerHTML=alertScope?`Showing alerts for ${esc(alertLabel)}. <a href="#alerts" id="alertAll">Show all ${all.length} active alerts</a>`:'Active restrictions that affect an Indian passport holder. They stay here until they are lifted. Pick a trip or tick trips in the plan builder to see only the countries on your route.';
+ document.getElementById('alertList').innerHTML=sh.length?sh.map(alertHtml).join(''):`<p class="meta">No active alerts for ${esc(alertLabel||'these countries')}. Always check the MEA and the Indian embassy before you fly.</p>`;
+ const b=document.getElementById('alertAll');if(b)b.onclick=e=>{e.preventDefault();renderAlerts(null,'')};
+ const bar=document.getElementById('alertBar');if(all.length){const cs=[...new Set(all.map(a=>a.country))];bar.style.display='block';bar.innerHTML=`&#9888; ${all.length} active travel alert${all.length>1?'s':''}: ${esc(cs.slice(0,4).join(', '))}${cs.length>4?' and more':''}. <a href="#alerts" id="alertJump">See details</a>`;document.getElementById('alertJump').onclick=()=>renderAlerts(null,'')}else bar.style.display='none'}
 const srcLinks=a=>(a&&a.length)?a.map(u=>`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))}</a>`).join(' · '):'no source link yet';
 let openCountryFn=null,PROFILES={},TRIPS=[],EXP=[],REC=[],V={},LEV={US:[],SC:[],UK:[],CA:[],AU:[],NZ:[],JP:[],KR:[]},LEVTXT={},VREC={},CITIES={},ALLC=[],DATAINFO={};
 const MN=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
@@ -247,10 +267,10 @@ function fly(t){target=[-t.lon,t.lat*.8]}
 loop();
 async function loadJSON(p){const r=await fetch(p,{cache:'no-cache'});if(!r.ok)throw new Error(p+' '+r.status);return r.json()}
 async function boot(){
- let T,X,R,Vi,Cp,Tr,Ap,Hl,Hg,Tx;
- try{[T,X,R,Vi,Cp,Tr,Ap,Hl,Hg,Tx]=await Promise.all([loadJSON('data/trips.json'),loadJSON('data/experiences.json'),loadJSON('data/records.json'),loadJSON('data/visa.json'),loadJSON('data/countries.json'),loadJSON('data/territories.json').catch(()=>[]),loadJSON('data/apply.json').catch(()=>[]),loadJSON('data/health.json').catch(()=>[]),loadJSON('data/health-global.json').catch(()=>({})),loadJSON('data/transit.json').catch(()=>[])])}
+ let T,X,R,Vi,Cp,Tr,Ap,Hl,Hg,Tx,Al;
+ try{[T,X,R,Vi,Cp,Tr,Ap,Hl,Hg,Tx,Al]=await Promise.all([loadJSON('data/trips.json'),loadJSON('data/experiences.json'),loadJSON('data/records.json'),loadJSON('data/visa.json'),loadJSON('data/countries.json'),loadJSON('data/territories.json').catch(()=>[]),loadJSON('data/apply.json').catch(()=>[]),loadJSON('data/health.json').catch(()=>[]),loadJSON('data/health-global.json').catch(()=>({})),loadJSON('data/transit.json').catch(()=>[]),loadJSON('data/alerts.json').catch(()=>({alerts:[]}))])}
  catch(err){document.querySelector('header .lead').insertAdjacentHTML('afterend','<div class="note">Could not load the data files ('+esc(err.message)+'). Open this page from its web address, not as a local file.</div>');return}
- DATAINFO={trips:T,exp:X,rec:R,visa:Vi};const APPLY={};Ap.forEach(a=>{APPLY[a.country]=a});const HEALTH={};Hl.forEach(a=>{HEALTH[a.country]=a});const TRANSIT={};Tx.forEach(a=>{TRANSIT[a.country]=a});Cp.forEach(c=>{PROFILES[c.country]=c});Tr.forEach(t=>{PROFILES[t.country]=t;VREC[t.country]=Object.assign({country:t.country},t.visa)});
+ ALERTS=(Al&&Al.alerts)||[];DATAINFO={trips:T,exp:X,rec:R,visa:Vi};const APPLY={};Ap.forEach(a=>{APPLY[a.country]=a});const HEALTH={};Hl.forEach(a=>{HEALTH[a.country]=a});const TRANSIT={};Tx.forEach(a=>{TRANSIT[a.country]=a});Cp.forEach(c=>{PROFILES[c.country]=c});Tr.forEach(t=>{PROFILES[t.country]=t;VREC[t.country]=Object.assign({country:t.country},t.visa)});
  TRIPS=T.trips.map(t=>({c:t.code,n:t.name,d:t.days,lo:t.budgetLakh.low,hi:t.budgetLakh.high,lat:t.lat,lon:t.lon,m:t.bestMonths,tags:t.tags,ctry:t.countries,note:t.note,checked:t.lastChecked,src:t.sources}));
  EXP=X.items.map(e=>({n:e.name,t:e.type,p:e.priceInr,place:e.place,trip:e.trip,checked:e.lastChecked,src:e.sources}));
  REC=R.items.map(r=>[r.value,r.text,r.lastChecked,r.sources]);
@@ -267,9 +287,9 @@ async function boot(){
  let tripTag='All';const tagSet=['All',...new Set(TRIPS.flatMap(t=>t.tags))];
  document.getElementById('tripFilter').innerHTML=tagSet.map(t=>`<span class="chip${t==='All'?' on':''}" data-t="${t}">${t}</span>`).join('');
  document.getElementById('tripFilter').onclick=e=>{if(!e.target.dataset.t)return;tripTag=e.target.dataset.t;[...e.currentTarget.children].forEach(c=>c.classList.toggle('on',c.dataset.t===tripTag));renderTrips()};
- function renderTrips(){document.getElementById('tripGrid').innerHTML=TRIPS.filter(t=>tripTag==='All'||t.tags.includes(tripTag)).map(t=>`<div class="card" data-c="${t.c}"><span class="meta">Trip ${t.c} · ${t.d} days</span><h3>${t.n}</h3><div>${t.ctry.slice(0,6).map(c=>`<span class="tag">${c}</span>`).join('')}${t.ctry.length>6?`<span class="tag">+${t.ctry.length-6}</span>`:''}</div><div class="bar"><i style="width:${Math.min(100,t.hi/7.5*100)}%"></i></div><div class="meta">₹${fmt(t.lo)} to ${fmt(t.hi)} lakh · best ${t.m.slice(0,4).map(m=>MN[m-1]).join(', ')}</div><p class="meta">${t.note}</p><p class="meta" style="font-size:11px">Checked ${t.checked}${(t.src&&t.src.length)?' · '+srcLinks(t.src):''}</p></div>`).join('');
-  document.querySelectorAll('#tripGrid .card').forEach(el=>el.onclick=()=>{const t=TRIPS.find(x=>x.c===el.dataset.c);hl=new Set(t.ctry);colorMode=null;fly(t);window.scrollTo({top:0,behavior:'smooth'})})}
- renderTrips();
+ function renderTrips(){document.getElementById('tripGrid').innerHTML=TRIPS.filter(t=>tripTag==='All'||t.tags.includes(tripTag)).map(t=>`<div class="card" data-c="${t.c}"><span class="meta">Trip ${t.c} · ${t.d} days</span><h3>${t.n}</h3>${alertBadge(t.ctry)}<div>${t.ctry.slice(0,6).map(c=>`<span class="tag">${c}</span>`).join('')}${t.ctry.length>6?`<span class="tag">+${t.ctry.length-6}</span>`:''}</div><div class="bar"><i style="width:${Math.min(100,t.hi/7.5*100)}%"></i></div><div class="meta">₹${fmt(t.lo)} to ${fmt(t.hi)} lakh · best ${t.m.slice(0,4).map(m=>MN[m-1]).join(', ')}</div><p class="meta">${t.note}</p><p class="meta" style="font-size:11px">Checked ${t.checked}${(t.src&&t.src.length)?' · '+srcLinks(t.src):''}</p></div>`).join('');
+  document.querySelectorAll('#tripGrid .card').forEach(el=>el.onclick=()=>{const t=TRIPS.find(x=>x.c===el.dataset.c);hl=new Set(t.ctry);colorMode=null;renderAlerts(t.ctry,'Trip '+t.c+': '+t.n);fly(t);window.scrollTo({top:0,behavior:'smooth'})})}
+ renderTrips();renderAlerts(null,'');
  // ---------- planner
  const sel=new Set();document.getElementById('planList').innerHTML=TRIPS.map(t=>`<label class="ck"><input type="checkbox" data-c="${t.c}"> ${t.c}. ${t.n}<small>${t.d}d · ₹${fmt(t.lo)}-${fmt(t.hi)}L</small></label>`).join('');
  const refreshPlan=()=>{const ts=TRIPS.filter(t=>sel.has(t.c));hl=new Set(ts.flatMap(t=>t.ctry));colorMode=null;
@@ -277,8 +297,8 @@ async function boot(){
   document.getElementById('pbN').textContent=n;document.getElementById('pbD').textContent=d;document.getElementById('pbC').textContent=ts.length?'₹'+fmt(lo)+' to '+fmt(hi)+' lakh':'₹0';
   document.getElementById('planBar').style.width=Math.min(100,n)+'%';
   document.getElementById('planHint').textContent=ts.length?`${ts.length} trip${ts.length>1?'s':''} picked. You add ${n} countries. Tick the ones you have visited in My progress to see how many remain to reach 100.`:'Tick trips below to build your plan.';return ts};
- document.getElementById('planList').onchange=e=>{const c=e.target.dataset.c;if(!c)return;e.target.checked?sel.add(c):sel.delete(c);const ts=refreshPlan();if(ts.length)fly(ts[ts.length-1])};
- document.getElementById('planClear').onclick=()=>{sel.clear();document.querySelectorAll('#planList input[type=checkbox]').forEach(i=>i.checked=false);refreshPlan()};
+ document.getElementById('planList').onchange=e=>{const c=e.target.dataset.c;if(!c)return;e.target.checked?sel.add(c):sel.delete(c);const ts=refreshPlan();if(ts.length)fly(ts[ts.length-1]);if(ts.length)renderAlerts([...new Set(ts.flatMap(t=>t.ctry))],ts.length+' selected trip'+(ts.length>1?'s':''));else renderAlerts(null,'')};
+ document.getElementById('planClear').onclick=()=>{sel.clear();document.querySelectorAll('#planList input[type=checkbox]').forEach(i=>i.checked=false);refreshPlan();renderAlerts(null,'')};
  refreshPlan();
  // ---------- visa checker
  const COL={f:'#5ee08a',e:'#ffd166',r:'#ff6b6b',c:'#7e93d6',l:'#37d6c4'};
@@ -384,6 +404,7 @@ async function boot(){
   if(!p&&!v){box.innerHTML=`<h2>${esc(n)}</h2><p class="meta">${esc(n)} is a territory or disputed area, not one of the 195 countries in the atlas.</p>`}else{
   const mo=(p&&p.bestMonths)||[];const els=[];
   els.push(`<h2>${flagImg(p)}${esc(n)}${p&&p.currency?`<span class="cur">${p.currency.symbol?`<b class="sym">${esc(p.currency.symbol)}</b> `:''}${esc(p.currency.name)} (${esc(p.currency.code)})</span>`:''}</h2><p class="meta">${esc((p&&p.region)||'')}${p&&p.capital?' · capital '+esc(p.capital):''}${tr?` · <a href="#trips" data-trip="${esc(tr.c)}">Trip ${esc(tr.c)}: ${esc(tr.n)}</a>`:(p&&p.trip==='H'?' · visited hub':(p&&p.trip==='X'?' · added on request, thin profile':''))}</p>`);
+  {const al=alertsFor([n]);if(al.length)els.push(`<h3>Travel alerts</h3>${al.map(alertHtml).join('')}`)}
   if(suggestUrl(n))els.push(`<p style="margin:4px 0 8px"><a class="sugg" href="${esc(suggestUrl(n))}" target="_blank" rel="noopener" style="margin-top:0">&#9998; Suggest an edit for ${esc(n)}</a></p>`);
   if(v)els.push(`<h3>Visa for an Indian passport</h3><p><span class="tag">${esc(CATL[v.category]||'')}</span><span class="tag">${esc(v.status)}</span></p><p>${esc(v.rule)}</p>${v.easedBy&&v.easedBy.length?`<p class="meta">Eased by: ${v.easedBy.map(k=>esc((DATAINFO.visa.visaKeys||{})[k]||k)).join(', ')}.</p>`:''}<p class="meta" style="font-size:12px">Checked ${esc(v.lastChecked)} · ${srcLinks(v.sources)}<br>${esc(v.note||'')}</p>`);
   els.push(applyHtml(n,v));
