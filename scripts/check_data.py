@@ -60,6 +60,29 @@ if os.path.exists('data/transit.json'):
         if not a.get('lastChecked'):err.append(f'transit: {c} missing lastChecked')
         if a.get('confidence') not in('official','partial','thin'):err.append(f'transit: {c} bad confidence')
         if _re.search('[\u2014\u2013]',json.dumps(a,ensure_ascii=False)):err.append(f'transit: {c} has em or en dash')
+
+# alerts.json: active travel alerts
+if os.path.exists('data/alerts.json'):
+    al=L('data/alerts.json')
+    ids=set()
+    for a in al.get('alerts',[]):
+        k=a.get('id','?')
+        if k in ids:err.append(f'alerts: duplicate id {k}')
+        ids.add(k)
+        if a.get('country') not in pr:err.append(f'alerts: {k} country not in countries.json')
+        if a.get('type') not in('flights','advisory','entry','closure','other'):err.append(f'alerts: {k} bad type')
+        if a.get('severity') not in('high','medium'):err.append(f'alerts: {k} bad severity')
+        if a.get('sourceLevel') not in('official','news'):err.append(f'alerts: {k} bad sourceLevel')
+        for f in('title','summary','since','lastChecked'):
+            if not a.get(f):err.append(f'alerts: {k} missing {f}')
+        for f in('since','until','lastChecked'):
+            if a.get(f):
+                try:datetime.date.fromisoformat(a[f])
+                except Exception:err.append(f'alerts: {k} bad {f}')
+        if not a.get('sources'):err.append(f'alerts: {k} no source')
+        if _re.search('[\u2014\u2013]',json.dumps(a,ensure_ascii=False)):err.append(f'alerts: {k} has em or en dash')
+        if a.get('until') and datetime.date.fromisoformat(a['until'])<TODAY:warn.append(f'alerts: {k} expected end date has passed, confirm if lifted')
+
 # stale (visa rules go stale after 45 days, profiles after 180)
 stale=[]
 for c,r in vr.items():
