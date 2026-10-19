@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 """Fast daily scan: broad Google News queries (not per country), keep items that mention an atlas country,
-India or Indians, and a rule-change word. Dedupes with a state file outside the repo. Prints JSON."""
+India or Indians, and a rule-change or alert word (advisory, flight suspension, closure). Dedupes with a state file outside the repo. Prints JSON."""
 import json,re,html,os,sys,urllib.request,urllib.parse
 ST=os.path.expanduser('~/build/100-countries/news-seen.json')
 names=[p['country'] for p in json.load(open('data/countries.json',encoding='utf-8'))]
 alias={'United States of America':'United States|USA|US ','United Arab Emirates':'UAE|Dubai|Abu Dhabi'}
 pat={n:re.compile(r'\b(?:'+alias.get(n,re.escape(n))+r')\b',re.I) for n in names}
-QS=['airport transit visa Indians','transit visa India passport layover rule','yellow fever certificate required Indian travellers','vaccination certificate entry requirement Indians','polio vaccine certificate travellers India','new e-visa portal launched Indians','visa application centre India VFS BLS change','Indian citizens visa-free entry','Indian passport holders new visa rule','visa on arrival Indians','e-visa for Indian nationals','Indian travellers entry requirement change','visa fee hike Indian tourists','suspends visa Indians','arrival card Indian travellers']
-CH=re.compile(r'transit|layover|yellow fever|vaccin|certificate|quarantine|outbreak|portal|application cent|visa[- ]free|free visa|e-?visa|visa on arrival|arrival card|visa fee|suspend|scrap|introduc|mandatory|new rule|ban|ends?|extend|waiv|resume|stop',re.I)
+QS=['airport transit visa Indians','transit visa India passport layover rule','yellow fever certificate required Indian travellers','vaccination certificate entry requirement Indians','polio vaccine certificate travellers India','new e-visa portal launched Indians','visa application centre India VFS BLS change','Indian citizens visa-free entry','Indian passport holders new visa rule','visa on arrival Indians','e-visa for Indian nationals','Indian travellers entry requirement change','visa fee hike Indian tourists','suspends visa Indians','arrival card Indian travellers','Indian embassy advisory travellers safety','MEA travel advisory Indians avoid travel','Air India flights suspended cancelled until','Air India Express suspends flights','airspace closed flights India cancelled','border closed Indian tourists stranded']
+CH=re.compile(r'transit|layover|yellow fever|vaccin|certificate|quarantine|outbreak|portal|application cent|visa[- ]free|free visa|e-?visa|visa on arrival|arrival card|visa fee|suspend|scrap|introduc|mandatory|new rule|ban|ends?|extend|waiv|resume|stop|advisory|cancel|airspace|clos(?:ed|ure)|evacuat|conflict|tension|attack|strike|unrest|protest|curfew|stranded',re.I)
 BAD=re.compile(r'work visa|student|study|PR\b|permanent|immigration pathway|green card|H-?1B|job|Y-Axis|golden',re.I)
 seen=set(json.load(open(ST))) if os.path.exists(ST) else set()
 new=[];keep=set(seen)
