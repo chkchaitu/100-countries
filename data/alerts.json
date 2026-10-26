@@ -7,13 +7,18 @@
    "country": "Saudi Arabia",
    "type": "flights",
    "severity": "high",
-   "title": "Air India and Air India Express flights suspended",
-   "summary": "Air India and Air India Express have suspended flights to Jeddah, Riyadh and Dammam until 24 October 2026 because of security concerns in West Asia. Passengers get a free date change. Check with the airline before booking.",
+   "title": "Air India, Air India Express and IndiGo flights to Saudi Arabia suspended",
+   "summary": "Air India and Air India Express have suspended flights to Riyadh and Dammam until 7 November 2026 and to Jeddah until 31 October 2026, citing the situation in the region. IndiGo has cancelled flights to Riyadh until 31 October 2026. Reports differ on IndiGo Jeddah, Dammam and Madinah: The Hindu says until 27 October, The Tribune says until 31 October. Check the airline before booking and expect dates to be extended again.",
    "since": "2026-10-17",
-   "until": "2026-10-24",
-   "lastChecked": "2026-10-19",
+   "until": "2026-11-07",
+   "lastChecked": "2026-10-26",
    "sourceLevel": "news",
-   "sources": ["https://www.thehindu.com/news/national/air-india-and-ai-express-cancel-saudi-arabia-flights-till-oct-24/article71595997.ece", "https://www.deccanherald.com/india/air-india-ai-express-cancel-saudi-arabia-flights-till-oct-24-4186271"]
+   "sources": [
+    "https://www.business-standard.com/industry/aviation/air-india-and-ai-express-cancel-riyadh-dammam-flights-till-nov-7-126102401155_1.html",
+    "https://www.moneycontrol.com/news/india/air-india-and-ai-express-cancel-riyadh-dammam-flights-till-november-7-14059357.html",
+    "https://www.thehindu.com/news/national/indigo-extends-cancellation-of-saudi-flights-as-regional-tensions-escalate-indian-mission/article71616665.ece",
+    "https://www.tribuneindia.com/news/world/indigo-extends-saudi-arabia-flight-cancellations-until-oct-31-indian-consulate-issues-detailed-advisory-for-pilgrims/"
+   ]
   },
   {
    "id": "saudi-arabia-embassy-advisory",
@@ -26,7 +31,10 @@
    "until": "",
    "lastChecked": "2026-10-19",
    "sourceLevel": "news",
-   "sources": ["https://www.indiatoday.in/world/story/saudi-arabia-safety-advisory-india-warns-nationals-houthi-strikes-ptag-3020353-2026-10-18", "https://www.aninews.in/news/world/middle-east/indian-embassy-advises-its-citizens-in-saudi-arabia-to-stay-indoors-amid-security-crisis20261013193434/"]
+   "sources": [
+    "https://www.indiatoday.in/world/story/saudi-arabia-safety-advisory-india-warns-nationals-houthi-strikes-ptag-3020353-2026-10-18",
+    "https://www.aninews.in/news/world/middle-east/indian-embassy-advises-its-citizens-in-saudi-arabia-to-stay-indoors-amid-security-crisis20261013193434/"
+   ]
   }
  ]
 }
