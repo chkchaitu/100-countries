@@ -1820,15 +1820,18 @@
    "name": "China",
    "trip": "AJ",
    "category": "visa_required",
-   "rule": "Visa required before travel for Indian ordinary passport holders. Apply for an L tourist visa through the Chinese Embassy and Consulates in India and their visa application service centres (online form first, then passport submission in person). Standard processing is about 4 working days. Reported embassy fee for Indians is INR 2,900 for single entry under a reduced fee scheme said to run to 31 December 2026 (an older list shows INR 3,900), plus a service centre fee; UNVERIFIED because the embassy pages were not readable. Passport validity: commonly 6 months, UNVERIFIED. India is not on China's 240 hour visa free transit list (55 countries, read on the Chinese consulate Chicago page), and no unilateral visa free entry for Indians was found. No US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visa waives or eases the Chinese visa for Indians.",
+   "rule": "Visa required before travel for Indian ordinary passport holders. From 26 October 2026 apply directly at the Chinese Embassy in New Delhi or the Consulate General in Mumbai (Maharashtra and Karnataka use Mumbai; Bihar, Jharkhand, Odisha, Chhattisgarh and West Bengal use the Embassy for now; others use the Embassy). Fill in the online form at consular.mfa.gov.cn/VISA first, then submit your passport and documents in person within 30 days of the approval email. Processing is 7 working days, or 4 with express service. Fee for Indian passport holders is Rs 2,900 for a single entry (Rs 4,400 double, Rs 5,900 six month multiple, Rs 8,800 for 12 months or more), paid when you collect the visa. Express adds Rs 1,800. Passport must be valid for more than 6 months with at least 2 blank visa pages. A tourist visa (L) needs bank statements showing a consistent average balance of at least INR 1 lakh. Fingerprints are waived until 31 December 2026 for stays up to 180 days. India is not on China's 240 hour visa free transit list (55 countries, read on the Chinese consulate Chicago page), and no unilateral visa free entry for Indians was found. No US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visa waives or eases the Chinese visa for Indians.",
    "easedBy": [],
-   "status": "probable",
+   "status": "confirmed",
    "sources": [
+    "https://mumbai.china-consulate.gov.cn/eng/lsyw/visa/",
+    "https://mumbai.china-consulate.gov.cn/eng/lsyw/IN/202610/t20261022_12044989.htm",
+    "https://consular.mfa.gov.cn/VISA/",
     "https://chicago.china-consulate.gov.cn/eng/lsfw/qzsq/202605/t20260506_11904889.htm",
     "https://in.china-embassy.gov.cn/eng/"
    ],
-   "lastChecked": "2026-10-16",
-   "note": "UNVERIFIED: exact current fee, passport validity and fingerprint rules (embassy page returned no content; fee figures come from agent sites). MEA lists China on its travel advisory index, content not read. Restricted areas such as Tibet need extra permits. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+   "lastChecked": "2026-10-27",
+   "note": "Application process, fees, processing time, passport validity, tourist visa funds proof and fingerprint rules read on the Consulate General of China in Mumbai notices of 22 October 2026. Restricted areas such as Tibet need extra permits. MEA lists China on its travel advisory index, content not read. Confirm on the official site before travel."
   },
   {
    "country": "Russia",
