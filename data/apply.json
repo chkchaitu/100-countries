@@ -551,81 +551,96 @@
  {
   "country": "China",
   "route": "mixed",
-  "summary": "Indian citizens apply for a tourist (L) visa through the Chinese Visa Application Service Center for India (visaforchina.cn, India site), which only handles ordinary passports. Fill in the online form, then submit documents and fingerprints at the centre. The official page recommends applying about three months before travel.",
+  "summary": "From 26 October 2026 Indian citizens apply for a Chinese visa directly at the Chinese Embassy in New Delhi or the Consulate General in Mumbai. Fill in the visa application form online at consular.mfa.gov.cn/VISA, upload the required documents and submit them for online review (no fee at this step). When the online review is approved you get an email. Within 30 days of that email, go to the embassy or consulate with your passport, the application form and the other documents, and have fingerprints taken if required. On the collection date on your pick-up slip, pay the fee and collect the visa. Where you live decides which office you use: Maharashtra and Karnataka go to Mumbai; Bihar, Jharkhand, Odisha, Chhattisgarh and West Bengal go to the Embassy in New Delhi for now; everywhere else goes to the Embassy in New Delhi.",
   "applyLinks": [
    {
-    "label": "Chinese Visa Application Service Center, India (country selector)",
-    "url": "https://www.visaforchina.cn/"
+    "label": "Chinese visa application form, online (Ministry of Foreign Affairs)",
+    "url": "https://consular.mfa.gov.cn/VISA/"
    },
    {
-    "label": "Chinese Visa Application Service Center, Delhi page (form entry)",
-    "url": "https://www.visaforchina.cn/DEL3_EN/"
+    "label": "Notice on Chinese Visa Application, 22 October 2026 (Consulate General in Mumbai)",
+    "url": "https://mumbai.china-consulate.gov.cn/eng/lsyw/visa/"
+   },
+   {
+    "label": "Notice on Schedule of Fees for Consular Service, 22 October 2026",
+    "url": "https://mumbai.china-consulate.gov.cn/eng/lsyw/IN/202610/t20261022_12044989.htm"
    },
    {
     "label": "Embassy of China in India",
     "url": "https://in.china-embassy.gov.cn/eng/"
    }
   ],
-  "formLinks": [],
+  "formLinks": [
+   {
+    "label": "Online visa application form (fill in and upload documents here first)",
+    "url": "https://consular.mfa.gov.cn/VISA/"
+   }
+  ],
   "documents": [
    {
     "item": "Passport",
-    "note": "Official page warns that under 6 months validity risks refusal or refused entry. Blank page count UNVERIFIED"
+    "note": "Valid for more than 6 months with at least 2 blank visa pages. Also give the passport information page (last page) and any previous passport issued in the past 5 years. If the name changed, give a certificate of name change from the relevant authority."
    },
    {
-    "item": "Online application form printout",
-    "note": "Filled in on the service centre site, then submitted with documents"
+    "item": "Visa application form",
+    "note": "Filled in online and uploaded. The phone number and email address in it must belong to the applicant. Uploaded documents must be clear and complete, and the passport photo must be free of reflection and not cropped or photographed from a screen."
    },
    {
-    "item": "Passport photo",
-    "note": "Exact rules UNVERIFIED on official page"
+    "item": "Two recent colour photos",
+    "note": "White background, no head covering, 48mm by 33mm, taken within the past 6 months."
    },
    {
-    "item": "Itinerary, hotel booking, return flight",
-    "note": "Typically requested for tourist visas, UNVERIFIED on official page"
+    "item": "Bank statements or deposit certificate (tourist visa L)",
+    "note": "Personal savings statements for the last 6 months with a consistent average monthly balance of at least INR 1 lakh, or a personal deposit certificate for a similar amount made at least 3 months before the application date, signed and stamped by the bank. A minor can use a parent or guardian account with a signed authorization letter."
    },
    {
-    "item": "Invitation letter",
-    "note": "Only sometimes required, UNVERIFIED"
+    "item": "Chinese visas from the past three years",
+    "note": "Include any you have."
    },
    {
-    "item": "Proof of employment or funds",
-    "note": "Sometimes requested, UNVERIFIED"
+    "item": "Under 18",
+    "note": "Birth certificate, the guardian's identity document and a signed letter of consent from the guardian."
+   },
+   {
+    "item": "Third party or travel agency",
+    "note": "The agency's qualification documents and the agent's identity document."
+   },
+   {
+    "item": "Other documents",
+    "note": "The consular officer may ask for more. Marriage and birth certificates must be notarized and authenticated."
    }
   ],
   "photo": {
-   "size": "UNVERIFIED",
-   "background": "UNVERIFIED",
-   "format": "UNVERIFIED",
-   "notes": "Photo rules page could not be opened on the official site",
-   "status": "unverified"
+   "size": "48mm x 33mm",
+   "background": "White",
+   "format": "Colour, no head covering, taken within the past 6 months",
+   "notes": "Official notice of 22 October 2026",
+   "status": "verified"
   },
-  "fee": "UNVERIFIED",
-  "processing": "UNVERIFIED",
-  "applyEarly": "Official page recommends applying three months before arriving in China (read 2026-10-16)",
-  "biometrics": "UNVERIFIED on official page; submission is at the service centre (the centre handles ordinary passport applications)",
-  "centres": "Selector lists India cities New Delhi, Mumbai and Kolkata",
+  "fee": "Indian passport holders: Rs 2,900 single entry, Rs 4,400 double entry, Rs 5,900 six months multiple entry, Rs 8,800 for 12 months or more multiple entry, Rs 1,800 each for a group visa. Express service costs Rs 1,800 extra. The fee is paid at the embassy or consulate when you collect the visa.",
+  "processing": "Regular 7 working days, express 4 working days, counted from the day after the passport is submitted.",
+  "applyEarly": "The earlier official guidance (read 2026-10-16) recommended applying about three months before travel. The 22 October 2026 notice does not repeat this.",
+  "biometrics": "Fingerprints are waived until 31 December 2026 for short-term visas with a stay of up to 180 days. They are taken in principle for stays over 180 days and for multiple entry visas. Also waived for people under 14 or over 70, and for people who gave fingerprints on a visa application with the same passport at the same Chinese mission within 5 years.",
+  "centres": "Chinese Embassy in India, Gate No. 4, Nyaya Marg, Chanakyapuri, New Delhi 110021 (Monday to Friday, applications 9:00 a.m. to 12:00 p.m., collection 3:00 p.m. to 5:30 p.m.). Chinese Consulate General in Mumbai, 10th Floor, Nariman Bhavan, Nariman Point, Mumbai 400021 (Monday to Friday, applications 2:30 p.m. to 5:30 p.m., collection 10:00 a.m. to 12:30 p.m.).",
   "warnings": [
-   "Passport with under 6 months validity risks refusal or refused entry (official notice).",
-   "Use only visaforchina.cn and the embassy site; agents add their own fees.",
-   "The centre only handles ordinary passports.",
-   "Fee, photo and checklist pages were not readable, so confirm on the site before paying."
+   "Use consular.mfa.gov.cn and the embassy or consulate sites. Older pages and agents may still describe the earlier visa application centre process; the notice of 22 October 2026 says it prevails over earlier information.",
+   "A tourist visa (L) needs bank proof of a consistent average monthly balance of at least INR 1 lakh, so prepare statements early.",
+   "Submit within 30 days of the approval email, or the online review may lapse (the notice gives the 30 day window but not what happens after).",
+   "A visa is a separate matter from the 240 hour transit rule, which does not cover Indians (see the transit entry)."
   ],
   "unverified": [
-   "Fee",
-   "Processing time",
-   "Photo specification",
-   "Full document checklist",
-   "Biometrics rules",
-   "Whether visa-free or other facilitation currently applies to Indian citizens"
+   "Whether the earlier visa application centres still accept any applications (this notice does not mention them)",
+   "How fees may be paid at the counter (the notice does not say)",
+   "Whether a hotel booking, itinerary or flight proof is required for a tourist visa (not in the notice)"
   ],
   "sources": [
-   "https://www.visaforchina.cn/",
-   "https://www.visaforchina.cn/DEL3_EN/",
+   "https://mumbai.china-consulate.gov.cn/eng/lsyw/visa/",
+   "https://mumbai.china-consulate.gov.cn/eng/lsyw/IN/202610/t20261022_12044989.htm",
+   "https://consular.mfa.gov.cn/VISA/",
    "https://in.china-embassy.gov.cn/eng/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin"
+  "lastChecked": "2026-10-27",
+  "confidence": "official"
  },
  {
   "country": "United Arab Emirates",
