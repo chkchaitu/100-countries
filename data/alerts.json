@@ -35,6 +35,22 @@
     "https://www.indiatoday.in/world/story/saudi-arabia-safety-advisory-india-warns-nationals-houthi-strikes-ptag-3020353-2026-10-18",
     "https://www.aninews.in/news/world/middle-east/indian-embassy-advises-its-citizens-in-saudi-arabia-to-stay-indoors-amid-security-crisis20261013193434/"
    ]
+  },
+  {
+   "id": "china-visa-process-change",
+   "country": "China",
+   "type": "other",
+   "severity": "medium",
+   "title": "China visa applications now go to the embassy or consulate, from 26 October 2026",
+   "summary": "The Chinese Embassy in New Delhi and the Consulate General in Mumbai now take visa applications directly. Apply online first at consular.mfa.gov.cn/VISA, then submit your passport and documents in person within 30 days of the approval email. Residents of Maharashtra and Karnataka apply through Mumbai. Residents of Bihar, Jharkhand, Odisha, Chhattisgarh and West Bengal apply through the Embassy in New Delhi for now. Everyone else applies through the Embassy in New Delhi. Fingerprints are waived until 31 December 2026 for short-term visas of up to 180 days. Processing takes 7 working days, or 4 with express service. Fees for Indian passport holders start at Rs 2,900 for a single entry. Fees are paid when you collect the visa.",
+   "since": "2026-10-26",
+   "until": "",
+   "lastChecked": "2026-10-27",
+   "sourceLevel": "official",
+   "sources": [
+    "https://mumbai.china-consulate.gov.cn/eng/lsyw/visa/",
+    "https://mumbai.china-consulate.gov.cn/eng/lsyw/IN/202610/t20261022_12044989.htm"
+   ]
   }
  ]
 }
