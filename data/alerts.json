@@ -51,6 +51,22 @@
     "https://mumbai.china-consulate.gov.cn/eng/lsyw/visa/",
     "https://mumbai.china-consulate.gov.cn/eng/lsyw/IN/202610/t20261022_12044989.htm"
    ]
+  },
+  {
+   "id": "australia-biometrics-expansion",
+   "country": "Australia",
+   "type": "other",
+   "severity": "medium",
+   "title": "Australian visa applicants in India may need to give biometrics, from 26 October 2026",
+   "summary": "From 26 October 2026, applicants for an Australian visa in India may be required to provide biometrics, including fingerprints and a facial image. Australia is expanding this to nearly 60 countries, including India. The Department of Home Affairs will tell you if you must provide biometrics and how to do it. Depending on your case, you may be asked to attend an Australian Biometrics Collection Centre in person, or to provide biometrics digitally through the Australian Immi App. If you gave biometrics at a centre before and hold a valid passport, you may be able to use the app at no cost. It applies only to new applications lodged from 26 October 2026 and does not affect applications already submitted. Processing times are not expected to change if you complete the biometrics promptly.",
+   "since": "2026-10-26",
+   "until": "",
+   "lastChecked": "2026-10-27",
+   "sourceLevel": "official",
+   "sources": [
+    "https://india.highcommission.gov.au/ndli/vm_Biometric_collection_requirements_for_Australia_visa_applicants_in_India.html",
+    "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/biometrics"
+   ]
   }
  ]
 }
