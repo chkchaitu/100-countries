@@ -2181,7 +2181,7 @@
    "name": "Algeria",
    "trip": "AA",
    "category": "visa_required",
-   "rule": "Visa required before travel, issued by the Embassy of Algeria in New Delhi (B 6 Anand Niketan; visa section; VFS Global also lists Algeria for India). The embassy page lists fees for Indian nationals: tourist visa (30 days) INR 2,800 and multiple entry visa (90 days) INR 5,550, with other categories higher; payment in INR by bank cheque. Requirements per the Algerian foreign ministry: two application forms, passport valid at least 6 months, photocopy, two photos, travel insurance with repatriation cover, and for tourists a legalised accommodation certificate, hotel booking, or a travel agency certificate. Organised tours via agencies: visa within 48 hours of a complete file. Yellow fever certificate is only required when arriving from an endemic country (general rule, UNVERIFIED on official page). No Algeria visa waiver or easing exists for holders of US/UK/Schengen/Canada/Australia/NZ/Japan/Korea visas.",
+   "rule": "Visa required before travel, issued by the Embassy of Algeria in New Delhi (B 6 Anand Niketan; visa section; VFS Global also lists Algeria for India). The embassy page lists fees for Indian nationals: single entry visa (30 days) INR 8,100 and 90 day visa INR 9,700, with other categories higher; payment in INR by bank cheque. Requirements per the Algerian foreign ministry: two application forms, passport valid at least 6 months, photocopy, two photos, travel insurance with repatriation cover, and for tourists a legalised accommodation certificate, hotel booking, or a travel agency certificate. Organised tours via agencies: visa within 48 hours of a complete file. Yellow fever certificate is only required when arriving from an endemic country (general rule, UNVERIFIED on official page). No Algeria visa waiver or easing exists for holders of US/UK/Schengen/Canada/Australia/NZ/Japan/Korea visas.",
    "easedBy": [],
    "status": "confirmed",
    "sources": [
@@ -2189,7 +2189,7 @@
     "https://www.mfa.gov.dz/services-for-foreigners/entry-visa-to-algeria",
     "https://visa.vfsglobal.com/ind/en/dza/visa-type"
    ],
-   "lastChecked": "2026-10-16",
+   "lastChecked": "2026-11-01",
    "note": "Tourist visa processing time and the exact tourist visa checklist not verified; MEA advisory and Sahara restricted zones not checked beyond general knowledge. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
   },
   {

@@ -250,7 +250,7 @@
  {
   "country": "Australia",
   "route": "online",
-  "summary": "Apply online for the Visitor visa (subclass 600), Tourist stream (apply overseas), through an ImmiAccount on the Department of Home Affairs site. Upload scanned colour documents and pay the fee online. If the Department asks for biometrics, book an appointment at a VFS Global biometrics centre in India (or use the Australian Immi App if eligible), and do health checks only if asked.",
+  "summary": "Apply online for the Visitor visa (subclass 600), Tourist stream (apply overseas), through an ImmiAccount on the Department of Home Affairs site. Upload scanned colour documents and pay the fee online. From 26 October 2026, new applications lodged in India may need biometrics (fingerprints and a facial image). The Department will tell you if you must give them, either at an Australian Biometrics Collection Centre or through the Australian Immi App. Do health checks only if asked.",
   "applyLinks": [
    {
     "label": "Visitor visa 600 Tourist stream (apply overseas), Home Affairs",
@@ -322,11 +322,12 @@
   "fee": "UNVERIFIED. The official pricing page loads the amount by script. Secondary sites report AUD 250 base charge for offshore Tourist stream from 1 July 2026, but this was not confirmed on an official page. Biometrics centres also charge a service fee.",
   "processing": "UNVERIFIED. The Department says to use its visa processing time guide tool, which shows recently decided applications and is a guide only.",
   "applyEarly": "UNVERIFIED. Apply well before travel and do not book flights until the visa is granted in writing.",
-  "biometrics": "Only if the Department asks. It will say whether you attend an Australian Biometrics Collection Centre (VFS Global operates them) by appointment, or can use the Australian Immi App. Bring your passport. The biometrics centre charges a service fee. Which Indian city centres offer this: UNVERIFIED.",
+  "biometrics": "From 26 October 2026, applicants in India may be required to give fingerprints and a facial image. The Department of Home Affairs will tell you if you must, and how. Depending on your case you may be asked to attend an Australian Biometrics Collection Centre in person, or to give biometrics digitally through the Australian Immi App. If you gave biometrics at a centre before and hold a valid passport, you may be able to use the app at no cost. This applies only to new applications lodged from 26 October 2026, not to applications already submitted. Processing times are not expected to change if you complete the biometrics promptly. Which Indian cities have centres and the service fee: UNVERIFIED.",
   "centres": "UNVERIFIED on an official page. Secondary sources mention VFS biometrics centres in major cities such as Delhi, Mumbai, Bengaluru, Chennai, Hyderabad, Kolkata.",
   "warnings": [
    "You must be outside Australia when the visa is decided, and must not travel until you get the grant in writing.",
    "Each family member, including children on your passport, needs a separate application.",
+   "New applications lodged from 26 October 2026 may require biometrics (fingerprints and a facial image). Complete them promptly after the Department asks, as delays can slow your application.",
    "Refusals mostly come from weak proof of funds or of ties to India (genuine visitor requirement); give as much evidence as possible.",
    "Only a registered migration agent, legal practitioner or exempt person can give immigration assistance; use the official ImmiAccount, not lookalike sites."
   ],
@@ -340,9 +341,10 @@
   "sources": [
    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/visitor-600/tourist-stream-overseas",
    "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/biometrics",
-   "https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges/current-visa-pricing"
+   "https://immi.homeaffairs.gov.au/visas/getting-a-visa/fees-and-charges/current-visa-pricing",
+   "https://india.highcommission.gov.au/ndli/vm_Biometric_collection_requirements_for_Australia_visa_applicants_in_India.html"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "partial"
  },
  {
@@ -1574,7 +1576,7 @@
   },
   "fee": "UNVERIFIED. The embassy says consular fees are paid in INR at the current exchange rate and points to the VFS Fees section; the amount was not read.",
   "processing": "Up to 15 calendar days after receipt, can extend to 45 calendar days in individual cases (embassy checklist).",
-  "applyEarly": "No earlier than 6 months and no later than 15 days before departure (embassy page). Book early because VFS appointments can be scarce.",
+  "applyEarly": "No earlier than 6 months and no later than 15 days before departure (Austrian Embassy New Delhi). The embassy warns of longer waits for appointments and processing because of high demand, so apply as early as possible.",
   "biometrics": "Yes, in person at a VFS centre: ten fingerprints and a photo, unless fingerprints were taken within the last 59 months. Children under 12 are exempt.",
   "centres": "VFS centres across India; see the VFS attend-centre page for the current list (not itemised here).",
   "warnings": [
@@ -1593,9 +1595,10 @@
   "sources": [
    "https://www.bmeia.gv.at/en/austrian-embassy-new-delhi/travels-to-austria/entry-and-residence/how-to-apply",
    "https://www.bmeia.gv.at/en/austrian-embassy-new-delhi",
-   "https://www.bmeia.gv.at/en/austrian-embassy-new-delhi/travels-to-austria/entry-and-residence/visa"
+   "https://www.bmeia.gv.at/en/austrian-embassy-new-delhi/travels-to-austria/entry-and-residence/visa",
+   "https://www.bmeia.gv.at/en/austrian-embassy-new-delhi/travels-to-austria/entry-and-residence/ees-and-etias"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "partial",
   "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
  },
@@ -4188,7 +4191,7 @@
    "https://eindi.cancilleria.gob.ar/en/01-tourist-visa",
    "https://eindi.cancilleria.gob.ar/en/consular-services"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "official"
  },
  {
@@ -4802,7 +4805,7 @@
    "https://india.mfa.am/en/visaforindians",
    "https://evisa.mfa.am/"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "partial"
  },
  {
@@ -5703,7 +5706,7 @@
   "sources": [
    "https://embnewdelhi.mfa.gov.dz/en/consular-services/civil-status-1/entry-visa-to-algeria-1"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "official"
  },
  {
@@ -5767,13 +5770,13 @@
    "https://www.govern.ad/en/ministries-and-secretaries-of-state/ministry-of-foreign-affairs/travel-to-andorra",
    "https://visitandorra.com/en/visitor-information/passports-visas-and-customs/"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "partial"
  },
  {
   "country": "Angola",
   "route": "online",
-  "summary": "Indian passport holders do not need a visa for a tourist stay of up to 30 days per entry (90 days per year); the Angolan eVisa platform lists India as visa exempt. Carry your passport, return ticket, hotel booking, proof of funds and a yellow fever vaccination certificate. For business, longer stays or other purposes, apply for an eVisa on the official Angolan portal before travel.",
+  "summary": "Indian passport holders do not need a visa for a tourist stay of up to 30 days per entry (90 days per year). India's MEA visa facility page lists Angola as visa free for 30 days, and the Angolan eVisa platform lists India as exempt. The Angolan embassy in India says Indian citizens travelling for tourism or business are exempt as long as the stay does not exceed 30 days. Carry your passport, return ticket, hotel booking, proof of funds and a yellow fever vaccination certificate. For longer stays or other purposes, apply for an eVisa on the official Angolan portal before travel.",
   "applyLinks": [
    {
     "label": "Angola eVisa portal (official migration service, also lists the visa waiver)",
@@ -5833,9 +5836,10 @@
   ],
   "sources": [
    "https://evisa.ao/ao/",
-   "https://www.angolaembassyindia.in/visa-services"
+   "https://www.angolaembassyindia.in/visa-services",
+   "https://www.mea.gov.in/vffin"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "partial"
  },
  {
