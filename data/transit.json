@@ -1062,7 +1062,7 @@
   "country": "Austria",
   "airside": {
    "visaNeeded": "no",
-   "rule": "Not required. India is not on the EU common list of nationalities needing an airport transit visa (list checked in the EC document), and this country is not among the states with an extra national requirement for Indians. Austria shows no X for India in the list.",
+   "rule": "Not required. The Austrian Embassy says no visa is needed for a stopover in Austria if you do not enter the Schengen area, and lists the nationalities that do need one (Afghanistan, Bangladesh, DR Congo, Eritrea, Ethiopia, Ghana, Iran, Iraq, Nigeria, Pakistan, Somalia, Sri Lanka, Syria). India is not on that list.",
    "maxHours": "UNVERIFIED",
    "conditions": []
   },
@@ -1081,10 +1081,11 @@
    "Changing airports or terminals outside the transit area counts as entry."
   ],
   "sources": [
-   "https://home-affairs.ec.europa.eu/document/download/7337515c-60a1-4510-b639-80de714f543e_en"
+   "https://home-affairs.ec.europa.eu/document/download/7337515c-60a1-4510-b639-80de714f543e_en",
+   "https://www.bmeia.gv.at/en/austrian-embassy-new-delhi/travels-to-austria/entry-and-residence/how-to-apply"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "partial",
+  "lastChecked": "2026-11-01",
+  "confidence": "official",
   "unverified": [
    "Maximum airside layover length",
    "Any exemptions for Indians with US or other visas"
@@ -2576,7 +2577,7 @@
    "https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/transit-771/travellers-eligible-to-transit-without-visa",
    "https://burma.embassy.gov.au/rang/Transit_visa_Subclass_771.html"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "official",
   "unverified": [
    "Whether a US, UK or Canadian visa eases it"

@@ -514,7 +514,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/armenia"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; yellow fever risk status is from CDC (CDC says no vaccine recommended, which matches no WHO transmission risk)",
@@ -903,7 +903,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/austria"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "partial",
   "unverified": [
    "Destination health ministry and WHO ITH country list not opened; entry rule is from the CDC Travelers' Health page (updated April 23, 2025). Insurance requirements not checked."
@@ -1051,7 +1051,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/albania"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "partial",
   "unverified": [
    "Destination health ministry and WHO ITH country list not opened; entry rule is from the CDC Travelers' Health page (updated April 23, 2025). Insurance requirements not checked."
@@ -1444,12 +1444,13 @@
   ],
   "malaria": "none",
   "otherHealth": [
-   "Not a separate entry on WHO lists; CDC page opened for Andorra only."
+   "CDC page for Andorra lists a global measles notice (Level 1, updated May 28, 2025): be fully vaccinated against measles (MMR).",
+   "CDC yellow fever: vaccine not recommended and not required for entry (updated April 23, 2025). WHO list and Andorran health ministry not checked."
   ],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/andorra"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "partial",
   "unverified": [
    "Only the CDC Travelers' Health country page was opened; destination health ministry and WHO ITH country list not checked."
@@ -2111,7 +2112,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/australia"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; all facts are from the CDC Travelers' Health page (CDC Yellow Book data updated April 23, 2025)",
@@ -2559,7 +2560,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/argentina"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "partial",
   "unverified": [
    "Only CDC Travelers' Health opened (updated April 2025 to Feb 2026 for YF entry data); WHO ITH and destination health ministry not checked",
@@ -3920,7 +3921,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/angola"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and destination health ministry pages were not opened; yellow fever entry rules and risk taken from the CDC Travelers' Health page only"
@@ -3949,12 +3950,13 @@
   "malaria": "none",
   "otherHealth": [
    "CDC: no active cholera transmission",
-   "CDC lists a global polio notice (Level 2, updated September 23, 2026): make sure polio vaccines are up to date before any international travel."
+   "CDC lists a global polio notice (Level 2, updated September 23, 2026): make sure polio vaccines are up to date before any international travel.",
+   "CDC lists a global measles notice (Level 1, updated May 28, 2025): be fully vaccinated against measles (MMR)."
   ],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/algeria"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and destination health ministry pages were not opened; yellow fever entry rules and risk taken from the CDC Travelers' Health page only"
@@ -4144,7 +4146,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/afghanistan"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; all facts are from the CDC Travelers' Health page (CDC yellow fever table dated April 23, 2025)",
@@ -5525,7 +5527,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/antigua-and-barbuda"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-01",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and destination health ministry not checked; data from CDC Travelers' Health only"

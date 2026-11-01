@@ -6464,7 +6464,7 @@
    {
     "name": "Iguazu Falls",
     "note": "Argentine side",
-    "fee": "about ₹3,000"
+    "fee": "about ₹3,700 (AR$60,000 for foreign adults from 1 June 2026)"
    },
    {
     "name": "Recoleta Cemetery",
@@ -6518,7 +6518,8 @@
    "Brazil"
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Argentina"
+   "https://en.wikipedia.org/wiki/Argentina",
+   "https://www.argentina.gob.ar/parquesnacionales/nea/parque-nacional-iguazu/tarifas"
   ],
   "lastChecked": "2026-10-16",
   "confidence": "plan",
