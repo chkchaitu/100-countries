@@ -1,71 +1,72 @@
 {
- "about": "Active travel alerts for an Indian passport holder: airline suspensions, Indian embassy or MEA advisories, entry restrictions and closures. An alert stays listed until it is lifted. sourceLevel is official (official page read) or news (reported by news, official page not read yet).",
- "lastChecked": "2026-10-19",
- "alerts": [
-  {
-   "id": "saudi-arabia-air-india-suspension",
-   "country": "Saudi Arabia",
-   "type": "flights",
-   "severity": "high",
-   "title": "Air India, Air India Express and IndiGo flights to Saudi Arabia suspended",
-   "summary": "Air India and Air India Express announced on 30 October 2026 that they are extending cancellations of flights connecting Saudi Arabian cities until 14 November 2026. IndiGo has cancelled all flights between Indian cities and Riyadh, Jeddah, Dammam and Madinah until 14 November 2026. Akasa Air is reported to have halted Jeddah flights until 10 November and Riyadh until 30 November. Passengers with earlier bookings are offered one-time free rebooking or a refund. Check with your airline before travelling, because these dates have been extended several times.",
-   "since": "2026-10-17",
-   "until": "2026-11-14",
-   "lastChecked": "2026-10-30",
-   "sourceLevel": "news",
-   "sources": [
-    "https://www.moneycontrol.com/news/india/air-india-ai-express-extend-cancellation-of-saudi-arabia-flights-till-november-14-14064611.html",
-    "https://www.cnbctv18.com/business/aviation/indigo-air-india-akasa-extend-saudi-flight-suspensions-into-november-20022330.htm",
-    "https://www.etvbharat.com/en/bharat/air-india-and-ai-express-cancel-saudi-flights-flights-till-november-7-enn26102406790"
-   ]
-  },
-  {
-   "id": "saudi-arabia-embassy-advisory",
-   "country": "Saudi Arabia",
-   "type": "advisory",
-   "severity": "high",
-   "title": "Indian Embassy in Riyadh safety advisory",
-   "summary": "The Indian Embassy in Riyadh asked Indians in Saudi Arabia to take precautions against possible aerial attacks, stay indoors during attacks and follow local authorities. Travellers, including Umrah pilgrims, should expect airport disruption and cancelled flights that could extend a stay. Saudi authorities have said visitors who overstay because no flights are available can leave without fines.",
-   "since": "2026-10-13",
-   "until": "",
-   "lastChecked": "2026-10-19",
-   "sourceLevel": "news",
-   "sources": [
-    "https://www.indiatoday.in/world/story/saudi-arabia-safety-advisory-india-warns-nationals-houthi-strikes-ptag-3020353-2026-10-18",
-    "https://www.aninews.in/news/world/middle-east/indian-embassy-advises-its-citizens-in-saudi-arabia-to-stay-indoors-amid-security-crisis20261013193434/"
-   ]
-  },
-  {
-   "id": "china-visa-process-change",
-   "country": "China",
-   "type": "other",
-   "severity": "medium",
-   "title": "China visa applications now go to the embassy or consulate, from 26 October 2026",
-   "summary": "The Chinese Embassy in New Delhi and the Consulate General in Mumbai now take visa applications directly. Apply online first at consular.mfa.gov.cn/VISA, then submit your passport and documents in person within 30 days of the approval email. Residents of Maharashtra and Karnataka apply through Mumbai. Residents of Bihar, Jharkhand, Odisha, Chhattisgarh and West Bengal apply through the Embassy in New Delhi for now. Everyone else applies through the Embassy in New Delhi. Fingerprints are waived until 31 December 2026 for short-term visas of up to 180 days. Processing takes 7 working days, or 4 with express service. Fees for Indian passport holders start at Rs 2,900 for a single entry. Fees are paid when you collect the visa.",
-   "since": "2026-10-26",
-   "until": "",
-   "lastChecked": "2026-10-27",
-   "sourceLevel": "official",
-   "sources": [
-    "https://mumbai.china-consulate.gov.cn/eng/lsyw/visa/",
-    "https://mumbai.china-consulate.gov.cn/eng/lsyw/IN/202610/t20261022_12044989.htm"
-   ]
-  },
-  {
-   "id": "australia-biometrics-expansion",
-   "country": "Australia",
-   "type": "other",
-   "severity": "medium",
-   "title": "Australian visa applicants in India may need to give biometrics, from 26 October 2026",
-   "summary": "From 26 October 2026, applicants for an Australian visa in India may be required to provide biometrics, including fingerprints and a facial image. Australia is expanding this to nearly 60 countries, including India. The Department of Home Affairs will tell you if you must provide biometrics and how to do it. Depending on your case, you may be asked to attend an Australian Biometrics Collection Centre in person, or to provide biometrics digitally through the Australian Immi App. If you gave biometrics at a centre before and hold a valid passport, you may be able to use the app at no cost. It applies only to new applications lodged from 26 October 2026 and does not affect applications already submitted. Processing times are not expected to change if you complete the biometrics promptly.",
-   "since": "2026-10-26",
-   "until": "",
-   "lastChecked": "2026-10-27",
-   "sourceLevel": "official",
-   "sources": [
-    "https://india.highcommission.gov.au/ndli/vm_Biometric_collection_requirements_for_Australia_visa_applicants_in_India.html",
-    "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/biometrics"
-   ]
-  }
- ]
+  "about": "Active travel alerts for an Indian passport holder: airline suspensions, Indian embassy or MEA advisories, entry restrictions and closures. An alert stays listed until it is lifted. sourceLevel is official (official page read) or news (reported by news, official page not read yet).",
+  "lastChecked": "2026-11-01",
+  "alerts": [
+    {
+      "id": "saudi-arabia-air-india-suspension",
+      "country": "Saudi Arabia",
+      "type": "flights",
+      "severity": "high",
+      "title": "Air India, Air India Express and IndiGo flights to Saudi Arabia suspended",
+      "summary": "Air India and Air India Express announced on 30 October 2026 that they are extending cancellations of flights connecting Saudi Arabian cities until 14 November 2026. IndiGo has cancelled all flights between Indian cities and Riyadh, Jeddah, Dammam and Madinah until 14 November 2026. Akasa Air is reported to have halted Jeddah flights until 10 November and Riyadh until 30 November. Passengers with earlier bookings are offered one-time free rebooking or a refund. Check with your airline before travelling, because these dates have been extended several times.",
+      "since": "2026-10-17",
+      "until": "2026-11-14",
+      "lastChecked": "2026-11-01",
+      "sourceLevel": "news",
+      "sources": [
+        "https://www.moneycontrol.com/news/india/air-india-ai-express-extend-cancellation-of-saudi-arabia-flights-till-november-14-14064611.html",
+        "https://www.cnbctv18.com/business/aviation/indigo-air-india-akasa-extend-saudi-flight-suspensions-into-november-20022330.htm",
+        "https://www.etvbharat.com/en/bharat/air-india-and-ai-express-cancel-saudi-flights-flights-till-november-7-enn26102406790"
+      ]
+    },
+    {
+      "id": "saudi-arabia-embassy-advisory",
+      "country": "Saudi Arabia",
+      "type": "advisory",
+      "severity": "high",
+      "title": "Indian Embassy in Riyadh safety advisory",
+      "summary": "The Indian Embassy in Riyadh asked Indians in Saudi Arabia to take precautions against possible aerial attacks, stay indoors during attacks and follow local authorities. Travellers, including Umrah pilgrims, should expect airport disruption and cancelled flights that could extend a stay. Saudi authorities have said visitors who overstay because no flights are available can leave without fines.",
+      "since": "2026-10-13",
+      "until": "",
+      "lastChecked": "2026-11-01",
+      "sourceLevel": "official",
+      "sources": [
+        "https://www.eoiriyadh.gov.in/page/updates-and-advisories/",
+        "https://www.indiatoday.in/world/story/saudi-arabia-safety-advisory-india-warns-nationals-houthi-strikes-ptag-3020353-2026-10-18",
+        "https://www.aninews.in/news/world/middle-east/indian-embassy-advises-its-citizens-in-saudi-arabia-to-stay-indoors-amid-security-crisis20261013193434/"
+      ]
+    },
+    {
+      "id": "china-visa-process-change",
+      "country": "China",
+      "type": "other",
+      "severity": "medium",
+      "title": "China visa applications now go to the embassy or consulate, from 26 October 2026",
+      "summary": "The Chinese Embassy in New Delhi and the Consulate General in Mumbai now take visa applications directly. Apply online first at consular.mfa.gov.cn/VISA, then submit your passport and documents in person within 30 days of the approval email. Residents of Maharashtra and Karnataka apply through Mumbai. Residents of Bihar, Jharkhand, Odisha, Chhattisgarh and West Bengal apply through the Embassy in New Delhi for now. Everyone else applies through the Embassy in New Delhi. Fingerprints are waived until 31 December 2026 for short-term visas of up to 180 days. Processing takes 7 working days, or 4 with express service. Fees for Indian passport holders start at Rs 2,900 for a single entry. Fees are paid when you collect the visa.",
+      "since": "2026-10-26",
+      "until": "",
+      "lastChecked": "2026-11-01",
+      "sourceLevel": "official",
+      "sources": [
+        "https://mumbai.china-consulate.gov.cn/eng/lsyw/visa/",
+        "https://mumbai.china-consulate.gov.cn/eng/lsyw/IN/202610/t20261022_12044989.htm"
+      ]
+    },
+    {
+      "id": "australia-biometrics-expansion",
+      "country": "Australia",
+      "type": "other",
+      "severity": "medium",
+      "title": "Australian visa applicants in India may need to give biometrics, from 26 October 2026",
+      "summary": "From 26 October 2026, applicants for an Australian visa in India may be required to provide biometrics, including fingerprints and a facial image. Australia is expanding this to nearly 60 countries, including India. The Department of Home Affairs will tell you if you must provide biometrics and how to do it. Depending on your case, you may be asked to attend an Australian Biometrics Collection Centre in person, or to provide biometrics digitally through the Australian Immi App. If you gave biometrics at a centre before and hold a valid passport, you may be able to use the app at no cost. It applies only to new applications lodged from 26 October 2026 and does not affect applications already submitted. Processing times are not expected to change if you complete the biometrics promptly.",
+      "since": "2026-10-26",
+      "until": "",
+      "lastChecked": "2026-11-01",
+      "sourceLevel": "official",
+      "sources": [
+        "https://india.highcommission.gov.au/ndli/vm_Biometric_collection_requirements_for_Australia_visa_applicants_in_India.html",
+        "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/biometrics"
+      ]
+    }
+  ]
 }
