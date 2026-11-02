@@ -6315,16 +6315,19 @@
  {
   "country": "Antigua and Barbuda",
   "airside": {
-   "visaNeeded": "unverified",
-   "rule": "UNVERIFIED: no published airside transit rule confirmed. Treat as needing the entry rule unless the airline confirms otherwise",
-   "maxHours": "UNVERIFIED",
-   "conditions": []
+   "visaNeeded": "no",
+   "rule": "In-transit passengers travelling within the same day who normally need a visa do not need one, provided they have proof of onward journey and do not leave the controlled space of the airport (Antigua and Barbuda High Commission page). Applies to passengers who normally require a visa, which includes Indians.",
+   "maxHours": "same day",
+   "conditions": [
+    "Proof of onward journey",
+    "Stay inside the controlled airport space"
+   ]
   },
   "landside": {
    "visaNeeded": "yes",
-   "rule": "e-Visa required for Indians. Visa on arrival (USD 100, 30 days) is listed only for holders of valid US, UK, Canada or Schengen visas or residence (secondary source)",
-   "maxHours": "UNVERIFIED",
-   "scheme": "none found"
+   "rule": "Leaving the airport needs an eVisa. The Immigration Department issues transit visas for stays up to 24 hours for nationals who need an entry visa. Visa on arrival (USD 100, 30 days) only for holders of valid US, UK, Canada or Schengen visas or residence cards.",
+   "maxHours": "24",
+   "scheme": "transit visa up to 24 hours"
   },
   "easedBy": [
    "US",
@@ -6340,13 +6343,13 @@
    "Airline will check entry documents at check-in"
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+   "https://antigua-barbuda.com/ova_sev/visas"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-03",
   "confidence": "thin",
   "unverified": [
    "official portal text",
-   "airside rule",
    "fee"
   ]
  },

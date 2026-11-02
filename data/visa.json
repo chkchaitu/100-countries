@@ -286,7 +286,7 @@
       "name": "Armenia",
       "trip": "D",
       "category": "evisa",
-      "rule": "e-visa, 90 days; visa on arrival with a valid visa from the EU/Schengen, US, UK, Canada or Japan.",
+      "rule": "e-visa for Indian ordinary passport holders with travel insurance plus a valid visa or residence permit from the EU/Schengen, USA, Australia, NZ, South Korea, UK, Canada, Russia or Japan, or a residence permit from the UAE, Saudi Arabia, Kuwait, Qatar, Bahrain or Oman. Visa on arrival at the border with the same documents. Without them, an invitation, return ticket and bank statements are also needed. Holders of a US, EU, Schengen or Gulf residence permit (valid 6 months or more) are visa exempt for up to 180 days from 1 Jul 2026 to 1 Jul 2027.",
       "easedBy": [
         "US",
         "SC",
@@ -296,9 +296,9 @@
       ],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://india.mfa.am/en/visaforindians"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-03",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -1395,15 +1395,15 @@
       "name": "Argentina",
       "trip": "Q",
       "category": "conditional",
-      "rule": "Visa required, but visa-free entry (online AVE) for holders of certain US visas or a green card (since 2025).",
+      "rule": "Visa required (consular visa, free for Indian nationals, up to 90 days). No visa or AVE needed for holders of a valid US B1/B2, B2, J, B1, O, P, E or H-1B visa or a Green Card (90 days of validity may be required from entry).",
       "easedBy": [
         "US"
       ],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://eindi.cancilleria.gob.ar/en/01-tourist-visa"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-03",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -2166,17 +2166,16 @@
       "country": "Angola",
       "name": "Angola",
       "trip": "W",
-      "category": "unknown",
-      "rule": "Visa free for Indian ordinary passports for tourism, up to 30 days per visit and up to 90 days per calendar year, per Angola's visa exemption framework (in force since September 2023) and listed on India's MEA 'Visa Facility for Indian Nationals' page (Angola, 30 days, info as on 2 Feb 2026) seen via search snippet. Some aggregators list India as eVisa, so the sources disagree; check with the Angolan embassy in New Delhi or the SME immigration service before booking. Passport validity normally 6 months. Yellow fever vaccination certificate is reported to be required for travellers aged 9 months and over (UNVERIFIED, official health page not read). Entry points include Luanda Quatro de Fevereiro airport. A US/UK/Schengen visa is not needed and gives no extra benefit.",
+      "category": "visa_free",
+      "rule": "Visa free for Indian ordinary passports for tourism or business, up to 30 days per visit (Angola Embassy in India, visa services page; India's MEA 'Visa Facility for Indian Nationals' page also lists Angola at 30 days). Some sources mention a cap of 90 days per calendar year (not re-confirmed on an official page). Passport valid at least 6 months with blank pages. Yellow fever vaccination certificate is reported to be required for travellers aged 9 months and over (CDC). A US/UK/Schengen visa is not needed and gives no extra benefit.",
       "easedBy": [],
-      "status": "probable",
+      "status": "confirmed",
       "sources": [
-        "https://www.mea.gov.in/vffin",
-        "https://www.passportindex.org/passport/angola",
-        "https://en.wikipedia.org/wiki/Visa_policy_of_Angola"
+        "https://www.angolaembassyindia.in/visa-services",
+        "https://www.mea.gov.in/vffin"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Sources conflict: visa free per India MEA snippet, e-visa per Passport Index. UNVERIFIED: MEA page blocked on direct fetch (403), read only via search snippet; no Angolan government page read; yellow fever rule and eVisa conflict unresolved. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-03",
+      "note": "Embassy and MEA agree on visa free entry for Indians. UNVERIFIED: MEA page also lists Angola in its e-visa and visa on arrival tables; 90 days per year cap not confirmed officially. Confirm on the official government site 2 to 3 months before travel."
     },
     {
       "country": "Algeria",
@@ -2952,7 +2951,7 @@
         "https://abevisa.com/",
         "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-03",
       "note": "UNVERIFIED: eVisa fee and stay length for Indians; immigration.gov.ag not read. High Commission page is official. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
