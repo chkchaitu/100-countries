@@ -1136,13 +1136,14 @@
       "name": "Australia",
       "trip": "O",
       "category": "visa_required",
-      "rule": "Visitor visa (subclass 600), online, AUD 250.",
+      "rule": "Visitor visa (subclass 600), online, AUD 250. From 26 October 2026, new applications lodged in India may also need biometrics (fingerprints and a facial image), at an Australian Biometrics Collection Centre or through the Australian Immi App. Home Affairs tells you if you must give them.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
+        "https://india.highcommission.gov.au/ndli/vm_Biometric_collection_requirements_for_Australia_visa_applicants_in_India.html",
         "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-02",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -1831,7 +1832,7 @@
         "https://chicago.china-consulate.gov.cn/eng/lsfw/qzsq/202605/t20260506_11904889.htm",
         "https://in.china-embassy.gov.cn/eng/"
       ],
-      "lastChecked": "2026-10-27",
+      "lastChecked": "2026-11-02",
       "note": "Application process, fees, processing time, passport validity, tourist visa funds proof and fingerprint rules read on the Consulate General of China in Mumbai notices of 22 October 2026. Restricted areas such as Tibet need extra permits. MEA lists China on its travel advisory index, content not read. Confirm on the official site before travel."
     },
     {
