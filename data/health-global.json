@@ -125,7 +125,8 @@
  },
  "other": [
   "Indian passport holders do not need the e-Arrival Card; it is mandatory since 1 April 2026 for foreign nationals and OCI cardholders (reported by the Indian Embassy in Cairo post and US Embassy notice, Indian citizens exempt per secondary source trip.com). Source: https://in.usembassy.gov/indias-new-digital-arrival-system",
-  "Emigration Check Not Required (ECNR) and Air Suvidha style health declaration: not verified, nothing found about a current health declaration form for Indian arrivals."
+  "Emigration Check Not Required (ECNR): not verified, nothing found about a current rule for this.",
+  "Air Suvidha 2.0 health self-declaration: the Ministry of Civil Aviation and Delhi airport launched it on 25 June 2026 for Ebola screening. The government press release (PIB) describes a mandatory online Health Self-Declaration for international arriving passengers, covering 21-day travel history, exposure history and symptoms. Fill it before boarding or at web check-in, then show the downloaded form at the International Travel Health Desk or the immigration counter. Portal: https://airsuvidha.civilaviation.gov.in/ . Source: https://www.pib.gov.in/PressReleasePage.aspx?PRID=2277639&reg=48&lang=1 . Not confirmed: the release asks all international travellers to complete it, but search snippets of the portal FAQ say it applies to passengers arriving from affected countries, and one report says up to 72 hours before landing while the release says 24 hours in advance. The portal pages would not load here, so check the portal before you fly."
  ],
  "lastChecked": "2026-10-16",
  "unverified": [
@@ -133,6 +134,7 @@
   "Current WHO polio emergency list beyond India's June 2024 list; whether India updated its list after June 2024.",
   "Alcohol and cigarette allowance, official CBIC wording of Baggage Rules 2026 not opened directly (read via Kolkata Customs PDF snippet and referencer.in).",
   "Current Indian rupee import limit.",
-  "Bureau of Immigration page itself not opened; ECNR notes and any health declaration form not verified."
+  "Bureau of Immigration page itself not opened; ECNR notes and any health declaration form not verified.",
+  "Air Suvidha 2.0 scope (all international arrivals or only passengers from affected countries) and how early the form can be filled (24 hours in the PIB release, 72 hours in one report); portal and FAQ pages did not load."
  ]
 }
