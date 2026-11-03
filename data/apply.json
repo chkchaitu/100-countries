@@ -1598,7 +1598,7 @@
    "https://www.bmeia.gv.at/en/austrian-embassy-new-delhi/travels-to-austria/entry-and-residence/visa",
    "https://www.bmeia.gv.at/en/austrian-embassy-new-delhi/travels-to-austria/entry-and-residence/ees-and-etias"
   ],
-  "lastChecked": "2026-11-01",
+  "lastChecked": "2026-11-04",
   "confidence": "partial",
   "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
  },
@@ -5973,11 +5973,11 @@
    }
   ],
   "photo": {
-   "size": "See official specification PDF (not read in detail)",
-   "background": "UNVERIFIED",
-   "format": "jpg",
-   "notes": "The portal asks for an acceptable recent digital photograph in jpg and links a photo specification PDF",
-   "status": "unverified"
+   "size": "2 x 2 inches at 600 dpi",
+   "background": "Plain white or off-white",
+   "format": "Colour, taken within the last 6 months",
+   "notes": "Neutral expression, mouth closed, full face view, hairline and ears visible, no selfies. Head covering only for medical or religious reasons with prior written approval from evisaoffice@bahamas.gov.bs",
+   "status": "verified"
   },
   "fee": "Single entry visitor visa USD 160; multiple entry 3, 6 or 12 months USD 250; non-refundable; paid at application (mofa.gov.bs, read 2026-10-16)",
   "processing": "Standard 7 to 10 business days, not counting submission date, if documents are complete and no interview is needed (mofa.gov.bs, read 2026-10-16)",
@@ -5991,15 +5991,15 @@
    "Do not use the pay or resubmit section unless the Visa Office emailed you."
   ],
   "unverified": [
-   "Photo size and background (specification PDF not read)",
    "Which visa office an applicant in India would be assigned",
    "How early to apply"
   ],
   "sources": [
    "https://mofa.gov.bs/evisa-online-services",
-   "https://mofa.gov.bs/consular-services/needs-visas-enter-bahamas"
+   "https://mofa.gov.bs/consular-services/needs-visas-enter-bahamas",
+   "https://mofa.gov.bs/wp-content/uploads/2020/06/eVISA-photoSpecification-1v1-20200415-1.pdf"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-04",
   "confidence": "official"
  },
  {
