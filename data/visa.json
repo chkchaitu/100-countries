@@ -177,9 +177,11 @@
       ],
       "status": "confirmed",
       "sources": [
+        "https://www.evisa.gov.bh/list-of-online-visa-country.html",
+        "https://www.evisa.gov.bh/list-of-onarrival-visa-country.html",
         "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-05",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -1260,13 +1262,15 @@
       "name": "Barbados",
       "trip": "P",
       "category": "visa_free",
-      "rule": "Visa-free, 90 days.",
+      "rule": "Visa-free for tourism. Barbados Digital (government) says Indian citizens may stay a maximum of 30 days in aggregate per year; an older Foreign Ministry list said 180 days, so confirm with Barbados Immigration before a longer trip.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
+        "https://barbadosdigital.com/articles/visa-free-travel",
+        "https://www.gov.uk/foreign-travel-advice/barbados/entry-requirements",
         "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-05",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -2060,7 +2064,7 @@
         "https://mfa.gov.by/en/visa/freemove/airport",
         "https://www.belarus.by/en/travel/travel-visas/visa-free-travel-program-belarus"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-05",
       "note": "Without a used multiple entry Schengen visa the visa free route is closed and a regular visa or e-visa is needed (e-visa details UNVERIFIED). Check MEA and your airline before travel. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
