@@ -133,13 +133,15 @@
       "name": "Bhutan",
       "trip": "B2",
       "category": "visa_free",
-      "rule": "No visa, but an entry permit (free, online or at the border) and a Sustainable Development Fee of INR 1,200 per person per night, fixed to Aug 2027.",
+      "rule": "No visa, but an entry permit (no fee in advance, apply online or at the point of entry) and a Sustainable Development Fee of INR 1,200 per person per night (children 6 to 12 pay half, under 6 free). Visits of up to 24 hours to Samtse, Phuentsholing, Gelephu and Samdrup Jongkhar towns are SDF free until August 2027 if you do not go beyond the border town zone. Carry an original Indian passport (6 months validity) or Voter ID.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://www.cgiphuentsholing.gov.in/page/guidelines-for-indians-visiting-bhutan"
+        "https://www.cgiphuentsholing.gov.in/page/guidelines-for-indians-visiting-bhutan",
+        "https://bhutan.travel/visa",
+        "https://bhutan.travel/faqs"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-06",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -1780,15 +1782,14 @@
       "name": "Belgium",
       "trip": "H",
       "category": "visa_required",
-      "rule": "Schengen short stay (type C) visa required, up to 90 days in any 180 days. Fee EUR 90 (about INR 9,590) plus visa centre service charge about INR 400 to 3,125 and travel insurance (about EUR 30,000 cover). Apply 6 months to 15 days before travel at the consulate or VFS/other centre; apply at the country of main destination. A US, UK or Canada visa does NOT waive the Schengen visa for Indians. ETIAS does not apply to Indians (visa required nationals). EES biometric entry system live since 10 Apr 2026 per a secondary source (probable).",
+      "rule": "Schengen short stay (type C) visa required, up to 90 days in any 180 days. Fee EUR 90 (about INR 9,590; EUR 45 for ages 6 to 12, free under 6) plus the Belgian VFS service fee of INR 2,750 including taxes, and travel insurance (about EUR 30,000 cover). Apply 6 months to 15 days before travel at the VFS centre; apply at the country of main destination. A US, UK or Canada visa does NOT waive the Schengen visa for Indians. ETIAS does not apply to Indians (visa required nationals). Since 10 April 2026 short-stay visitors declare their arrival in Belgium online through My Address in Belgium (MAB) instead of at the town hall (Belgian Embassy page). EES biometric entry system live since 10 Apr 2026 per a secondary source (probable).",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en",
-        "https://www.atlys.com/blog/schengen-visa-fees-2026",
-        "https://www.atlys.com/blog/schengen-visa"
+        "https://india.diplomatie.belgium.be/en/travel-belgium/visa-belgium/visa-belgium-if-you-live-india",
+        "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-06",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -2251,7 +2252,7 @@
         "https://immigration.gov.bz/visa/visa-requirements",
         "https://en.wikipedia.org/wiki/Visa_policy_of_Belize"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-06",
       "note": "Fees and requirements read on immigration.gov.bz; the repatriation fee and the 30 day substitute-visa rule are from Wikipedia only. Fee page says effective 1 May 2020, may be outdated. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -2416,7 +2417,7 @@
       "name": "Benin",
       "trip": "T",
       "category": "evisa",
-      "rule": "E-visa required before travel (Benin's official portal evisa.bj; applications are now electronic only). Official fees when applying yourself: 30 days single entry 50 EUR (about INR 5,000), 30 days multiple 75 EUR, 90 days multiple 100 EUR; 10 EUR more via an embassy. Print the e-visa and carry it. Passport validity and entry points for Indians not read on the official pages: UNVERIFIED. Yellow fever: the Ministry of Health says no vaccination card checks (including yellow fever) are done at airports, ports or land borders, but Benin can change this at any time and the vaccine is recommended; carry the certificate anyway since India may ask on return. No page read says a US/UK/Schengen/Canada/Australia/NZ/Japan/Korea visa eases entry.",
+      "rule": "E-visa required before travel (Benin's official portal evisa.bj; applications are electronic only). Official fees when applying yourself: 30 days single entry 50 EUR (about INR 5,000), 30 days multiple 75 EUR, 90 days multiple 100 EUR; applying through an embassy costs 10 EUR more (60, 85 and 110 EUR). Print the e-visa and carry it. Passport validity and entry points for Indians not read on the official pages: UNVERIFIED. Yellow fever: the Ministry of Health says no vaccination card checks (including yellow fever) are done at airports, ports or land borders, but Benin can change this at any time and the vaccine is recommended; carry the certificate anyway since India may ask on return. No page read says a US/UK/Schengen/Canada/Australia/NZ/Japan/Korea visa eases entry.",
       "easedBy": [],
       "status": "probable",
       "sources": [
@@ -2424,7 +2425,7 @@
         "https://evisa.bj/articles/costs-of-entry-visas-to-benin/8c948600-ca08-443e-bac9-33aae6583b54",
         "https://evisa.bj/articles/yellow-fever-vaccination-card-checks-at-points-of-entry-into-benin/0225cd59-9365-4534-94ee-c1e3cdc996c7"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-06",
       "note": "Official portal read but the visa-exempt list (which would confirm India is not exempt) was not opened, so probable. Fee article dated Dec 2020. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
