@@ -1694,7 +1694,7 @@
    "https://visaonweb.diplomatie.be/",
    "https://visa.vfsglobal.com/ind/en/bel/attend-centre"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-06",
   "confidence": "official",
   "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
  },
@@ -6183,7 +6183,7 @@
    "https://immigration.gov.bz/visa/visa-fees/",
    "https://immigration.gov.bz/visa/visa-who-qualify/"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-06",
   "confidence": "partial"
  },
  {
@@ -6226,7 +6226,7 @@
    "notes": "Digital upload in the e-visa form; rules not readable on the official page",
    "status": "unverified"
   },
-  "fee": "UNVERIFIED (official portal has a 'costs of entry visas' page that needs JavaScript; secondary sites quote EUR 50 single entry 30 days, EUR 75 multiple 30 days, EUR 100 multiple 90 days)",
+  "fee": "Official evisa.bj costs page (read 2026-11-06, article dated 2020): applying yourself 30 days single entry 50 EUR, 30 days multiple 75 EUR, 90 days multiple 100 EUR; through an embassy 60, 85 and 110 EUR. Not confirmed as Indian-specific, but the page lists one price for all applicants.",
   "processing": "UNVERIFIED (secondary sites say 1 to 2 business days)",
   "applyEarly": "UNVERIFIED",
   "biometrics": "No visit to a centre in India for the e-visa. Secondary sources say biometrics may be taken on arrival in Benin, UNVERIFIED",
@@ -6237,7 +6237,6 @@
    "Apply well before the flight and keep a printed copy of the approval."
   ],
   "unverified": [
-   "Fee",
    "Processing time",
    "Photo rules",
    "Full document list",
@@ -6245,9 +6244,10 @@
    "Mission in India"
   ],
   "sources": [
-   "https://evisa.bj/"
+   "https://evisa.bj/",
+   "https://evisa.bj/articles/costs-of-entry-visas-to-benin/8c948600-ca08-443e-bac9-33aae6583b54"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-06",
   "confidence": "thin"
  },
  {
@@ -13193,7 +13193,7 @@
    "status": "unverified"
   },
   "centres": "Not applicable",
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-06",
   "country": "Bhutan",
   "summary": "Indians do not need a visa for Bhutan; you need a free entry permit instead. Apply online on the Bhutan immigration portal before travel, or at the point of entry (Paro airport or Phuentsholing land border), carrying a valid passport (6 months validity) or Voter ID card. A Sustainable Development Fee is paid per night of stay.",
   "applyLinks": [
@@ -13212,27 +13212,31 @@
   ],
   "documents": [
    {
-    "item": "Valid Indian passport (6 months validity) or Voter ID card",
+    "item": "Original Indian passport (6 months validity) or original Voter ID card",
     "note": "Either is accepted for Indian nationals"
    },
    {
-    "item": "Passport-size photograph",
-    "note": "Needed if you apply for the permit at the point of entry"
+    "item": "Passport-size photographs",
+    "note": "Consulate page says 2 photos for the entry permit at Phuentsholing; bhutan.travel says one is needed when applying on arrival"
    },
    {
-    "item": "Hotel or tour booking details",
-    "note": "Usually asked for when applying online"
+    "item": "Birth certificate (English) or passport for children under 18",
+    "note": "Child must be with a legal guardian"
+   },
+   {
+    "item": "Travel insurance",
+    "note": "Consulate says tourists should have it for the whole trip; can be bought at the Phuentsholing pedestrian terminal"
+   },
+   {
+    "item": "Department of Tourism certified accommodation, and a tour guide",
+    "note": "Consulate page lists these for Indians planning their own trip"
    },
    {
     "item": "Payment of Sustainable Development Fee",
     "note": "Paid when the permit is applied for, online or in person"
-   },
-   {
-    "item": "Route permit for travel beyond Thimphu and Paro",
-    "note": "Only sometimes required; issued by Immigration, check current rules"
    }
   ],
-  "fee": "Entry permit: no fee payable in advance (bhutan.travel, checked 2026-10-16). Sustainable Development Fee for Indians: INR 1,200 per person per night per secondary sources, UNVERIFIED on an official page; children get concessions.",
+  "fee": "Entry permit: no fee payable in advance (bhutan.travel). Sustainable Development Fee for Indians: INR 1,200 per person per night (children 6 to 12: INR 600, under 6: free), confirmed by the Indian consulate in Phuentsholing and bhutan.travel FAQ. 24 hour visits to Samtse, Phuentsholing, Gelephu and Samdrup Jongkhar border towns are SDF free until August 2027.",
   "processing": "Reviewed online; bhutan.travel says visa applications are reviewed within 5 working days (permits for Indians not stated separately)",
   "applyEarly": "Apply online before travel to avoid queues at the border; exact lead time UNVERIFIED",
   "biometrics": "UNVERIFIED",
@@ -13243,15 +13247,16 @@
    "The SDF amount and its end date can change; confirm on immi.gov.bt or bhutan.travel before booking."
   ],
   "unverified": [
-   "SDF amount and validity period for Indians (from secondary sites only)",
    "Route permit rules",
    "Biometrics",
-   "Permit processing time for Indians"
+   "Permit processing time for Indians",
+   "Exact lead time for online permit"
   ],
   "sources": [
    "https://bhutan.travel/visa",
    "https://immi.gov.bt/",
-   "https://www.mfa.gov.bt/rbckolkata/visa"
+   "https://www.cgiphuentsholing.gov.in/page/guidelines-for-indians-visiting-bhutan",
+   "https://bhutan.travel/faqs"
   ],
   "confidence": "partial"
  },
