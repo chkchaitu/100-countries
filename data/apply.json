@@ -6455,7 +6455,7 @@
    "notes": "Recent photos",
    "status": "verified"
   },
-  "fee": "Short visit: INR 1,000 single entry, INR 2,500 multiple entry (High Commission page, checked 2026-10-16)",
+  "fee": "Short visit: INR 1,000 single entry, INR 2,500 multiple entry (High Commission page, checked 2026-11-08)",
   "processing": "Five working days from submission (High Commission page)",
   "applyEarly": "UNVERIFIED",
   "biometrics": "Submission in person at the High Commission is implied; fingerprints UNVERIFIED",
@@ -6475,7 +6475,7 @@
   "sources": [
    "https://www.mfa.gov.bn/india-newdelhi/SitePages/consularservices.aspx"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-08",
   "confidence": "official"
  },
  {
@@ -6616,8 +6616,8 @@
    "notes": "Two photos listed for the short-stay visa",
    "status": "verified"
   },
-  "fee": "Tourist visa: 33 000 F CFA single entry, 55 000 F CFA multiple entries; express visa 104 500 F CFA (official eVisa site, read 2026-10-16). Indian rupee amount not stated.",
-  "processing": "UNVERIFIED (not stated on the pages read)",
+  "fee": "Tourist visa: 33 000 F CFA single entry, 55 000 F CFA multiple entries; express visa 104 500 F CFA (official eVisa site, read 2026-11-08). Indian rupee amount not stated.",
+  "processing": "Via an embassy or consulate the official page says the answer comes 72 hours after submission. Online eVisa processing time UNVERIFIED.",
   "applyEarly": "UNVERIFIED",
   "biometrics": "UNVERIFIED (the eVisa is online; any in-person step for Indian applicants not confirmed)",
   "centres": "UNVERIFIED (no Burkina Faso visa centre in India confirmed)",
@@ -6638,7 +6638,7 @@
    "https://www.visaburkina.bf/en/home",
    "https://www.visaburkina.bf/en/entry-visas-to-burkina-faso-the-short-term-visa"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-08",
   "confidence": "partial"
  },
  {
@@ -6663,11 +6663,11 @@
   "documents": [
    {
     "item": "Passport",
-    "note": "Validity not stated on the pages read; 6 months is the usual rule"
+    "note": "Embassy page: valid at least 6 months"
    },
    {
     "item": "Accommodation (hotel name chosen from a list in the form)",
-    "note": "Required by the online form"
+    "note": "Required by the online form; embassy also asks tourists for a hotel reservation"
    },
    {
     "item": "Scanned documents",
@@ -6675,15 +6675,15 @@
    },
    {
     "item": "Passport photo",
-    "note": "Spec not stated on the pages read"
+    "note": "Spec not stated; embassy asks for two recent colour passport photos"
    },
    {
     "item": "Return ticket",
-    "note": "Sometimes required; not confirmed on official page"
+    "note": "Embassy page: confirmed or unconfirmed round trip ticket or travel agency letter"
    },
    {
     "item": "Yellow fever certificate",
-    "note": "Sometimes required; not confirmed"
+    "note": "Embassy page lists a copy of the certificate"
    }
   ],
   "photo": {
@@ -6693,7 +6693,7 @@
    "notes": "Photo rules not found on the official pages read",
    "status": "unverified"
   },
-  "fee": "UNVERIFIED for Indian citizens (the official Services page was read but no tourist fee was found for the entry visa; third party sites quote USD 90 single entry, not confirmed).",
+  "fee": "Entry visa 90 USD for 1 month, 180 USD for 2 months, 270 USD for 3 months (official migration.gov.bi Services page, read 2026-11-08). Whether the airport visa uses the same fee for Indians is UNVERIFIED. The Washington embassy lists 70 USD single entry for embassy visas.",
   "processing": "UNVERIFIED",
   "applyEarly": "UNVERIFIED",
   "biometrics": "None expected for the airport entry visa; the visa is issued at the entry point. UNVERIFIED.",
@@ -6716,7 +6716,7 @@
    "https://migration.gov.bi/Services",
    "https://www.migration.gov.bi"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-08",
   "confidence": "partial"
  },
  {
