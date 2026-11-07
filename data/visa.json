@@ -18,14 +18,14 @@
       "name": "Brunei",
       "trip": "A",
       "category": "visa_required",
-      "rule": "Visa required. Apply before travel at the Brunei High Commission in New Delhi (single entry, about B$20, 30 days).",
+      "rule": "Visa required. Apply before travel at the Brunei High Commission in New Delhi (short visit visa: INR 1,000 single entry, INR 2,500 multiple entry, processing 5 working days).",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://www.peninsulavisa.com/visa-requirements/india-to-brunei",
+        "https://www.mfa.gov.bn/india-newdelhi/SitePages/consularservices.aspx",
         "https://www.mfa.gov.bn/Pages/Visa-Information.aspx"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-08",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -2433,15 +2433,17 @@
       "name": "Burkina Faso",
       "trip": "Y",
       "category": "evisa",
-      "rule": "Visa needed, applied for online on Burkina Faso's official e-visa site (visaburkina.bf), which says the e-visa allows entry and stay up to 90 days. Fees listed on the official short-stay page: tourist visa 33,000 CFA single entry (about INR 5,000) or 55,000 CFA multiple, hotel reservation required; business 77,000 / 93,500 CFA; express 104,500 CFA. Whether Indians have any exemption or a different fee and the exact entry points: UNVERIFIED. Yellow fever certificate is expected on entry (US embassy page; not confirmed from an official Burkina page). Passport validity 6 months is standard but UNVERIFIED on the official page. No evidence that a US/UK/Schengen/Canada/Australia/NZ/Japan/Korea visa eases entry.",
+      "rule": "Visa needed, applied for online on Burkina Faso's official e-visa site (visaburkina.bf) or through a Burkina Faso embassy or consulate (embassy route: answer in 72 hours, you get a pre-visa to show on arrival). The short-stay visa is valid up to 90 days. Fees on the official short-stay page (read 2026-11-08): tourist visa 33,000 CFA single entry (about INR 5,000) or 55,000 CFA multiple, hotel reservation required; business 77,000 / 93,500 CFA; express 104,500 CFA for emergency travel. Official documents: valid passport (validity period not stated), 3.5 x 4.5 cm colour photos on white, proof of reason for stay, medical certificate, health insurance, stamp duty receipt. Border entry requires a health record under the International Health Regulations and a return ticket. Whether Indians have any exemption or a different fee: UNVERIFIED. Yellow fever certificate is expected on entry (CDC; not stated as a visa rule on the Burkina page). Passport validity of 6 months is standard but UNVERIFIED on the official page. No evidence that a US/UK/Schengen/Canada/Australia/NZ/Japan/Korea visa eases entry.",
       "easedBy": [],
       "status": "probable",
       "sources": [
         "https://www.visaburkina.bf/en/home",
-        "https://www.visaburkina.bf/en/entry-visas-to-burkina-faso-the-short-term-visa"
+        "https://www.visaburkina.bf/en/entry-visas-to-burkina-faso-the-short-term-visa",
+        "https://www.visaburkina.bf/en/burkina-faso-entry-conditions/",
+        "https://www.visaburkina.bf/en/get-your-visa-online/"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Check the Ministry of External Affairs advisory before any travel; it could not be read. Official portal read (home page); fee table came from the official page's search snippet only and the applicant portal is JavaScript-only. MEA advisory not located (UNVERIFIED). Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-08",
+      "note": "Official fee table, documents and entry conditions pages read 2026-11-08. MEA advisory page loaded but no Burkina Faso item was found; Indian embassy site (Abidjan) did not open. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
       "country": "Mali",
@@ -2796,16 +2798,17 @@
       "name": "Burundi",
       "trip": "W",
       "category": "on_arrival",
-      "rule": "Visa on arrival for Indian passport holders, up to 30 days, reported fee about 90 USD single entry (Burundian embassy in Washington lists 90 USD for a 30 day visa and requires a pre-boarding online form for arrival visas). Complete the online arrival form before boarding. Passport valid 6 months with a blank page, proof of funds, return ticket. Yellow fever vaccination certificate is requested (embassy lists it among visa documents; treat as required). Entry via Bujumbura airport and land borders. Some sources say a pre-authorised e-visa is available. No known waiver from US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visas since visa on arrival is already open to Indians.",
+      "rule": "Visa on arrival for Indian passport holders, up to 30 days (the official portal calls it the airport entry visa). Apply online first on migration.gov.bi, pay online and show the printed certificate at the entry point; the Burundian embassy in Washington says the form must be completed before boarding. Fee: the official Services page lists the entry visa at 90 USD for 1 month (180 USD for 2 months, 270 USD for 3 months); the Washington embassy lists 70 USD single entry and 90 USD multiple entry, for visas bought from the embassy. Embassy documents: passport valid 6 months, round trip ticket or travel agency letter, 2 photos, yellow fever certificate copy, hotel reservation for tourists. Transit visa at the embassy: 40 USD, up to 72 hours. Entry via Bujumbura airport and land borders. Whether the airport visa fee differs for Indians: UNVERIFIED. No known waiver from US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visas since visa on arrival is already open to Indians.",
       "easedBy": [],
       "status": "probable",
       "sources": [
+        "https://migration.gov.bi/Services",
+        "https://migration.gov.bi/Apply/step1/8",
         "https://burundiembassy.us/visa-services",
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
-        "https://cibtvisas.co.uk/destination/bdi/burundi-visa"
+        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "UNVERIFIED on Burundi immigration site (migration.gov.bi, evisa portal did not resolve). Embassy page in the US read via search only. MEA advisory not checked (blocked). Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-08",
+      "note": "Official migration.gov.bi Services page and the embassy visa page read directly on 2026-11-08. MEA advisory page loaded but no Burundi item was found. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
       "country": "Ukraine",

@@ -180,7 +180,7 @@
   "sources": [
    "https://www.mfa.gov.bn/Pages/transit-Visa.aspx"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-08",
   "confidence": "official",
   "unverified": [
    "Fee",
@@ -5240,22 +5240,24 @@
    "conditions": []
   },
   "landside": {
-   "visaNeeded": "unverified",
-   "rule": "No published transit rule found; treat as needing the entry visa rule for Indian citizens. Check the entry visa requirement before planning a city stay.",
-   "maxHours": "UNVERIFIED",
-   "scheme": "UNVERIFIED"
+   "visaNeeded": "yes",
+   "rule": "The official site lists a transit visa for foreigners transiting Burkina Faso, valid up to 5 days, for a missed connection, vehicle breakdown or force majeure. Fee 22 000 F CFA. Documents are the same as for the short-stay visa. Whether Indians are exempt: UNVERIFIED.",
+   "maxHours": "120",
+   "scheme": "none found"
   },
   "easedBy": [],
   "landTransit": "Not applicable",
   "howToGet": "Not applicable",
-  "fee": "UNVERIFIED",
+  "fee": "22 000 F CFA (official transit visa page, read 2026-11-08)",
   "warnings": [
    "Connections here from India are rare and usually run via other hubs, which carry their own transit rules.",
    "Airside transit was not confirmed from an official page."
   ],
-  "sources": [],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "sources": [
+   "https://www.visaburkina.bf/en/entry-visas-to-burkina-faso-the-transit-visa/"
+  ],
+  "lastChecked": "2026-11-08",
+  "confidence": "partial",
   "unverified": [
    "Airside transit rule for Indian passport holders",
    "Maximum airside hours",
@@ -6016,21 +6018,23 @@
   },
   "landside": {
    "visaNeeded": "yes",
-   "rule": "Assume the normal entry visa is needed for Indian ordinary passport holders to leave the airport. UNVERIFIED against an official page.",
-   "maxHours": "UNVERIFIED",
+   "rule": "A transit visa is listed by the Washington embassy: 40 USD, valid up to 72 hours. Assume it is needed to leave the airport. Not confirmed on the migration.gov.bi page for Indians.",
+   "maxHours": "72",
    "scheme": "none found"
   },
   "easedBy": [],
   "landTransit": "Not applicable",
   "howToGet": "Check the official immigration portal or the nearest embassy or consulate before booking; no official application route could be verified.",
-  "fee": "UNVERIFIED",
+  "fee": "40 USD for the embassy transit visa (Washington embassy page, read 2026-11-08)",
   "warnings": [
    "Not a realistic connection point for most India routings; avoid booking a connection here.",
    "Confirm with the airline (Timatic) before flying; separate tickets or baggage re-check can force you through immigration."
   ],
-  "sources": [],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "sources": [
+   "https://burundiembassy.us/visa-services"
+  ],
+  "lastChecked": "2026-11-08",
+  "confidence": "partial",
   "unverified": [
    "airside transit rule",
    "landside rule and time limit",
