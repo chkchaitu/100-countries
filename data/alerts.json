@@ -1,6 +1,6 @@
 {
   "about": "Active travel alerts for an Indian passport holder: airline suspensions, Indian embassy or MEA advisories, entry restrictions and closures. An alert stays listed until it is lifted. sourceLevel is official (official page read) or news (reported by news, official page not read yet).",
-  "lastChecked": "2026-11-01",
+  "lastChecked": "2026-11-07",
   "alerts": [
     {
       "id": "saudi-arabia-air-india-suspension",
@@ -68,6 +68,38 @@
       "sources": [
         "https://india.highcommission.gov.au/ndli/vm_Biometric_collection_requirements_for_Australia_visa_applicants_in_India.html",
         "https://immi.homeaffairs.gov.au/help-support/meeting-our-requirements/biometrics"
+      ]
+    },
+    {
+      "id": "nepal-id-rule-change",
+      "country": "Nepal",
+      "type": "entry",
+      "severity": "medium",
+      "title": "New ID document rule for Indians travelling to or from Nepal",
+      "summary": "The Ministry of Home Affairs published an amendment to the Immigration and Foreigners (Exemption) Order, 2025 in the Gazette of India on 5 November 2026 (S.O. 6027(E), dated 4 November). An Indian citizen entering India from Nepal or leaving India for Nepal by land or air must show the immigration officer one of the documents specified in the Visa Manual to establish identity, and give any information the officer asks for. The passport and visa exemption does not cover an Indian citizen travelling to or from any country other than Nepal or Bhutan through the Indo-Nepal or Indo-Bhutan border, by land or air. In that case a valid passport is required and entry or exit must be through a designated immigration post. The order does not list the accepted documents. They are in the Visa Manual, which has not been read here, so check the exact list before you travel.",
+      "since": "2026-11-05",
+      "until": "",
+      "lastChecked": "2026-11-07",
+      "sourceLevel": "official",
+      "sources": [
+        "https://egazette.gov.in/WriteReadData/2026/277692.pdf",
+        "https://www.mha.gov.in/en/divisionofmha/foreigners-division/acts-rules-and-regulations-pertaining-foreigners-division"
+      ]
+    },
+    {
+      "id": "bhutan-id-rule-change",
+      "country": "Bhutan",
+      "type": "entry",
+      "severity": "medium",
+      "title": "New ID document rule for Indians travelling to or from Bhutan",
+      "summary": "The Ministry of Home Affairs published an amendment to the Immigration and Foreigners (Exemption) Order, 2025 in the Gazette of India on 5 November 2026 (S.O. 6027(E), dated 4 November). An Indian citizen entering India from Bhutan or leaving India for Bhutan by land or air must show the immigration officer one of the documents specified in the Visa Manual to establish identity, and give any information the officer asks for. The passport and visa exemption does not cover an Indian citizen travelling to or from any country other than Nepal or Bhutan through the Indo-Nepal or Indo-Bhutan border, by land or air. In that case a valid passport is required and entry or exit must be through a designated immigration post. The order does not list the accepted documents. They are in the Visa Manual, which has not been read here, so check the exact list before you travel.",
+      "since": "2026-11-05",
+      "until": "",
+      "lastChecked": "2026-11-07",
+      "sourceLevel": "official",
+      "sources": [
+        "https://egazette.gov.in/WriteReadData/2026/277692.pdf",
+        "https://www.mha.gov.in/en/divisionofmha/foreigners-division/acts-rules-and-regulations-pertaining-foreigners-division"
       ]
     }
   ]
