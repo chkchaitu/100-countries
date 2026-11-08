@@ -3681,40 +3681,34 @@
  {
   "country": "Canada",
   "airside": {
-   "visaNeeded": "depends",
-   "rule": "Indians need a visitor or transit visa (TRV) to transit Canada unless they qualify for the Transit Without Visa (TWOV) program. IRCC's TWOV eligibility page (seen in search, could not be opened) covers only travellers on the way to or from the US. Whether Indian nationals are on the TWOV nationality list was not confirmed; one secondary source says India qualifies with a valid US visa, but the Wikipedia list snippet names Indonesia, Philippines, Taiwan and Thailand. Treat as needing a visa unless IRCC confirms.",
-   "maxHours": "UNVERIFIED",
-   "conditions": [
-    "onward travel to or from the United States",
-    "participating airline and airport"
-   ]
+   "visaNeeded": "yes",
+   "rule": "Indian passport holders need a Canadian visa to transit Canada. IRCC's Transit Without Visa (TWOV) program is open only to passports from Indonesia, Philippines, Thailand and Taiwan, so India is not eligible even with a valid US visa. The eTA for visa-required countries also excludes India.",
+   "maxHours": "Not applicable (no visa-free transit for India)",
+   "conditions": []
   },
   "landside": {
    "visaNeeded": "yes",
-   "rule": "A visa (TRV) is needed to leave the airport. An eTA is for visa-exempt travellers; the Canadian Airports Council says TWOV needs a same-day ticket and US visa and keeps travellers airside.",
-   "maxHours": "UNVERIFIED",
-   "scheme": "TWOV (US-bound, airside only). Indian eligibility UNVERIFIED"
+   "rule": "A Canadian visitor visa (TRV) is needed to leave the airport, and also to transit airside.",
+   "maxHours": "Not applicable",
+   "scheme": "None for India (TWOV covers Indonesia, Philippines, Thailand, Taiwan only)"
   },
-  "easedBy": [
-   "US"
-  ],
+  "easedBy": [],
   "landTransit": "Not applicable",
   "howToGet": "Apply for a visitor visa/TRV online with IRCC (canada.ca). Secondary source quotes CAD 100 fee and 2 to 4 weeks, not confirmed officially.",
   "fee": "UNVERIFIED (secondary source: CAD 100)",
   "warnings": [
-   "Canada has no general airside transit exemption; check IRCC before booking a connection.",
-   "Airline must verify TWOV eligibility before boarding."
+   "Canada has no airside transit exemption for Indians; a valid US visa does not waive the Canadian visa. Check IRCC before booking a connection.",
+   "Confirm with the airline (Timatic) before flying."
   ],
   "sources": [
    "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/transit/without-visa/eligibility.html",
-   "https://canadasairports.ca/advocacy/industry-priorities/international-transit-programs"
+   "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/eligibility/eta-x.html"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-09",
+  "confidence": "partial",
   "unverified": [
-   "Indian eligibility for TWOV",
-   "exact fee",
-   "opened IRCC page (connection timed out)"
+   "exact transit visa fee",
+   "processing time for a transit visa"
   ]
  },
  {
@@ -4669,14 +4663,14 @@
  {
   "country": "Cabo Verde",
   "airside": {
-   "visaNeeded": "unverified",
-   "rule": "No published transit rule found; treat as needing the entry visa rule. easepass.cv did not respond.",
+   "visaNeeded": "no",
+   "rule": "The official EASE notice says the transit and airport stopover visa applies only to nationals of the 91 listed countries. India is not on the list, so no transit visa is indicated for Indians. Passengers in transit are exempt from the TSA (consular portal).",
    "maxHours": "UNVERIFIED",
    "conditions": []
   },
   "landside": {
    "visaNeeded": "unverified",
-   "rule": "Not confirmed; check the entry visa rule for Indian citizens and ask the airline (Timatic) before booking.",
+   "rule": "Indians are not on the visa-required list, but EASE pre-registration is required for anyone entering; confirm with your airline before leaving the airport.",
    "maxHours": "UNVERIFIED",
    "scheme": "UNVERIFIED"
   },
@@ -4688,9 +4682,12 @@
    "Rules could not be confirmed from an official source; confirm with the embassy and your airline before booking.",
    "Avoid separate tickets, as you may have to enter the country to re-check baggage."
   ],
-  "sources": [],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "sources": [
+   "https://www.ease.gov.cv/",
+   "https://portalconsular.mnec.gov.cv/en/vistos"
+  ],
+  "lastChecked": "2026-11-09",
+  "confidence": "partial",
   "unverified": [
    "airside rule",
    "landside rule",
