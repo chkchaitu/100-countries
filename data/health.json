@@ -83,7 +83,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/cambodia"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-09",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; yellow fever risk status is from CDC (CDC says no vaccine recommended, which matches no WHO transmission risk)",
@@ -3011,7 +3011,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/canada"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-09",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; facts are from the CDC Travelers' Health page for the country (updated April 2025 for yellow fever entry rules)"
@@ -3881,12 +3881,13 @@
   ],
   "malaria": "none",
   "otherHealth": [
-   "CDC page is titled Cape Verde; no malaria prophylaxis listed"
+   "CDC page is titled Cape Verde; no malaria prophylaxis listed",
+   "CDC travel notice: increased Shigella infection in travellers returning from Santa Maria and Boa Vista, including resort guests; practise safe eating, drinking and handwashing"
   ],
   "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/cabo-verde"
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/cape-verde"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-09",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and destination health ministry pages were not opened; yellow fever entry rules and risk taken from the CDC Travelers' Health page only"
@@ -4795,7 +4796,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/cameroon"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-09",
   "confidence": "partial",
   "unverified": [
    "WHO International Travel and Health country list not opened; rules taken from CDC Travelers' Health page (updated April 23, 2025) only",

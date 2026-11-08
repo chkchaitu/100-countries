@@ -1671,16 +1671,16 @@
       "name": "Canada",
       "trip": "H",
       "category": "visa_required",
-      "rule": "Indian citizens need a Temporary Resident Visa (visitor visa), CAD 100 plus biometrics CAD 85 (valid 10 years; family cap CAD 170); stay up to 6 months; processing reported about 3 to 8 weeks (secondary sites). eTA is not available to Indian passport holders: the conditional eTA list (valid US visa or recent Canadian visa) covers 17 countries and does not include India, so a valid US visa does NOT waive the Canadian visa for Indians. Single and multiple entry visas decided by officer; may need ITRs and funds proof.",
+      "rule": "Indian citizens need a Temporary Resident Visa (visitor visa), CAD 100 per person (family maximum CAD 500 for 5 or more applying together) plus biometrics CAD 85 (family cap CAD 170); stay normally up to 6 months; IRCC does not publish a fixed India processing time (secondary sites report about 3 to 8 weeks, unconfirmed). IRCC's list of visa-required countries that can use an eTA instead (Antigua and Barbuda, Argentina, Brazil, Costa Rica, Mexico, Morocco, Panama, Philippines, St Kitts and Nevis, St Lucia, St Vincent and the Grenadines, Seychelles, Thailand, Trinidad and Tobago, Uruguay) does not include India, so a valid US visa does NOT waive the Canadian visa for Indians. Single or multiple entry decided by the officer; may need proof of funds and ties to India.",
       "easedBy": [],
       "status": "probable",
       "sources": [
-        "https://immigration.ca/electronic-travel-authorization",
-        "https://www.canadavisa.com/electronic-travel-authorization-eta-canadian-immigration-visitor-visa-exemptions.html",
-        "https://www.visa-requirements.io/visa-requirements/canada/from/indian-passport-holders/visitor-visa-2026",
-        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada.html"
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/eligibility/eta-x.html",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta/eligibility.html",
+        "https://ircc.canada.ca/english/information/fees/fees.asp",
+        "https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/visitor-visa.html"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-09",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -2157,17 +2157,17 @@
       "country": "Cabo Verde",
       "name": "Cabo Verde",
       "trip": "U",
-      "category": "visa_required",
-      "rule": "Visa required in advance for Indian ordinary passports. Since 1 January 2026 Cabo Verde stopped visa on arrival for nationals of a list of countries (about 91 to 96 reported) and says they must get an entry visa from a Cabo Verde embassy before arrival, under penalty of refused entry. India is shown as visa required by Passport Index; the official country list PDF on ease.gov.cv could not be read as text, so India's listing is not confirmed from the official file. All foreign visitors must also pre-register on the EASE platform (ease.gov.cv) up to 5 days before travel and pay the Airport Security Tax (TSA) of CVE 3,400 (about INR 3,000, UNVERIFIED conversion). Passport valid at least 6 months. International vaccination certificate may be requested; yellow fever certificate reported for arrivals from risk countries. The Cabo Verde High Commission in New Delhi handles visas (Shanti Niketan, per a tourism site). The visa-free regime (30 days, EASE) covers EU, UK, EFTA and other listed nationalities, not Indians. A US/UK/Schengen/Canada/Australia/NZ/Japan/Korea visa is not reported to waive the visa for Indians.",
+      "category": "visa_free",
+      "rule": "No advance visa needed for Indian ordinary passports. From 1 January 2026 Cabo Verde requires an entry visa (and a transit or airport stopover visa) in advance only for nationals of 91 listed countries. I read the official list on ease.gov.cv (assets/lista_de_paises.pdf, scanned image, read by OCR and by eye): India is not on it. All foreign visitors must still pre-register on EASE (ease.gov.cv) up to 5 days before travel and pay the Airport Security Tax (TSA); passengers in transit are exempt from the TSA. Length of permitted visa-free stay for Indians, passport validity and the TSA amount are UNVERIFIED from an official page. Yellow fever certificate only if arriving from a risk country.",
       "easedBy": [],
       "status": "probable",
       "sources": [
         "https://www.ease.gov.cv",
-        "https://portalconsular.mnec.gov.cv/en/vistos",
-        "https://www.passportindex.org/country/cape-verde"
+        "https://www.ease.gov.cv/assets/lista_de_paises.pdf",
+        "https://portalconsular.mnec.gov.cv/en/vistos"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "UNVERIFIED: India on the official 2026 visa-required list (PDF unreadable); visa fee and processing time not found; MEA advisory not checked. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-09",
+      "note": "UNVERIFIED: permitted length of stay for Indians, passport validity, TSA amount. Visa-free is inferred from India being absent from the official visa-required list. Confirm with the Cabo Verde mission or your airline before travel."
     },
     {
       "country": "Angola",

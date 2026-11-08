@@ -6722,7 +6722,7 @@
  {
   "country": "Cabo Verde",
   "route": "mixed",
-  "summary": "Every foreign visitor must pre-register on the EASE portal at least 5 days before travel and pay the airport security fee (TSA). The EASE site says that from 1 January 2026 nationals of countries on its published list must get an entry visa from a Cabo Verde embassy before arrival. In the PDF list I extracted, India did not appear, but extraction was rough, so confirm on the EASE page.",
+  "summary": "Indian ordinary passport holders are not on the official list of nationalities that must get a Cabo Verde visa in advance (list on ease.gov.cv, from 1 January 2026). Every foreign visitor must pre-register on the EASE portal at least 5 days before travel and pay the Airport Security Fee (TSA). Visa applications for other nationalities go through the consular portal.",
   "applyLinks": [
    {
     "label": "EASE pre-registration and airport security fee",
@@ -6773,22 +6773,21 @@
   "biometrics": "UNVERIFIED",
   "centres": "No Cabo Verde mission in India confirmed; if a visa is required apply at the nearest embassy.",
   "warnings": [
-   "Check the EASE country list for your nationality before booking flights.",
    "Pre-registration must be done before check-in; airlines may refuse boarding without it.",
    "Use ease.gov.cv only; copy sites add fees."
   ],
   "unverified": [
-   "Whether Indian citizens need a visa or only EASE",
    "TSA amount",
-   "Nearest embassy covering India",
-   "Photo and passport validity rules"
+   "Permitted length of stay for Indians",
+   "Photo and passport validity rules",
+   "Nearest embassy covering India"
   ],
   "sources": [
    "https://www.ease.gov.cv/",
-   "https://portalconsular.mnec.gov.cv/en/vistos",
-   "https://www.ease.gov.cv/assets/lista_de_paises.pdf"
+   "https://www.ease.gov.cv/assets/lista_de_paises.pdf",
+   "https://portalconsular.mnec.gov.cv/en/vistos"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-09",
   "confidence": "partial"
  },
  {
@@ -6861,7 +6860,7 @@
    "https://www.evisacam.cm/ords/dl_portal/r/public_portal/home",
    "https://www.evisacam.cm/ords/r/dl_portal/public_portal/login-page"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-09",
   "confidence": "thin"
  },
  {
