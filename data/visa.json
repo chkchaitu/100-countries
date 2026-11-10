@@ -1316,16 +1316,18 @@
       "name": "Costa Rica",
       "trip": "P",
       "category": "conditional",
-      "rule": "Visa required, but exempt with a multiple-entry US visa with at least 6 months of validity left.",
+      "rule": "Visa required, but not needed with a multiple-entry US visa (B1/B2, D or C1/D type) with at least 6 months of validity left at entry, or a multiple-entry Canada visa, or a legal residence card of the US, Canada or an EU country.",
       "easedBy": [
-        "US"
+        "US",
+        "CA"
       ],
       "status": "confirmed",
       "sources": [
+        "https://indianembassypanama.gov.in/eoipa_pages/MzEz",
         "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-11",
+      "note": "Source: Indian Embassy in Panama advisory (covers Costa Rica). Confirm with the Costa Rica embassy in New Delhi 2 to 3 months before travel."
     },
     {
       "country": "Mexico",
@@ -2708,15 +2710,15 @@
       "name": "Comoros",
       "trip": "W",
       "category": "on_arrival",
-      "rule": "Visa on arrival for 45 days. India's MEA visa facility list (text seen in search result; the page itself returned 403 to a direct fetch) says Comoros: visa on arrival for 45 days, fee EUR 30, proof of accommodation and return air ticket required. Private sources agree (EUR 30 cash at Hahaya airport, Moroni; passport valid 6 months). Yellow fever certificate is needed only if arriving from a risk country, UNVERIFIED for India direct. Outer island travel may need a local permit or ferry paperwork, UNVERIFIED. No easing from other visas needed.",
+      "rule": "Visa on arrival for 45 days. India's Ministry of External Affairs visa facility list says Comoros gives Indians a visa on arrival for 45 days, fee EUR 30, with proof of accommodation and a return air ticket. Private sources agree (EUR 30 cash at Hahaya airport, Moroni; passport valid 6 months). Yellow fever certificate is not required (CDC); outer island travel may need a local permit or ferry paperwork, UNVERIFIED.",
       "easedBy": [],
-      "status": "probable",
+      "status": "confirmed",
       "sources": [
         "https://www.mea.gov.in/vffin",
         "https://dontstopliving.net/how-to-get-a-comoros-visa-on-arrival-at-hahaya-international-airport"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "MEA page text seen via search snippet only (direct fetch blocked 403), so marked probable; no Comoros government page read. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-11",
+      "note": "Confirmed on the MEA page. Confirm again 2 to 3 months before travel."
     },
     {
       "country": "Djibouti",

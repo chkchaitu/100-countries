@@ -2407,7 +2407,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/costa-rica"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-11",
   "confidence": "partial",
   "unverified": [
    "Only CDC Travelers' Health opened (updated April 2025 to Feb 2026 for YF entry data); WHO ITH and destination health ministry not checked",
@@ -2467,12 +2467,13 @@
   ],
   "malaria": "some areas",
   "otherHealth": [
-   "CDC: elevated chikungunya risk, dengue, Zika, leishmaniasis"
+   "CDC: elevated chikungunya risk, dengue, Zika, leishmaniasis",
+   "CDC travel notice (16 Oct 2026): increased number of yellow fever cases reported in Colombia"
   ],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/colombia"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-11",
   "confidence": "partial",
   "unverified": [
    "Only CDC Travelers' Health opened (updated April 2025 to Feb 2026 for YF entry data); WHO ITH and destination health ministry not checked",
@@ -4900,12 +4901,12 @@
   ],
   "malaria": "widespread",
   "otherHealth": [
-   "Active cholera in several departments including Brazzaville (CDC)"
+   "Active cholera in several departments including Likouala and Plateaux (last case in past 3 months), Congo-Oubangui, Gamboma, Impfondo, Nkeni-Alima (3 to 6 months); Brazzaville last case 9 to 12 months ago (CDC)"
   ],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/congo"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-11",
   "confidence": "partial",
   "unverified": [
    "WHO International Travel and Health country list not opened; rules taken from CDC Travelers' Health page (updated April 23, 2025) only",
@@ -5064,7 +5065,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/comoros"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-11",
   "confidence": "partial",
   "unverified": [
    "WHO International Travel and Health country list not opened; rules taken from CDC Travelers' Health page (updated April 23, 2025) only",

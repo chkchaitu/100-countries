@@ -7015,8 +7015,12 @@
   "summary": "Comoros has no official online portal that could be verified. Indian travellers are reported to get a visa on arrival at Moroni airport (about 45 days), but this comes only from secondary sources. Check with a Comoros mission before travel.",
   "applyLinks": [
    {
-    "label": "Comoros UN mission page on passports and visas (official, check fee and contacts)",
-    "url": "http://www.un.int/comoros/comoros/passport-and-visa-process"
+    "label": "India MEA: visa on arrival and e-visa facility list for Indians (Comoros entry)",
+    "url": "https://www.mea.gov.in/vffin"
+   },
+   {
+    "label": "Comoros UN mission page on passports and visas (official, undated, fee differs)",
+    "url": "https://www.un.int/comoros/comoros/passport-and-visa-process"
    }
   ],
   "formLinks": [],
@@ -7026,20 +7030,16 @@
     "note": "Typical rule, not confirmed on an official page"
    },
    {
-    "item": "Return or onward ticket",
-    "note": "Typically asked on arrival"
+    "item": "Return air ticket",
+    "note": "Required per MEA"
    },
    {
-    "item": "Accommodation proof",
-    "note": "Typically asked on arrival"
+    "item": "Proof of accommodation",
+    "note": "Required per MEA"
    },
    {
     "item": "Photos",
     "note": "Sometimes requested"
-   },
-   {
-    "item": "Yellow fever certificate",
-    "note": "Sometimes required depending on travel route"
    }
   ],
   "photo": {
@@ -7049,7 +7049,7 @@
    "notes": "No official specification found",
    "status": "unverified"
   },
-  "fee": "Official UN mission page lists a visa on the spot for 45 days at 60 euros (page undated); agents quote other amounts. Treat as UNVERIFIED for 2026.",
+  "fee": "EUR 30 for a 45 day visa on arrival per India's MEA visa facility list (https://www.mea.gov.in/vffin). The Comoros UN mission page (undated) lists 60 euros for 45 days on the spot, so carry extra cash; UNVERIFIED which is current.",
   "processing": "On arrival (secondary sources); UNVERIFIED",
   "applyEarly": "UNVERIFIED",
   "biometrics": "None before travel if visa is obtained on arrival; UNVERIFIED.",
@@ -7068,10 +7068,11 @@
    "Mission covering India"
   ],
   "sources": [
-   "http://www.un.int/comoros/comoros/passport-and-visa-process"
+   "https://www.mea.gov.in/vffin",
+   "https://www.un.int/comoros/comoros/passport-and-visa-process"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin"
+  "lastChecked": "2026-11-11",
+  "confidence": "partial"
  },
  {
   "country": "Congo",
