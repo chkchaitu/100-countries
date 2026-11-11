@@ -486,9 +486,10 @@
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+        "https://mvep.gov.hr/consular-information-22850/consular-information-22802/visas-22807/issuance-procedure/applying-for-a-schengen-visa-for-croatia/262010"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-12",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -543,9 +544,11 @@
       "easedBy": [],
       "status": "confirmed",
       "sources": [
+        "https://mzv.gov.cz/delhitest02/cz/visa_and_consular/index.html",
+        "https://mzv.gov.cz/mumbai/en/consular_information/index.html",
         "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-12",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -1509,17 +1512,18 @@
       "name": "Cyprus",
       "trip": "R",
       "category": "conditional",
-      "rule": "EU but not Schengen. National visa required, but a valid double or multiple entry Schengen C visa (or Bulgarian, Croatian, Romanian national visa) gives entry up to 90 days in 180. Days in Cyprus do not count in Schengen. US or UK visa does not ease entry.",
+      "rule": "EU but not Schengen. A Cyprus short-stay visa is required, but a valid Schengen visa for two or more entries, or a national visa or residence permit issued by a Schengen state, gives entry for up to 90 days in any 180 days. Days in Cyprus do not count in Schengen. US or UK visa does not ease entry.",
       "easedBy": [
         "SC"
       ],
       "status": "confirmed",
       "sources": [
+        "https://www.gov.cy/en/information/visas/",
         "https://cyprusinuk.com/visa-information",
         "https://gk-lawfirm.com/publications/travel-with-cyprus-residence-permit",
         "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-12",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -1948,17 +1952,17 @@
       "name": "Cuba",
       "trip": "AE",
       "category": "evisa",
-      "rule": "Indian citizens need a tourist visa before boarding; no visa on arrival. Since 1 July 2025 the old tourist card has been replaced by an electronic visa (eVisa), reported as single entry, 90 days stay, extendable once for 90 days, linked to the passport. Apply through Cuba's official eVisa portal (evisacuba.cu, could not be read: certificate error) or the Cuban embassy in New Delhi (embassy page not read). Also required: the free D'Viajeros online customs and health form, filled within about 7 days before arrival (QR code), passport valid 6 months beyond entry, medical travel insurance, return or onward ticket and accommodation details. Fee: UNVERIFIED (US based agent pages mention about USD 85 and up, not official). Yellow fever certificate: UNVERIFIED; commonly only asked if arriving from a country with yellow fever risk. Canada's advice says Visa and Mastercard cards stopped being accepted in Cuba from 6 June 2026, so carry cash. An Indian's US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visa does not waive or ease the Cuban visa.",
+      "rule": "Indian citizens need a tourist visa before boarding; no visa on arrival. Per the Cuban Embassy in New Delhi, Indians apply for a single entry E-Tourist visa online at evisacuba.cu. It is valid for one entry and a 90 day stay, extendable for 90 more days with Cuban migration, and no documents are uploaded. Embassy fee is 4,500 INR by bank transfer to the embassy account. Applying in person at the embassy needs an appointment by email and costs 4,950 INR (7,200 INR via a third party). Also required: the free D'Viajeros online customs and health form, filled within about 7 days before arrival (QR code), passport valid 6 months beyond entry, medical travel insurance, return or onward ticket and accommodation details (these last items are from secondary sources, not read on an official page). Yellow fever certificate is only needed when arriving from a risk country (CDC), not from India. Canada's advice says Visa and Mastercard cards stopped being accepted in Cuba from 6 June 2026, so carry cash. An Indian's US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visa does not waive or ease the Cuban visa.",
       "easedBy": [],
       "status": "probable",
       "sources": [
+        "https://misiones.cubaminrex.cu/sites/default/files/formularios/editorindia/procedure_for_visa_applications_0.docx",
+        "https://misiones.cubaminrex.cu/en/india/consular-services",
         "https://evisacuba.cu/en/inicio",
-        "https://travel.gc.ca/destinations/cuba",
-        "https://www.weroad.com/blog/cuba-visa",
-        "https://tourismanalytics.com/expertinsights/cuba-makes-electronic-visas-mandatory-from-july-1-2025"
+        "https://travel.gc.ca/destinations/cuba"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "UNVERIFIED: evisacuba.cu only seen via search snippet (fetch failed on certificate), Cuban embassy in India page not read, fee and Indian specific rule from secondary sources; MEA advisory for Cuba not checked. Power cuts and fuel shortages reported; check current conditions. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-12",
+      "note": "Fee and route confirmed from the Cuban Embassy in India procedure document (read 2026-11-12). UNVERIFIED: evisacuba.cu itself unreachable from our server, D'Viajeros, passport validity and insurance from secondary sources, MEA advisory not confirmed. Power cuts and fuel shortages reported; check current conditions. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
       "country": "Kuwait",

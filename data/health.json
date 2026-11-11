@@ -828,7 +828,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/croatia"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-12",
   "confidence": "partial",
   "unverified": [
    "Destination health ministry and WHO ITH country list not opened; entry rule is from the CDC Travelers' Health page (updated April 23, 2025). Insurance requirements not checked."
@@ -928,7 +928,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/czechia"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-12",
   "confidence": "partial",
   "unverified": [
    "Destination health ministry and WHO ITH country list not opened; entry rule is from the CDC Travelers' Health page (updated April 23, 2025). Insurance requirements not checked."
@@ -2724,7 +2724,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/cyprus"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-12",
   "confidence": "partial",
   "unverified": [
    "Only CDC Travelers' Health opened (updated April 2025 to Feb 2026 for YF entry data); WHO ITH and destination health ministry not checked",
@@ -3478,13 +3478,13 @@
   ],
   "malaria": "none",
   "otherHealth": [
-   "Dengue travel notice (CDC, updated October 02, 2026)",
+   "Dengue travel notice (CDC, updated November 10, 2026)",
    "No malaria prophylaxis listed by CDC for Cuba"
   ],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/cuba"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-12",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and destination health ministry pages were not opened; yellow fever entry rules and risk taken from the CDC Travelers' Health page only"
