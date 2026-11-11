@@ -1117,7 +1117,7 @@
    "https://mzv.gov.cz/mumbai/en/consular_information/index.html",
    "https://home-affairs.ec.europa.eu/document/download/7337515c-60a1-4510-b639-80de714f543e_en"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-12",
   "confidence": "official",
   "unverified": [
    "Fee",
@@ -3342,27 +3342,27 @@
   },
   "landside": {
    "visaNeeded": "yes",
-   "rule": "Cyprus is outside Schengen and has its own short-stay visa; Indians need a Cyprus visa to leave the airport. Whether a Schengen visa is accepted was not confirmed",
+   "rule": "Cyprus is outside Schengen and has its own short-stay visa; Indians need a Cyprus visa to leave the airport, unless they hold a valid Schengen visa for two or more entries or a Schengen national visa or residence permit (Cyprus government visa page).",
    "maxHours": "Not applicable",
    "scheme": "none"
   },
   "easedBy": [],
   "landTransit": "Not applicable",
   "howToGet": "Apply for a short-stay visa at a VFS Global or embassy for Cyprus; official application page not confirmed here",
-  "fee": "UNVERIFIED",
+  "fee": "EUR 90 for an airport transit visa (category A), per the Cyprus government visa page. Only needed by nationalities on the ATV lists.",
   "warnings": [
    "Cyprus visa rules follow Schengen transit rules for airside, but entry is separate",
    "Official Cyprus MFA site returned 403 to my check"
   ],
   "sources": [
    "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy_en",
-   "https://en.wikipedia.org/wiki/Visa_policy_of_Cyprus"
+   "https://en.wikipedia.org/wiki/Visa_policy_of_Cyprus",
+   "https://www.gov.cy/en/information/visas/"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-12",
   "confidence": "partial",
   "unverified": [
    "Country-specific official pages (mfa) were unreachable or not opened",
-   "Fee",
    "Current Bulgaria or Romania or Cyprus airside rule text from the national authority"
   ]
  },
