@@ -7468,11 +7468,11 @@
   "documents": [
    {
     "item": "Passport",
-    "note": "Ordinary passport valid at least 6 months before the application date (SNEDAI page)."
+    "note": "Ordinary passport valid at least 6 months before the application date and for 6 months at airport enrolment (SNEDAI page)."
    },
    {
     "item": "Passport identity page scan",
-    "note": "Uploaded at pre-enrolment."
+    "note": "Uploaded at pre-enrolment (JPG, PNG, GIF or PDF, 1 MB or less)."
    },
    {
     "item": "Return flight booking",
@@ -7480,15 +7480,19 @@
    },
    {
     "item": "Invitation letter or accommodation certificate",
-    "note": "Uploaded at pre-enrolment; model documents are linked on the page."
+    "note": "Typed, printed, signed, stamped and legalised; uploaded at pre-enrolment; model documents are linked on the page."
    },
    {
     "item": "Payment receipt",
-    "note": "Print the original receipt for the visa fee."
+    "note": "Print the original receipt for the visa fee (about EUR 73)."
+   },
+   {
+    "item": "Approved pre-enrolment document",
+    "note": "Printed document with barcode, valid 3 months from approval; show it at the airport visa desk."
    },
    {
     "item": "Yellow fever certificate",
-    "note": "Usually checked on arrival. Not read on the SNEDAI page, so UNVERIFIED."
+    "note": "Listed on the SNEDAI page among documents to show at Abidjan airport."
    }
   ],
   "photo": {
@@ -7512,7 +7516,6 @@
   "unverified": [
    "Photo specification",
    "How early to apply",
-   "Yellow fever certificate rule",
    "Whether any Indian-specific rule or fee applies",
    "ivoirevisa.ci did not resolve"
   ],
@@ -7520,16 +7523,24 @@
    "https://snedai.com/e-visa",
    "https://royaumeuni.diplomatie.gouv.ci/visa.php?lang=en"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-13",
   "confidence": "partial"
  },
  {
   "country": "Democratic Republic of the Congo",
-  "route": "online",
-  "summary": "The DRC government runs an official e-visa portal at evisa.gouv.cd. Create the application there, upload documents and pay online; the approval comes by email. The portal page needs JavaScript, so fee, document list and photo rules could not be read and are marked UNVERIFIED.",
+  "route": "embassy",
+  "summary": "The DRC embassy in New Delhi says all visa applicants should apply through its visa application centre, INCO Visa Services (incovisa.co.in), and that no visa is issued at ports of entry. Fees are paid in cash or demand draft to the embassy. Processing is at least 10 working days with no rush service. The DRC government e-visa portal (evisa.gouv.cd) exists but its pages could not be read, so whether Indians can use it is UNVERIFIED.",
   "applyLinks": [
    {
-    "label": "Apply on the DRC government e-visa portal",
+    "label": "DRC embassy India: how to get a visa",
+    "url": "https://www.ambardc-india.com/get-a-visa"
+   },
+   {
+    "label": "INCO Visa Services, DRC visa application centre in India",
+    "url": "https://www.incovisa.co.in/"
+   },
+   {
+    "label": "DRC government e-visa portal (contents not readable, eligibility unverified)",
     "url": "https://evisa.gouv.cd/"
    }
   ],
@@ -7537,57 +7548,64 @@
   "documents": [
    {
     "item": "Passport",
-    "note": "Typically valid 6 months or more. UNVERIFIED on the portal."
+    "note": "Valid at least 6 months beyond your stay, with two unused pages (embassy page)."
    },
    {
-    "item": "Passport photo and passport scan",
-    "note": "UNVERIFIED on the portal."
+    "item": "Photos",
+    "note": "Three colour photos not older than 2 months, white background, full front face; 2x2 inch, 35x45 mm or 35x35 mm."
    },
    {
-    "item": "Accommodation booking or invitation",
-    "note": "UNVERIFIED on the portal."
+    "item": "Passport copies and application form",
+    "note": "Three copies of the relevant passport pages and three signed copies of the visa form; Indian ID card copy also listed."
    },
    {
-    "item": "Return flight booking",
-    "note": "UNVERIFIED on the portal."
+    "item": "Yellow fever certificate",
+    "note": "International certificate of vaccination (embassy page)."
    },
    {
-    "item": "Yellow fever vaccination certificate",
-    "note": "Commonly required for DRC; UNVERIFIED on an official page."
+    "item": "Flight ticket",
+    "note": "Copy showing arrival and departure dates."
+   },
+   {
+    "item": "Invitation letter",
+    "note": "Typed and notarised, addressed to the Embassy in New Delhi, valid at least 90 days; business visas need a sponsorship letter."
+   },
+   {
+    "item": "Proof of funds",
+    "note": "At least 5,000 USD (embassy page)."
    }
   ],
   "photo": {
-   "size": "UNVERIFIED",
-   "background": "UNVERIFIED",
-   "format": "UNVERIFIED",
-   "notes": "Portal is JavaScript based and did not show text to our tools.",
-   "status": "unverified"
+   "size": "2 x 2 inch, 35 x 45 mm or 35 x 35 mm",
+   "background": "White (embassy page)",
+   "format": "Three colour photos, not older than 2 months",
+   "notes": "Embassy page, read 2026-11-13. The e-visa portal photo rules are UNVERIFIED.",
+   "status": "partial"
   },
-  "fee": "UNVERIFIED. A secondary source (Wikipedia, via search) says the e-visa costs about USD 300 online plus USD 90 at the point of entry, for up to 7 days. Not confirmed on an official page.",
-  "processing": "UNVERIFIED. Secondary source says about 72 hours.",
-  "applyEarly": "UNVERIFIED. Secondary source says the e-visa must be used within 3 months of issue.",
+  "fee": "INR 6,100 (1 month single), INR 13,250 (3 months multiple), INR 21,200 (6 months multiple); cash or demand draft, non-refundable (embassy page, read 2026-11-13).",
+  "processing": "At least 10 working days; no rush service. Do not apply more than 3 months before travel.",
+  "applyEarly": "Not more than 3 months before travel dates (embassy page).",
   "biometrics": "UNVERIFIED",
-  "centres": "UNVERIFIED. No visa centre for the DRC in India was found.",
+  "centres": "INCO Visa Services, B-3/1B Basement, Safdarjung Enclave, New Delhi 110029 (incovisa.co.in).",
   "warnings": [
-   "Check the fee and entry rules on evisa.gouv.cd itself before paying; secondary sites quote very different prices.",
-   "A second payment may be asked at the point of entry per a secondary source; confirm this.",
-   "Use only the evisa.gouv.cd domain.",
-   "Rules for eastern provinces and security advisories change often; check your government travel advice."
+   "Government of India advises avoiding non-essential travel to the DRC (Ebola outbreak, advisory 23 May 2026).",
+   "Use only the embassy or INCO Visa channel named on the embassy page; the DRC says no visa is issued at ports of entry.",
+   "Eastern provinces are conflict zones and some are CDC Level 4.",
+   "Check the e-visa portal (evisa.gouv.cd) yourself before paying anyone; its eligibility for Indians is unverified."
   ],
   "unverified": [
-   "Fee",
-   "Documents",
-   "Photo rules",
-   "Processing time",
-   "Biometrics",
-   "Any Indian-specific rule",
-   "Portal pages other than the landing page returned no readable text"
+   "Whether Indians can use the evisa.gouv.cd portal, and its fee",
+   "Portal photo rules and biometrics",
+   "Embassy fee page may list more rows after the proof of funds line"
   ],
   "sources": [
+   "https://www.ambardc-india.com/get-a-visa",
+   "https://www.incovisa.co.in/",
    "https://evisa.gouv.cd/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin"
+  "lastChecked": "2026-11-13",
+  "confidence": "partial",
+  "_note": "Fields not listed stay as in the repo (photo, warnings, unverified list): the apply entry should be revised by the parent; route value 'embassy' must be a value check_data.py accepts, otherwise keep 'online'."
  },
  {
   "country": "Djibouti",

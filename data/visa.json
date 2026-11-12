@@ -2116,16 +2116,15 @@
       "name": "Côte d'Ivoire",
       "trip": "T",
       "category": "evisa",
-      "rule": "Visa required. Indians are not on the visa exempt list; apply online for an e-visa on the official portal run by SNEDAI (snedai.com). Official page states: ordinary passport valid at least 6 months before application, fee 73 euros including bank charges for a 3 month multiple entry visa, paid by Visa or Mastercard. Three mandatory uploads: passport identity page, return air ticket booking, and a typed, signed, stamped and legalised invitation letter or accommodation certificate (missing one means automatic rejection). Approval is not guaranteed and fees are not refunded. An airport information site says apply at least 48 hours before departure and the e-visa is single entry standard (conflicts with the 3 month multiple entry wording; UNVERIFIED which applies). Yellow fever vaccination certificate is generally required for arrivals aged 1 year or more in Cote d'Ivoire (not confirmed on a page read this session; confirm with the embassy). Entry at Abidjan airport. No US/UK/Schengen/Canada visa waiver for Indians.",
+      "rule": "Visa required. Indians are not on the visa exempt list; apply online for an e-visa on the official portal run by SNEDAI (snedai.com), the only site the Ivorian government recognises. Official page states: ordinary passport valid at least 6 months before the application date, fee 73 euros including bank charges for a 3 month multiple entry visa, paid by Visa or Mastercard. Three mandatory uploads (JPG, PNG, GIF or PDF, each 1 MB or less): passport identity pages, return air ticket booking, and a typed, signed, stamped and legalised invitation letter or accommodation certificate (missing one means automatic rejection). Reply by email within about 48 working hours (police checks can take longer); the approved pre-enrolment document is valid 3 months. On arrival at Abidjan airport you carry the fee receipt, the approved document, a passport valid at least 6 months and the international yellow fever vaccination certificate, and give fingerprints and a photo at the airport visa desk, where the visa is printed. Approval is not guaranteed and fees are not refunded. No US/UK/Schengen/Canada visa waiver for Indians.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
         "https://snedai.com/e-visa",
-        "https://www.aeroport-abidjan.com/visa_on_arrival_ivory_coast.php",
         "https://royaumeuni.diplomatie.gouv.ci/visa.php?lang=en&num=1"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Fee and documents read on the official SNEDAI page; yellow fever rule and single versus multiple entry unverified; India specific eligibility not named on the page. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-13",
+      "note": "Fee, validity, documents, 3 month multiple entry and the yellow fever certificate at the airport are read on the official SNEDAI page (2026-11-13). The page does not name India specifically. Probable, not final. Confirm on snedai.com 2 to 3 months before travel."
     },
     {
       "country": "Mozambique",
@@ -2649,15 +2648,16 @@
       "name": "Democratic Republic of the Congo",
       "trip": "V",
       "category": "visa_required",
-      "rule": "Visa required in advance from the DRC embassy in New Delhi. Embassy listed fees: 1 month single entry 6,100 INR, 3 months multiple 13,250 INR, 6 months multiple 21,200 INR. Needs international yellow fever certificate, and proof of funds of at least 5,000 USD (embassy page). DRC also runs an e-visa portal but it could not be read, so Indian eligibility is UNVERIFIED. Passport validity UNVERIFIED. No easing from US/UK/Schengen/Canada/Australia/NZ/Japan/Korea visas found. Advisory: India's embassy in Kinshasa warns on security; eastern provinces (North and South Kivu, Ituri) are conflict zones and should be avoided.",
+      "rule": "Visa required in advance, no visa is issued at any port of entry. Apply through the embassy's visa application centre in India (INCO Visa Services, New Delhi, incovisa.co.in) for the DRC embassy in New Delhi. Embassy listed fees: 1 month single entry 6,100 INR, 3 months multiple 13,250 INR, 6 months multiple 21,200 INR, payable in cash or demand draft to the Embassy of the Democratic Republic of the Congo, non-refundable. Processing at least 10 working days, no rush service; applications are not processed more than 3 months before travel. Needs passport valid at least 6 months beyond the stay with two unused pages, three photos (white background), the international yellow fever certificate, airline ticket, an invitation letter (business or personal, notarised, valid 90 days) and proof of funds of at least 5,000 USD. DRC also runs an e-visa portal (evisa.gouv.cd) but its content could not be read, so Indian eligibility there is UNVERIFIED. No easing from US/UK/Schengen/Canada/Australia/NZ/Japan/Korea visas found. The Government of India (Health Ministry advisory of 23 May 2026) advises all citizens to avoid non-essential travel to the DRC because of the Ebola Bundibugyo outbreak; CDC also says avoid all travel to Ituri and North Kivu. Eastern provinces (North and South Kivu, Ituri) are also conflict zones.",
       "easedBy": [],
       "status": "probable",
       "sources": [
         "https://www.ambardc-india.com/get-a-visa",
-        "https://eoikinshasa.gov.in/pages/MjA,"
+        "https://www.incovisa.co.in/",
+        "https://eoikinshasa.gov.in/"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "UNVERIFIED: embassy page read via search excerpt; e-visa portal not readable (evisa.gouv.cd failed). Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-13",
+      "note": "Fees, processing, passport validity and funds read on the embassy page (2026-11-13). The embassy says all applications go through INCO Visa. The evisa.gouv.cd portal returned only a JavaScript shell. Probable, not final. Confirm with the embassy 2 to 3 months before travel."
     },
     {
       "country": "Gabon",
