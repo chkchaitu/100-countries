@@ -3784,12 +3784,14 @@
   ],
   "malaria": "widespread",
   "otherHealth": [
-   "CDC lists a global polio notice (Level 2, updated September 23, 2026): make sure polio vaccines are up to date before any international travel."
+   "CDC lists a global polio notice (Level 2, updated September 23, 2026): make sure polio vaccines are up to date before any international travel.",
+   "CDC travel health notice (updated November 9, 2026): yellow fever outbreak in the Bounkani Region of Côte d'Ivoire (also Burkina Faso and Ghana regions). Get vaccinated at least 10 days before travel and prevent mosquito bites.",
+   "CDC: poliovirus identified in Côte d'Ivoire in the past year; adults with a childhood series may get one IPV booster, others should complete a series before travel."
   ],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/ivory-coast"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-13",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and destination health ministry pages were not opened; yellow fever entry rules and risk taken from the CDC Travelers' Health page only"
@@ -4940,13 +4942,18 @@
   ],
   "malaria": "widespread",
   "otherHealth": [
-   "CDC: poliovirus identified in the Democratic Republic of the Congo in the past year; adults with a childhood series may get one IPV booster, others should complete a series before travel. Entry polio certificate requirement not verified",
+   "CDC Level 4 (Avoid All Travel) for Ituri and Nord-Kivu provinces: Ebola Bundibugyo virus disease outbreak (notice of August 4, 2026).",
+   "CDC Level 3 (Reconsider Nonessential Travel) for Haut-Uele and Tshopo provinces (August 4, 2026); Level 2 enhanced precautions for other DRC provinces and Uganda (August 28, 2026). No vaccine or specific treatment is approved for Bundibugyo virus.",
+   "Government of India Health Ministry advisory (23 May 2026): avoid non-essential travel to the DRC, Uganda and South Sudan.",
+   "CDC: meningococcal disease outbreak in Mangembo Health Zone, Kongo Central (March 24, 2026); vaccination advised.",
+   "CDC: poliovirus identified in the DRC in the past year; adults with a childhood series may get one IPV booster, others should complete a series before travel. Entry polio certificate requirement not verified",
    "Active cholera widespread"
   ],
   "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/democratic-republic-of-congo"
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/democratic-republic-of-congo",
+   "https://eoikinshasa.gov.in/public_files/assets/images/Kinshasa_popup_280526.jpg"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-13",
   "confidence": "partial",
   "unverified": [
    "WHO International Travel and Health country list not opened; rules taken from CDC Travelers' Health page (updated April 23, 2025) only",

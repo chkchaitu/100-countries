@@ -1,6 +1,6 @@
 {
   "about": "Active travel alerts for an Indian passport holder: airline suspensions, Indian embassy or MEA advisories, entry restrictions and closures. An alert stays listed until it is lifted. sourceLevel is official (official page read) or news (reported by news, official page not read yet).",
-  "lastChecked": "2026-11-07",
+  "lastChecked": "2026-11-13",
   "alerts": [
     {
       "id": "saudi-arabia-air-india-suspension",
@@ -100,6 +100,23 @@
       "sources": [
         "https://egazette.gov.in/WriteReadData/2026/277692.pdf",
         "https://www.mha.gov.in/en/divisionofmha/foreigners-division/acts-rules-and-regulations-pertaining-foreigners-division"
+      ]
+    },
+    {
+      "id": "drc-ebola-avoid-nonessential-travel",
+      "country": "Democratic Republic of the Congo",
+      "type": "advisory",
+      "severity": "high",
+      "title": "India advises avoiding non-essential travel to the DR Congo (Ebola)",
+      "summary": "The Government of India Health Ministry advisory dated 23 May 2026, posted on the Indian embassy in Kinshasa website, advises all Indian citizens to avoid non-essential travel to the Democratic Republic of the Congo, Uganda and South Sudan because of the Ebola Bundibugyo outbreak, which WHO declared a public health emergency of international concern on 17 May 2026. CDC lists Ituri and North Kivu as Level 4 (avoid all travel).",
+      "since": "2026-05-23",
+      "until": "",
+      "lastChecked": "2026-11-13",
+      "sourceLevel": "official",
+      "sources": [
+        "https://eoikinshasa.gov.in/",
+        "https://eoikinshasa.gov.in/public_files/assets/images/Kinshasa_popup_280526.jpg",
+        "https://wwwnc.cdc.gov/travel/destinations/traveler/none/democratic-republic-of-congo"
       ]
     }
   ]
