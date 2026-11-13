@@ -1249,17 +1249,19 @@
       "name": "Dominican Republic",
       "trip": "P",
       "category": "conditional",
-      "rule": "Visa required, but not if you hold a valid US, Canada or EU-state visa.",
+      "rule": "Visa required, but not if you hold a valid multiple entry visa for the US, Canada, UK or a Schengen state: then a tourist card is issued on arrival for tourism only. Single entry tourist visa fee US$100 (INR 8400) per the embassy, processing 21 working days.",
       "easedBy": [
         "US",
         "CA",
-        "SC"
+        "SC",
+        "UK"
       ],
       "status": "confirmed",
       "sources": [
+        "https://www.dominicanembassy.in/visas",
         "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-14",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -1583,11 +1585,10 @@
       "easedBy": [],
       "status": "probable",
       "sources": [
-        "https://www.mea.gov.in/vffin",
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
-        "https://www.chronic-wanderlust.com/caribbean-ferry"
+        "https://dominica.gov.dm/services/passports-and-travel-documents-non-nationals/do-i-need-a-visa-to-enter-into-dominica",
+        "https://www.mea.gov.in/vffin"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-14",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
