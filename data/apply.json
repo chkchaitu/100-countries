@@ -1064,8 +1064,8 @@
     "url": "https://visa.vfsglobal.com/ind/en/fra/book-an-appointment"
    },
    {
-    "label": "French Embassy in India: apply for a visa",
-    "url": "https://in.ambafrance.org/fr/demander-un-visa"
+    "label": "France in India: applying for a visa",
+    "url": "https://in.diplomatie.gouv.fr/en/applying-for-a-visa"
    }
   ],
   "formLinks": [],
@@ -1120,7 +1120,7 @@
   },
   "fee": "UNVERIFIED (not read on an official page during this check)",
   "processing": "UNVERIFIED",
-  "applyEarly": "UNVERIFIED (Schengen rules usually allow applying up to 6 months before travel, but not confirmed on an official page here)",
+  "applyEarly": "You can submit your visa application up to six months before your departure date (in.diplomatie.gouv.fr, page updated 9 March 2026). Waiting times for appointments and processing vary by country and time of year.",
   "biometrics": "Fingerprints are normally taken in person at the VFS centre, not confirmed on an official page here",
   "centres": "UNVERIFIED (VFS centres are in major Indian cities; confirm the list on the VFS page)",
   "warnings": [
@@ -1138,11 +1138,11 @@
    "Photo rules"
   ],
   "sources": [
-   "https://in.ambafrance.org/",
+   "https://in.diplomatie.gouv.fr/en/applying-for-a-visa",
    "https://in.ambafrance.org/fr/demander-un-visa",
    "https://visa.vfsglobal.com/ind/en/fra/book-an-appointment"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-16",
   "confidence": "thin",
   "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
  },
@@ -2150,7 +2150,7 @@
    "notes": "Not found on a readable official page.",
    "status": "unverified"
   },
-  "fee": "EUR 90 (INR 10,000) for an adult Schengen visa; EUR 45 (INR 5,000) for children 6 to 11; free for children under 6. From the Finland abroad India fee page as shown in an official search result, 2026-10-16. VFS service fee is extra, amount UNVERIFIED.",
+  "fee": "EUR 90 (INR 9,600) for an adult Schengen visa; EUR 45 (INR 4,800) for children 6 to 11; free for children under 6. From the Finland abroad India fee page, read 2026-11-16. VFS service fee is extra, amount UNVERIFIED.",
   "processing": "UNVERIFIED (standard Schengen rule is 15 calendar days, up to 45).",
   "applyEarly": "UNVERIFIED (standard Schengen rule is up to 6 months before and not later than 15 days before).",
   "biometrics": "Yes. All applications are submitted in person and biometrics are collected at the same time; fingerprints are skipped if taken less than 59 months ago. Centre: VFS in New Delhi is named for residence permits; for visas use the VFS booking page.",
@@ -2169,12 +2169,12 @@
    "VFS centre cities and service fee"
   ],
   "sources": [
-   "https://finlandabroad.fi/web/ind/where-and-how-to-apply-for-a-visa- (search result snippet only)",
-   "https://finlandabroad.fi/web/ind/visa-fee (search result snippet only)",
+   "https://finlandabroad.fi/web/ind/where-and-how-to-apply-for-a-visa-",
+   "https://finlandabroad.fi/web/ind/visa-fee",
    "https://finlandvisa.fi/",
    "https://visa.vfsglobal.com/ind/en/fin"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-16",
   "confidence": "thin",
   "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
  },
@@ -13366,7 +13366,7 @@
    "status": "unverified"
   },
   "centres": "Not applicable",
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-16",
   "country": "Fiji",
   "summary": "Indian citizens are on Fiji's visa-exempt list and get a visitor permit on arrival for up to 4 months. No online form is needed to enter. Carry a passport valid 6 months, return ticket, accommodation proof and a recent bank statement.",
   "applyLinks": [
@@ -13413,26 +13413,27 @@
     "note": "Only if arriving from a risk country"
    }
   ],
-  "fee": "No fee for the permit on arrival found. Extension fees apply (amount UNVERIFIED).",
+  "fee": "No fee for the permit on arrival found. Extension application fee is listed as 93.00 on the Visitors Permit page (currency not stated on the page).",
   "processing": "Not applicable (permit issued at immigration on arrival)",
   "applyEarly": "Not applicable",
   "biometrics": "UNVERIFIED",
   "warnings": [
-   "Visitor permit is up to 4 months; it can be extended by 2 more months if you apply before it expires.",
+   "Visitor permit is up to 4 months; it can be extended by 2 more months if you apply before it expires, and there is no further extension after that.",
    "Officers can grant fewer days, so show your return ticket and bookings.",
-   "Holiday visits only: a visitor permit cannot be used for work.",
-   "The Foreign Affairs list is marked as of 20.09.23; confirm the India entry on the Immigration Fiji list before travel."
+   "Holiday visits only: a visitor permit cannot be used to look for or take work.",
+   "Fiji Immigration lists India on its visa-exempt list (read 2026-11-16); the older Foreign Affairs list is dated 20.09.23."
   ],
   "unverified": [
    "Biometrics at the border",
-   "Extension fee amounts",
-   "Any recent change to the exempt list"
+   "Currency of the extension fee",
+   "Document list on arrival (official page lists requirements only for extensions)"
   ],
   "sources": [
-   "https://www.foreignaffairs.gov.fj/fiji-high-commission-new-zealand/visa-permits-waivers",
    "https://www.immigration.gov.fj/visa-exempted-countries",
    "https://www.immigration.gov.fj/visitors-permit",
-   "https://www.immigration.gov.fj/visit-fiji"
+   "https://www.immigration.gov.fj/visit-fiji",
+   "https://www.immigration.gov.fj/entering-fiji",
+   "https://www.foreignaffairs.gov.fj/fiji-high-commission-new-zealand/visa-permits-waivers"
   ],
   "confidence": "official"
  },
