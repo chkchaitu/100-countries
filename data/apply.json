@@ -459,7 +459,7 @@
    "https://india.diplo.de/in-en/2674158-2674158",
    "https://india.diplo.de/in-en/service/1984578-1984578"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-17",
   "confidence": "official",
   "schengenNote": "Germany stands in for the Schengen visa here. Other Schengen countries follow the same Schengen rules but you apply through that country's own mission or visa centre."
  },
@@ -4677,11 +4677,11 @@
   "documents": [
    {
     "item": "Passport",
-    "note": "Valid at least 3 months beyond the requested visa validity, at least 2 free pages, undamaged"
+    "note": "Valid at least 3 months beyond the requested visa validity, at least 2 free pages, undamaged, no unofficial remarks, issued within the previous 10 years"
    },
    {
     "item": "Photo",
-    "note": "Uploaded in the portal"
+    "note": "Uploaded in the portal; taken within 6 months, facing the camera"
    },
    {
     "item": "Credit or debit card",
@@ -4689,27 +4689,27 @@
    },
    {
     "item": "Document proving purpose of travel",
-    "note": "Itinerary or similar"
+    "note": "Invitation, letter from an organisation, or other document proving the purpose"
    },
    {
     "item": "Proof of accommodation",
-    "note": "Hotel booking or host details"
+    "note": "Hotel booking or rental agreement covering the whole stay, or host details"
    },
    {
     "item": "Travel and health insurance",
-    "note": ""
+    "note": "Must cover health costs and be valid in all of Georgia; exact minimum not stated in the FAQ"
    },
    {
     "item": "Proof of sufficient funds",
-    "note": "Bank statements; exact amount UNVERIFIED"
+    "note": "Bank statement for the past 3 months, employer letter showing position and income, real estate document, or a signed sponsor letter"
    }
   ],
   "photo": {
    "size": "UNVERIFIED",
    "background": "UNVERIFIED",
-   "format": "Uploaded file; details UNVERIFIED",
-   "notes": "Portal photo rules were not readable.",
-   "status": "unverified"
+   "format": "Uploaded file, taken within the last 6 months, facing the camera directly (no profile shots), head 50 to 70 percent of the image height; no hats except daily religious wear; copies of ID photos, snapshots, vending machine and mobile device photos are not accepted",
+   "notes": "Per the official e-visa FAQ. Pixel size and background colour are not stated in the FAQ.",
+   "status": "partial"
   },
   "fee": "20 USD plus 2% service fee (Georgia e-visa FAQ, checked 2026-10-16); non-refundable",
   "processing": "Not less than 5 working days to decide (e-visa FAQ)",
@@ -4723,9 +4723,9 @@
    "A refusal or wrong detail means a new application and a new fee."
   ],
   "unverified": [
-   "Photo specification",
-   "Funds and insurance minimums",
-   "Whether Indian visa holders of US/UK/Schengen get visa-free or free entry",
+   "Photo pixel size and background colour",
+   "Insurance minimum cover",
+   "Whether Indian visa holders of US/UK/Schengen get visa-free or free entry (not on any official page this machine could read)",
    "How early to apply",
    "Embassy of Georgia India page (403)"
   ],
@@ -4733,7 +4733,7 @@
    "https://www.evisa.gov.ge/GeoVisa/",
    "https://www.evisa.gov.ge/GeoVisa/en/Home/Faq"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-17",
   "confidence": "partial"
  },
  {
@@ -8151,11 +8151,11 @@
   "documents": [
    {
     "item": "Passport",
-    "note": "Valid passport with enough validity, UNVERIFIED on an official page"
+    "note": "Valid at least six months before arrival; upload a copy of the data page (official portal text)"
    },
    {
     "item": "Passport photo",
-    "note": "Digital photo upload"
+    "note": "Colour, 35 x 45 mm, taken within the last 6 months, no shadows"
    },
    {
     "item": "Accommodation and itinerary",
@@ -8171,11 +8171,11 @@
    }
   ],
   "photo": {
-   "size": "UNVERIFIED",
+   "size": "35 x 45 mm",
    "background": "UNVERIFIED",
-   "format": "UNVERIFIED",
+   "format": "Colour photo taken less than 6 months ago, no over or under exposure, no shadow on face or background",
    "notes": "",
-   "status": "unverified"
+   "status": "partial"
   },
   "fee": "UNVERIFIED (the portal page is JavaScript and showed no fee text; a free tourist promotion ran in 2025 only)",
   "processing": "UNVERIFIED (a 2025 press item mentioned under 48 hours during a promotion)",
@@ -8201,7 +8201,7 @@
    "https://evisa.dgdi.ga/",
    "https://visasnews.com/en/gabon-launches-new-free-tourist-e-visa-system"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-17",
   "confidence": "thin"
  },
  {
@@ -8264,7 +8264,7 @@
    "https://gid.gov.gm/visa",
    "https://gambia.gov.gm/immigration-and-visas"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-17",
   "confidence": "thin"
  },
  {

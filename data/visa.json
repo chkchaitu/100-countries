@@ -1735,7 +1735,7 @@
       "name": "Georgia",
       "trip": "H",
       "category": "evisa",
-      "rule": "Indian citizens need a visa unless they hold a valid visa or residence permit from US, UK, Schengen, Canada (and Australia, Japan, Korea, NZ, Israel, Ireland, GCC states per secondary lists): then visa free up to 90 days in any 180 days. Qualifying visa must be valid at entry. Otherwise eVisa at evisa.gov.ge: consular fee from USD 20 plus DuVerify step USD 15 (total about USD 35; secondary source), minimum about 5 working days. From 1 Jan 2026 tourists must hold health/accident insurance (minimum cover reported inconsistently: GEL 30,000 vs USD 30,000, UNCERTAIN).",
+      "rule": "Indian citizens need a visa unless they hold a valid visa or residence permit from US, UK, Schengen, Canada (and Australia, Japan, Korea, NZ, Israel, Ireland, GCC states per secondary lists): then visa free up to 90 days in any 180 days. Qualifying visa must be valid at entry. Otherwise eVisa at evisa.gov.ge: fee USD 20 plus 2 percent service fee, non-refundable (official e-visa FAQ); some secondary sources add a separate DuVerify step of about USD 15, which the official FAQ does not mention (UNVERIFIED), minimum about 5 working days. From 1 Jan 2026 tourists must hold health/accident insurance (minimum cover reported inconsistently: GEL 30,000 vs USD 30,000, UNCERTAIN).",
       "easedBy": [
         "US",
         "SC",
@@ -1744,12 +1744,13 @@
       ],
       "status": "probable",
       "sources": [
+        "https://www.evisa.gov.ge/GeoVisa/en/Home/Faq",
         "https://btwvisas.com/visa-guide/georgia-visa",
         "https://www.traveldoc.aero/en/news-travel-guides/travel-guides/the-complete-georgia-visa-breakdown-visa-free-evisa-immigration-visas",
         "https://www.goindigo.in/information/visa-information/georgia-ge-visa.html",
         "https://www.godigit.com/international-travel-insurance/visa/e-visa-countries-for-indians"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-17",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -1757,16 +1758,17 @@
       "name": "Germany",
       "trip": "H",
       "category": "visa_required",
-      "rule": "Schengen short stay (type C) visa required, up to 90 days in any 180 days. Fee EUR 90 (about INR 9,590) plus visa centre service charge about INR 400 to 3,125 and travel insurance (about EUR 30,000 cover). Apply 6 months to 15 days before travel at the consulate or VFS/other centre; apply at the country of main destination. A US, UK or Canada visa does NOT waive the Schengen visa for Indians. ETIAS does not apply to Indians (visa required nationals). EES biometric entry system live since 10 Apr 2026 per a secondary source (probable).",
+      "rule": "Schengen short stay (type C) visa required, up to 90 days in any 180 days. Fee EUR 90 (INR 9,900 per the German mission page of 01.10.2026) plus a VFS service charge paid when booking the appointment (amount UNVERIFIED) and travel insurance (about EUR 30,000 cover). Apply 6 months to 15 days before travel at the consulate or VFS/other centre; apply at the country of main destination. A US, UK or Canada visa does NOT waive the Schengen visa for Indians. ETIAS does not apply to Indians (visa required nationals). EES biometric entry system live since 10 Apr 2026 per a secondary source (probable).",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
+        "https://india.diplo.de/in-en/service/1984596-1984596",
         "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en",
         "https://www.atlys.com/blog/schengen-visa-fees-2026",
         "https://www.atlys.com/blog/schengen-visa",
         "https://newdelhi.mae.lu/en/service_citoyens/visa-immigration/short-term-schengen-visa.html"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-17",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -2501,14 +2503,14 @@
       "name": "Gambia",
       "trip": "U",
       "category": "visa_required",
-      "rule": "Official Gambia Immigration Department page lists India among Asian countries that need BOTH a visa and entry clearance (security clearance), so apply before travel through a Gambian mission or the official channel. Short visit visa covers up to 90 days for bona fide tourists or business visitors who are residents of the applying country, with return or onward ticket and funds. Fee not shown on page read: UNVERIFIED. Gambia has no embassy in India as far as verified, so check the nearest mission. Yellow fever vaccination card required per gambia.gov.gm. No evidence that US, UK, Schengen or other visas ease it.",
+      "rule": "Official Gambia Immigration Department page lists India among Asian countries that need BOTH a visa and entry clearance (security clearance), so apply before travel through a Gambian mission or the official channel. Short visit visa covers up to 90 days for bona fide tourists or business visitors who are residents of the applying country, with return or onward ticket and funds. Fee not shown on page read: UNVERIFIED. Gambia has no embassy in India as far as verified, so check the nearest mission. Yellow fever vaccination card required per gambia.gov.gm. No evidence that US, UK, Schengen or other visas ease it. The Immigration Department page (read 2026-11-17) also describes a transit visa for passing through the Gambia en route to a further destination; fee not shown.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
         "https://gid.gov.gm/visa",
         "https://gambia.gov.gm/immigration-and-visas"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-17",
       "note": "UNVERIFIED: visa fee, application route for Indians, processing time; gid.gov.gm needs certificate bypass to load. Some sources mention a Gambia e-visa or travel authorisation, not confirmed. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -2666,14 +2668,14 @@
       "name": "Gabon",
       "trip": "V",
       "category": "evisa",
-      "rule": "E-visa required for Indian ordinary passport holders (Gabon runs an official e-visa portal, evisa.dgdi.ga, for arrival at Libreville Leon Mba airport; the portal says Gabon has established an e-visa to facilitate entry). Per press reports (VisasNews) the fee was paid in cash on arrival, with online payment planned from Dec 2025; current fee, stay length and any passport validity rule are UNVERIFIED (official portal would not load with a valid certificate from this server and the portal is JavaScript driven). A temporary 2025 Tourist Caravan promotion (1 Jul to 30 Sep 2025) has ended. Yellow fever certificate: Gabon is understood to require it for travellers aged 1 year and over, UNVERIFIED. No evidence that a US/UK/Schengen/Canada/Australia/NZ/Japan/Korea visa waives or eases it.",
+      "rule": "E-visa required for Indian ordinary passport holders (Gabon runs an official e-visa portal, evisa.dgdi.ga, for arrival at Libreville Leon Mba airport; the portal says Gabon has established an e-visa to facilitate entry). Per press reports (VisasNews) the fee was paid in cash on arrival, with online payment planned from Dec 2025; current fee, stay length and any passport validity rule are UNVERIFIED (official portal would not load with a valid certificate from this server and the portal is JavaScript driven). A temporary 2025 Tourist Caravan promotion (1 Jul to 30 Sep 2025) has ended. Yellow fever certificate: Gabon is understood to require it for travellers aged 1 year and over, UNVERIFIED. No evidence that a US/UK/Schengen/Canada/Australia/NZ/Japan/Korea visa waives or eases it. Official portal text (read 2026-11-17): passport must be valid at least six months before arrival, and the online form needs a copy of the passport data page.",
       "easedBy": [],
       "status": "probable",
       "sources": [
         "https://gabonhighcommission.org.uk/tourist-e-visa",
         "https://visasnews.com/en/gabon-toward-a-fully-digital-e-visa-by-december-2025"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-17",
       "note": "UNVERIFIED: fee, stay length, yellow fever rule; official portal evisa.dgdi.ga could not be read (TLS error and JavaScript). Embassy page read is only a 2025 promo notice. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {

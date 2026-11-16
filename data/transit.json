@@ -3788,7 +3788,7 @@
   "country": "Georgia",
   "airside": {
    "visaNeeded": "no",
-   "rule": "Secondary sources say no visa is needed if you stay in the international transit area and do not clear immigration; this was not confirmed on an official Georgian page.",
+   "rule": "No visa is needed if you do not leave the international transit area (official Georgia e-visa FAQ, read 2026-11-17).",
    "maxHours": "UNVERIFIED",
    "conditions": [
     "stay airside"
@@ -3808,12 +3808,13 @@
    "Sources disagree on transit visa length (72 hours vs up to 5 days); verify with the Georgian MFA.",
    "Georgia is not a mainstream hub for Indian travellers."
   ],
-  "sources": [],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "sources": [
+   "https://www.evisa.gov.ge/GeoVisa/en/Home/Faq"
+  ],
+  "lastChecked": "2026-11-17",
+  "confidence": "partial",
   "unverified": [
-   "official source",
-   "fee",
+   "landside transit rules and fee",
    "third-country visa waivers"
   ]
  },
@@ -3821,7 +3822,7 @@
   "country": "Germany",
   "airside": {
    "visaNeeded": "no",
-   "rule": "Not required. Indian citizens are not on the German Federal Foreign Office's list of nationalities that need an airport transit visa (category A), as shown on the Foreign Office FAQ page opened on 2026-10-16. They can use the transit privilege if they stay in the international transit area and the destination is not a Schengen country. A secondary source says India was removed from the list on 3 June 2026.",
+   "rule": "Not required. The German Missions in India announced on 02.06.2026 that Indian nationals no longer need an airport transit visa for a layover at a German airport. They can use the transit privilege if they stay in the international transit area and the destination is not a Schengen country.",
    "maxHours": "Not stated (transit area hours: Hamburg 4:30 to 23:30, Dusseldorf 6:00 to 21:00)",
    "conditions": [
     "stay in international transit area",
@@ -3845,11 +3846,12 @@
    "A UK visa does not exempt from German transit visa requirements (embassy page); irrelevant for Indians now but check the airline."
   ],
   "sources": [
+   "https://india.diplo.de/in-en/service/2633540-2633540",
    "https://www.auswaertiges-amt.de/en/visa-service/buergerservice/faq/33-transit/606710",
    "https://uk.diplo.de/uk-en/02/visa/airport-transit-visas-2442170",
    "https://www.germany-visa.org/airport-transit-visa"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-17",
   "confidence": "official",
   "unverified": [
    "fee for the Schengen C visa",
@@ -5426,7 +5428,7 @@
   "country": "Gambia",
   "airside": {
    "visaNeeded": "unverified",
-   "rule": "No published airside transit rule found. The official Gambia government immigration and visas page appeared in search but could not be opened to confirm content.",
+   "rule": "gid.gov.gm lists a Transit Visa for people passing through the Gambia en route to a further destination; the page excerpt does not state an airside exemption for Indians. UNVERIFIED.",
    "maxHours": "UNVERIFIED",
    "conditions": []
   },
@@ -5444,8 +5446,10 @@
    "Banjul is a rare connection from India.",
    "Confirm with the Gambia Immigration Department."
   ],
-  "sources": [],
-  "lastChecked": "2026-10-16",
+  "sources": [
+   "https://gid.gov.gm/visa"
+  ],
+  "lastChecked": "2026-11-17",
   "confidence": "thin",
   "unverified": [
    "Airside transit rule for Indian passport holders",
