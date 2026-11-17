@@ -861,14 +861,15 @@
       "name": "Greece",
       "trip": "J",
       "category": "visa_required",
-      "rule": "Schengen visa required.",
+      "rule": "Schengen short stay (Type C) visa required for Indian ordinary passport holders. Apply at a Global Visa Center World (GVCW) centre for Greece in India (the official service provider of the Greek consular authorities) or directly at the Greek Embassy in New Delhi; the embassy decides. Fee EUR 90 (INR 9,540) plus a GVCW service fee of EUR 30, both paid in INR. Applications can be lodged 6 months before travel and no later than 15 working days before.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
+        "https://in-gr.gvcworld.eu/en/visa-info-tourism",
         "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-18",
+      "note": "Fee and route read on the GVCW Greece page on 2026-11-18. mfa.gr blocked (403). Confirm on the official government site 2 to 3 months before travel."
     },
     {
       "country": "United Kingdom",
@@ -1574,7 +1575,7 @@
         "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
         "https://www.puregrenada.com/travel-requirements"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-18",
       "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -1906,16 +1907,17 @@
       "name": "Ghana",
       "trip": "T",
       "category": "evisa",
-      "rule": "Indian ordinary passport holders are not visa exempt, so a visa is needed before travel. Since 25 May 2026 Ghana runs an official online eVisa portal (Ghana Immigration Service with the Foreign Ministry) for tourism or business, offered as an alternative to applying at a Ghana mission. Approval usually takes 72 to 96 hours, the eVisa is emailed and shown printed or digital at any port of entry. A specimen tourist eVisa on the portal shows single entry, 30 days stay, and a note that the passport must be valid at least 6 months beyond the stay. Visa on arrival has been replaced by pre-approval only (host sponsored, not for casual tourists). Fee: UNVERIFIED (not shown on pages read). Yellow fever vaccination certificate: UNVERIFIED on official pages read; Ghana is widely reported to require it for travellers aged 9 months and over, so carry the certificate. An Indian's US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visa does not waive or ease the Ghana visa (no official source says it does).",
+      "rule": "Indian ordinary passport holders are not visa exempt, so a visa is needed before travel. Since 25 May 2026 Ghana runs an official online eVisa portal (Ghana Immigration Service with the Foreign Ministry) for tourism (B2) or business (B1), offered as an alternative to applying at a Ghana mission. India is listed on the portal. Approval usually takes up to 96 hours on the Standard tier. The eVisa is emailed and shown printed or digital at any port of entry. Ghana currently issues single entry eVisas only, valid for 90 days from the date of issue, and the immigration officer at the port of entry decides the length of stay, up to a maximum of 60 days. The passport must be valid at least 6 months from your departure from Ghana and have at least 3 blank pages. Fee (same for all nationalities, depends on speed): Standard USD 260 (96 hours), Priority USD 338 (48 hours), Express USD 442 (5 hours). A valid yellow fever vaccination certificate is required for entry. Visa on arrival has been replaced by pre-approval only (host sponsored, not for casual tourists). An Indian's US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visa does not waive or ease the Ghana visa (no official source says it does).",
       "easedBy": [],
       "status": "probable",
       "sources": [
         "https://evisa.immigration.gov.gh/",
-        "https://www.fragomen.com/insights/ghana-new-electronic-travel-authorization-eta-and-evisa-requirements-visa-on-arrival-discontinued.html",
+        "https://evisa.immigration.gov.gh/visa-information",
+        "https://evisa.immigration.gov.gh/applicant-guide.html",
         "https://gis.gov.gh/visas"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Portal read but fee, Indian specific stay length and yellow fever rule are UNVERIFIED; Ghana mission in India page not reachable (domain did not resolve); MEA advisory for Ghana not checked. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-18",
+      "note": "Fee, validity, stay limit and yellow fever rule read on the official Ghana eVisa applicant guide on 2026-11-18. Ghana mission in India page not reachable (eoiaccra.gov.in is the Indian mission in Ghana and did not respond); MEA advisory for Ghana not checked. Confirm on the official government site 2 to 3 months before travel."
     },
     {
       "country": "Nigeria",

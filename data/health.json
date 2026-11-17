@@ -1506,7 +1506,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/greece"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-18",
   "confidence": "partial",
   "unverified": [
    "Only the CDC Travelers' Health country page was opened; destination health ministry and WHO ITH country list not checked."
@@ -2802,7 +2802,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/grenada"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-18",
   "confidence": "partial",
   "unverified": [
    "Only CDC Travelers' Health opened (updated April 2025 to Feb 2026 for YF entry data); WHO ITH and destination health ministry not checked",
@@ -3349,7 +3349,7 @@
  {
   "country": "Ghana",
   "yellowFever": {
-   "entryRule": "Required for all travellers (all arriving travellers aged 9 months or older), including those arriving directly from India",
+   "entryRule": "Required for entry: the official Ghana eVisa guide says a valid yellow fever vaccination certificate is required for entry and may be checked at the port of entry (CDC lists all arriving travellers aged 9 months or older). Applies to travellers from India too.",
    "riskInCountry": "yes",
    "vaccineAdvised": "yes"
   },
@@ -3372,15 +3372,17 @@
   "malaria": "widespread (CDC advises prophylaxis for all of Ghana, P. falciparum with chloroquine resistance)",
   "otherHealth": [
    "CDC notes dengue risk in Africa",
-   "CDC notes localized active cholera in Ashanti, Central, Greater Accra, Northern and Western regions"
+   "CDC notes localized active cholera in Ashanti, Central, Greater Accra, Northern and Western regions",
+   "CDC Level 2 notice (updated 9 Nov 2026): yellow fever outbreak in the Upper West Region of Ghana (also Burkina Faso and Cote d'Ivoire border regions). Vaccinate at least 10 days before travel and prevent mosquito bites."
   ],
   "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/ghana"
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/ghana",
+   "https://evisa.immigration.gov.gh/applicant-guide.html"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-18",
   "confidence": "partial",
   "unverified": [
-   "WHO ITH and Ghana health service pages not opened; CDC page used. Ghana is also on India's yellow fever risk list, so returning to India needs a valid certificate (see global.json)"
+   "WHO ITH and Ghana health service pages not opened; CDC page and Ghana Immigration guide used. Ghana is also on India's yellow fever risk list, so returning to India needs a valid certificate (see global.json)"
   ]
  },
  {
@@ -4028,7 +4030,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/guatemala"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-18",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and destination health ministry pages were not opened; yellow fever entry rules and risk taken from the CDC Travelers' Health page only"
