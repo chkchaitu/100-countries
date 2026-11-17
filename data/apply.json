@@ -1835,29 +1835,28 @@
    "notes": "From the GVCW Greece tourism page.",
    "status": "verified"
   },
-  "fee": "UNVERIFIED. GVCW says the visa and service fee are paid in INR at the centre; the amounts were not read on pages opened.",
+  "fee": "Visa fee EUR 90 (INR 9,540) plus GVCW service fee EUR 30 (paid in INR, calculated daily at the ECB rate), per application. Payment methods incl. UPI at the centre (GVCW page, read 2026-11-18); free for children under 12.",
   "processing": "Up to 15 days, extendable to 45 working days where other Schengen states must be consulted. Add 5 days if lodging outside New Delhi.",
   "applyEarly": "Up to 6 months before travel and no later than 15 working days before travel.",
   "biometrics": "Yes: biometrics at the GVCW centre in India. Interview at the Greek Embassy in New Delhi possible.",
   "centres": "GVCW Visa Application Centers for Greece across India (list page not opened); New Delhi VAC forwards other-city files to the embassy.",
   "warnings": [
    "Beware of fake sites and agents who sell appointments; GVCW warns about this on its page.",
-   "Walk-in applications were suspended on Oct 15, 16 and 19 2026 and resume on Oct 21 (GVCW notice).",
    "Apply early; last-minute appointments are hard to find.",
-   "One separate document pack is needed per applicant, A4 format only."
+   "One separate document pack is needed per applicant, A4 format only.",
+   "All applicants must appear in person for biometrics (fingerprints and photo)."
   ],
   "unverified": [
-   "Visa fee and service fee amounts",
-   "List of centre cities",
+   "List of centre cities (the centres page link returned 404)",
    "Greek MFA pages (mfa.gr returned 403)",
-   "Whether the embassy accepts direct applications for ordinary passports"
+   "Whether the embassy accepts direct applications for ordinary passports in practice (GVCW says direct applications are possible under Art. 17(5) of the Visa Code)"
   ],
   "sources": [
    "https://in-gr.gvcworld.eu/en/visa-info-tourism",
    "https://in-gr.gvcworld.eu/en",
    "https://in-gr.gvcworld.eu/en/news/important-notice-temporary-suspension-of-walk-in-applications-at-visa-application-centres-in"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-18",
   "confidence": "partial",
   "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
  },
@@ -8289,56 +8288,61 @@
   "documents": [
    {
     "item": "Passport",
-    "note": "Valid at least 6 months beyond your stay (stated on the portal's sample e-visa)"
+    "note": "Valid at least 6 months from your intended departure from Ghana, with at least 3 blank pages (applicant guide)"
    },
    {
-    "item": "Passport photo and bio page scan",
-    "note": "Uploaded online"
+    "item": "Passport photo",
+    "note": "Recent colour photo, about 3.5 x 4.5 cm, plain white or light background, taken within 6 months, uploaded online"
    },
    {
-    "item": "Itinerary and accommodation or host details",
-    "note": "Typically required, see the applicant guide"
+    "item": "Confirmed return or onward ticket",
+    "note": "Required"
    },
    {
-    "item": "Bank statements",
-    "note": "Typically required, UNVERIFIED"
+    "item": "Proof of accommodation for the whole stay",
+    "note": "Hotel or guesthouse booking, or a signed host letter with the host's ID and address if staying with a host"
+   },
+   {
+    "item": "Proof of sufficient funds (tourist)",
+    "note": "Bank or credit card statement covering the last 3 months"
    },
    {
     "item": "Yellow fever certificate",
-    "note": "Typically required for Ghana, UNVERIFIED"
+    "note": "Required for entry; carry it when you travel"
    }
   ],
   "photo": {
-   "size": "UNVERIFIED",
-   "background": "UNVERIFIED",
-   "format": "UNVERIFIED",
-   "notes": "See the portal's applicant guide for photo rules",
-   "status": "unverified"
+   "size": "About 3.5 x 4.5 cm",
+   "background": "Plain white or light",
+   "format": "Recent colour photo (within 6 months), full face visible, eyes open, no filters",
+   "notes": "Follow the portal's current upload specifications.",
+   "status": "verified"
   },
-  "fee": "Standard USD 260 (96 hours), Priority USD 338 (48 hours), Express USD 442 (5 hours), per application, as shown on the official portal page on 2026-10-16",
+  "fee": "Standard USD 260 (96 hours), Priority USD 338 (48 hours), Express USD 442 (5 hours), per application, flat and not based on nationality (official portal and applicant guide, read 2026-11-18)",
   "processing": "Standard within 96 hours, Priority 48 hours, Express 5 hours (portal)",
-  "applyEarly": "UNVERIFIED",
+  "applyEarly": "The eVisa is valid for 90 days from issue, so the guide advises applying close enough to travel that your entry falls within 90 days",
   "biometrics": "Online; no in-person step stated on the portal pages I could read",
   "centres": "Not applicable (online)",
   "warnings": [
    "Use evisa.immigration.gov.gh only; copycat sites exist",
    "Fee depends on speed tier; the portal says it is not nationality based",
-   "Passport needs 6 months validity beyond stay",
-   "Entry is at the officer's discretion even with an e-visa"
+   "Passport needs 6 months validity from departure and 3 blank pages",
+   "Single entry eVisa, valid 90 days from issue, stay up to 60 days decided by the officer at entry",
+   "Entry is at the officer's discretion even with an e-visa",
+   "Applications cannot be edited or withdrawn after submission; contact portal support for corrections"
   ],
   "unverified": [
-   "Full document checklist for Indian applicants",
-   "Photo size and format",
-   "Maximum stay and validity beyond the 30 day sample",
-   "Apply-early window"
+   "Maximum stay for an Indian applicant is set by the officer at entry, not fixed in advance",
+   "Business visa (B1) document list not reviewed for Indians beyond the general guide"
   ],
   "sources": [
    "https://evisa.immigration.gov.gh/",
    "https://evisa.immigration.gov.gh/visa-information",
-   "https://evisa.immigration.gov.gh/register"
+   "https://evisa.immigration.gov.gh/register",
+   "https://evisa.immigration.gov.gh/applicant-guide.html"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "partial"
+  "lastChecked": "2026-11-18",
+  "confidence": "official"
  },
  {
   "country": "Guatemala",
@@ -13448,7 +13452,7 @@
    "status": "unverified"
   },
   "centres": "Not applicable",
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-18",
   "country": "Grenada",
   "summary": "Indian passport holders are reported as visa-free for Grenada, but the official Grenada pages could not be read to confirm India. Before travel complete the free online ED card at edcard.gov.gd (within 72 hours of arrival) and carry a passport valid 6 months and a return ticket.",
   "applyLinks": [
