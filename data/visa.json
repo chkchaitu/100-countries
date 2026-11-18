@@ -2280,7 +2280,7 @@
         "https://guyanaconsulatenewyork.org/visas",
         "https://eservices.iss.gov.gy/visitor-visa"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-19",
       "note": "Official Guyana embassy list and consulate visa-on-arrival advisory read; fee, e-visa details and yellow fever rule UNVERIFIED. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -2520,14 +2520,14 @@
       "name": "Guinea",
       "trip": "U",
       "category": "evisa",
-      "rule": "Official Guinea eVisa portal (paf.gov.gn) says foreign nationals need a visa except visa-waiver countries; apply online, receive an Entry Visa Letter, then collect the visa at the on-arrival counter with photo and fingerprints. Fees shown on the portal include USD 100 for a stay not exceeding 90 days and USD 50 for short 3-day visas (roughly INR 8,800 and INR 4,400); the exact tourist line for Indians was not clearly mapped. Yellow fever certificate required. Bring the Entry Visa Letter, return ticket and funds proof. Entry mainly Conakry airport (CKY). No evidence that US, UK, Schengen or other visas ease it.",
+      "rule": "Official Guinea eVisa portal (paf.gov.gn) says foreign nationals need a visa except visa-waiver countries; apply online, receive an Entry Visa Letter, then collect the visa at the on-arrival counter, where photo and fingerprints are taken. Fees shown on the portal include USD 100 for a stay under 90 days and USD 50 for 3-day visas (roughly INR 8,800 and INR 4,400); the exact tourist line for Indians was not clearly mapped. Yellow fever certificate required. At arrival carry a passport valid for more than 6 months, the Entry Visa Letter, a return ticket, proof of accommodation and proof of funds. Entry mainly Conakry airport (CKY). No evidence that US, UK, Schengen or other visas ease it.",
       "easedBy": [],
       "status": "probable",
       "sources": [
         "https://www.paf.gov.gn/visa",
         "https://www.atlys.com/en-IN/visa/guinea-visa"
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-19",
       "note": "UNVERIFIED: portal text was read as flattened HTML so the fee-to-visa-type mapping and India-specific rule are not certain; passport validity not confirmed. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
@@ -2535,14 +2535,14 @@
       "name": "Guinea-Bissau",
       "trip": "U",
       "category": "on_arrival",
-      "rule": "MEA's Visa Facility for Indian Nationals page (search snippet) says Guinea-Bissau has visa on arrival for Indians, valid 90 days, fee USD 100 (about INR 8,800), and advises getting an authorisation from the Ministry of Interior on request of a host or employer. Yellow fever certificate is generally expected; UNVERIFIED. Entry mainly Bissau airport (OXB). No evidence that US, UK, Schengen or other visas ease it.",
+      "rule": "MEA's Visa Facility for Indian Nationals page says Guinea-Bissau has visa on arrival for Indian nationals, valid 90 days, fee USD 100 (about INR 8,800), and advises getting an authorisation to enter from the Ministry of Interior, issued on the request of a host or employer. Yellow fever certificate is required for all arriving travellers aged 1 year or older (CDC). Entry mainly Bissau airport (OXB). No evidence that US, UK, Schengen or other visas ease it.",
       "easedBy": [],
       "status": "probable",
       "sources": [
         "https://www.mea.gov.in/vffin"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "UNVERIFIED: mea.gov.in blocked direct fetch (403), so rule is from the search snippet; no Guinea-Bissau government page read; passport validity and yellow fever rule unconfirmed. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-19",
+      "note": "MEA page read directly on 2026-11-19 (page dated 27 Aug 2026). UNVERIFIED: no Guinea-Bissau government page read, so passport validity is unconfirmed. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {
       "country": "Sierra Leone",
@@ -2898,7 +2898,7 @@
         "https://en.wikipedia.org/wiki/Visa_policy_of_Haiti",
         "https://www.mea.gov.in/advisories-details.htm?37="
       ],
-      "lastChecked": "2026-10-16",
+      "lastChecked": "2026-11-19",
       "note": "Check the Ministry of External Affairs advisory before any travel; it could not be read. MEA advisory seen only as search snippet (page returned 403); 90 day stay and yellow fever rule UNVERIFIED. Practical entry is risky: the main airport has had closures. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
     },
     {

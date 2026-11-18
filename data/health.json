@@ -4090,7 +4090,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/guyana"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-19",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; all facts are from the CDC Travelers' Health page (CDC yellow fever table dated April 23, 2025)",
@@ -4627,7 +4627,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/guinea"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-19",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; all facts are from the CDC Travelers' Health page (CDC yellow fever table dated April 23, 2025)"
@@ -4664,7 +4664,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/guinea-bissau"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-19",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; all facts are from the CDC Travelers' Health page (CDC yellow fever table dated April 23, 2025)"
@@ -5416,12 +5416,13 @@
   "otherHealth": [
    "Active widespread cholera transmission (CDC)",
    "Dengue risk",
+   "CDC travel notice (Level 1, 25 June 2026): diphtheria outbreak in Haiti; make sure diphtheria vaccination (Td or DTaP) is up to date",
    "Check current security and health-system notices before travel; not verified here"
   ],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/haiti"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-19",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and destination health ministry not checked; data from CDC Travelers' Health only"
