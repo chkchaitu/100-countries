@@ -8417,19 +8417,19 @@
   "documents": [
    {
     "item": "Passport",
-    "note": "Validity and blank pages rule UNVERIFIED; usually 6 months validity"
+    "note": "Valid for more than 6 months at arrival, plus a scanned copy of the data page (paf.gov.gn)"
    },
    {
     "item": "Passport-style photo",
-    "note": "Typically uploaded online; rules UNVERIFIED"
+    "note": "Photo and fingerprints are also captured at the on-arrival counter; upload rules UNVERIFIED"
    },
    {
-    "item": "Return or onward ticket and accommodation details",
-    "note": "Commonly asked, UNVERIFIED"
+    "item": "Return ticket, proof of accommodation and proof of funds",
+    "note": "Listed by the portal as needed at the entry checkpoint"
    },
    {
     "item": "Yellow fever vaccination certificate",
-    "note": "Commonly required for entry to West Africa; UNVERIFIED for Guinea on an official page"
+    "note": "Listed as a condition on the official portal"
    }
   ],
   "photo": {
@@ -8461,14 +8461,19 @@
   "sources": [
    "https://www.paf.gov.gn/visa"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-19",
   "confidence": "thin"
  },
  {
   "country": "Guinea-Bissau",
   "route": "embassy",
-  "summary": "No official Guinea-Bissau visa page could be found or opened. Secondary sites say the online e-visa is suspended and that visas may be issued on arrival or through an embassy abroad. Contact a Guinea-Bissau mission before booking, and do not rely on third-party portals.",
-  "applyLinks": [],
+  "summary": "MEA says Indians can get a visa on arrival (90 days, USD 100) and that it is advisable to get an entry authorisation from the Guinea-Bissau Ministry of Interior, requested by a host or employer. No official Guinea-Bissau visa page could be found or opened. Secondary sites say the online e-visa is suspended. Contact a Guinea-Bissau mission before booking, and do not rely on third-party portals.",
+  "applyLinks": [
+   {
+    "label": "MEA: Visa facility for Indian nationals",
+    "url": "https://www.mea.gov.in/vffin"
+   }
+  ],
   "formLinks": [],
   "documents": [
    {
@@ -8495,7 +8500,7 @@
    "notes": "",
    "status": "unverified"
   },
-  "fee": "UNVERIFIED",
+  "fee": "USD 100 for visa on arrival, 90 days (MEA). Authorisation fee UNVERIFIED.",
   "processing": "UNVERIFIED",
   "applyEarly": "UNVERIFIED",
   "biometrics": "UNVERIFIED",
@@ -8515,10 +8520,7 @@
    "Mission covering India",
    "No working official apply link could be confirmed. Search for the official visa page."
   ],
-  "sources": [
-   "https://www.rgb-visa.com/"
-  ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-19",
   "confidence": "thin"
  },
  {
@@ -8598,7 +8600,7 @@
   "sources": [
    "https://newdelhihc.mission.gov.gy/consular-services/visa-enter-guyana"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-19",
   "confidence": "official"
  },
  {
@@ -13530,7 +13532,7 @@
    "status": "unverified"
   },
   "centres": "Not applicable",
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-19",
   "country": "Haiti",
   "summary": "Indian citizens do not need a visa for tourism in Haiti: the Embassy of Haiti says tourists generally need no entry visa and lists the only 9 nationalities that do (India is not among them). Carry a passport valid at least 6 months and pay a USD 10 tax on arrival at the airport. Check your government's current travel advisory, as security conditions in Haiti are serious.",
   "applyLinks": [
