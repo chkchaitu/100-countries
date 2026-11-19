@@ -13,21 +13,25 @@
    "Typhoid",
    "Japanese encephalitis",
    "Rabies (consider)",
-   "Chikungunya (consider only for stays of 6 months or more)",
-   "Measles (MMR, up to date)"
+   "Chikungunya (consider for extended stays, for example 6 months or more)",
+   "Measles (MMR, up to date)",
+   "Routine vaccines (up to date)",
+   "COVID-19 (up to date)"
   ],
-  "malaria": "some areas (eastern Indonesia provinces Maluku, North Maluku, East Nusa Tenggara, Papua, West Papua, plus rural parts of Kalimantan, Lombok, Sulawesi, Sumatra; prophylaxis advised there)",
+  "malaria": "CDC recommends malaria prevention medicine for affected areas. Transmission occurs across eastern Indonesia, including Labuan Bajo and the Komodo Islands, and in rural Kalimantan, West Nusa Tenggara including Lombok, Sulawesi and Sumatra. Low transmission occurs in rural Java. CDC lists no transmission in Jakarta, Ubud, resort areas of Bali or Java, the Gili Islands or Thousand Islands. Discuss the exact itinerary with a clinician.",
   "otherHealth": [
-   "CDC notes dengue risk and elevated chikungunya risk"
+   "CDC notes dengue risk and elevated chikungunya risk",
+   "All Indonesia integrates the mandatory health, immigration, customs and quarantine arrival declaration. Complete it from 3 days before arrival."
   ],
   "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/indonesia"
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/indonesia",
+   "https://www.imigrasi.go.id/siaran_pers/mulai-1-oktober-deklarasi-kedatangan-penumpang-wajib-dilakukan-di-aplikasi-all-indonesia"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-20",
   "confidence": "partial",
   "unverified": [
-   "WHO ITH country list and the destination health ministry page were not opened; yellow fever risk status is from CDC (CDC says no vaccine recommended, which matches no WHO transmission risk)",
-   "Whether the destination applies any extra health declaration or insurance rule is not verified"
+   "WHO ITH country list and a destination health ministry page were not opened; yellow fever entry rule is based on CDC.",
+   "Any separate insurance entry requirement is UNVERIFIED."
   ]
  },
  {
@@ -853,7 +857,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/hungary"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-20",
   "confidence": "partial",
   "unverified": [
    "Destination health ministry and WHO ITH country list not opened; entry rule is from the CDC Travelers' Health page (updated April 23, 2025). Insurance requirements not checked."
@@ -1335,12 +1339,13 @@
    "No country-specific notices found on CDC page beyond the global measles notice."
   ],
   "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/iceland"
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/iceland",
+   "https://www.visiticeland.com/article/practical-information1/"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-20",
   "confidence": "partial",
   "unverified": [
-   "Only the CDC Travelers' Health country page was opened; destination health ministry and WHO ITH country list not checked."
+   "WHO ITH country list and destination health ministry were not checked. CDC country page and the official tourism board practical-information page were read."
   ]
  },
  {
@@ -5451,7 +5456,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/honduras"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-20",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and destination health ministry not checked; data from CDC Travelers' Health only"

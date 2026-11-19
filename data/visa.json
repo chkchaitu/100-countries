@@ -33,14 +33,16 @@
       "name": "Indonesia",
       "trip": "A",
       "category": "on_arrival",
-      "rule": "e-VOA or visa on arrival, 30 days, about IDR 500,000.",
+      "rule": "Indian ordinary passport holders are eligible for a 30-day single-entry Visitor Visa, obtained online as e-VOA or on arrival at eligible entry points. Fee IDR 500,000, plus any card charges. Passport must be valid at least 6 months from arrival.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+        "https://evisa.imigrasi.go.id/front/info/evoa"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-20",
+      "note": "Indian passport eligibility, 30-day stay, IDR 500,000 fee, 90-day visa validity and 6-month passport validity confirmed on the official immigration portal. Check the entry point when booking, because its FAQ contains inconsistent airport coverage statements.",
+      "confidence": "official"
     },
     {
       "country": "Vietnam",
@@ -497,14 +499,19 @@
       "name": "Hungary",
       "trip": "FGH",
       "category": "visa_required",
-      "rule": "Schengen visa required.",
+      "rule": "Indian ordinary passport holders need a Schengen C visa for short visits of up to 90 days in any 180-day period. Passport must have at least two blank pages, have been issued within the previous 10 years and remain valid at least three months after leaving Schengen. Apply through the competent Hungarian mission via VFS Global in India.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+        "https://delhi.mfa.gov.hu/en/21-short-term-stay-in-hungary-not-exceeding-the-90-days-period",
+        "https://delhi.mfa.gov.hu/en/1_4-consular-fees",
+        "https://konzinfo.mfa.gov.hu/en/short-term-stay",
+        "https://konzinfo.mfa.gov.hu/en/visa-free-travel-hungary"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-20",
+      "note": "Official Hungarian New Delhi mission confirms the Indian short-stay visa requirement. Visa fee INR 9600 for adults and INR 4800 for children aged 6 to under 12; free under 6. Processing normally 15 calendar days, extendable to 45. Current VFS service charges are UNVERIFIED.",
+      "confidence": "official"
     },
     {
       "country": "Slovakia",
@@ -776,14 +783,18 @@
       "name": "Iceland",
       "trip": "I",
       "category": "visa_required",
-      "rule": "Schengen visa required.",
+      "rule": "Schengen visa required for Indian ordinary passport holders, for visits of up to 90 days in any 180-day period. Standard fee EUR 90 for adults and EUR 45 for children aged 6 to 12. Passport must remain valid at least 3 months after leaving Schengen.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+        "https://www.government.is/ministries/diplomatic-missions/new-delhi-india/consular-services/",
+        "https://island.is/en/get-a-visa",
+        "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-20",
+      "note": "Confirmed on Iceland government and European Commission pages. Apply through VFS Global in India. Current INR visa and VFS service charges could not be rechecked because VFS returned 403.",
+      "confidence": "official"
     },
     {
       "country": "Spain",

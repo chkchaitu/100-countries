@@ -2393,7 +2393,7 @@
   "documents": [
    {
     "item": "Passport",
-    "note": "Front and back photocopy. The VFS page says handwritten passports and passports with manual corrections on the data page are not accepted. Validity and blank pages are not stated on the tourist tab; the usual Schengen rule is valid 3 months beyond departure with 2 blank pages (UNVERIFIED for Hungary)."
+    "note": "Front and back photocopy. Passport must have at least two blank pages, have been issued within the previous 10 years and remain valid at least three months after the intended final departure from Schengen. The existing VFS warning on handwritten or manually corrected passports could not be re-read."
    },
    {
     "item": "Application form",
@@ -2405,7 +2405,7 @@
    },
    {
     "item": "Travel medical insurance",
-    "note": "Mandatory for every applicant including children, from a Schengen approved insurer on the VFS list."
+    "note": "Travel medical insurance valid throughout Schengen for the full trip, with minimum EUR 30000 cover including urgent treatment, emergency hospital care and medical repatriation. Use an insurer accepted for the Hungary India application."
    },
    {
     "item": "Air ticket booking",
@@ -2424,8 +2424,8 @@
     "note": "Pension slips for retirees. Students use the sponsor's."
    },
    {
-    "item": "Income tax return acknowledgment, last two assessment years",
-    "note": "Students use the sponsor's."
+    "item": "Income tax return acknowledgment, last three assessment years",
+    "note": "The New Delhi mission asks for the last three assessment years. Confirm the current jurisdiction-specific checklist before submission."
    },
    {
     "item": "Bank statement, last three months",
@@ -2447,11 +2447,11 @@
    "notes": "Glasses allowed if eyes are clear with no reflection. Head covering only for religious reasons. Two photos on the tourist list. Photo can also be taken at the centre for INR 165.",
    "status": "verified"
   },
-  "fee": "Visa fee INR 9600 for an adult, INR 4800 for a child 6 to 12, free under 6 (VFS Hungary India page, read 2026-10-16). Plus VFS service charge INR 2133 with biometrics or INR 1600 without, per application. The same page also quotes INR 2259 and INR 1807 in another line, so confirm at booking.",
-  "processing": "UNVERIFIED on the Hungary page.",
-  "applyEarly": "UNVERIFIED on the Hungary page. Schengen rules generally allow applying up to 6 months before travel.",
+  "fee": "Visa fee INR 9600 for an adult, INR 4800 for children aged 6 to under 12, free under 6. Confirmed by the Embassy of Hungary in New Delhi fee schedule valid from 1 August 2026, read 20 November 2026. VFS service charges are additional and UNVERIFIED because the India VFS pages returned HTTP 403.",
+  "processing": "Normally 15 calendar days; individual cases may take up to 45 calendar days.",
+  "applyEarly": "Applications may be lodged up to six months before travel and normally no later than 15 days before departure. Apply earlier than 15 days to allow for an extended decision period.",
   "biometrics": "Yes. The VFS service fee has a with-biometrics rate, collected at the VFS Hungary visa application centre.",
-  "centres": "VFS lists separate checklists for Mumbai, Chennai, Bengaluru, Cochin, Pune, Goa, Puducherry, Hyderabad and Ahmedabad (south and west, Consulate General Mumbai) and for the rest (Embassy New Delhi). Delhi, Kolkata and Jalandhar are covered by New Delhi. Exact centre list UNVERIFIED on the page read.",
+  "centres": "The New Delhi mission lists VFS centres in New Delhi, Chandigarh, Gurgaon, Jaipur, Lucknow, Kolkata and Jalandhar. Residents in the Mumbai consular district apply through the Consulate General in Mumbai; its current centre list is UNVERIFIED.",
   "warnings": [
    "Optional VFS extras (courier, SMS, premium lounge, form filling at INR 2100) cost extra and are not required.",
    "Fees are not refundable if the visa is refused.",
@@ -2459,17 +2459,20 @@
    "Third-country family of Hungarian citizens no longer get the C-EEA visitor visa; they apply for a normal C visa."
   ],
   "unverified": [
-   "Processing time",
-   "How early to apply",
-   "Exact passport validity and blank pages for Hungary",
-   "Full list of Hungary centres in India",
-   "Hungarian embassy and consulate pages (not opened)"
+   "Current VFS service charges and optional-service prices: all existing VFS pages returned HTTP 403, not proven dead.",
+   "Current Mumbai jurisdiction centre list and checklist.",
+   "Exact photo dimensions and number: mission confirms a recent passport-size colour photo, but the existing VFS detail could not be re-read.",
+   "VFS online form workflow and PDF forms could not be re-read.",
+   "The linked EC checklist has not been independently rechecked; confirm the current jurisdiction-specific checklist."
   ],
   "sources": [
    "https://visa.vfsglobal.com/one-pager/hungary/india/english/",
-   "https://visa.vfsglobal.com/ind/en/hun/book-an-appointment"
+   "https://visa.vfsglobal.com/ind/en/hun/book-an-appointment",
+   "https://delhi.mfa.gov.hu/en/21-short-term-stay-in-hungary-not-exceeding-the-90-days-period",
+   "https://delhi.mfa.gov.hu/en/1_4-consular-fees",
+   "https://konzinfo.mfa.gov.hu/en/short-term-stay"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-20",
   "confidence": "partial",
   "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
  },
@@ -2556,8 +2559,12 @@
  {
   "country": "Iceland",
   "route": "mixed",
-  "summary": "Iceland uses the Schengen short-stay visa and the Embassy of Iceland in New Delhi handles applications from India. Fill in the Schengen application form, prepare the tourism checklist, and book an appointment at a VFS Global Iceland visa application centre. First-time Iceland applicants must attend in person.",
+  "summary": "Indian passport holders need a Schengen visa. Complete the Iceland government online application at visa.government.is, then book a VFS Global appointment in India. Bring a signed printout of the online application, the completed Schengen application form, passport and the required supporting documents. The Embassy of Iceland in New Delhi handles visa matters.",
   "applyLinks": [
+   {
+    "label": "Complete the Iceland government online visa application",
+    "url": "https://visa.government.is/"
+   },
    {
     "label": "Book a VFS appointment for Iceland in India",
     "url": "https://visa.vfsglobal.com/ind/en/isl/book-an-appointment"
@@ -2588,7 +2595,7 @@
    },
    {
     "item": "Application form",
-    "note": "Fully completed Schengen form."
+    "note": "Complete the government online application and bring its signed printout, plus a completed Schengen application form."
    },
    {
     "item": "One photograph",
@@ -2638,9 +2645,9 @@
    "notes": "Neutral expression, mouth closed, eyes visible, no shadows. Head covering only for religious reasons.",
    "status": "verified"
   },
-  "fee": "Adult visa INR 9900 (EUR 90), child 6 to 12 INR 4950 (EUR 45) (VFS Iceland India page, read 2026-10-16). VFS service charge INR 2900 per applicant on top.",
-  "processing": "Usually 15 calendar days from the embassy receiving the application, not counting transport from VFS (VFS page). island.is says about two weeks.",
-  "applyEarly": "VFS recommends applying at least two weeks before travel and earlier before holidays. Maximum lead time UNVERIFIED on these pages.",
+  "fee": "Standard visa fee EUR 90 for adults and EUR 45 for children aged 6 to 12. Current INR equivalent and VFS service charge are UNVERIFIED because the India VFS fee page returned 403.",
+  "processing": "Normally 15 days, and up to 45 days if further examination or documents are needed. Iceland government gives approximately two weeks for a complete application. Allow extra time for VFS transport.",
+  "applyEarly": "Submit at least 15 days before the intended journey and no earlier than 6 months beforehand, under the general Schengen rule. Book the VFS appointment early.",
   "biometrics": "Personal appearance is requested for first-time Iceland applicants; VFS takes the photo and fingerprints.",
   "centres": "VFS centres in Ahmedabad, Bengaluru, Chandigarh, Chennai, Cochin, Goa, Hyderabad, Kolkata, Mumbai, New Delhi and Pune (island.is list, partly visible).",
   "warnings": [
@@ -2650,17 +2657,21 @@
    "Optional extras such as online form filling (INR 2875) and lounge are not required."
   ],
   "unverified": [
-   "Maximum advance booking window",
+   "Current India VFS visa fee in INR and service charge",
+   "Current India-specific document checklist and photo dimensions could not be re-read because VFS and its PDFs returned 403; the existing checklist details are retained, not newly verified",
    "Whether the VFS centre list is complete"
   ],
   "sources": [
    "https://visa.vfsglobal.com/one-pager/iceland/india/english/",
    "https://island.is/en/get-a-visa",
    "https://island.is/en/get-a-visa/where-to-apply-schengen",
-   "https://visa.vfsglobal.com/ind/en/isl/book-an-appointment"
+   "https://visa.vfsglobal.com/ind/en/isl/book-an-appointment",
+   "https://visa.government.is/",
+   "https://www.government.is/ministries/diplomatic-missions/new-delhi-india/consular-services/",
+   "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "official",
+  "lastChecked": "2026-11-20",
+  "confidence": "partial",
   "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
  },
  {
@@ -2821,65 +2832,75 @@
    {
     "label": "Indonesian Embassy in New Delhi",
     "url": "https://kemlu.go.id/newdelhi/en"
+   },
+   {
+    "label": "All Indonesia mandatory arrival declaration",
+    "url": "https://allindonesia.imigrasi.go.id/"
    }
   ],
   "formLinks": [],
   "documents": [
    {
     "item": "Passport",
-    "note": "Validity and blank page rules not confirmed on a page I could open. Commonly at least 6 months validity."
+    "note": "Upload the full biodata page in JPG, JPEG or PNG format, up to 200 KB. Passport must be valid at least 6 months from arrival. Blank-page requirement remains UNVERIFIED."
    },
    {
-    "item": "Passport style photo or selfie",
-    "note": "Asked in the online form. Exact rules UNVERIFIED."
+    "item": "Passport-size photograph",
+    "note": "JPG, JPEG or PNG, up to 200 KB. Exact dimensions and background remain UNVERIFIED."
    },
    {
-    "item": "Return or onward ticket",
-    "note": "Commonly required at entry. Not confirmed on an official page I could open."
+    "item": "Email address",
+    "note": "Needed for the account and approval."
    },
    {
-    "item": "Proof of accommodation",
-    "note": "Sometimes asked."
+    "item": "Return ticket",
+    "note": "Immigration may request it at entry. The official FAQ advises carrying a printed return ticket."
    },
    {
-    "item": "Proof of funds",
-    "note": "Official portal FAQ says you must be financially sufficient for the stay. Not always checked."
+    "item": "Residence information in Indonesia",
+    "note": "Enter the Indonesian residence or accommodation information in the application. Whether booking proof must be uploaded is UNVERIFIED."
    },
    {
     "item": "Payment card",
-    "note": "Fee is paid online by debit or credit card."
+    "note": "The FAQ lists Mastercard, Visa or JCB credit cards with 3D Secure and international transactions enabled. The card need not be in the applicant's name."
    }
   ],
   "photo": {
-   "size": "UNVERIFIED",
+   "size": "Passport-size; exact dimensions UNVERIFIED",
    "background": "UNVERIFIED",
-   "format": "UNVERIFIED",
-   "notes": "Portal blocks automated access, so photo rules could not be read.",
+   "format": "JPG, JPEG or PNG, maximum 200 KB",
+   "notes": "Format and size confirmed on the official immigration Visitor Visa FAQ. Exact dimensions, background and recency were not specified on the page read.",
    "status": "unverified"
   },
-  "fee": "IDR 500,000 for the Visitor Visa, as shown in search snippets of the official portal FAQ (checked 2026-10-16). Card payments may add bank charges. Extension, if needed, is a separate fee.",
-  "processing": "UNVERIFIED on an official page. Secondary sources say apply at least 48 hours before departure.",
-  "applyEarly": "UNVERIFIED. Portal says the visa is valid 90 days from issue and the stay is 30 days from arrival.",
-  "biometrics": "No embassy visit for the online route. Photo and fingerprints are taken at immigration on arrival (not confirmed on an official page).",
+  "fee": "IDR 500,000 per person, including children. The official immigration FAQ states card payments incur additional fees according to the financial institution. Extension is separate.",
+  "processing": "The official FAQ says the visa becomes available in the account after successful payment and advises applying at least 48 hours before departure. A guaranteed processing time is not stated.",
+  "applyEarly": "Official FAQ advises applying at least 48 hours before departure and says applications can be made 14 days before travel. Visa validity is 90 days; the permitted stay is 30 days from arrival.",
+  "biometrics": "No embassy visit is required for the online Visitor Visa route. Whether fingerprints are collected on arrival is UNVERIFIED.",
   "centres": "No application centre needed. Indonesian Embassy is in New Delhi for other visa types.",
   "warnings": [
-   "Use only evisa.imigrasi.go.id. Many lookalike agent sites charge several times the IDR 500,000 fee.",
-   "Stay is 30 days from arrival, not the 90 day validity of the visa.",
+   "Use only evisa.imigrasi.go.id for the official e-VOA; agent sites are not endorsed by immigration.",
+   "Stay is 30 days from arrival, not the 90-day visa validity.",
+   "Visa details must match the passport exactly. Errors require a new application and fees are not refunded.",
+   "Complete the mandatory All Indonesia arrival declaration from 3 days before arrival at allindonesia.imigrasi.go.id. It integrates immigration, customs, health and quarantine declarations.",
    "Some Indonesian islands add a separate local tourism levy that is not part of the visa fee.",
-   "The portal and imigrasi.go.id returned 403 to scripts, so check the current fee and eligibility there before paying."
+   "The official Visitor Visa FAQ contains inconsistent entry-point statements, including an older two-airport statement and a longer list including Batam ports. Confirm the intended entry point with immigration or the carrier."
   ],
   "unverified": [
-   "Eligibility of Indian passports for B1 (secondary sources only, official page blocked)",
-   "Passport validity, photo rules, onward ticket rule",
-   "Processing time",
-   "Whether the online step is mandatory or the arrival counter is still allowed"
+   "Exact photo dimensions, background and recency",
+   "Passport blank-page requirement",
+   "Guaranteed processing time",
+   "Whether accommodation proof and financial evidence must be uploaded",
+   "Biometrics on arrival",
+   "Entry-point coverage: the official FAQ contains inconsistent statements"
   ],
   "sources": [
    "https://evisa.imigrasi.go.id/front/info/evoa",
    "https://evisa.imigrasi.go.id/front/faq/59e5c2c3-525d-485b-928b-ed25079d0fd1",
-   "https://kemlu.go.id/newdelhi/en"
+   "https://kemlu.go.id/newdelhi/en",
+   "https://www.imigrasi.go.id/siaran_pers/mulai-1-oktober-deklarasi-kedatangan-penumpang-wajib-dilakukan-di-aplikasi-all-indonesia",
+   "https://allindonesia.imigrasi.go.id/"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-20",
   "confidence": "partial"
  },
  {
