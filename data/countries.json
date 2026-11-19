@@ -7,8 +7,8 @@
   "places": [
    {
     "name": "Borobudur and Prambanan",
-    "note": "Near Yogyakarta",
-    "fee": "about ₹2,000 to ₹2,500 each for foreigners"
+    "note": "Near Yogyakarta. Borobudur has separate courtyard-only and temple-climb tickets.",
+    "fee": "UNVERIFIED current foreign-visitor prices; select the ticket type on the official ticket portal."
    },
    {
     "name": "Bali temples",
@@ -46,14 +46,19 @@
   ],
   "cautions": [
    "Not on the Batam day trip: Java and Bali need extra days",
-   "Check the e visa rule before you go"
+   "Check the official e-VOA and intended entry-point eligibility before travel",
+   "Complete the mandatory All Indonesia arrival declaration from 3 days before arrival"
   ],
   "neighbours": [],
   "sources": [
-   "https://en.wikipedia.org/wiki/Indonesia"
+   "https://en.wikipedia.org/wiki/Indonesia",
+   "https://ticket.borobudurpark.com/en/",
+   "https://www.indonesia.travel/gb/en/general-information/currency",
+   "https://evisa.imigrasi.go.id/front/info/evoa",
+   "https://www.imigrasi.go.id/siaran_pers/mulai-1-oktober-deklarasi-kedatangan-penumpang-wajib-dilakukan-di-aplikasi-all-indonesia"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-20",
+  "confidence": "partial",
   "iso": "id",
   "currency": {
    "name": "Indonesian rupiah",
@@ -2217,8 +2222,8 @@
    },
    {
     "name": "Szechenyi baths",
-    "note": "",
-    "fee": "about ₹3,000"
+    "note": "Open every day. Advance online tickets available; check the official opening-hours page for holiday and partial-area closures.",
+    "fee": "HUF 13200 Monday to Thursday, HUF 14800 Friday and weekends, HUF 15800 holidays and peak season, daily ticket with locker"
    },
    {
     "name": "Fisherman's Bastion",
@@ -2265,10 +2270,14 @@
    "Slovenia"
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Hungary"
+   "https://en.wikipedia.org/wiki/Hungary",
+   "https://www.szechenyibath.hu/prices",
+   "https://www.szechenyibath.hu/opening-hours",
+   "https://www.mnb.hu/en/banknotes-and-coins",
+   "https://www.eoibudapest.gov.in/page/visiting-hungary-tips/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-20",
+  "confidence": "partial",
   "iso": "hu",
   "currency": {
    "name": "Hungarian forint",
@@ -3503,7 +3512,7 @@
    "low": 13500,
    "high": 23500
   },
-  "transport": "Fly Oslo to Keflavik; Reykjavik to Keflavik Airport is about 50 km (about ₹3,000 by taxi).",
+  "transport": "Fly Oslo to Keflavik. Airport buses connect Keflavik International Airport and Reykjavik in about 45 minutes, with departures about every 45 to 60 minutes. Taxi services are also available. Current bus and taxi fares are UNVERIFIED.",
   "experiences": [
    {
     "name": "Snorkel in Silfra",
@@ -3527,14 +3536,17 @@
    }
   ],
   "cautions": [
-   "Highest prices in Jun to Aug"
+   "Highest prices in Jun to Aug",
+   "Weather and road conditions can change quickly. Check Safetravel and road conditions before driving or hiking."
   ],
   "neighbours": [],
   "sources": [
-   "https://en.wikipedia.org/wiki/Iceland"
+   "https://en.wikipedia.org/wiki/Iceland",
+   "https://www.visiticeland.com/article/practical-information1/",
+   "https://safetravel.is/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-20",
+  "confidence": "partial",
   "iso": "is",
   "currency": {
    "name": "Icelandic krona",
@@ -14023,10 +14035,11 @@
   ],
   "sources": [
    "https://en.wikipedia.org/wiki/Honduras",
-   "https://travel.state.gov/en/international-travel/travel-advisories/honduras.html"
+   "https://travel.state.gov/en/international-travel/travel-advisories/honduras.html",
+   "https://www.gov.uk/foreign-travel-advice/honduras/safety-and-security"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-20",
+  "confidence": "partial",
   "trip": "AD",
   "iso": "hn",
   "currency": {

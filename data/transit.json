@@ -3,38 +3,40 @@
   "country": "Indonesia",
   "airside": {
    "visaNeeded": "no",
-   "rule": "Not required if you stay in the international transit area, on one ticket with bags checked through. Reported by a visa agency citing Indonesian Immigration; no official page opened.",
+   "rule": "The official immigration Visitor Visa FAQ says no visa is needed if you do not leave the international transit area. Confirm that the itinerary, baggage arrangements and terminal transfer permit you to remain airside.",
    "maxHours": "UNVERIFIED",
    "conditions": [
-    "same ticket",
-    "bags checked through",
+    "remain in the international transit area",
     "no immigration clearance"
    ]
   },
   "landside": {
    "visaNeeded": "yes",
-   "rule": "Leaving the airport means entering Indonesia on a visa (a visa on arrival or e-visa for Indian passports per airline and agency pages). No transit visa scheme found.",
-   "maxHours": "UNVERIFIED",
-   "scheme": "none found"
+   "rule": "Entering Indonesia requires the appropriate entry permission. Indian ordinary passport holders are eligible for the 30-day Visitor Visa or visa on arrival, including for transit purposes, at eligible entry points. No separate visa-free transit scheme was confirmed.",
+   "maxHours": "30-day Visitor Visa stay",
+   "scheme": "Use Visitor Visa or visa on arrival"
   },
   "easedBy": [],
   "landTransit": "Not applicable",
-  "howToGet": "Not applicable (use the Indonesian e-visa or visa on arrival route if you must enter; check imigrasi.go.id).",
-  "fee": "UNVERIFIED",
+  "howToGet": "For landside transit, use the official e-VOA portal or an eligible visa-on-arrival counter. Passport must be valid at least 6 months on arrival. Complete the All Indonesia declaration when entering.",
+  "fee": "No visa fee for airside transit without entering. Visitor Visa or visa on arrival: IDR 500,000, plus any card charges.",
   "warnings": [
-   "Bags that must be collected, a change of airline or a separate ticket forces you through immigration",
-   "Air India says the PAR is not required for Indian nationals in direct air transit who stay in the transit area"
+   "If you must collect baggage or otherwise cross immigration, you are entering Indonesia and need the appropriate entry permission.",
+   "A separate ticket does not by itself prove whether an airside connection is possible. Confirm baggage and terminal arrangements with the airline.",
+   "When entering Indonesia, complete the mandatory All Indonesia declaration from 3 days before arrival."
   ],
   "sources": [
    "https://www.airindia.com/in/en/travel-information/visa-documents.html",
-   "https://visa.balieasy.com/blog/transit-layover-visas-bali-indonesia/"
+   "https://visa.balieasy.com/blog/transit-layover-visas-bali-indonesia/",
+   "https://evisa.imigrasi.go.id/front/info/evoa",
+   "https://www.imigrasi.go.id/siaran_pers/mulai-1-oktober-deklarasi-kedatangan-penumpang-wajib-dilakukan-di-aplikasi-all-indonesia"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-20",
+  "confidence": "official",
   "unverified": [
-   "No Indonesian immigration page opened",
-   "Visa on arrival fee and stay",
-   "Whether Indians get any transit scheme"
+   "Maximum airside layover hours",
+   "Airport-specific airside transfer arrangements",
+   "Whether any separate transit scheme exists"
   ]
  },
  {
@@ -1017,9 +1019,10 @@
    "Changing airports or terminals outside the transit area counts as entry."
   ],
   "sources": [
-   "https://home-affairs.ec.europa.eu/document/download/7337515c-60a1-4510-b639-80de714f543e_en"
+   "https://home-affairs.ec.europa.eu/document/download/7337515c-60a1-4510-b639-80de714f543e_en",
+   "https://konzinfo.mfa.gov.hu/en/short-term-stay"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-20",
   "confidence": "partial",
   "unverified": [
    "Maximum airside layover length",
@@ -1642,10 +1645,12 @@
   "country": "Iceland",
   "airside": {
    "visaNeeded": "no",
-   "rule": "Not required on the common Schengen list: India is not among the 12 nationalities (Afghanistan, Bangladesh, DR Congo, Eritrea, Ethiopia, Ghana, Iran, Iraq, Nigeria, Pakistan, Somalia, Sri Lanka) that need an airport transit visa everywhere in Schengen. Staying airside without entering is allowed. No official page for Iceland itself could be opened to confirm there is no extra national requirement for Indians.",
+   "rule": "Indian ordinary passport holders are not on Iceland's published list of nationalities requiring an airport transit visa. This applies only to non-Schengen to non-Schengen connections that remain in the international transit area. Bags should be checked through to the final destination.",
    "maxHours": "UNVERIFIED",
    "conditions": [
     "stay in the international transit area",
+    "non-Schengen to non-Schengen connection",
+    "bags checked through to final destination",
     "confirmed onward ticket and any visa needed for the final destination"
    ]
   },
@@ -1660,19 +1665,21 @@
   "howToGet": "Not applicable for airside transit. For a Schengen visa apply through the embassy or its VFS centre in India.",
   "fee": "UNVERIFIED",
   "warnings": [
-   "A change of terminal that needs passport control, collecting bags, or separate tickets that force you to check in again means entering Schengen and needs a Schengen visa.",
-   "Transiting a second Schengen airport on the same trip can also need checking with the airline; the airside exemption applies only while you stay in the international area."
+   "Collecting checked bags or otherwise crossing passport control means entering Schengen and needs the appropriate entry permission.",
+   "A connection from Iceland to another Schengen airport enters Schengen in Iceland and is not an airside transit under the Schengen definition."
   ],
   "sources": [
    "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy_en",
-   "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-schengen-visa"
+   "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-schengen-visa",
+   "https://island.is/en/do-you-need-a-visa/airport-transit-visa",
+   "https://www.government.is/ministries/diplomatic-missions/new-delhi-india/consular-services/",
+   "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-20",
+  "confidence": "official",
   "unverified": [
-   "Whether this country adds its own national airport transit visa requirement for Indian nationals (checked official lists of other states only)",
    "Maximum airside layover hours",
-   "Transit visa fee"
+   "Airport transit visa fee, not applicable to Indian ordinary passport holders staying airside"
   ]
  },
  {
