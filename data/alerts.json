@@ -118,6 +118,23 @@
         "https://eoikinshasa.gov.in/public_files/assets/images/Kinshasa_popup_280526.jpg",
         "https://wwwnc.cdc.gov/travel/destinations/traveler/none/democratic-republic-of-congo"
       ]
+    },
+    {
+      "id": "malaysia-indian-visa-exemption-ends-2027",
+      "country": "Malaysia",
+      "type": "entry",
+      "severity": "medium",
+      "title": "Malaysia ends visa-free entry for Indians from 1 January 2027",
+      "summary": "The Immigration Department of Malaysia announced on 17 November 2026 that Indian nationals entering Malaysia from 1 January 2027 must obtain a valid visa before arrival. Applications through the MyVISA portal open on 1 December 2026. Visa processing fees are non-refundable, including after a refusal, policy change or change of travel plans. The current exemption for visits of up to 30 days runs until 31 December 2026. The department says entry requirements may change under Malaysian government directives.",
+      "since": "2026-11-17",
+      "until": "",
+      "lastChecked": "2026-11-19",
+      "sourceLevel": "official",
+      "sources": [
+        "https://malaysiavisa.imi.gov.my/",
+        "https://be-evisa-puj.visamalaysia.org/evisa/public/lookup/notice",
+        "https://www.kln.gov.my/web/ind_new-delhi/requirement_foreigner"
+      ]
     }
   ]
 }
