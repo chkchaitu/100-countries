@@ -4058,8 +4058,8 @@
    },
    {
     "name": "Cliffs of Moher",
-    "note": "",
-    "fee": "about ₹1,200"
+    "note": "Open 09:00 to 17:00 in January, February, November and December; 08:00 to 19:00 in March, April, September and October; 08:00 to 21:00 from May to August. Closed 24, 25 and 26 December.",
+    "fee": "2026 adult gate ticket EUR 15; book online for lower rates. 2027 adult gate ticket EUR 16."
    },
    {
     "name": "Trinity College",
@@ -4107,10 +4107,13 @@
    "United Kingdom"
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Ireland"
+   "https://en.wikipedia.org/wiki/Ireland",
+   "https://www.cliffsofmoher.ie/en/your-visit/visiting-the-cliffs/admission-rates/",
+   "https://www.cliffsofmoher.ie/en/opening-hours/",
+   "https://www.ireland.com/en-us/help-and-advice/practical-information/money-in-ireland/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-21",
+  "confidence": "partial",
   "iso": "ie",
   "currency": {
    "name": "Euro",
@@ -8589,7 +8592,7 @@
    },
    {
     "name": "Masada",
-    "note": "Hilltop fortress at sunrise",
+    "note": "Hilltop fortress at sunrise. Cable car costs extra to park admission. Published winter cable-car hours are 08:00 to 16:00 Sunday to Thursday and Saturday, 08:00 to 15:00 Friday; entry stops one hour before closing. Check holiday hours and current operating status before visiting.",
     "fee": "UNVERIFIED"
    },
    {
@@ -8638,10 +8641,11 @@
   ],
   "sources": [
    "https://embassies.gov.il/india/en/announcements/evisa",
-   "https://www.mea.gov.in/advisories-details.htm?46="
+   "https://www.mea.gov.in/advisories-details.htm?46=",
+   "https://en.parks.org.il/article/the-masada-cable-car/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-21",
+  "confidence": "partial",
   "trip": "AH",
   "iso": "il",
   "currency": {
@@ -10929,7 +10933,7 @@
    "Tea house culture in Isfahan"
   ],
   "cautions": [
-   "MEA and Embassy Tehran advise Indians to avoid all non-essential travel and postpone travel (2026 advisories)",
+   "Embassy Tehran advised on 19 July 2026 that Indians should postpone travel to Iran for any purpose until the security environment improves; Indians already there should consider temporarily exiting using available flights",
    "International bank cards do not work; cash only",
    "Conflict risk, protests and internet shutdowns; strict dress and conduct rules"
   ],
@@ -10944,10 +10948,11 @@
   ],
   "sources": [
    "https://www.indianembassytehran.gov.in/public_files/assets/pdf/Notice_4.pdf",
-   "https://www.visitouriran.com/iran-visa"
+   "https://www.visitouriran.com/iran-visa",
+   "https://www.indianembassytehran.gov.in/public_files/assets/pdf/advisory-july.pdf"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-21",
+  "confidence": "partial",
   "trip": "AI",
   "iso": "ir",
   "currency": {

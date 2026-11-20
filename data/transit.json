@@ -1924,7 +1924,7 @@
    "visaNeeded": "yes",
    "rule": "Anyone who passes Irish border control enters the State. Indians need an Irish short-stay visit visa, unless they hold a valid short-stay UK visa and travel under the British Irish Visa Scheme (BIVS) (check the visa is endorsed for it). Outside the Dublin T2 window, a connection counts as landside.",
    "maxHours": "UNVERIFIED",
-   "scheme": "none (BIVS lets a valid UK short-stay visa holder enter without a separate Irish visa; scheme listed as running to 31 Oct 2026)"
+   "scheme": "No separate tourist transit scheme confirmed. Eligible UK visitor visas may allow onward travel to Ireland under BIVS after entering the UK first. No official BIVS end date was established."
   },
   "easedBy": [
    "UK"
@@ -1935,18 +1935,20 @@
   "warnings": [
    "The Embassy of Ireland in India page says the Dublin T2 airside window is 04:00 to 16:00, while the Irish Immigration page says 04:00 to 20:00; assume the shorter and ask the airline.",
    "Any other Dublin connection means passing border control, so an Indian traveller needs an Irish visa or a valid UK short-stay visa under BIVS.",
-   "The BIVS scheme end date of 31 Oct 2026 is from Wikipedia and a search snippet; confirm before travelling later."
+   "The UK government publishes BIVS eligibility without an end date. The scheme end date remains UNVERIFIED."
   ],
   "sources": [
    "https://www.irishimmigration.ie/at-the-border/transit-including-transfer-visa-advice",
    "https://www.ireland.ie/en/india/newdelhi/services/visas/visas-for-ireland",
-   "https://www.citizensinformation.ie/en/moving-country/visas-for-ireland/visa-requirements-for-entering-ireland"
+   "https://www.citizensinformation.ie/en/moving-country/visas-for-ireland/visa-requirements-for-entering-ireland",
+   "https://www.gov.uk/government/publications/british-irish-visa-scheme/british-irish-visa-scheme"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "official",
+  "lastChecked": "2026-11-21",
+  "confidence": "partial",
   "unverified": [
    "BIVS end date from an official page",
-   "Which Dublin airside window is current"
+   "Current Irish transit nationality list and Dublin airside time window could not be read; conflicting old windows remain unresolved.",
+   "Separate Short Stay Visa Waiver Programme conditions and end date"
   ]
  },
  {
@@ -5111,13 +5113,13 @@
   "country": "Iran",
   "airside": {
    "visaNeeded": "unverified",
-   "rule": "UNVERIFIED. A third-party page says the 15 day visa waiver for tourists was suspended from 22 November 2025 and that this covers entry and transit, so a visa may be needed for Indians; this was not confirmed on an Iranian government page.",
+   "rule": "The Embassy of India says Indian ordinary passport holders must obtain a visa to enter or transit through Iran from 22 November 2025. An exemption for remaining airside without passing immigration was not confirmed, so the airside-only rule remains UNVERIFIED.",
    "maxHours": "UNVERIFIED",
    "conditions": []
   },
   "landside": {
-   "visaNeeded": "unverified",
-   "rule": "No published transit rule found; treat as needing the entry visa rule for Indian citizens. Check the entry visa requirement before planning a city stay.",
+   "visaNeeded": "yes",
+   "rule": "Indian ordinary passport holders must obtain a visa to enter or transit through Iran from 22 November 2025, according to the Embassy of India. No visa-free landside stopover scheme was confirmed.",
    "maxHours": "UNVERIFIED",
    "scheme": "UNVERIFIED"
   },
@@ -5126,12 +5128,14 @@
   "howToGet": "Not applicable",
   "fee": "UNVERIFIED",
   "warnings": [
-   "The 2024 Iran waiver for Indians was reported suspended in November 2025; confirm with the Iranian embassy before travel.",
+   "The suspension of the visa waiver for Indian ordinary passports from 22 November 2025 is confirmed by the Embassy of India; do not rely on agents offering visa-free entry or onward transit.",
    "Airspace and flight disruptions are frequent; do not plan a tight connection."
   ],
-  "sources": [],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "sources": [
+   "https://indianembassytehran.gov.in/public_files/assets/pdf/Notice_popup_23_02_2026.pdf"
+  ],
+  "lastChecked": "2026-11-21",
+  "confidence": "partial",
   "unverified": [
    "Airside transit rule for Indian passport holders",
    "Maximum airside hours",

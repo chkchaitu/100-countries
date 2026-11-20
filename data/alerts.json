@@ -11,7 +11,7 @@
       "summary": "IndiGo announced on 18 November 2026 that all flights to and from Jeddah, Madinah, Riyadh and Dammam are cancelled until 30 November inclusive. Akasa Air announced on 12 November that all Riyadh and Jeddah flights are suspended until 30 November inclusive; affected passengers can request a full refund or reschedule at no additional cost. Air India announced on 13 November that its flights and Air India Express flights to and from Riyadh and Dammam remain suspended until 30 November, and Jeddah until 21 November. For Air India and Air India Express bookings issued on or before 10 November, with travel dates up to those deadlines, passengers can reschedule without charge subject to availability or cancel for a full refund. Air India passengers may rebook through an operating Air India station in Saudi Arabia; Air India Express passengers may rebook through an operating Air India Express station in Saudi Arabia or Bahrain. Revised travel can be completed by 14 December for Riyadh and Dammam bookings, or 5 December for Jeddah bookings.",
       "since": "2026-10-17",
       "until": "2026-11-30",
-      "lastChecked": "2026-11-20",
+      "lastChecked": "2026-11-21",
       "sourceLevel": "official",
       "sources": [
         "https://x.com/IndiGo6E/status/2123035045107737079",
@@ -61,7 +61,7 @@
       "summary": "From 26 October 2026, applicants for an Australian visa in India may be required to provide biometrics, including fingerprints and a facial image. Australia is expanding this to nearly 60 countries, including India. The Department of Home Affairs will tell you if you must provide biometrics and how to do it. Depending on your case, you may be asked to attend an Australian Biometrics Collection Centre in person, or to provide biometrics digitally through the Australian Immi App. If you gave biometrics at a centre before and hold a valid passport, you may be able to use the app at no cost. It applies only to new applications lodged from 26 October 2026 and does not affect applications already submitted. Processing times are not expected to change if you complete the biometrics promptly.",
       "since": "2026-10-26",
       "until": "",
-      "lastChecked": "2026-11-01",
+      "lastChecked": "2026-11-21",
       "sourceLevel": "official",
       "sources": [
         "https://india.highcommission.gov.au/ndli/vm_Biometric_collection_requirements_for_Australia_visa_applicants_in_India.html",
@@ -126,7 +126,7 @@
       "summary": "The Immigration Department of Malaysia announced on 17 November 2026 that Indian nationals entering Malaysia from 1 January 2027 must obtain a valid visa before arrival. Applications through the MyVISA portal open on 1 December 2026. Visa processing fees are non-refundable, including after a refusal, policy change or change of travel plans. The current exemption for visits of up to 30 days runs until 31 December 2026. The department says entry requirements may change under Malaysian government directives.",
       "since": "2026-11-17",
       "until": "",
-      "lastChecked": "2026-11-19",
+      "lastChecked": "2026-11-21",
       "sourceLevel": "official",
       "sources": [
         "https://malaysiavisa.imi.gov.my/",
@@ -143,7 +143,7 @@
       "summary": "The Pakistan Airports Authority announced on 19 November 2026 that the ban on Indian-registered aircraft and aircraft owned, operated or leased by Indian airlines or operators, including military flights, is extended until 24 December 2026 at 04:59 AM. The restriction remains in force across Pakistani airspace. The announcement does not specify the time zone.",
       "since": "2026-11-19",
       "until": "2026-12-24",
-      "lastChecked": "2026-11-20",
+      "lastChecked": "2026-11-21",
       "sourceLevel": "official",
       "sources": [
         "https://x.com/Pk_PAA_Official/status/2123386785656893678"
@@ -163,6 +163,22 @@
       "sources": [
         "https://kolkata.mofa.gov.bd/pages/files/6afc42c316ca1df4d9e85e29",
         "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kolkata-mofa/2026/10/a6d13ba1-2e13-4147-99ae-a3ace04543a0.pdf"
+      ]
+    },
+    {
+      "id": "iran-embassy-postpone-travel",
+      "country": "Iran",
+      "type": "advisory",
+      "severity": "high",
+      "title": "Indian Embassy advises postponing all travel to Iran",
+      "summary": "The Embassy of India in Tehran advised on 19 July 2026 that Indian nationals intending to travel to Iran for any purpose should postpone travel until the security environment improves. Indians already in Iran should consider temporarily exiting using available flights. Those remaining should exercise the highest possible caution, avoid locations with increased military activity such as the southern coast, follow local authorities and register with the Embassy. The advisory remains displayed prominently on the Embassy website.",
+      "since": "2026-07-19",
+      "until": "",
+      "lastChecked": "2026-11-21",
+      "sourceLevel": "official",
+      "sources": [
+        "https://www.indianembassytehran.gov.in/public_files/assets/pdf/advisory-july.pdf",
+        "https://www.indianembassytehran.gov.in/"
       ]
     }
   ]
