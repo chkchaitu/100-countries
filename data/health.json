@@ -1567,10 +1567,11 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/ireland"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-21",
   "confidence": "partial",
   "unverified": [
-   "Only the CDC Travelers' Health country page was opened; destination health ministry and WHO ITH country list not checked."
+   "Only the CDC Travelers' Health country page was opened; destination health ministry and WHO ITH country list not checked.",
+   "Malaria status was not independently reconfirmed because the CDC Yellow Book country selector did not render."
   ]
  },
  {
@@ -3308,20 +3309,25 @@
    "Typhoid (West Bank and Gaza)",
    "Rabies (consider pre-exposure) (dogs with rabies are commonly found)",
    "Measles (MMR, up to date)",
-   "Polio (CDC advises up to date vaccination, booster for some adults)"
+   "Polio (CDC advises up to date vaccination, booster for some adults)",
+   "COVID-19 (up to date)",
+   "Routine vaccines"
   ],
   "malaria": "none",
   "otherHealth": [
    "CDC global polio notice (23 Sep 2026): poliovirus identified in Israel, West Bank and Gaza in the past year",
-   "CDC page covers Israel, West Bank and Gaza together"
+   "CDC page covers Israel, West Bank and Gaza together",
+   "CDC reports an increase in rabies cases in dogs and jackals in Israel, the West Bank and Gaza; avoid unfamiliar and wild animals and discuss exposure risk with a clinician.",
+   "CDC global measles notice remains listed; international travelers should be fully vaccinated with MMR."
   ],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/israel"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-21",
   "confidence": "partial",
   "unverified": [
-   "WHO ITH country list and the destination health ministry page were not opened; facts are from the CDC Travelers' Health page for the country (updated April 2025 for yellow fever entry rules)"
+   "WHO ITH country list and the destination health ministry page were not opened; facts are from the CDC Travelers' Health page for the country (updated April 2025 for yellow fever entry rules)",
+   "Malaria status was not independently reconfirmed because the CDC Yellow Book country selector did not render."
   ]
  },
  {
@@ -4187,7 +4193,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/iran"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-21",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; all facts are from the CDC Travelers' Health page (CDC yellow fever table dated April 23, 2025)"
@@ -4211,15 +4217,20 @@
   ],
   "malaria": "none",
   "otherHealth": [
-   "CDC global measles notice: be fully vaccinated with MMR"
+   "CDC global measles notice: be fully vaccinated with MMR",
+   "CDC reports increased Crimean-Congo hemorrhagic fever cases in Iraq. Avoid tick bites and contact with blood or body fluids of infected animals or people; use repellent and protective clothing when handling animals.",
+   "The Iraqi MFA Ottawa embassy says Arab and foreign travellers staying more than 15 days must register on the electronic platform to schedule medical screening after entering Iraq. This is not a vaccination requirement."
   ],
   "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/iraq"
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/iraq",
+   "https://mofa.gov.iq/ottawa?page_id=554&lang=en"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-21",
   "confidence": "partial",
   "unverified": [
-   "WHO ITH country list and the destination health ministry page were not opened; all facts are from the CDC Travelers' Health page (CDC yellow fever table dated April 23, 2025)"
+   "WHO ITH country list and the destination health ministry page were not opened; all facts are from the CDC Travelers' Health page (CDC yellow fever table dated April 23, 2025)",
+   "Exact medical screening tests and Indian-specific implementation not verified; registration requirement is published by the Iraqi MFA Ottawa embassy.",
+   "Malaria none was not independently confirmed: the CDC traveller page has no malaria prophylaxis section."
   ]
  },
  {

@@ -905,10 +905,13 @@
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+        "https://www.ireland.ie/en/india/newdelhi/services/visas/visas-for-ireland/",
+        "https://www.gov.uk/government/publications/british-irish-visa-scheme/british-irish-visa-scheme"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-21",
+      "note": "Irish visa and eligible British-Irish Visa Scheme route confirmed on official sources. Passport validity, the separate Short Stay Visa Waiver Programme conditions, and any scheme end date remain UNVERIFIED. Confirm before travel.",
+      "confidence": "partial"
     },
     {
       "country": "Kenya",
@@ -1886,16 +1889,18 @@
       "name": "Israel",
       "trip": "AH",
       "category": "evisa",
-      "rule": "Visa required; Indians are not eligible for the visa free ETA-IL. Indian passport holders resident in India can apply for an eVisa B2 (visit, tourism, business, short studies) on the official Israeli portal israel-entry.piba.gov.il, launched in 2025 per the Embassy of Israel in New Delhi. Handling fee 105 NIS (about INR 2,500), plus a logistics fee of about INR 1,985 charged on an agent site; validity up to 90 days at the consul's decision. Processing time, passport validity and exact entry points are UNVERIFIED. No US, UK, Schengen, Canada, Australia, NZ, Japan or Korea visa was found to waive or ease this for Indians.",
+      "rule": "Visa required; Indian ordinary passport holders are not eligible for visa-free ETA-IL. Indian passport holders resident in India can apply directly for an eVisa-B2 through the official PIBA portal for tourism, visiting, medical tourism, business meetings or short non-academic studies. The official handling fee is 105 NIS for 2026, non-refundable. Visa validity and the stay are up to 90 days, decided respectively by the consul and border control. The portal says it will respond within 10 working days after a complete application, but additional documents or an interview can extend processing. Its step-by-step guide asks for a travel document valid at least three months beyond visa expiry; the document checklist gives a shorter validity minimum, so confirm the applicable passport rule. Approved eVisa does not guarantee entry. Exact permitted entry points are UNVERIFIED. No foreign-visa waiver for Indians was confirmed.",
       "easedBy": [],
-      "status": "probable",
+      "status": "confirmed",
       "sources": [
         "https://embassies.gov.il/india/en/announcements/evisa",
         "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
-        "https://www.mea.gov.in/advisories-details.htm?46="
+        "https://www.mea.gov.in/advisories-details.htm?46=",
+        "https://israel-entry.piba.gov.il/static/js/main.56892e15.js"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Check the Ministry of External Affairs advisory (date unread) before travel. UNVERIFIED: gov.il was blocked and the PIBA page needed JavaScript, so fees come from search snippets. The MEA page found says Indians are advised not to travel to Iran or Israel till further notice; its date was not read, so check the current MEA advisory before planning. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-21",
+      "note": "The official PIBA website confirms the fee, processing target, Indian-resident eligibility and up-to-90-day limits. Passport validity statements conflict between the checklist and step-by-step guide. MEA advisory 46 is dated 12 April 2024; its present applicability was not established. Check current security and airline notices before travel.",
+      "confidence": "partial"
     },
     {
       "country": "Mongolia",
@@ -2329,31 +2334,38 @@
       "name": "Iran",
       "trip": "AI",
       "category": "evisa",
-      "rule": "Indian citizens are no longer visa-free: the visa waiver for India was reported cancelled on 22 November 2025. A tourist visa (e-visa authorisation through the Iranian MFA portal, evisa.mfa.ir, then stamp at an airport or consulate) should be arranged before travel. Stay normally up to 30 days, extendable. Third-party agents quote about 90 EUR stamp fee plus agent fees, UNVERIFIED. Passport validity (usually 6 months), yellow fever certificate rules and exact entry points are UNVERIFIED. US/UK/Schengen etc. visas do not ease entry; Iran refuses e-visa to US, UK, Canada nationals only, not relevant to Indians. Indian MEA/Embassy Tehran advises Indians to avoid all non-essential travel and to postpone travel for any purpose (advisories Feb, Jun, Jul 2026).",
+      "rule": "The visa waiver for Indian ordinary passport holders was suspended with effect from 22 November 2025. Indian nationals with ordinary passports must obtain a visa to enter or transit through Iran, according to the Embassy of India in Tehran. The current tourist visa application route, Indian fee, permitted stay, processing time, passport validity and entry points are UNVERIFIED because the Iranian MFA pages could not be read. Yellow fever vaccination is not required for direct travel from India; CDC requires it for travellers aged 9 months or older arriving from a risk country, including airport transits or layovers over 12 hours in a risk country. Embassy Tehran advised on 19 July 2026 that Indians intending to travel for any purpose should postpone travel until the security environment improves.",
       "easedBy": [],
       "status": "probable",
       "sources": [
         "https://en.wikipedia.org/wiki/Visa_policy_of_Iran",
         "https://www.visitouriran.com/iran-visa",
-        "https://www.indianembassytehran.gov.in/public_files/assets/pdf/Notice_4.pdf"
+        "https://www.indianembassytehran.gov.in/public_files/assets/pdf/Notice_4.pdf",
+        "https://indianembassytehran.gov.in/public_files/assets/pdf/Notice_popup_23_02_2026.pdf",
+        "https://www.indianembassytehran.gov.in/public_files/assets/pdf/advisory-july.pdf",
+        "https://wwwnc.cdc.gov/travel/destinations/traveler/none/iran"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Check the Ministry of External Affairs advisory before any travel; it could not be read. UNVERIFIED: official evisa.mfa.ir fetch failed (redirect loop) so the current Indian rule was not read from the official portal. Travel advisory in force; flights may be suspended. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-21",
+      "note": "The Embassy of India in Tehran confirms the suspension of the Indian visa waiver. UNVERIFIED: current e-visa versus consular route, Indian fee, permitted stay, processing time, passport validity, visa-on-arrival eligibility and any airside-only transit exemption. Iranian MFA pages could not be read because of redirect loops. The evisa category remains provisional. Check current embassy advice before travel.",
+      "confidence": "partial"
     },
     {
       "country": "Iraq",
       "name": "Iraq",
       "trip": "AH",
       "category": "evisa",
-      "rule": "Iraq runs an official e-visa portal (evisa.iq) giving a 30 day visa, single or multiple entry, delivered by email to print. Whether Indian passport holders are eligible for the tourist e-visa, the fee, passport validity, and yellow fever certificate rules are UNVERIFIED. Entry points and any visa on arrival for Indians are UNVERIFIED. US/UK/Schengen etc. visas are not known to ease entry. The Kurdistan Region has a separate regime, UNVERIFIED.",
+      "rule": "An Iraqi Ministry of Foreign Affairs embassy page links the official electronic visa application at eservice.evisa.iq and says applicants should apply in advance. Indian ordinary passport eligibility, the Indian fee, processing time, passport validity, entry points and visa-on-arrival eligibility remain UNVERIFIED. Visa validity is UNVERIFIED: the Ottawa embassy describes 60 days, while evisa.iq describes 30 days; neither establishes the permitted stay for Indian tourists. Yellow fever vaccination is not required for direct travel from India; CDC requires it for travellers aged 9 months or older arriving from a risk country, including airport transits or layovers over 12 hours. The Kurdistan Region has a separate regime that was not verified.",
       "easedBy": [],
       "status": "probable",
       "sources": [
         "https://evisa.iq/en",
-        "https://iraqiembassy.us/the-embassy-of-the-republic-of-iraq-in-washington-announces-the-launch-of-its-e-visa"
+        "https://iraqiembassy.us/the-embassy-of-the-republic-of-iraq-in-washington-announces-the-launch-of-its-e-visa",
+        "https://mofa.gov.iq/ottawa?page_id=554&lang=en",
+        "https://wwwnc.cdc.gov/travel/destinations/traveler/none/iraq"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Check the Ministry of External Affairs advisory before any travel; it could not be read. UNVERIFIED: portal pages were read via search snippets, instructions page was blank (JavaScript). Indian eligibility not confirmed. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-21",
+      "note": "Official portal identity is independently confirmed by the Iraqi MFA Ottawa embassy page linking eservice.evisa.iq. Indian-specific nationality search results could not be read. Ottawa guidance is not evidence that Canadian or US visa rules apply to Indians. UNVERIFIED: Indian eligibility, fee, processing, passport validity, permitted stay and transit rules. Portal and embassy disagree on 30 versus 60 day visa validity; do not treat either as a verified Indian stay limit.",
+      "confidence": "partial"
     },
     {
       "country": "Lebanon",

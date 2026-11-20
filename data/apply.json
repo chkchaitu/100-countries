@@ -2479,7 +2479,7 @@
  {
   "country": "Ireland",
   "route": "mixed",
-  "summary": "Ireland needs a visit (Short Stay C) visa for Indian citizens. Create the application on the AVATS online system, print and sign it, pay the fee as the VFS booking process directs, then book an appointment at a VFS visa application centre in India to hand in documents and give biometrics. The Embassy of Ireland in New Delhi decides and the passport comes back via VFS.",
+  "summary": "Ireland needs a Short Stay C visit visa for Indian citizens. Complete AVATS online, pay the visa fee online for applications from 16 November 2026, then print and sign the form. Book a VFS appointment in India to submit documents and give biometrics. Bring the AVATS payment confirmation email if you paid online. The Embassy in New Delhi decides and the passport is returned through VFS.",
   "applyLinks": [
    {
     "label": "Create your Irish visa application on AVATS",
@@ -2519,6 +2519,10 @@
    {
     "item": "Photo",
     "note": "Passport size colour photo. Exact specification UNVERIFIED."
+   },
+   {
+    "item": "AVATS payment confirmation email",
+    "note": "For applications paid online from 16 November 2026, submit a copy containing the Payment Transaction ID at the Visa Application Centre."
    }
   ],
   "photo": {
@@ -2528,16 +2532,17 @@
    "notes": "Irish immigration photo rules were not readable (site blocks scripts).",
    "status": "unverified"
   },
-  "fee": "Single entry INR 5,300, multiple entry INR 9,000 (Embassy of Ireland India page, read 2026-10-16). Paid to VFS when booking, plus VFS service charges. Fee waivers exist for some categories, see irishimmigration.ie fees page (not readable).",
+  "fee": "Single entry INR 5,300, multiple entry INR 9,000 on the Embassy India fee table. From 16 November 2026, pay during AVATS; bring the payment confirmation email to the VAC and select AVATS Online Payment Made in the VFS fee-exemption menu. If you have neither paid online nor received a payment confirmation email, pay when booking the VAC appointment. VFS service charges are additional. Fee waivers require eligibility.",
   "processing": "Visit visa 6 to 8 weeks from the embassy receiving the application in New Delhi, not counting VFS appointment wait or document transit (embassy page updated 17 September 2026).",
   "applyEarly": "Apply up to 90 days before travel (embassy page).",
   "biometrics": "Yes. Residents of India aged 5 or over give biometrics at the VFS centre unless exempt.",
   "centres": "VFS Ireland centres in India. Exact city list UNVERIFIED on the pages read. The embassy page mentions Delhi and Kolkata for collection cases.",
   "warnings": [
-   "Short stay visa refusals can no longer be appealed from 1 June 2026; you must reapply on AVATS.",
+   "Short stay visa refusals can no longer be appealed from 1 June 2026, except eligible EU Free Movement Directive family-member categories. Other refused applicants must reapply on AVATS.",
    "Do not claim a fee waiver you are not eligible for, the visa is refused.",
    "Documents sent after submission are not accepted unless an officer asks.",
-   "Indian holders of a suitable UK visitor visa may use the British and Irish Visa Scheme and travel on to Ireland without a separate visa (embassy page)."
+   "Indian holders of a suitable UK visitor visa may use the British and Irish Visa Scheme and travel on to Ireland without a separate visa (embassy page).",
+   "From 16 November 2026, pay the visa fee during AVATS. If paid online, select AVATS Online Payment Made in the VFS fee-exemption menu and submit the payment confirmation email. If no online payment was made and no confirmation email was received, pay when booking the VAC appointment."
   ],
   "unverified": [
    "Photo specification",
@@ -2545,15 +2550,18 @@
    "Fee waiver rules",
    "Passport validity rule",
    "VFS Ireland city list",
-   "A site claim that Indian passport holders pay no visa fee conflicts with the embassy fee of INR 5,300 and was not confirmed"
+   "A site claim that Indian passport holders pay no visa fee conflicts with the embassy fee of INR 5,300 and was not confirmed",
+   "Current visit processing-time table was not present in the extracted embassy page; previous 6 to 8 week estimate was not reconfirmed.",
+   "Application lead time was not reconfirmed."
   ],
   "sources": [
    "https://www.ireland.ie/en/india/newdelhi/services/visas/visas-for-ireland",
    "https://www.ireland.ie/en/india/newdelhi/services/visas/processing-times-and-decisions/",
    "https://www.ireland.ie/en/india/newdelhi/services/visas/visa-documentation/",
-   "https://visa.vfsglobal.com/ind/en/irl/book-an-appointment"
+   "https://visa.vfsglobal.com/ind/en/irl/book-an-appointment",
+   "https://www.ireland.ie/en/india/newdelhi/services/visas/visas-for-ireland/"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-21",
   "confidence": "partial"
  },
  {
@@ -4530,11 +4538,15 @@
  {
   "country": "Israel",
   "route": "online",
-  "summary": "Indian citizens living in India apply for a B2 tourist eVisa through the official Israeli eVisa system announced by the Embassy of Israel in New Delhi. Prepare passport, photo, travel ticket, hotel or stay proof and three months of bank statements. The embassy's visa centre network (Israel Visa Services) handles the Indian side, and you may be asked to attend a centre if needed.",
+  "summary": "Indian passport holders resident in India can apply directly through the official PIBA eVisa-B2 system. Prepare the passport copy, recent photo, round-trip tickets, insurance valid in Israel, accommodation or host proof, and evidence of funds. Pay the official 105 NIS handling fee online. The consular officer may request additional documents or an interview, and approval is sent by email. Agency assistance is optional and has separate charges.",
   "applyLinks": [
    {
-    "label": "Israel Entry: learn about the eVisa-B2 and apply",
+    "label": "Official PIBA eVisa-B2 information and application",
     "url": "https://israel-entry.piba.gov.il/learn-about-evisa-b2"
+   },
+   {
+    "label": "Official PIBA eVisa-B2 application form",
+    "url": "https://israel-entry.piba.gov.il/form/#/evisa?lang=en"
    },
    {
     "label": "Israel Visa Services India: eVisa B2 information, fees and documents",
@@ -4543,37 +4555,37 @@
    {
     "label": "Israel Visa Services India: how to apply and photo rules",
     "url": "https://www.israelvisa.in/how-to-apply"
-   },
-   {
-    "label": "Embassy of Israel New Delhi: eVisa announcement",
-    "url": "https://embassies.gov.il/india/en/announcements/evisa"
    }
   ],
   "formLinks": [],
   "documents": [
    {
-    "item": "Passport",
-    "note": "Valid passport; exact validity rule UNVERIFIED"
+    "item": "Passport or travel document copy",
+    "note": "The official step-by-step guide requires validity at least three months beyond visa expiry; its checklist instead says valid through the visa period and departure date. Confirm the stricter applicable rule before applying."
    },
    {
-    "item": "Photo",
-    "note": "See photo rules"
+    "item": "Recent passport photo",
+    "note": "White background. Digital dimensions and upload limits UNVERIFIED."
    },
    {
-    "item": "Travel ticket",
-    "note": ""
+    "item": "Round-trip tickets to Israel",
+    "note": "Upload a copy as requested by the portal."
    },
    {
-    "item": "Hotel booking or proof of stay in Israel",
-    "note": "For the duration of the visit"
+    "item": "Health insurance",
+    "note": "Valid in Israel for the entire visit."
    },
    {
-    "item": "Bank statements for the last three months",
-    "note": ""
+    "item": "Hotel or Airbnb confirmation, or host letter",
+    "note": "A host letter must be signed and give the address in Israel, phone number and host ID number."
    },
    {
-    "item": "Invitation or approval letters",
-    "note": "Only in some cases, such as conferences or visits with an invitation"
+    "item": "Proof of sufficient funds",
+    "note": "At least one: three months of bank statements, bank confirmation of financial feasibility, or another document proving funds for the visit."
+   },
+   {
+    "item": "Additional invitation or approval letters",
+    "note": "Only where applicable, such as a conference invitation or approval issued in Israel."
    }
   ],
   "photo": {
@@ -4583,32 +4595,35 @@
    "notes": "From the Israel Visa Services India photo page; face the camera, no headgear unless religious grounds, features uncovered. Digital upload size for the eVisa UNVERIFIED.",
    "status": "verified"
   },
-  "fee": "B2 tourist: 105 ILS visa fee plus INR 1985 logistic fee; optional fast track INR 6035 extra (israelvisa.in, checked 2026-10-16). Bank charges and exchange rate can change the amount.",
-  "processing": "Standard 10 working days for the eVisa per israelvisa.in; the older sticker visa route page says minimum 3 working weeks",
+  "fee": "Direct official eVisa-B2 handling fee: 105 NIS for 2026, non-refundable. Agency assistance is optional and has separate charges.",
+  "processing": "Official PIBA step-by-step guide: response within 10 working days after a complete application. Requests for more documents or a consular interview can extend this.",
   "applyEarly": "UNVERIFIED",
-  "biometrics": "Not stated as required; the visa centre says you may be asked to attend if needed.",
+  "biometrics": "No routine biometric requirement was confirmed. The official portal says a consular interview may be required.",
   "centres": "Israel Visa Services centres in New Delhi, Mumbai, Bengaluru and Kolkata",
   "warnings": [
-   "The official gov.il pages block scripts and the Israel Entry apply page could not be fully read, so confirm the apply button in a browser.",
-   "Visa fee is non-refundable, even if refused.",
-   "Approval comes by email as a PDF; keep a printout.",
-   "Visa approval does not guarantee entry; border control decides the stay (up to 90 days)."
+   "The official application form URL returns 200 but is JavaScript-only; an end-to-end application was not tested.",
+   "Official handling fee is non-refundable. Agent charges are separate from the direct official application.",
+   "Approval arrives by email. Entry remains subject to border-control inspection, with stay up to 90 days.",
+   "Passport validity wording conflicts within the official page: checklist says valid through visa and departure, while the step-by-step guide says three months beyond visa expiry. Confirm before applying.",
+   "The old Embassy eVisa announcement currently redirects to a government under-construction page and has been removed from application links."
   ],
   "unverified": [
-   "Direct URL of the eVisa application form",
-   "Passport validity rule",
-   "Digital photo upload specification",
-   "How early you can apply",
-   "gov.il service pages (blocked)"
+   "Digital photo upload dimensions and file limits",
+   "How early to apply",
+   "Applicable passport validity rule because the official checklist and step-by-step guide conflict",
+   "Full interactive application and payment were not tested",
+   "Embassy gov.il announcement unavailable, redirects to underconstruction.gov.il"
   ],
   "sources": [
    "https://www.israelvisa.in/Apply-eVisa.php",
    "https://www.israelvisa.in/how-to-apply",
    "https://www.israelvisa.in/visa-process/photo-specification",
    "https://israel-entry.piba.gov.il/learn-about-evisa-b2",
-   "https://embassies.gov.il/india/en/announcements/evisa"
+   "https://embassies.gov.il/india/en/announcements/evisa",
+   "https://israel-entry.piba.gov.il/static/js/main.56892e15.js",
+   "https://israel-entry.piba.gov.il/form/#/evisa?lang=en"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-21",
   "confidence": "partial"
  },
  {
@@ -8759,6 +8774,10 @@
   "summary": "Iraq runs an official e-visa portal (evisa.iq). Open it, use the visa search to check the rule for Indian passports, then fill in the form, upload a passport scan and a digital photo, pay online and print the e-visa that arrives by email. Show the printout at the border. Whether Indian citizens get the tourist e-visa, and the exact fee, could not be read, so check the portal before paying.",
   "applyLinks": [
    {
+    "label": "Official electronic visa application (linked by Iraqi MFA)",
+    "url": "https://eservice.evisa.iq/"
+   },
+   {
     "label": "Apply for the Iraq e-visa (official portal)",
     "url": "https://evisa.iq/en"
    },
@@ -8800,7 +8819,7 @@
   "centres": "Online only. Iraq also has an embassy in New Delhi, not checked here.",
   "warnings": [
    "Use only evisa.iq. Look-alike sites such as evisairaq.com state they are third-party agents, not government.",
-   "The e-visa is stated to be valid for 30 days, single or multiple entry.",
+   "Visa validity and permitted stay for Indians are UNVERIFIED: evisa.iq describes 30 days while the Iraqi MFA Ottawa embassy describes 60 days.",
    "Iraq travel carries security risks; check Indian government advisories and entry rules (some regions have separate rules)."
   ],
   "unverified": [
@@ -8808,13 +8827,16 @@
    "Fee",
    "Processing time",
    "Passport validity and document list",
-   "Photo size"
+   "Photo size",
+   "Visa validity and permitted stay: 30 day portal wording conflicts with 60 day Ottawa embassy wording",
+   "Application form and nationality search require JavaScript; no Indian-specific result read"
   ],
   "sources": [
    "https://evisa.iq/en",
-   "https://evisa.iq/en/Instructions"
+   "https://evisa.iq/en/Instructions",
+   "https://mofa.gov.iq/ottawa?page_id=554&lang=en"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-21",
   "confidence": "partial"
  },
  {
