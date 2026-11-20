@@ -148,6 +148,22 @@
       "sources": [
         "https://x.com/Pk_PAA_Official/status/2123386785656893678"
       ]
+    },
+    {
+      "id": "bangladesh-kolkata-siliguri-visa-centres-close-2026",
+      "country": "Bangladesh",
+      "type": "closure",
+      "severity": "medium",
+      "title": "Bangladesh visa centres run by DU Digital in Kolkata and Siliguri close after 30 November",
+      "summary": "The Bangladesh Deputy High Commission in Kolkata announced on 17 November 2026 that its visa outsourcing contract with DU Digital Global Ltd ends on 30 November 2026 and will not be renewed. The Bangladesh visa application centres operated by DU Digital in Kolkata and Siliguri will stop operating at their current addresses after that date. The notice asks applicants not to submit visa applications at those centres after 30 November. The name and address of the new visa application centre will be announced in a separate notice.",
+      "since": "2026-11-17",
+      "until": "",
+      "lastChecked": "2026-11-20",
+      "sourceLevel": "official",
+      "sources": [
+        "https://kolkata.mofa.gov.bd/pages/files/6afc42c316ca1df4d9e85e29",
+        "https://objectstorage.ap-dcc-gazipur-1.oraclecloud15.com/n/axvjbnqprylg/b/V2Ministry/o/office-kolkata-mofa/2026/10/a6d13ba1-2e13-4147-99ae-a3ace04543a0.pdf"
+      ]
     }
   ]
 }
