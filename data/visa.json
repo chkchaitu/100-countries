@@ -212,14 +212,16 @@
       "name": "Jordan",
       "trip": "C",
       "category": "evisa",
-      "rule": "e-visa or visa on arrival, 30 days. The Jordan Pass waives the visa fee only for a stay of 2 or more nights.",
+      "rule": "E-visa, visa on arrival for short tourist visits, or a visa from a Jordanian diplomatic mission. The single entry visa is valid for 1 month. The Jordan Pass waives the single entry visa fee only if bought before arrival and you stay at least 2 consecutive whole nights (3 days).",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://indembassy-amman.gov.in/pdf/4_Sept_VISIT_visa_New.pdf",
+        "https://www.jordanpass.jo/contents/FAQs.aspx"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-22",
+      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel.",
+      "confidence": "partial"
     },
     {
       "country": "Kazakhstan",
@@ -317,10 +319,12 @@
       "status": "confirmed",
       "sources": [
         "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html",
-        "https://www.in.emb-japan.go.jp/itpr_ja/11_000001_01148.html"
+        "https://www.in.emb-japan.go.jp/itpr_ja/11_000001_01148.html",
+        "https://www.in.emb-japan.go.jp/itpr_en/Visa.html"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-22",
+      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel.",
+      "confidence": "partial"
     },
     {
       "country": "Taiwan",
@@ -432,10 +436,12 @@
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://www.esteri.it/en/servizi-opportunita/ingressosoggiornoinitalia/visto_ingresso/paesi_soggetti_visto/",
+        "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-22",
+      "note": "Indian ordinary passport holders require a Schengen visa for short visits. A short stay is at most 90 days in any 180-day period. Passport validity must extend at least 3 months beyond departure from Schengen.",
+      "confidence": "official"
     },
     {
       "country": "Vatican",
@@ -1251,14 +1257,16 @@
       "name": "Jamaica",
       "trip": "P",
       "category": "visa_free",
-      "rule": "Visa-free.",
+      "rule": "Visa-free for Indian ordinary passport holders. The official entry table does not specify an Indian stay limit; the immigration officer decides admission and the allowed stay. Passport must be valid for the intended stay, with sufficient funds and a return or onward ticket.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://www.pica.gov.jm/immigration/entry-visa-requirements",
+        "https://jamaica-brussels.be/entry-into-jamaica/"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-22",
+      "note": "India is listed as no visa required by Jamaica's Passport, Immigration and Citizenship Agency. No fixed stay duration for Indians was stated on the official pages read.",
+      "confidence": "official"
     },
     {
       "country": "Dominican Rep.",

@@ -379,15 +379,19 @@
    "Measles (MMR, up to date)"
   ],
   "malaria": "none",
-  "otherHealth": [],
+  "otherHealth": [
+   "CDC notes rabies in dogs and some terrestrial wildlife in Jordan.",
+   "CDC warns that schistosomiasis is found in Jordan; avoid swimming in fresh, unchlorinated water."
+  ],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/jordan"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-22",
   "confidence": "partial",
   "unverified": [
-   "WHO ITH country list and the destination health ministry page were not opened; yellow fever risk status is from CDC (CDC says no vaccine recommended, which matches no WHO transmission risk)",
-   "Whether the destination applies any extra health declaration or insurance rule is not verified"
+   "WHO ITH country list and destination health ministry not read; yellow fever entry requirement checked from CDC",
+   "Malaria country table did not render or expose country data; existing none value not independently reverified",
+   "Extra health declaration or insurance requirement not verified"
   ]
  },
  {
@@ -547,11 +551,13 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/japan"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-22",
   "confidence": "partial",
   "unverified": [
-   "WHO ITH country list and the destination health ministry page were not opened; yellow fever risk status is from CDC (CDC says no vaccine recommended, which matches no WHO transmission risk)",
-   "Whether the destination applies any extra health declaration or insurance rule is not verified"
+   "WHO ITH country list and destination health ministry not read; yellow fever entry requirement verified from CDC",
+   "Malaria country table did not render or expose country data; existing none value not independently reverified",
+   "Extra health declaration or insurance requirement not verified",
+   "CDC links tick-borne encephalitis guidance but country-specific vaccine indication not opened"
   ]
  },
  {
@@ -735,10 +741,11 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/italy"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-22",
   "confidence": "partial",
   "unverified": [
-   "Destination health ministry and WHO ITH country list not opened; entry rule is from the CDC Travelers' Health page (updated April 23, 2025). Insurance requirements not checked."
+   "CDC destination page read in full raw HTML; yellow fever, vaccine advice, dengue and Global Measles notice confirmed. Destination health ministry and WHO ITH were not opened.",
+   "Malaria absence was not independently rechecked: the CDC Yellow Book selector did not expose country-specific data in web_fetch, and raw curl returned 403."
   ]
  },
  {
@@ -2267,15 +2274,20 @@
    "Measles (MMR), if not fully vaccinated"
   ],
   "malaria": "none",
-  "otherHealth": [],
-  "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/jamaica"
+  "otherHealth": [
+   "CDC lists dengue and Zika risks; avoid mosquito bites.",
+   "Jamaica Tourist Board advises avoiding floodwater and food contaminated by floodwater or animal urine during post-hurricane recovery, because of leptospirosis risk."
   ],
-  "lastChecked": "2026-10-16",
+  "sources": [
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/jamaica",
+   "https://www.visitjamaica.com/travel-alerts/"
+  ],
+  "lastChecked": "2026-11-22",
   "confidence": "partial",
   "unverified": [
-   "Only CDC Travelers' Health opened (updated April 2025 to Feb 2026 for YF entry data); WHO ITH and destination health ministry not checked",
-   "CDC lists no entry rule for travellers from India specifically; India is not a yellow fever risk country"
+   "CDC destination page read in full raw HTML. Destination health ministry and WHO ITH were not opened.",
+   "Malaria absence was not independently rechecked: the CDC Yellow Book selector did not expose country-specific data in web_fetch, and raw curl returned 403.",
+   "India-specific yellow fever wording remains UNVERIFIED on a Jamaican health-ministry page; CDC gives the risk-country and over-12-hour transit rule."
   ]
  },
  {
