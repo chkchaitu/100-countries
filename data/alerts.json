@@ -1,6 +1,6 @@
 {
   "about": "Active travel alerts for an Indian passport holder: airline suspensions, Indian embassy or MEA advisories, entry restrictions and closures. An alert stays listed until it is lifted. sourceLevel is official (official page read) or news (reported by news, official page not read yet).",
-  "lastChecked": "2026-11-15",
+  "lastChecked": "2026-11-22",
   "alerts": [
     {
       "id": "saudi-arabia-air-india-suspension",
@@ -179,6 +179,21 @@
       "sources": [
         "https://www.indianembassytehran.gov.in/public_files/assets/pdf/advisory-july.pdf",
         "https://www.indianembassytehran.gov.in/"
+      ]
+    },
+    {
+      "id": "jamaica-post-melissa-recovery",
+      "country": "Jamaica",
+      "type": "advisory",
+      "severity": "medium",
+      "title": "Some areas and tourism facilities remain under repair after Hurricane Melissa",
+      "summary": "As checked on 22 November 2026, Jamaica Tourist Board says Jamaica is open to visitors, with most resort areas operating, but some areas remain under repair and utilities are still being restored in some resort areas. All three international airports have resumed full operations and seaports are open. The board asks visitors to confirm that their booked accommodation can host them and to check hotel operating status. It also advises avoiding floodwater because of health risks.",
+      "since": "2026-11-22",
+      "until": "",
+      "lastChecked": "2026-11-22",
+      "sourceLevel": "official",
+      "sources": [
+        "https://www.visitjamaica.com/travel-alerts/"
       ]
     }
   ]

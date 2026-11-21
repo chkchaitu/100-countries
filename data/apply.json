@@ -478,7 +478,7 @@
    },
    {
     "label": "Embassy of Japan in India: Visa",
-    "url": "https://www.in.emb-japan.go.jp/itpr_en/visa.html"
+    "url": "https://www.in.emb-japan.go.jp/itpr_en/Visa.html"
    },
    {
     "label": "Embassy of Japan in India: JAPAN eVISA",
@@ -491,30 +491,38 @@
   ],
   "formLinks": [
    {
-    "label": "Visa application form linked from the VFS Japan page",
-    "url": "https://www.mofa.go.jp/files/100497463.doc"
+    "label": "Visa application form linked from VFS Japan Delhi",
+    "url": "https://www.vfsglobal.com/one-pager/japan/india/delhi/pdf/visa-application-form-2024.pdf"
    }
   ],
   "documents": [
    {
     "item": "Passport",
-    "note": "Valid passport. Exact validity and blank page rules: UNVERIFIED (checklist on VFS page not readable)."
+    "note": "Valid passport with more than two blank pages; submit old passports if any. A fixed minimum remaining validity is UNVERIFIED."
    },
    {
-    "item": "Visa application form",
-    "note": "One completed and signed form with 1 photo."
+    "item": "Passport copies",
+    "note": "Bio data pages of the current passport, first and last page. All photocopies on A4."
    },
    {
-    "item": "Photo",
-    "note": "1 photo, 45x35 mm, see photo section."
+    "item": "Visa application form and photo",
+    "note": "Completed and signed form and one photograph taken within 6 months."
    },
    {
-    "item": "Itinerary, flights and hotel proof, funds proof, employment proof, bank statements, ITR",
-    "note": "Typically requested for tourism but UNVERIFIED: the official requirement list loads by script or PDF. Check the Tourism requirement list on VFS."
+    "item": "Flight or cruise schedule and itinerary",
+    "note": "Schedule to and from Japan and itinerary including hotel and contact information in Japan."
    },
    {
-    "item": "Photocopies",
-    "note": "VFS says all photocopies must be on A4 size."
+    "item": "Financial evidence",
+    "note": "Latest Income Tax Return, or bank statements for the last 6 months if unavailable."
+   },
+   {
+    "item": "Students, dependants and accompanying family",
+    "note": "Parents or spouse consent and their latest ITR, or 6 months of bank statements if unavailable. Relationship proof where accompanied by dependants."
+   },
+   {
+    "item": "Covering letter",
+    "note": "If any special explanation is needed."
    }
   ],
   "photo": {
@@ -524,30 +532,33 @@
    "notes": "Per the VFS Global Japan Delhi page. Photo booths exist at some VFS centres (secondary report).",
    "status": "verified"
   },
-  "fee": "Visa fee INR 500 for Indian nationals, single or multiple entry (VFS page effective 1 April 2025; Embassy page snippet also states INR 500 from 1 July 2026). Plus VFS service charge INR 800 per application, and optional courier return INR 550. Paid in INR at submission.",
+  "fee": "Visa fee INR 500 for Indian nationals, single or multiple entry, per the Embassy from 1 July 2026. Plus VFS service charge INR 800 per application and optional courier return INR 550 per the VFS Delhi page. Local submission and payment rules vary.",
   "processing": "Minimum 5 working days from the day the application reaches the Embassy of Japan, New Delhi (indicative, per VFS). Can be longer in busy periods.",
-  "applyEarly": "Embassy page snippet: applications are accepted from 3 months before the travel date; plan well in advance.",
-  "biometrics": "UNVERIFIED. The sources read describe submission of documents at VFS and no biometrics step. The eVISA rules say an in person interview may sometimes be requested.",
+  "applyEarly": "Applications can be accepted from 3 months before the travel date, per the Embassy. Plan well in advance.",
+  "biometrics": "Routine biometrics requirement UNVERIFIED. The Embassy or consulate may request an in person interview or additional documents.",
   "centres": "VFS Japan centres include New Delhi, Mumbai (with Ahmedabad, Pune and Goa under Mumbai), plus drop off or collection points in Gurugram, Chandigarh, Lucknow, Agra, Amritsar, Jaipur, Dehradun, Ludhiana and Guwahati per the Delhi page. South India cities (Bengaluru, Chennai, Hyderabad, Kochi, Kolkata) are reported by secondary sources only.",
   "warnings": [
    "The visa fee is refunded only if the visa is refused; the VFS service charge is not refundable.",
    "Outside New Delhi and Mumbai, fees are often paid by separate demand drafts per applicant (visa fee, service charge, courier), so check the local centre rules.",
-   "Embassy and MOFA pages block automated reading (403), so check the live Embassy page for the latest fee and document list.",
-   "eVISA covers single entry tourism up to 90 days only; you must show the issuance notice on a mobile device at the airport, a printout or screenshot is not accepted."
+   "eVISA covers single entry tourism up to 90 days only; you must show the issuance notice on a mobile device at the airport, a printout or screenshot is not accepted.",
+   "VFS still publishes a transit visa checklist, but the Embassy says transit visas were abolished from 1 July 2026. Follow the Embassy and confirm the entry visa needed for a landside connection."
   ],
   "unverified": [
-   "Official tourism document checklist",
-   "Passport validity rules",
-   "Biometrics or interview requirement",
-   "Embassy of Japan visa page (403 blocked; fee seen only as a search snippet)",
-   "Whether VFS appointment booking is now needed"
+   "Fixed minimum remaining passport validity",
+   "Routine biometrics requirement",
+   "Photo discrepancy: VFS page says 45x35 mm but older sightseeing checklist says 2x2 inches",
+   "All regional centre arrangements outside the Delhi page"
   ],
   "sources": [
    "https://www.vfsglobal.com/one-pager/japan/india/delhi/index.html",
    "https://www.vfsglobal.com/one-pager/japan/india/mumbai/index.html",
-   "https://visa.vfsglobal.com/ind/en/jpn"
+   "https://visa.vfsglobal.com/ind/en/jpn",
+   "https://www.in.emb-japan.go.jp/itpr_en/Visa.html",
+   "https://www.in.emb-japan.go.jp/itpr_ja/11_000001_01148.html",
+   "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html",
+   "https://www.vfsglobal.com/one-pager/japan/india/delhi/pdf/Tourism-Visa.pdf"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-22",
   "confidence": "partial"
  },
  {
@@ -1149,10 +1160,10 @@
  {
   "country": "Italy",
   "route": "mixed",
-  "summary": "Complete the online form on the Italian Visto per l'Italia portal and print it. Then book an appointment at the VFS Italy centre in India and submit documents and fingerprints.",
+  "summary": "Use the official Visto per l'Italia guided questionnaire to check visa requirements and obtain the required information and forms. It is an information portal, not a completed visa submission. Submit a signed application and supporting documents to the responsible Italian consulate or its authorised visa centre; the current India appointment procedure remains UNVERIFIED in this check.",
   "applyLinks": [
    {
-    "label": "Fill in the Italy visa application (Vistoperitalia)",
+    "label": "Check Italy visa requirements and obtain the required forms (Vistoperitalia)",
     "url": "https://vistoperitalia.esteri.it/"
    },
    {
@@ -1168,7 +1179,7 @@
   "documents": [
    {
     "item": "Passport",
-    "note": "Typically valid at least 3 months beyond the planned departure from Schengen, issued within the last 10 years, with at least 2 blank pages. Check the mission checklist."
+    "note": "Valid at least 3 months after departure from Schengen. The issued-within-10-years and 2-blank-pages rules remain UNVERIFIED in this check; follow the mission checklist."
    },
    {
     "item": "Completed and signed visa application form",
@@ -1214,10 +1225,10 @@
    "notes": "Confirm on the mission or visa centre checklist",
    "status": "unverified"
   },
-  "fee": "UNVERIFIED (not read on an official page during this check)",
-  "processing": "UNVERIFIED",
-  "applyEarly": "UNVERIFIED (Schengen rules usually allow applying up to 6 months before travel, but not confirmed on an official page here)",
-  "biometrics": "Fingerprints normally taken in person at the VFS centre, not confirmed here",
+  "fee": "Standard Schengen short-stay visa fee for Indian adults: EUR 90. Children aged 6 to 12: EUR 45. The current INR amount and India visa-centre service fee are UNVERIFIED. Fee exemptions exist for specific categories.",
+  "processing": "Normally 15 calendar days; may be extended to 45 days for further examination or additional documents.",
+  "applyEarly": "Submit no earlier than 6 months before travel and, as a rule, at least 15 calendar days before the intended journey. Appointment availability is separate.",
+  "biometrics": "Fingerprints are collected when submitting the Schengen visa application, with exemptions for certain categories. The India collection location remains UNVERIFIED.",
   "centres": "UNVERIFIED",
   "warnings": [
    "Apply to the mission responsible for your main destination (the country where you spend the most nights), not just any Schengen country.",
@@ -1226,20 +1237,19 @@
    "Use only the official portal or visa centre; avoid look-alike agent sites."
   ],
   "unverified": [
-   "Visa centre page content (JavaScript)",
-   "Italian embassy visa page details",
-   "Current fee",
-   "Processing time",
-   "Exact document checklist",
-   "Photo rules"
+   "VFS appointment page returned 403; India centre locations, local submission procedure and service fee remain UNVERIFIED.",
+   "Current INR amount payable in India remains UNVERIFIED; the EU standard adult visa fee is EUR 90 and India is not listed among reduced-fee nationalities.",
+   "Italian mission fee, forms, location and checklist subpages opened but their main body was empty in English and Italian.",
+   "Exact Italy tourist checklist, 35 x 45 mm photo dimensions, insurance cover amount, passport issue-age and blank-page rules were not verified."
   ],
   "sources": [
    "https://vistoperitalia.esteri.it/",
    "https://ambnewdelhi.esteri.it/en/",
-   "https://visa.vfsglobal.com/ind/en/ita/book-an-appointment"
+   "https://visa.vfsglobal.com/ind/en/ita/book-an-appointment",
+   "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-22",
+  "confidence": "partial",
   "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
  },
  {
@@ -3439,6 +3449,10 @@
   "summary": "The Indian Embassy in Amman lists three options for Indian passport holders: an e-visa from the Jordan Ministry of Interior e-services portal, a visa on arrival at border crossings for short tourist visits, or a visa from Jordan's mission in New Delhi. Buying the Jordan Pass online gives a free entry e-visa if you stay at least 2 nights. Visa on arrival can take 2 to 3 hours.",
   "applyLinks": [
    {
+    "label": "Jordan Ministry of Interior visa e-services",
+    "url": "https://moi.gov.jo/en/pages/visa_e_applications"
+   },
+   {
     "label": "Buy the Jordan Pass (includes free e-visa)",
     "url": "https://www.jordanpass.jo/buynow.aspx"
    },
@@ -3473,7 +3487,7 @@
    "notes": "Not read",
    "status": "unverified"
   },
-  "fee": "Single entry visa without a Jordan Pass is JD 40 (about USD 60) per the Jordan Pass FAQ, read 2026-10-16; waived with Jordan Pass for 2+ nights. Jordan Pass price UNVERIFIED (page shows JD figures but unclear).",
+  "fee": "Single entry visa without Jordan Pass: JOD 40. Jordan Pass: Wanderer JOD 70, Explorer JOD 75, Expert JOD 80, covering respectively 1, 2 or 3 consecutive Petra visit days. The single entry visa fee is waived if the pass is bought before arrival and you stay at least 2 consecutive whole nights (3 days).",
   "processing": "Visa on arrival can take 2 to 3 hours (Indian Embassy Amman PDF). E-visa time UNVERIFIED.",
   "applyEarly": "UNVERIFIED",
   "biometrics": "None for e-visa; UNVERIFIED for embassy route",
@@ -3484,17 +3498,20 @@
    "Visa on arrival can take 2 to 3 hours."
   ],
   "unverified": [
-   "E-visa fee and processing time",
+   "E-visa processing time and any separate portal fees",
    "Photo rules",
-   "Jordan Pass price",
-   "Delhi embassy visa page"
+   "Passport validity and upload-document checklist",
+   "Delhi embassy visa page",
+   "Jordan Pass purchase page and FAQ give conflicting pass-validity descriptions"
   ],
   "sources": [
    "https://indembassy-amman.gov.in/pdf/4_Sept_VISIT_visa_New.pdf",
    "https://www.jordanpass.jo/contents/FAQs.aspx",
-   "https://www.jordanpass.jo/buynow.aspx"
+   "https://www.jordanpass.jo/buynow.aspx",
+   "https://www.jordanpass.jo/contents/Prices.aspx",
+   "https://moi.gov.jo/en/pages/visa_e_applications"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-22",
   "confidence": "partial"
  },
  {
@@ -13652,7 +13669,7 @@
   "documents": [
    {
     "item": "Valid passport",
-    "note": "Valid for your whole stay; 2 blank pages for stamps is the usual rule (GOV.UK summary, not on the Jamaican page I could read)"
+    "note": "Passport must be valid for the period of intended stay, per the Jamaican Embassy. A specific blank-pages requirement was not found on the Jamaican pages read."
    },
    {
     "item": "Completed C5 declaration",
@@ -13686,7 +13703,7 @@
    "notes": "",
    "status": "unverified"
   },
-  "fee": "C5 declaration is free (Jamaica Customs and Visit Jamaica pages, checked 2026-10-16). No visa fee. Departure tax is normally included in the air ticket: UNVERIFIED.",
+  "fee": "The electronic C5 declaration is free for visitors and residents, per Jamaica Customs. No entry visa is required for Indians. Departure tax and whether it is included in the airfare remain UNVERIFIED.",
   "processing": "C5 declaration is submitted online and is not an approval; no processing time. Not applicable as a permit.",
   "applyEarly": "Fill in the C5 before you fly (Visit Jamaica advises doing it before arrival; exact earliest window UNVERIFIED).",
   "biometrics": "UNVERIFIED (officers may take a photo or fingerprints at the airport).",
@@ -13699,18 +13716,20 @@
   ],
   "unverified": [
    "Allowed days of stay for Indian citizens",
-   "Passport blank pages rule on a Jamaican government page",
+   "Passport blank-pages rule on a Jamaican government page",
    "Departure tax",
    "Biometrics at border",
-   "visitjamaica.com page blocks automated checks"
+   "Earliest C5 submission window"
   ],
   "sources": [
    "https://www.pica.gov.jm/immigration/travel-documents-required",
    "https://jca.gov.jm/individual/passenger/",
    "https://enterjamaica.gov.jm/",
-   "https://jamaica-brussels.be/entry-into-jamaica"
+   "https://jamaica-brussels.be/entry-into-jamaica",
+   "https://www.pica.gov.jm/immigration/entry-visa-requirements",
+   "https://jamaica-brussels.be/entry-into-jamaica/"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-22",
   "confidence": "partial"
  },
  {

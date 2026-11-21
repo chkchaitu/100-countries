@@ -598,17 +598,17 @@
   "country": "Japan",
   "airside": {
    "visaNeeded": "no",
-   "rule": "Not needed if you stay airside on one ticket with no immigration check. Japan abolished its separate transit visa on 1 July 2026 (an insurer guide quoting the Embassy of Japan in India fee table). Narita does not allow airside stays between midnight and 06:00.",
+   "rule": "At Narita, international passengers staying in the departure area airside do not undergo immigration. Confirm with the airline whether your connection requires entry, especially between terminals. Airside overnight stays are not permitted between midnight and 06:00.",
    "maxHours": "UNVERIFIED",
    "conditions": [
-    "same airport",
-    "stay in the transit area",
-    "same day onward flight (per guide)"
+    "remain in the departure area airside",
+    "connection must not require immigration",
+    "no airside overnight stay at Narita"
    ]
   },
   "landside": {
    "visaNeeded": "yes",
-   "rule": "Leaving the airport or an overnight at Narita means entering Japan, so a visa is needed (the JAPAN eVISA is for tourism, not layovers). A shore pass needs the airline to apply and is not guaranteed.",
+   "rule": "Leaving the airside area or transiting overnight at Narita requires arrival immigration and customs. Indian ordinary passport holders need permission to enter Japan. The Embassy says the separate transit visa was abolished from 1 July 2026; confirm the appropriate entry visa with VFS or the Embassy.",
    "maxHours": "UNVERIFIED",
    "scheme": "none (transit visa abolished 2026-07-01)"
   },
@@ -617,18 +617,20 @@
   "howToGet": "Ask the VFS centre or the Embassy of Japan in India; JAPAN eVISA info at https://www.mofa.go.jp/j_info/visit/visa/visaonline.html",
   "fee": "UNVERIFIED",
   "warnings": [
-   "The transit visa no longer exists; this change is from an insurer and aggregator, not read on a MOFA page",
-   "Overnight Narita connections force entry"
+   "Narita requires overnight transit passengers to complete arrival immigration and customs.",
+   "The Embassy confirms transit visas were abolished from 1 July 2026, although VFS still publishes a transit checklist."
   ],
   "sources": [
-   "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html",
-   "https://www.zurichkotak.com/knowledge-center/travel-insurance/japan-transit-visa-for-indians"
+   "https://www.in.emb-japan.go.jp/itpr_en/Visa.html",
+   "https://www.narita-airport.jp/en/airportguide/connect/inter-inter/",
+   "https://www.mofa.go.jp/j_info/visit/visa/visaonline.html"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-22",
   "confidence": "partial",
   "unverified": [
-   "Embassy of Japan fee table not opened",
-   "Exact airside conditions"
+   "Airside conditions at airports other than Narita",
+   "Entry visa category for each landside transit itinerary and any shore pass eligibility",
+   "Maximum permitted transit duration"
   ]
  },
  {
@@ -840,7 +842,7 @@
   "country": "Italy",
   "airside": {
    "visaNeeded": "no",
-   "rule": "Not required. India is not on the EU common list of nationalities needing an airport transit visa (list checked in the EC document), and this country is not among the states with an extra national requirement for Indians. Italy shows no X for India in the list.",
+   "rule": "Indian ordinary passport holders are not on Italy's official list of nationalities requiring an airport transit visa. This applies only to staying in the international transit area; crossing immigration requires the applicable Schengen entry permission.",
    "maxHours": "UNVERIFIED",
    "conditions": []
   },
@@ -859,13 +861,14 @@
    "Changing airports or terminals outside the transit area counts as entry."
   ],
   "sources": [
-   "https://home-affairs.ec.europa.eu/document/download/7337515c-60a1-4510-b639-80de714f543e_en"
+   "https://www.esteri.it/en/servizi-opportunita/ingressosoggiornoinitalia/visto_ingresso/paesi_soggetti_visto_transito_aeroportuale/",
+   "https://www.esteri.it/en/servizi-opportunita/ingressosoggiornoinitalia/visto_ingresso/paesi_soggetti_visto/"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-22",
   "confidence": "partial",
   "unverified": [
-   "Maximum airside layover length",
-   "Any exemptions for Indians with US or other visas"
+   "Maximum airside layover length and airport-specific international transit arrangements remain UNVERIFIED.",
+   "No exemption visa is needed to establish the ordinary Indian passport airside rule because India is absent from Italy's airport-transit-visa list."
   ]
  },
  {
@@ -2767,33 +2770,34 @@
   "country": "Jamaica",
   "airside": {
    "visaNeeded": "no",
-   "rule": "Not required: Wikipedia summary says most passengers can transit without a visa for up to 72 hours; no Indian-specific exception seen. Not confirmed on an official page",
-   "maxHours": "72 hours (secondary source)",
+   "rule": "PICA lists Indian passport holders as not requiring an entry visa. No separate Indian airside visa requirement was found on the official entry pages. The claimed 72-hour transit limit is UNVERIFIED and should not be relied upon.",
+   "maxHours": "UNVERIFIED",
    "conditions": []
   },
   "landside": {
-   "visaNeeded": "unverified",
-   "rule": "Leaving the airport means entry rules apply; Indian visa-free or visa status for entry not confirmed in this check",
+   "visaNeeded": "no",
+   "rule": "Indian ordinary passport holders are visa-exempt for entry under the PICA nationality table. Admission and the permitted stay are decided by the immigration officer; carry a valid passport, sufficient funds and a return or onward ticket.",
    "maxHours": "UNVERIFIED",
-   "scheme": "72 hour general transit (secondary source only)"
+   "scheme": "No special transit scheme needed for visa-exempt entry; any separate transit time limit is UNVERIFIED."
   },
   "easedBy": [],
   "landTransit": "Not applicable",
-  "howToGet": "Not applicable if airside; for entry check the Jamaica Passport, Immigration and Citizenship Agency",
-  "fee": "UNVERIFIED",
+  "howToGet": "No entry visa is required for Indian ordinary passport holders. Complete the free electronic C5 declaration if entering Jamaica, and meet the normal entry conditions.",
+  "fee": "No entry visa fee for Indian ordinary passport holders; electronic C5 declaration is free.",
   "warnings": [
    "Few India to Jamaica itineraries connect here; Jamaica is usually the destination",
    "Confirm with the airline before booking separate tickets"
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Visa_policy_of_Jamaica"
+   "https://www.pica.gov.jm/immigration/entry-visa-requirements",
+   "https://jamaica-brussels.be/entry-into-jamaica/",
+   "https://jca.gov.jm/individual/passenger/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-22",
+  "confidence": "partial",
   "unverified": [
-   "Official page blocked or not reachable; only Wikipedia visa-policy summary read, so rule is secondary evidence",
-   "Official Jamaican source not opened",
-   "Whether Indians qualify for the 72 hour rule"
+   "Separate airside transit time limit and airport-specific transit arrangements",
+   "The former 72-hour transit claim was supported only by Wikipedia and was not confirmed by PICA."
   ]
  },
  {

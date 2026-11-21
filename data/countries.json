@@ -908,8 +908,8 @@
   "places": [
    {
     "name": "Petra",
-    "note": "",
-    "fee": "about ₹5,900 one day ticket, or ₹9,000 to ₹10,000 Jordan Pass"
+    "note": "Open daily 06:00 to 16:00, or 18:00 in summer, subject to weather or extraordinary closures.",
+    "fee": "Petra: JOD 50 for 1 day, JOD 55 for 2 days or JOD 60 for 3 days if staying at least 1 night in Jordan; JOD 90 for a non-accommodated 1 day visit. Jordan Pass: JOD 70, 75 or 80."
    },
    {
     "name": "Wadi Rum",
@@ -974,10 +974,12 @@
   ],
   "neighbours": [],
   "sources": [
-   "https://en.wikipedia.org/wiki/Jordan"
+   "https://en.wikipedia.org/wiki/Jordan",
+   "https://petrapass.pdtra.gov.jo/Online/Index",
+   "https://www.jordanpass.jo/contents/Prices.aspx"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-22",
+  "confidence": "partial",
   "iso": "jo",
   "currency": {
    "name": "Jordanian dinar",
@@ -1410,7 +1412,7 @@
    },
    {
     "name": "Mount Fuji climb",
-    "note": "Jul to early Sep, about JPY 4,000 fee",
+    "note": "The 2026 climbing season has ended and all four summit trails are closed for winter. The official climbing season ends on 10 September. About JPY 4,000 fee: UNVERIFIED for the next season.",
     "priceInr": null
    }
   ],
@@ -1423,10 +1425,12 @@
    "Taiwan"
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Japan"
+   "https://en.wikipedia.org/wiki/Japan",
+   "https://www.fujisan-climb.jp/en/",
+   "https://www.japan.travel/en/plan/currency/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-22",
+  "confidence": "partial",
   "iso": "jp",
   "currency": {
    "name": "Japanese yen",
@@ -1924,16 +1928,22 @@
    "Monaco"
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Italy"
+   "https://en.wikipedia.org/wiki/Italy",
+   "https://www.italia.it/en/italy/practical-information"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-22",
+  "confidence": "partial",
   "iso": "it",
   "currency": {
    "name": "Euro",
    "code": "EUR",
    "symbol": "€"
-  }
+  },
+  "unverified": [
+   "Colosseum operator page timed out twice; ticketing site returned 403. Attraction fees and opening status were not verified.",
+   "Duomo, Trevi Fountain, Last Supper and gondola fees or closures, seasonal budget figures and EES full-rollout date were not verified.",
+   "Indian Embassy Rome blocked both curl and web_fetch with 403; no current Indian advisory could be read."
+  ]
  },
  {
   "country": "Vatican",
@@ -5788,20 +5798,29 @@
    }
   ],
   "cautions": [
-   "Hurricane season Jun to Nov, highest risk Aug to Oct: buy flexible tickets and insurance"
+   "Hurricane season Jun to Nov, highest risk Aug to Oct: buy flexible tickets and insurance",
+   "Jamaica is open to visitors, but the tourism board reports ongoing repairs in some areas after Hurricane Melissa. Confirm that your accommodation and intended attractions are operating; all three international airports have resumed full operations."
   ],
   "neighbours": [],
   "sources": [
-   "https://en.wikipedia.org/wiki/Jamaica"
+   "https://en.wikipedia.org/wiki/Jamaica",
+   "https://boj.org.jm/currency/",
+   "https://www.visitjamaica.com/travel-alerts/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-22",
+  "confidence": "partial",
   "iso": "jm",
   "currency": {
    "name": "Jamaican dollar",
    "code": "JMD",
    "symbol": "J$"
-  }
+  },
+  "unverified": [
+   "Dunn's River Falls admission fee, individual attraction opening status, Bob Marley Museum fees and Mystic Mountain operation were not verified.",
+   "Budget estimates, transport description and seasonal value were not revalidated.",
+   "Bank of Jamaica currency page confirms Jamaican currency and denominations, but JMD code and J$ display symbol were not independently sourced.",
+   "Indian High Commission Kingston returned 403 in curl and web_fetch; its current advisory could not be read."
+  ]
  },
  {
   "country": "Dominican Rep.",
