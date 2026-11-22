@@ -228,14 +228,18 @@
       "name": "Kazakhstan",
       "trip": "D",
       "category": "visa_free",
-      "rule": "Visa-free, 14 days.",
+      "rule": "Visa-free for up to 14 continuous days, with a maximum of 42 days within every 180 days. QazETA is being introduced in phases and becomes mandatory from 1 July 2027.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+        "https://www.gov.kz/memleket/entities/mfa/press/news/details/398648?lang=en",
+        "https://www.indembastana.gov.in/page/kazakhstan-introduced-visa-free-travel-for-citizens-of-india-for-up-to-14-days/",
+        "https://www.gov.kz/org/mfa-ashgabat/press/news/details/1322929?lang=en"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-23",
+      "note": "The 14-day visa-free rule for Indian citizens is confirmed by Kazakhstan MFA and the Indian Embassy in Astana. During the QazETA transition, absence of an ETA alone is not grounds for refusal before 1 July 2027.",
+      "confidence": "official"
     },
     {
       "country": "Kyrgyzstan",
@@ -924,14 +928,17 @@
       "name": "Kenya",
       "trip": "L",
       "category": "evisa",
-      "rule": "Electronic Travel Authorisation (eTA), up to 90 days; East Africa Tourist Visa also valid.",
+      "rule": "Indian ordinary passport holders require an approved Electronic Travel Authorisation (eTA) before entry. Exact permitted stay length and East Africa Tourist Visa acceptance: UNVERIFIED.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+        "https://etakenya.go.ke/how-to-apply",
+        "https://www.hcinairobi.gov.in/public_files/assets/pdf/Travel_Advisory_Mandatory_Travel_Health_Insurance_15102026.pdf"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-23",
+      "note": "The official 2025 exemptions list does not exempt Indian ordinary passports. Indian diplomatic, official and service passports are exempt for up to 90 days; this is not the ordinary-passport stay rule. Prescribed inbound travel health insurance is also required for non-exempt visitors.",
+      "confidence": "partial"
     },
     {
       "country": "Tanzania",
@@ -1481,19 +1488,21 @@
       "name": "Kosovo",
       "trip": "R",
       "category": "conditional",
-      "rule": "Visa required for Indian passports. Exempt for up to 15 days with a valid multiple entry Schengen visa or Schengen residence permit per Kosovo MFA as quoted by Wikipedia. Register address with police within 3 days. Check US or UK visa easing with Kosovo MFA before relying on it.",
+      "rule": "Indian ordinary passport holders require a Kosovo visa unless they hold a valid multi-entry Schengen visa or a valid biometric residence permit issued by a Schengen Area country. These holders are exempt for entry, transit and stays of up to 15 days. For visa applications, the passport must be valid at least three months after departure from Kosovo and have at least two blank pages. The type C application fee is EUR 40, subject to the official exempt categories. US or UK visa exemptions were not confirmed.",
       "easedBy": [
         "SC"
       ],
-      "status": "probable",
+      "status": "confirmed",
       "sources": [
         "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
         "https://xk.usembassy.gov/message-for-u-s-citizens-u-s-citizen-town-hall-on-december-12-2025-at-u-s-embassy-pristina-kosovo-2",
         "https://www.visitplane.com/visa/India/Kosovo",
-        "https://travel.gc.ca/travelling/advisories"
+        "https://travel.gc.ca/travelling/advisories",
+        "https://ambasadat.net/visas"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-23",
+      "note": "Indian citizenship is not on the official visa-exempt list. Schengen exemption, biometric residence permit condition, passport requirements and EUR 40 type C fee confirmed on the Kosovo foreign ministry embassies site. Address registration within three days was not verified on this source.",
+      "confidence": "official"
     },
     {
       "country": "Bulgaria",
@@ -3028,15 +3037,19 @@
       "country": "Kiribati",
       "name": "Kiribati",
       "trip": "AB",
-      "category": "on_arrival",
-      "rule": "MEA India's Visa Facility for Indian Nationals list shows Kiribati among countries giving Indian ordinary passport holders entry without a prior visa (visa on arrival category). Stay length and fee could not be verified from an official page. Typical conditions: passport valid 6 months, return or onward ticket, proof of funds and accommodation. Entry points: Bonriki (Tarawa) and Kiritimati airports. Yellow fever certificate: UNVERIFIED (generally only for arrivals from endemic countries, India is not one). No known waiver or easing from US/UK/Schengen/Canada/Australia/NZ/Japan/Korea visas, none needed.",
+      "category": "visa_free",
+      "rule": "Indian ordinary passport holders are visa exempt for a maximum of 90 days in any 12-month period under the Immigration Entry and Visa Exemption Order 2023. The exemption also covers transit passengers. Travel on an ICAO-compliant passport valid for at least six months on the day of departure from Kiribati. Yellow fever vaccination is not required for entry according to CDC. Work, research and filming permissions must be checked separately.",
       "easedBy": [],
-      "status": "probable",
+      "status": "confirmed",
       "sources": [
-        "https://www.mfa.gov.ki/immigration"
+        "https://www.mfa.gov.ki/immigration",
+        "https://www.mfa.gov.ki/wp-content/uploads/2023/09/VISA-EXEMPTION-ORDER-2023-1.pdf",
+        "https://kiribatitourism.gov.ki/entry-requirements-visa-info",
+        "https://wwwnc.cdc.gov/travel/destinations/traveler/none/kiribati"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "UNVERIFIED: mea.gov.in/vffin returned 403 to fetch, list membership seen only in a search snippet; Kiribati MFA visa and visa exemption subpages gave no Indian-specific text. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-23",
+      "note": "India is explicitly listed in the official Visa Exemption Order 2023 and the tourism entry page.",
+      "confidence": "official"
     },
     {
       "country": "Marshall Islands",

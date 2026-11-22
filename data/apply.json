@@ -3090,7 +3090,7 @@
  {
   "country": "Kenya",
   "route": "online",
-  "summary": "Kenya no longer issues visas to most visitors. Indian citizens need an approved Electronic Travel Authorisation (eTA) before travel. Apply on the official eTA site with passport details, photo, itinerary and accommodation, pay by card, and carry the approval.",
+  "summary": "Kenya no longer issues visas to most visitors. Indian citizens need an approved Electronic Travel Authorisation (eTA) before travel. Apply on the official eTA site with passport details, photo, itinerary and accommodation, pay by card, and carry the approval. Each non-exempt traveller, including minors, must also obtain Kenya's prescribed inbound travel health insurance before arrival. Existing foreign travel or medical insurance is not a substitute.",
   "applyLinks": [
    {
     "label": "Apply for the Kenya eTA (official portal)",
@@ -3107,6 +3107,10 @@
    {
     "label": "eTA FAQ",
     "url": "https://etakenya.go.ke/faqs"
+   },
+   {
+    "label": "Prescribed travel health insurance for holders of an existing eTA",
+    "url": "https://insurance.ecitizen.go.ke/"
    }
   ],
   "formLinks": [],
@@ -3138,6 +3142,10 @@
    {
     "item": "Purpose specific documents",
     "note": "Only sometimes: invitation letters for business or family visits, vaccination certificates, hospital referral for medical."
+   },
+   {
+    "item": "Prescribed inbound travel health insurance",
+    "note": "Required for each non-exempt visitor, including minors, entering from 5 October 2026 for stays under 12 months. Buy through the official eTA portal or insurance.ecitizen.go.ke if already holding an eTA. Other foreign travel or medical insurance is not accepted as a substitute."
    }
   ],
   "photo": {
@@ -3147,7 +3155,7 @@
    "notes": "Portal says selfie or passport type photo, no specs read.",
    "status": "unverified"
   },
-  "fee": "Standard single entry eTA USD 30, transit eTA USD 20, one year multi-entry USD 300, per the official eligibility page (checked 2026-10-16). Expedited processing adds USD 100 per the official FAQ. Payment charges may apply.",
+  "fee": "Standard single entry eTA USD 30, transit eTA USD 20, one year multi-entry USD 300, per the official eligibility page (checked 2026-11-23). Expedited processing adds USD 100 per the official FAQ. Payment charges may apply. Prescribed travel health insurance is additional; its premium is UNVERIFIED.",
   "processing": "Typically 3 working days, may take longer (official how-to-apply page). Expedited option processes immediately.",
   "applyEarly": "Apply as soon as travel is booked. Secondary source says up to 3 months ahead and at least 3 days before.",
   "biometrics": "None.",
@@ -3156,20 +3164,23 @@
    "Apply only on etakenya.go.ke or the official Kenya Travel Authorisation app.",
    "Approval does not guarantee entry, immigration decides at arrival.",
    "India is not on the exempt list for ordinary passports, so the eTA is required.",
-   "Apply at least a few days before flying; do not leave it to the last 72 hours."
+   "Apply at least a few days before flying; do not leave it to the last 72 hours.",
+   "Mandatory prescribed inbound travel health insurance applies from 5 October 2026 regardless of when your eTA or tickets were issued. The policy is valid for 90 days and multiple entries while coverage remains valid. Airlines and immigration may check it."
   ],
   "unverified": [
    "Photo specifications",
-   "Exact allowed stay length for Indian citizens",
-   "Whether India appears in the eligibility country table (page list not read in full)"
+   "Exact permitted stay length for Indian ordinary passport holders",
+   "Prescribed insurance premium"
   ],
   "sources": [
    "https://etakenya.go.ke/how-to-apply",
    "https://etakenya.go.ke/eligibility",
-   "https://etakenya.go.ke/faqs"
+   "https://etakenya.go.ke/faqs",
+   "https://www.hcinairobi.gov.in/public_files/assets/pdf/Travel_Advisory_Mandatory_Travel_Health_Insurance_15102026.pdf",
+   "https://insurance.ecitizen.go.ke/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "official"
+  "lastChecked": "2026-11-23",
+  "confidence": "partial"
  },
  {
   "country": "Saudi Arabia",
@@ -8858,8 +8869,8 @@
  },
  {
   "country": "Kiribati",
-  "route": "embassy",
-  "summary": "Kiribati has no online visa system and no mission in India. Check the Visa Exemption Order and the Visitor Visa form on the Ministry of Foreign Affairs and Immigration site to see whether Indian passport holders need a visa. If so, download the Visitor Visa form and email the Visa Officer. Flights go via Fiji, so also check Fiji's rules.",
+  "route": "visafree",
+  "summary": "Indian ordinary passport holders do not need a travel or transit visa for stays of up to 90 days in any 12-month period. Passport must be valid for at least six months on the day of departure from Kiribati. The official exemption order and tourism entry page list India. Visitor Visa forms remain available for applicants who need one. Work, research and filming require separate permission. Check transit requirements for Fiji and other hubs separately.",
   "applyLinks": [
    {
     "label": "Kiribati Immigration: visa page and exemption list",
@@ -8879,56 +8890,57 @@
   "documents": [
    {
     "item": "Passport",
-    "note": "Validity and blank pages UNVERIFIED on an official page"
+    "note": "ICAO-compliant, valid for at least six months on the day of departure from Kiribati"
    },
    {
-    "item": "Visitor Visa form",
-    "note": "Filled in; contents not read"
+    "item": "Visitor Visa form, if a visa is needed",
+    "note": "Completed and signed; official form read. Exempt Indian tourist visitors do not need to apply."
    },
    {
-    "item": "Return or onward ticket and funds",
-    "note": "Commonly required; UNVERIFIED"
+    "item": "Funds and onward travel, if applying for a Visitor Visa",
+    "note": "Evidence of own funds or completed sponsorship form; pre-purchased outward travel or funds to buy it. Official form checklist."
    },
    {
-    "item": "Accommodation or sponsor details",
-    "note": "Sometimes; UNVERIFIED"
+    "item": "Supporting documents, if applying for a Visitor Visa",
+    "note": "Evidence of genuine visitor purpose; medical and police certificates if required; relationship evidence for included family members."
    }
   ],
   "photo": {
-   "size": "",
+   "size": "Passport size (exact dimensions not stated)",
    "background": "",
-   "format": "",
-   "notes": "Not found on an official page that could be read",
+   "format": "Two colour photographs per person included in a Visitor Visa application",
+   "notes": "Less than six months old; full name written on the back of each photograph. Exempt Indian tourist visitors do not need a visa application.",
    "status": "unverified"
   },
-  "fee": "UNVERIFIED",
-  "processing": "UNVERIFIED",
-  "applyEarly": "UNVERIFIED",
+  "fee": "No travel or transit visa application required for exempt Indian visitors. AUD 40 single-entry and AUD 80 multiple-entry fees on the tourism page apply to non-exempt nationalities, not to exempt Indian tourists.",
+  "processing": "Not applicable for visa-exempt tourist entry",
+  "applyEarly": "Not applicable for visa-exempt tourist entry",
   "biometrics": "UNVERIFIED (no Kiribati mission in India confirmed)",
   "centres": "None in India confirmed; the Kiribati High Commission in Suva, Fiji exists per the ministry site",
   "warnings": [
-   "Whether India is on the visa exemption list could not be read (it is in a PDF that could not be parsed).",
+   "India is explicitly listed in the official Visa Exemption Order 2023. Maximum stay is 90 days in any 12-month period.",
    "Visa enquiries go to visaofficer@mfa.gov.ki per the ministry page.",
-   "Plan transit visas for Fiji or other hubs separately."
+   "Plan transit visas for Fiji or other hubs separately.",
+   "Work, research and filming permissions are separate from tourist visa exemption."
   ],
   "unverified": [
-   "Indian passport exemption status",
-   "Visitor visa fee",
-   "Processing time",
-   "Document list",
-   "Photo rules"
+   "Exact photo dimensions and background for visa applications",
+   "Mission handling Indian applicants when a visa or special permission is required"
   ],
   "sources": [
    "https://www.mfa.gov.ki/immigration",
-   "https://www.mfa.gov.ki/visa/"
+   "https://www.mfa.gov.ki/visa/",
+   "https://www.mfa.gov.ki/wp-content/uploads/2023/09/VISA-EXEMPTION-ORDER-2023-1.pdf",
+   "https://kiribatitourism.gov.ki/entry-requirements-visa-info",
+   "https://www.mfa.gov.ki/wp-content/uploads/2020/11/Visitor-Visa-FINAL.pdf"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin"
+  "lastChecked": "2026-11-23",
+  "confidence": "partial"
  },
  {
   "country": "Kosovo",
   "route": "embassy",
-  "summary": "Indian passport holders need a short-stay (type C) visa unless they hold a valid multi-entry Schengen visa or a Schengen residence permit (then visa-free for up to 15 days). Download the form from the Kosovo embassies site and submit in person at a Kosovo diplomatic or consular mission, no later than three months before the trip. No Kosovo mission in India was confirmed, so check which mission covers you.",
+  "summary": "Indian passport holders need a short-stay type C visa unless they hold a valid multi-entry Schengen visa or a valid biometric residence permit issued by a Schengen Area country, allowing visa-free entry, transit and stays up to 15 days. Download the official form and submit in person at the relevant Kosovo diplomatic or consular mission. The official page says no later than three months before the visit; confirm the filing window with the mission. Which mission accepts Indian applicants remains UNVERIFIED.",
   "applyLinks": [
    {
     "label": "Kosovo visa rules, documents and form (official embassies site)",
@@ -8988,7 +9000,7 @@
   "biometrics": "Application is submitted in person at the mission",
   "centres": "UNVERIFIED (no Kosovo mission in India confirmed)",
   "warnings": [
-   "Valid multi-entry Schengen visa or Schengen residence permit gives visa-free entry for up to 15 days only.",
+   "Valid multi-entry Schengen visa or valid biometric residence permit from a Schengen Area country gives visa-free entry, transit and stays for up to 15 days only.",
    "All documents in two copies and in Albanian, Serbian or English.",
    "Refusal can be appealed within 8 calendar days at the mission where you applied.",
    "Having the visa does not guarantee entry."
@@ -9001,7 +9013,7 @@
   "sources": [
    "https://ambasadat.net/visas"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-23",
   "confidence": "partial"
  },
  {
@@ -13735,7 +13747,7 @@
  {
   "country": "Kazakhstan",
   "route": "visafree",
-  "summary": "Indian citizens can enter Kazakhstan without a visa for up to 14 continuous days (Government Decree 464 of 7 July 2022), with a cap of 42 days in any 180 days. Before travel, apply for the free Electronic Travel Authorisation (ETA) on the QazETA portal at least 72 hours ahead; it is recommended now and expected to become mandatory for visa-free travellers from November 2026. Carry your passport, return ticket and accommodation details.",
+  "summary": "Indian citizens can enter Kazakhstan without a visa for up to 14 continuous days, with a maximum of 42 days in every 180 days. Free QazETA is being introduced in phases: Aktau airport and selected road checkpoints from 1 November 2026, Astana and Almaty airports from 1 January 2027, and remaining checkpoints from 1 March 2027. It becomes mandatory from 1 July 2027. Until then, absence of an ETA alone is not grounds for refusal. Apply at least 72 hours before travel. The ETA is valid for 180 days and does not extend the permitted stay.",
   "applyLinks": [
    {
     "label": "Apply for the Electronic Travel Authorisation (QazETA)",
@@ -13762,7 +13774,7 @@
    },
    {
     "item": "ETA approval (QazETA)",
-    "note": "Recommended now, expected mandatory from November 2026 per GOV.UK; keep the approval on your phone"
+    "note": "Free. Phased rollout began 1 November 2026; mandatory from 1 July 2027. Apply at least 72 hours before travel."
    },
    {
     "item": "Return or onward ticket",
@@ -13792,30 +13804,32 @@
    "notes": "",
    "status": "unverified"
   },
-  "fee": "ETA fee: UNVERIFIED (could not open the QazETA fee page). Visa-free entry itself has no fee.",
-  "processing": "UNVERIFIED. GOV.UK says apply at least 72 hours before travel.",
-  "applyEarly": "At least 72 hours before departure; the ETA is reported valid for 180 days (secondary source).",
+  "fee": "QazETA is free of charge. Visa-free entry itself has no visa fee.",
+  "processing": "Exact processing time UNVERIFIED. Kazakhstan MFA recommends applying at least 72 hours before crossing the border.",
+  "applyEarly": "At least 72 hours before travel. QazETA is valid for 180 days and allows multiple entries, without extending the visa-free stay limit.",
   "biometrics": "UNVERIFIED for visa-free arrivals. The new migration rules mention dactyloscopy (fingerprinting) for some entrants; check before you travel.",
   "centres": "Not applicable",
   "warnings": [
    "Stay limit: 14 continuous days, maximum 42 days in any 180 days (Indian Embassy Astana, decree of 7 July 2022). Overstay can bring fines and a ban.",
-   "The ETA is becoming mandatory (expected November 2026, subject to new regulations). Check qazeta.kz before booking.",
-   "Rule date: pages read 2026-10-16. Unilateral Kazakh decision, so it could change; no end date found.",
-   "Staying over 30 days needs registration; foreigners should be notified by the host through E-Qonaq. Use only qazeta.kz and gov.kz sites."
+   "QazETA becomes mandatory from 1 July 2027. Before that date, absence of an ETA alone is not grounds for refusal.",
+   "ETA rollout began 1 November 2026 at Aktau and selected land crossings, reaches Astana and Almaty airports on 1 January 2027, and all other checkpoints on 1 March 2027.",
+   "Your hotel or host must notify the Kazakh authorities of your arrival within 3 working days."
   ],
   "unverified": [
-   "ETA fee and processing time",
-   "Passport validity rule",
+   "Exact ETA processing time",
+   "Passport validity rule for Indian visa-free travellers",
    "Fingerprints at border",
-   "vmp.gov.kz did not respond to automated checks"
+   "Return ticket, funds and insurance requirements for Indian visa-free travellers"
   ],
   "sources": [
    "https://www.indembastana.gov.in/page/kazakhstan-introduced-visa-free-travel-for-citizens-of-india-for-up-to-14-days",
    "https://qazeta.kz/en",
    "https://www.gov.kz/memleket/entities/mfa/activities/3053?lang=en",
-   "https://www.gov.uk/foreign-travel-advice/kazakhstan/entry-requirements"
+   "https://www.gov.uk/foreign-travel-advice/kazakhstan/entry-requirements",
+   "https://www.gov.kz/org/mfa-ashgabat/press/news/details/1322929?lang=en",
+   "https://www.gov.kz/memleket/entities/mfa/press/news/details/398648?lang=en"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-23",
   "confidence": "partial"
  },
  {

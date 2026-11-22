@@ -456,7 +456,7 @@
   },
   "landside": {
    "visaNeeded": "no",
-   "rule": "Indian citizens can enter visa free for up to 14 days continuously (max 42 days in any 180) per the Embassy of India in Astana, citing Decree 464 of 7 July 2022. This covers leaving the airport on a layover; check it is still in force.",
+   "rule": "Indian citizens can enter visa free for up to 14 continuous days, maximum 42 days within 180 days, including when leaving the airport. QazETA is being introduced in phases and becomes mandatory from 1 July 2027. Until then, absence of an ETA alone is not grounds for refusal.",
    "maxHours": "336",
    "scheme": "Visa-free entry 14 days (not a transit scheme)"
   },
@@ -465,17 +465,18 @@
   "howToGet": "Not applicable",
   "fee": "Not applicable",
   "warnings": [
-   "The embassy notice dates from 2022; check for later changes",
-   "Visa-free entry means passing immigration, so baggage re-check applies"
+   "Visa-free entry means passing immigration, so baggage re-check may apply.",
+   "QazETA becomes mandatory for visa-free entry from 1 July 2027; apply at least 72 hours before travel."
   ],
   "sources": [
-   "https://www.indembastana.gov.in/page/kazakhstan-introduced-visa-free-travel-for-citizens-of-india-for-up-to-14-days/"
+   "https://www.indembastana.gov.in/page/kazakhstan-introduced-visa-free-travel-for-citizens-of-india-for-up-to-14-days/",
+   "https://www.gov.kz/memleket/entities/mfa/press/news/details/398648?lang=en",
+   "https://www.gov.kz/org/mfa-ashgabat/press/news/details/1322929?lang=en"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-23",
   "confidence": "partial",
   "unverified": [
-   "Official airside transit rule",
-   "Whether the regime is still current"
+   "Official airside transit visa rule and maximum hours"
   ]
  },
  {
@@ -1966,29 +1967,31 @@
   },
   "landside": {
    "visaNeeded": "yes",
-   "rule": "Leaving the airport needs an eTA. The Kenya eTA site lists a Transit eTA for travellers on a transit flight (USD 20) and a standard single entry eTA (USD 30). Indian ordinary passports are not on the visa-free list seen (only India diplomatic/official/service passports are exempt).",
+   "rule": "Leaving the airport requires an approved eTA for Indian ordinary passport holders. Transit eTA costs USD 20 and standard single entry eTA USD 30. Non-exempt travellers who enter Kenya must also obtain prescribed inbound travel health insurance; transit passengers who do not seek entry are exempt from insurance.",
    "maxHours": "UNVERIFIED",
    "scheme": "Transit eTA (USD 20); no visa-free city tour scheme found"
   },
   "easedBy": [],
   "landTransit": "Not applicable",
-  "howToGet": "Apply online for an eTA at the Kenya immigration eTA portal: https://immigration.go.ke/eta (applications take about 3 working days).",
+  "howToGet": "Apply online at https://etakenya.go.ke/ before travel. Processing is typically 3 working days and may take longer. Obtain prescribed inbound travel health insurance if entering Kenya.",
   "fee": "Transit eTA USD 20; standard eTA USD 30 (etakenya.go.ke eligibility page; the official portal is the authority).",
   "warnings": [
    "Apply at least 3 days ahead if you plan to leave the airport.",
-   "Information on exemptions came from Kenyan embassy pages; the immigration.go.ke page itself did not list them in the text seen.",
-   "Separate tickets with a bag re-check force you to enter Kenya."
+   "The official eTA how-to-apply page exempts transit passengers who remain within airport precincts, including transfers to another aircraft.",
+   "Separate tickets requiring immigration or baggage re-check may require an eTA and prescribed travel health insurance."
   ],
   "sources": [
    "https://immigration.go.ke/eta",
    "https://kenyaembassyparis.fr/electronic-travel-authorization",
-   "https://etakenya.go.ke/eligibility"
+   "https://etakenya.go.ke/eligibility",
+   "https://etakenya.go.ke/how-to-apply",
+   "https://www.hcinairobi.gov.in/public_files/assets/pdf/Travel_Advisory_Mandatory_Travel_Health_Insurance_15102026.pdf"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-23",
   "confidence": "partial",
   "unverified": [
    "Maximum airside hours",
-   "Whether Indian ordinary passport holders are exempt from the eTA for any short stay"
+   "Maximum landside stay allowed on the transit eTA"
   ]
  },
  {
@@ -3243,29 +3246,31 @@
   },
   "landside": {
    "visaNeeded": "depends",
-   "rule": "Secondary source says holders of a multiple-entry visa or residence permit of a Schengen state may enter for up to 15 days; otherwise Indians need a Kosovo visa",
-   "maxHours": "15 days with Schengen visa",
+   "rule": "The official Kosovo embassies page requires a visa for Indian citizens visiting or transiting Kosovo unless holding a valid multi-entry Schengen visa or a valid biometric residence permit from a Schengen Area country. Exempt stay is limited to 15 days.",
+   "maxHours": "15 days with qualifying Schengen visa or biometric residence permit",
    "scheme": "none"
   },
   "easedBy": [
    "SC"
   ],
-  "landTransit": "Not applicable",
-  "howToGet": "Kosovo Ministry of Foreign Affairs visa page; not opened",
-  "fee": "UNVERIFIED",
+  "landTransit": "Canada says not to enter Serbia directly from Kosovo without a valid Serbian entry stamp showing initial travel into Kosovo from Serbia; otherwise transit via a third country such as Albania, North Macedonia or Montenegro.",
+  "howToGet": "Apply in person at the relevant Kosovo diplomatic or consular mission using the official visa form. Which mission handles Indian applicants remains UNVERIFIED.",
+  "fee": "EUR 40 for a type C visa where required; qualifying Schengen holders are exempt from obtaining a Kosovo visa.",
   "warnings": [
-   "Not a realistic connection point",
-   "Single-entry Schengen visas do not qualify"
+   "Single-entry Schengen visas do not qualify for the exemption.",
+   "The residence-permit exemption requires a valid biometric permit from a Schengen Area country.",
+   "Separate sterile airside transit requirements were not confirmed."
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Visa_policy_of_Kosovo"
+   "https://en.wikipedia.org/wiki/Visa_policy_of_Kosovo",
+   "https://ambasadat.net/visas",
+   "https://travel.gc.ca/destinations/kosovo"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-23",
+  "confidence": "partial",
   "unverified": [
-   "Official page blocked or not reachable; only Wikipedia visa-policy summary read, so rule is secondary evidence",
-   "Airside rule",
-   "Fee"
+   "Separate sterile airside transit rule and maximum duration",
+   "Which Kosovo mission accepts Indian applicants"
   ]
  },
  {
@@ -6411,16 +6416,18 @@
  {
   "country": "Kiribati",
   "airside": {
-   "visaNeeded": "unverified",
-   "rule": "UNVERIFIED: no published airside transit rule confirmed. Treat as needing the entry rule unless the airline confirms otherwise",
+   "visaNeeded": "no",
+   "rule": "Citizens of India are exempt from obtaining a transit visa before travelling to and being in Kiribati as a transit passenger under section 3.2 of the official 2023 exemption order.",
    "maxHours": "UNVERIFIED",
-   "conditions": []
+   "conditions": [
+    "ICAO-compliant passport valid for at least six months on the day of departure from Kiribati"
+   ]
   },
   "landside": {
    "visaNeeded": "no",
-   "rule": "Indians listed as visa exempt for up to 90 days in any 12 months under Visa Exemption Order 2023 (listed by a secondary source; the order PDF is on the Kiribati foreign ministry site but its text was not read)",
-   "maxHours": "UNVERIFIED",
-   "scheme": "none found"
+   "rule": "India is explicitly listed in the official Visa Exemption Order 2023. Exempt visitors may stay up to 90 days in any 12-month period.",
+   "maxHours": "90 days in any 12-month period",
+   "scheme": "Visa Exemption Order 2023"
   },
   "easedBy": [],
   "landTransit": "Not applicable",
@@ -6433,13 +6440,13 @@
   ],
   "sources": [
    "https://www.mfa.gov.ki/wp-content/uploads/2023/09/VISA-EXEMPTION-ORDER-2023-1.pdf",
-   "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+   "https://kiribatitourism.gov.ki/entry-requirements-visa-info"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-23",
+  "confidence": "partial",
   "unverified": [
-   "PDF contents",
-   "airside rule"
+   "Separate airside transit time limit and airport transfer arrangements"
   ]
  },
  {
