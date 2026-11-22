@@ -1043,16 +1043,19 @@
   ],
   "cautions": [
    "Nov to Mar is cold and many mountain roads close",
-   "Visa free 14 days for Indians per the plan"
+   "Indian citizens are visa free for 14 continuous days, maximum 42 days within 180 days. QazETA becomes mandatory from 1 July 2027."
   ],
   "neighbours": [
    "Kyrgyzstan"
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Kazakhstan"
+   "https://en.wikipedia.org/wiki/Kazakhstan",
+   "https://www.gov.kz/memleket/entities/mfa/press/news/details/398648?lang=en",
+   "https://www.gov.kz/org/mfa-ashgabat/press/news/details/1322929?lang=en",
+   "https://nationalbank.kz/en/page/currency-history"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-23",
+  "confidence": "partial",
   "iso": "kz",
   "currency": {
    "name": "Kazakhstani tenge",
@@ -4189,17 +4192,22 @@
   ],
   "cautions": [
    "Travel authorisation needed",
-   "Check advisories before booking"
+   "Check advisories before booking",
+   "Prescribed inbound travel health insurance required for non-exempt visitors entering from 5 October 2026.",
+   "CDC Level 1 notice dated 19 October 2026 reports Ebola Bundibugyo cases in Nairobi; practice usual precautions."
   ],
   "neighbours": [
    "Tanzania",
    "Uganda"
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Kenya"
+   "https://en.wikipedia.org/wiki/Kenya",
+   "https://www.hcinairobi.gov.in/public_files/assets/pdf/Travel_Advisory_Mandatory_Travel_Health_Insurance_15102026.pdf",
+   "https://wwwnc.cdc.gov/travel/notices/level1/ebola-kenya",
+   "https://www.centralbank.go.ke/currency-services/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-23",
+  "confidence": "partial",
   "iso": "ke",
   "currency": {
    "name": "Kenyan shilling",
@@ -6736,17 +6744,20 @@
    }
   ],
   "cautions": [
-   "Needs a visa, but a valid multiple entry Schengen visa gives visa free entry up to 15 days"
+   "Needs a visa unless holding a valid multi-entry Schengen visa or a valid biometric Schengen residence permit, which allow up to 15 days",
+   "Canada advises avoiding non-essential travel to Leposavic, North Mitrovica, Zubin Potok and Zvecan in northern Kosovo due to ethnic tensions and risk of violence and civil unrest"
   ],
   "neighbours": [
    "North Macedonia",
    "Bulgaria"
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Kosovo"
+   "https://en.wikipedia.org/wiki/Kosovo",
+   "https://ambasadat.net/visas",
+   "https://travel.gc.ca/destinations/kosovo"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-23",
+  "confidence": "partial",
   "iso": "xk",
   "currency": {
    "name": "Euro",
@@ -14478,10 +14489,12 @@
    "Fiji"
   ],
   "sources": [
-   "https://www.mfa.gov.ki/immigration"
+   "https://www.mfa.gov.ki/immigration",
+   "https://kiribatitourism.gov.ki/remember-with-us",
+   "https://travel.gc.ca/destinations/kiribati"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-23",
+  "confidence": "partial",
   "trip": "AB",
   "iso": "ki",
   "currency": {

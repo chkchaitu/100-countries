@@ -1,6 +1,6 @@
 {
   "about": "Active travel alerts for an Indian passport holder: airline suspensions, Indian embassy or MEA advisories, entry restrictions and closures. An alert stays listed until it is lifted. sourceLevel is official (official page read) or news (reported by news, official page not read yet).",
-  "lastChecked": "2026-11-22",
+  "lastChecked": "2026-11-23",
   "alerts": [
     {
       "id": "saudi-arabia-air-india-suspension",
@@ -194,6 +194,52 @@
       "sourceLevel": "official",
       "sources": [
         "https://www.visitjamaica.com/travel-alerts/"
+      ]
+    },
+    {
+      "id": "kazakhstan-qazeta-phased-rollout",
+      "country": "Kazakhstan",
+      "type": "entry",
+      "severity": "medium",
+      "title": "QazETA phased rollout; mandatory from 1 July 2027",
+      "summary": "Kazakhstan MFA says the free QazETA rollout started at Aktau airport and selected road checkpoints on 1 November 2026, expands to Astana and Almaty airports on 1 January 2027 and all remaining checkpoints on 1 March 2027. It becomes mandatory from 1 July 2027. Until then, absence of an ETA alone is not grounds for refusing entry. Apply at least 72 hours before travel. The authorisation is valid for 180 days and does not extend the visa-free stay.",
+      "since": "2026-11-01",
+      "until": "",
+      "lastChecked": "2026-11-23",
+      "sourceLevel": "official",
+      "sources": [
+        "https://www.gov.kz/org/mfa-ashgabat/press/news/details/1322929?lang=en"
+      ]
+    },
+    {
+      "id": "kenya-mandatory-inbound-health-insurance",
+      "country": "Kenya",
+      "type": "entry",
+      "severity": "medium",
+      "title": "Prescribed inbound travel health insurance required for Kenya visitors",
+      "summary": "The Indian High Commission in Nairobi says non-exempt foreign visitors entering Kenya from 5 October 2026 for stays under 12 months must obtain prescribed inbound travel health insurance before arrival, regardless of when their eTA or tickets were issued. Each visitor, including minors, needs individual coverage. Buy through the official eTA portal, or insurance.ecitizen.go.ke if already holding an eTA. Foreign travel or medical insurance is not a substitute. The policy is valid for 90 days and multiple entries while coverage remains valid. Airlines and immigration may verify it. Transit passengers who do not seek entry are exempt.",
+      "since": "2026-10-05",
+      "until": "",
+      "lastChecked": "2026-11-23",
+      "sourceLevel": "official",
+      "sources": [
+        "https://www.hcinairobi.gov.in/public_files/assets/pdf/Travel_Advisory_Mandatory_Travel_Health_Insurance_15102026.pdf",
+        "https://insurance.ecitizen.go.ke/"
+      ]
+    },
+    {
+      "id": "kenya-ebola-bundibugyo-nairobi",
+      "country": "Kenya",
+      "type": "advisory",
+      "severity": "medium",
+      "title": "CDC reports Ebola Bundibugyo cases in Nairobi",
+      "summary": "CDC reports an imported case and other linked cases of Ebola Bundibugyo virus disease in Nairobi. Its Level 1 notice recommends usual precautions, including avoiding contact with symptomatic people or their body fluids. Travellers who develop symptoms should isolate, not travel, and contact local health authorities or a healthcare facility before attending. No vaccines or specific treatments are approved for this disease.",
+      "since": "2026-10-19",
+      "until": "",
+      "lastChecked": "2026-11-23",
+      "sourceLevel": "official",
+      "sources": [
+        "https://wwwnc.cdc.gov/travel/notices/level1/ebola-kenya"
       ]
     }
   ]

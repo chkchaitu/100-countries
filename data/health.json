@@ -397,7 +397,7 @@
  {
   "country": "Kazakhstan",
   "yellowFever": {
-   "entryRule": "Required only if arriving from or transiting a risk country (travellers aged of any age (CDC gives no minimum age) and including airport transits or layovers). Not required for travellers arriving directly from India, as India is not a risk country",
+   "entryRule": "Required when arriving from a yellow fever transmission-risk country, including airport transits or layovers there. CDC gives no minimum age. Not required for direct arrivals from India.",
    "riskInCountry": "no",
    "vaccineAdvised": "no"
   },
@@ -408,14 +408,16 @@
    "Typhoid (consider)",
    "Rabies (consider)",
    "Tick-borne encephalitis (for extensive outdoor or tick exposure)",
-   "Measles (MMR, up to date)"
+   "Measles (MMR, up to date)",
+   "COVID-19 (up to date)",
+   "Routine vaccines"
   ],
   "malaria": "none",
   "otherHealth": [],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/kazakhstan"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-23",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; yellow fever risk status is from CDC (CDC says no vaccine recommended, which matches no WHO transmission risk)",
@@ -1605,22 +1607,28 @@
    "Cholera (consider, localized active areas)",
    "MMR (measles)",
    "COVID-19 (up to date)",
-   "Routine vaccines"
+   "Routine vaccines",
+   "Mpox (for adults anticipating specified sexual or intimate contact risks, per CDC)"
   ],
   "malaria": "some areas",
   "otherHealth": [
-   "Cholera transmission is localized to several counties (Garissa, Migori, Mombasa, Nairobi, Narok, Turkana) per CDC.",
-   "CDC dengue notice (3 Sep 2026): year-round risk, prevent mosquito bites.",
-   "Chikungunya: vaccine generally not recommended, avoid mosquito bites."
+   "Cholera transmission is localized to Garissa, Migori, Nairobi and Narok per CDC; vaccination may be considered for travel to active transmission areas.",
+   "CDC Global Dengue notice updated 10 November 2026: year-round risk, prevent mosquito bites.",
+   "Chikungunya: vaccine generally not recommended, avoid mosquito bites.",
+   "Malaria transmission occurs in all areas below 2,500 m, including game parks. Rare cases occur in highly urbanized central Nairobi, where CDC recommends bite precautions without malaria chemoprophylaxis.",
+   "CDC Level 1 Ebola Bundibugyo notice dated 19 October 2026 reports an imported case and linked cases in Nairobi. Avoid contact with symptomatic people or their body fluids. No approved vaccine or specific treatment for Bundibugyo virus disease.",
+   "Prescribed inbound travel health insurance is mandatory for non-exempt visitors entering from 5 October 2026 for stays under 12 months. Each traveller including minors needs coverage; foreign insurance is not a substitute."
   ],
   "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/kenya"
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/kenya",
+   "https://wwwnc.cdc.gov/travel/notices/level1/ebola-kenya",
+   "https://www.hcinairobi.gov.in/public_files/assets/pdf/Travel_Advisory_Mandatory_Travel_Health_Insurance_15102026.pdf"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-23",
   "confidence": "partial",
   "unverified": [
-   "Only CDC opened; Kenya Ministry of Health and WHO ITH not checked.",
-   "Malaria areas not itemised; CDC says prophylaxis for certain areas."
+   "Kenya Ministry of Health and WHO ITH not checked.",
+   "Prescribed insurance premium not verified."
   ]
  },
  {
@@ -2652,21 +2660,23 @@
   "requiredVaccines": [],
   "recommendedVaccines": [
    "Hepatitis A",
-   "Typhoid (not listed prominently by CDC; confirm with doctor)",
-   "Hepatitis B",
-   "Measles (MMR), if not fully vaccinated"
+   "Hepatitis B (unvaccinated travellers younger than 60; older travellers may also get vaccinated)",
+   "Measles (MMR), if not fully vaccinated",
+   "Routine vaccines including polio",
+   "COVID-19 for eligible travellers"
   ],
   "malaria": "none",
   "otherHealth": [],
   "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/kosovo"
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/kosovo",
+   "https://travel.gc.ca/destinations/kosovo"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-23",
   "confidence": "partial",
   "unverified": [
-   "Only CDC Travelers' Health opened (updated April 2025 to Feb 2026 for YF entry data); WHO ITH and destination health ministry not checked",
-   "CDC lists no entry rule for travellers from India specifically; India is not a yellow fever risk country",
-   "Typhoid not shown on CDC page for Kosovo"
+   "WHO ITH and destination health ministry not checked",
+   "Canada says Kosovo has not stated yellow fever certificate requirements; CDC says vaccine is not required. Confirm with the destination before travel.",
+   "Malaria none retained but not independently checked in a malaria country table"
   ]
  },
  {
@@ -5618,12 +5628,14 @@
   ],
   "malaria": "none",
   "otherHealth": [
-   "Dengue risk (CDC)"
+   "Dengue risk (CDC)",
+   "Zika risk (CDC)"
   ],
   "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/kiribati"
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/kiribati",
+   "https://travel.gc.ca/destinations/kiribati"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-23",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and destination health ministry not checked; data from CDC Travelers' Health only"
