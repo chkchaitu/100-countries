@@ -8,14 +8,14 @@
       "type": "flights",
       "severity": "high",
       "title": "Air India, Air India Express, IndiGo and Akasa Air Saudi flight suspensions",
-      "summary": "IndiGo announced on 18 November 2026 that all flights to and from Jeddah, Madinah, Riyadh and Dammam are cancelled until 30 November inclusive. Akasa Air announced on 12 November that all Riyadh and Jeddah flights are suspended until 30 November inclusive; affected passengers can request a full refund or reschedule at no additional cost. Air India announced on 13 November that its flights and Air India Express flights to and from Riyadh and Dammam remain suspended until 30 November, and Jeddah until 21 November. For Air India and Air India Express bookings issued on or before 10 November, with travel dates up to those deadlines, passengers can reschedule without charge subject to availability or cancel for a full refund. Air India passengers may rebook through an operating Air India station in Saudi Arabia; Air India Express passengers may rebook through an operating Air India Express station in Saudi Arabia or Bahrain. Revised travel can be completed by 14 December for Riyadh and Dammam bookings, or 5 December for Jeddah bookings.",
+      "summary": "IndiGo announced on 18 November 2026 that all flights to and from Jeddah, Madinah, Riyadh and Dammam are cancelled until 30 November inclusive. Akasa Air announced on 12 November that all Riyadh and Jeddah flights are suspended until 30 November inclusive; affected passengers can request a full refund or reschedule at no additional cost. Air India announced on 20 November that its flights and Air India Express flights to and from Jeddah are suspended until 24 November, while Riyadh and Dammam remain suspended until 30 November. Passengers with confirmed Jeddah bookings made on or before 20 November for travel up to 24 November can reschedule without charge subject to availability or cancel for a full refund. The same options apply to confirmed Riyadh and Dammam bookings made on or before 10 November for travel up to 30 November. Air India passengers may rebook through an operating Air India station in Saudi Arabia; Air India Express passengers may rebook through an operating Air India Express station in Saudi Arabia or Bahrain. Revised travel can be completed by 8 December for Jeddah bookings, or 14 December for Riyadh and Dammam bookings.",
       "since": "2026-10-17",
       "until": "2026-11-30",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-23",
       "sourceLevel": "official",
       "sources": [
         "https://x.com/IndiGo6E/status/2123035045107737079",
-        "https://x.com/airindia/status/2121208157255168089",
+        "https://x.com/airindia/status/2123739306900815996",
         "https://x.com/AkasaAir/status/2120861211374023109"
       ]
     },
@@ -126,7 +126,7 @@
       "summary": "The Immigration Department of Malaysia announced on 17 November 2026 that Indian nationals entering Malaysia from 1 January 2027 must obtain a valid visa before arrival. Applications through the MyVISA portal open on 1 December 2026. Visa processing fees are non-refundable, including after a refusal, policy change or change of travel plans. The current exemption for visits of up to 30 days runs until 31 December 2026. The department says entry requirements may change under Malaysian government directives.",
       "since": "2026-11-17",
       "until": "",
-      "lastChecked": "2026-11-21",
+      "lastChecked": "2026-11-23",
       "sourceLevel": "official",
       "sources": [
         "https://malaysiavisa.imi.gov.my/",
