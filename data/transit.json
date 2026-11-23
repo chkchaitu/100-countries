@@ -482,30 +482,44 @@
  {
   "country": "Kyrgyzstan",
   "airside": {
-   "visaNeeded": "unverified",
-   "rule": "No official or reliable transit source found for Indian passports.",
+   "visaNeeded": "no",
+   "rule": "The official e-visa FAQ says no visa is needed if you do not leave the international transit area.",
    "maxHours": "UNVERIFIED",
-   "conditions": []
+   "conditions": [
+    "Remain in the international transit area."
+   ]
   },
   "landside": {
-   "visaNeeded": "unverified",
-   "rule": "Not found.",
+   "visaNeeded": "yes",
+   "rule": "For entry to transit through Kyrgyzstan to a third country, the portal lists Transit visa type TR with validity up to 3 calendar days. A qualifying Indian visa-free visitor may use the published Manas Airport waiver instead. Exact TR application eligibility and conditions for Indians remain UNVERIFIED.",
    "maxHours": "UNVERIFIED",
-   "scheme": "UNVERIFIED"
+   "scheme": "Transit visa TR: validity up to 3 calendar days, not a confirmed airside time limit."
   },
-  "easedBy": [],
-  "landTransit": "Not applicable",
-  "howToGet": "Not applicable",
+  "easedBy": [
+   "US",
+   "SC",
+   "UK"
+  ],
+  "landTransit": "Transit visa TR is listed for transit through Kyrgyz territory to third countries; exact border and document conditions for Indians UNVERIFIED.",
+  "howToGet": "Check the official e-visa portal for Transit visa TR eligibility before entering Kyrgyzstan. Transit visas cannot be obtained after entering, including under the visa-free regime.",
   "fee": "UNVERIFIED",
   "warnings": [
-   "No published transit rule found; treat as needing the entry visa rule for Indians",
-   "Check with the airline before booking"
+   "Airside exemption applies only while remaining in the international transit area.",
+   "For baggage re-check or leaving the airport, obtain the applicable entry or transit permission before arrival.",
+   "The Indian visa-free waiver is limited to Manas arrivals and qualifying US, UK or Schengen visas on the current passport."
   ],
-  "sources": [],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "sources": [
+   "https://www.evisa.e-gov.kg/get_information.php?lng=en",
+   "https://indembbishkek.gov.in/page.php?pageid=116",
+   "https://indembbishkek.gov.in/docs/1781168326ADV-VISA%20REGLTN.pdf"
+  ],
+  "lastChecked": "2026-11-24",
+  "confidence": "partial",
   "unverified": [
-   "Everything: searches returned nothing usable"
+   "Airside maximum transit time",
+   "Exact Indian TR eligibility, documents and fee",
+   "Border-specific land transit conditions",
+   "Any additional easing visas"
   ]
  },
  {
@@ -1473,28 +1487,33 @@
   },
   "landside": {
    "visaNeeded": "yes",
-   "rule": "Leaving the airport means entering the Schengen area, which needs a short-stay Schengen visa for Indian ordinary passport holders. There is no published visa-free city-tour transit scheme.",
+   "rule": "Leaving the international transit area means entering Schengen. Indian ordinary passport holders need an appropriate valid Schengen visa or residence permit. If it was issued by a Schengen country other than Latvia, submit the Latvian Electronic Travel Declaration at least 48 hours before entry. A Latvian visa or residence permit exempts the holder from the declaration.",
    "maxHours": "UNVERIFIED",
-   "scheme": "none"
+   "scheme": "UNVERIFIED"
   },
   "easedBy": [],
-  "landTransit": "Not applicable",
+  "landTransit": "Overland transit entering Latvia is subject to Schengen entry conditions and, for Indian holders of another Schengen country's visa or residence permit, the 48-hour Electronic Travel Declaration.",
   "howToGet": "Not applicable for airside transit. For a Schengen visa apply through the embassy or its VFS centre in India.",
   "fee": "UNVERIFIED",
   "warnings": [
    "A change of terminal that needs passport control, collecting bags, or separate tickets that force you to check in again means entering Schengen and needs a Schengen visa.",
-   "Transiting a second Schengen airport on the same trip can also need checking with the airline; the airside exemption applies only while you stay in the international area."
+   "Transiting a second Schengen airport on the same trip can also need checking with the airline; the airside exemption applies only while you stay in the international area.",
+   "Indian ordinary passport holders entering Latvia with a visa or residence permit issued by another Schengen country must submit the Electronic Travel Declaration at https://eta.gov.lv at least 48 hours before arrival, including transit across Latvia. Holders of a Latvian visa or residence permit are exempt. The declaration is not a visa or entry permit."
   ],
   "sources": [
    "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy_en",
-   "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-schengen-visa"
+   "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-schengen-visa",
+   "https://www.mfa.gov.lv/en/countries-and-territories-whose-citizens-may-enter-latvia-without-visa",
+   "https://www.mfa.gov.lv/en/electronic-travel-declaration"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-24",
+  "confidence": "partial",
   "unverified": [
    "Whether this country adds its own national airport transit visa requirement for Indian nationals (checked official lists of other states only)",
    "Maximum airside layover hours",
-   "Transit visa fee"
+   "Transit visa fee",
+   "Whether the declaration is required for a wholly airside connection without entering Latvia; do not infer it from the overland-transit wording.",
+   "No official visa-free city-tour scheme verified."
   ]
  },
  {

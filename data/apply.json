@@ -3851,6 +3851,10 @@
    {
     "label": "FAQ",
     "url": "https://laoevisa.gov.la/faq"
+   },
+   {
+    "label": "Lao Digital Immigration Form (LDIF)",
+    "url": "https://www.immigration.gov.la"
    }
   ],
   "formLinks": [],
@@ -3892,21 +3896,26 @@
    "Single entry only, 30 day stay, valid up to 60 days after the approval letter.",
    "Only usable at the 9 listed ports (for example Wattay Vientiane, Luang Prabang, Pakse airports, some bridges and railway stations).",
    "Tourist visa only through the e-visa.",
-   "Children and infants also need a visa."
+   "Children and infants also need a visa.",
+   "All foreign passport holders must register the Lao Digital Immigration Form (LDIF) within 3 days before entering or departing Laos, through https://www.immigration.gov.la. The Indian Embassy notice says it applies at all international checkpoints from the beginning of 2026. This is separate from a visa."
   ],
   "unverified": [
    "Fee amount for Indian citizens",
    "Photo background colour",
-   "Passport validity rule"
+   "Passport validity rule",
+   "eVisa rules, processing and listed ports could not be rechecked: official portal timed out on both www and non-www hosts.",
+   "LDIF form fields and submission flow require JavaScript and were not inspected."
   ],
   "sources": [
    "https://laoevisa.gov.la/",
    "https://laoevisa.gov.la/info",
    "https://laoevisa.gov.la/faq",
-   "https://laoevisa.gov.la/fee-calculator"
+   "https://laoevisa.gov.la/fee-calculator",
+   "https://www.indianembassylaos.gov.in/section/home-page-ticker/lao-digital-immigration-form-ldif-to-streamline-border-procedure/",
+   "https://www.immigration.gov.la"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "official"
+  "lastChecked": "2026-11-24",
+  "confidence": "partial"
  },
  {
   "country": "Bangladesh",
@@ -9083,7 +9092,7 @@
  {
   "country": "Kyrgyzstan",
   "route": "online",
-  "summary": "Kyrgyzstan has an official e-visa portal run by its Ministry of Foreign Affairs. Check the 'Do I need a visa' tool for India on the information page, then apply for a visa, verify your email within 72 hours, upload a passport scan and photo, and pay by card. The portal states review takes about 5 working days, and fees are not refunded if refused.",
+  "summary": "Apply on the official Ministry of Foreign Affairs e-visa portal. MEA lists an e-visa facility for Indian ordinary passports. Verify your email within 72 hours, upload a passport scan and photo and pay by card. The portal lists Tourist visa TS with validity up to 30 calendar days. Standard review is 5 working days and the application page offers consideration within 2 business days; exact fees and India-specific supporting documents remain UNVERIFIED.",
   "applyLinks": [
    {
     "label": "Apply for a Kyrgyzstan e-visa (official portal)",
@@ -9094,11 +9103,16 @@
     "url": "https://www.evisa.e-gov.kg/get_information.php?lng=en"
    }
   ],
-  "formLinks": [],
+  "formLinks": [
+   {
+    "label": "Tourist visa TS statement template (official PDF)",
+    "url": "https://www.evisa.e-gov.kg/images/turism_ts.pdf?n=1"
+   }
+  ],
   "documents": [
    {
     "item": "Passport",
-    "note": "Valid travel document; validity rule UNVERIFIED"
+    "note": "Valid at least 6 months beyond the requested visa validity period, at least 2 free pages, undamaged and without unofficial remarks"
    },
    {
     "item": "Scan of passport and digital photo",
@@ -9111,6 +9125,10 @@
    {
     "item": "Email address",
     "note": "For verification within 72 hours and the result"
+   },
+   {
+    "item": "Supporting documents and translations",
+    "note": "Portal FAQ says documentation must be in Kyrgyz or Russian, or translated into these languages. Exact India-specific list remains UNVERIFIED."
    }
   ],
   "photo": {
@@ -9121,7 +9139,7 @@
    "status": "unverified"
   },
   "fee": "Depends on visa category, type and period; exact amount UNVERIFIED. Not refundable.",
-  "processing": "About 5 working days per the FAQ (UNVERIFIED for India)",
+  "processing": "Standard review: 5 working days, starting after all corrections and required documents are supplied. The application page also offers consideration within 2 business days; expedited fee UNVERIFIED.",
   "applyEarly": "Portal advises not to buy air tickets before approval",
   "biometrics": "None for the e-visa; UNVERIFIED",
   "centres": "Online only",
@@ -9129,19 +9147,25 @@
    "Check every detail: mistakes lead to rejection, and there is no refund.",
    "Do not buy tickets before approval.",
    "Foreign visitors must register at their place of stay within 5 working days of entry unless exempt.",
-   "Use only evisa.e-gov.kg."
+   "Use only evisa.e-gov.kg.",
+   "Tourist and transit visas are not issued to applicants already staying in Kyrgyzstan, including under the visa-free regime, under the revised 2026 rules."
   ],
   "unverified": [
-   "Whether India is eligible for the e-visa (selector needs JavaScript)",
-   "Fee amount",
-   "Photo specs",
-   "Passport validity rule"
+   "Exact Indian visa fee and expedited fee",
+   "Photo dimensions and file specifications",
+   "India-specific supporting documents and invitation requirement",
+   "Granted duration of stay",
+   "Biometrics"
   ],
   "sources": [
    "https://www.evisa.e-gov.kg/",
-   "https://www.evisa.e-gov.kg/get_information.php?lng=en"
+   "https://www.evisa.e-gov.kg/get_information.php?lng=en",
+   "https://www.evisa.e-gov.kg/step_1.php?lng=en",
+   "https://www.evisa.e-gov.kg/images/turism_ts.pdf?n=1",
+   "https://www.mea.gov.in/vffin",
+   "https://indembbishkek.gov.in/docs/1781168326ADV-VISA%20REGLTN.pdf"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-24",
   "confidence": "partial"
  },
  {
@@ -9154,15 +9178,28 @@
     "url": "https://visa.vfsglobal.com/ind/en/lva/book-an-appointment"
    },
    {
-    "label": "Embassy of Latvia in India: Schengen short stay visa page",
-    "url": "https://www2.mfa.gov.lv/en/newdelhi/consular-section/visa"
+    "label": "Latvian Ministry of Foreign Affairs: applying for a visa",
+    "url": "https://www.mfa.gov.lv/en/applying-visa"
    },
    {
-    "label": "Embassy of Latvia in New Delhi homepage",
-    "url": "https://www2.mfa.gov.lv/en/newdelhi"
+    "label": "Official visa documents and passport requirements",
+    "url": "https://www.mfa.gov.lv/en/documents-required-apply-visa"
+   },
+   {
+    "label": "Official visa fees",
+    "url": "https://www.mfa.gov.lv/en/visa-application-fees"
+   },
+   {
+    "label": "Electronic Travel Declaration",
+    "url": "https://eta.gov.lv/"
    }
   ],
-  "formLinks": [],
+  "formLinks": [
+   {
+    "label": "Official online Schengen visa application form",
+    "url": "https://epak.pmlp.gov.lv/NVIS.EService001.WebSite/"
+   }
+  ],
   "documents": [
    {
     "item": "Passport",
@@ -9204,29 +9241,40 @@
    "notes": "Photo can also be taken digitally at the VFS centre; must meet ICAO standards",
    "status": "verified"
   },
-  "fee": "Visa fee 90 EUR (45 EUR for children aged 6 to under 12), per Embassy of Latvia page read 2026-10-16. VFS service charge for short stay not confirmed on the pages opened (2434 INR was stated on the long-stay student page).",
-  "processing": "Decision within 15 calendar days of lodging, up to 45 days in individual cases; at least 10 working days for nationals under prior consultation (not Indians per the page).",
+  "fee": "Short-stay visa fee 90 EUR for applicants aged 12 or older, 45 EUR for children aged 6 to under 12, and no visa fee for children under 6. India is not listed for a reduced bilateral fee. VFS short-stay service charge remains UNVERIFIED.",
+  "processing": "Decision within 15 calendar days of lodging, with extension to a maximum of 45 calendar days in individual cases.",
   "applyEarly": "At least 15 calendar days before travel, and no more than 6 months before the start of the visit.",
-  "biometrics": "Yes. All Schengen applicants in India must appear in person for fingerprints and digital photo, at a VFS Latvia centre (or the Embassy by appointment for family members of EU nationals).",
+  "biometrics": "Fingerprints are required for a Schengen visa unless biometric data were collected by a Schengen diplomatic or consular mission during the past five years, according to the Latvian Ministry of Foreign Affairs. India-specific in-person appointment rules could not be reverified.",
   "centres": "UNVERIFIED list of cities; VFS Latvia centres in India are listed on the VFS booking page, which needs JavaScript.",
   "warnings": [
    "Apply to Latvia only if Latvia is your main destination by days of stay; otherwise apply to the main destination country.",
    "Book a VFS appointment via the official link only; agents add fees.",
    "Bank statements must be originals, stamped and signed.",
-   "Schengen rules are common to all Schengen states, but each state accepts applications through its own mission."
+   "Schengen rules are common to all Schengen states, but each state accepts applications through its own mission.",
+   "Indian ordinary passport holders entering Latvia with a visa or residence permit issued by another Schengen country must submit the Electronic Travel Declaration at https://eta.gov.lv at least 48 hours before arrival, including transit across Latvia. Holders of a Latvian visa or residence permit are exempt. The declaration is not a visa or entry permit."
   ],
   "unverified": [
    "VFS Latvia centre cities",
    "Current VFS service charge for short stay",
-   "Exact appointment availability"
+   "Exact appointment availability",
+   "India-specific document checklist, including whether one or two photos are needed: central MFA lists one 35 x 45 mm colour photograph, while the old India record lists two.",
+   "India-specific photo background and age of photograph were not reverified.",
+   "India-specific in-person biometrics appointment requirements and document verification could not be read while the embassy pages are unavailable."
   ],
   "sources": [
    "https://www2.mfa.gov.lv/en/newdelhi/consular-section/visa",
    "https://visa.vfsglobal.com/ind/en/lva/book-an-appointment",
-   "https://www2.mfa.gov.lv/en/newdelhi"
+   "https://www2.mfa.gov.lv/en/newdelhi",
+   "https://www.mfa.gov.lv/en/applying-visa",
+   "https://www.mfa.gov.lv/en/documents-required-apply-visa",
+   "https://www.mfa.gov.lv/en/visa-application-fees",
+   "https://www.mfa.gov.lv/en/processing-visa-applications-and-prior-consultation",
+   "https://www.mfa.gov.lv/en/travel-medical-insurance-policy",
+   "https://www.mfa.gov.lv/en/electronic-travel-declaration",
+   "https://epak.pmlp.gov.lv/NVIS.EService001.WebSite/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "official",
+  "lastChecked": "2026-11-24",
+  "confidence": "partial",
   "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
  },
  {

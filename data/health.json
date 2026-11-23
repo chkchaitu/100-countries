@@ -104,13 +104,16 @@
   "requiredVaccines": [],
   "recommendedVaccines": [
    "Hepatitis A",
-   "Hepatitis B",
+   "Hepatitis B (recommended below age 60; may be considered at age 60 or older)",
    "Typhoid",
-   "Japanese encephalitis",
-   "Rabies (consider)",
-   "Measles (MMR, up to date)"
+   "Japanese encephalitis (long stays or rural and outdoor exposure, not routine for short urban trips)",
+   "Rabies (consider based on animal exposure and access to treatment)",
+   "Measles (MMR, up to date)",
+   "Polio (complete series; adults fully vaccinated in childhood may receive one lifetime IPV booster)",
+   "COVID-19 (up to date)",
+   "Routine vaccines"
   ],
-  "malaria": "some areas (mainly southern provinces Attapeu, Champasak, Khammouane, Salavan, Savannakhet, Sekong; none in Vientiane and Luang Prabang)",
+  "malaria": "Present in southern Attapeu, Champasak, Khammouane, Salavan, Savannakhet and Sekong provinces; rare cases in the north; none in the cities of Vientiane and Luang Prabang. CDC recommends prescription prevention for the listed southern provinces and mosquito precautions only in the north.",
   "otherHealth": [
    "CDC notes poliovirus has been identified in Laos in the past year, so keep polio vaccination up to date",
    "CDC notes dengue risk"
@@ -118,7 +121,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/laos"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-24",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; yellow fever risk status is from CDC (CDC says no vaccine recommended, which matches no WHO transmission risk)",
@@ -445,7 +448,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/kyrgyzstan"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-24",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; yellow fever risk status is from CDC (CDC says no vaccine recommended, which matches no WHO transmission risk)",
@@ -1204,7 +1207,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/latvia"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-24",
   "confidence": "partial",
   "unverified": [
    "Only the CDC Travelers' Health country page was opened; destination health ministry and WHO ITH country list not checked."
@@ -3537,7 +3540,8 @@
    "Hepatitis A",
    "Typhoid",
    "Hepatitis B",
-   "Rabies (dogs sometimes rabid)"
+   "Rabies (consider based on exposure risk)",
+   "Measles (MMR, up to date)"
   ],
   "malaria": "none",
   "otherHealth": [
@@ -3546,7 +3550,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/kuwait"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-24",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and destination health ministry pages were not opened; yellow fever entry rules and risk taken from the CDC Travelers' Health page only"

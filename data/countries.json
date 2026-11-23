@@ -242,7 +242,7 @@
    },
    {
     "name": "Kuang Si Falls",
-    "note": "",
+    "note": "Tourism Laos lists daily opening from 08:00 to 17:30. The page is undated; current admission price is UNVERIFIED.",
     "fee": "about ₹200 to ₹300"
    },
    {
@@ -296,14 +296,18 @@
   ],
   "cautions": [
    "Lao New Year (13 to 15 Apr) raises prices",
-   "Check the e visa rule"
+   "Check the e visa rule",
+   "All foreign passport holders must register the Lao Digital Immigration Form (LDIF) within 3 days before entering or departing Laos, through https://www.immigration.gov.la. The Indian Embassy notice says it applies at all international checkpoints from the beginning of 2026. This is separate from a visa."
   ],
   "neighbours": [],
   "sources": [
-   "https://en.wikipedia.org/wiki/Laos"
+   "https://en.wikipedia.org/wiki/Laos",
+   "https://www.tourismlaos.org/2642-2/",
+   "https://www.indianembassylaos.gov.in/page/fact-sheet-on-laos/",
+   "https://www.indianembassylaos.gov.in/section/home-page-ticker/lao-digital-immigration-form-ldif-to-streamline-border-procedure/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-24",
+  "confidence": "partial",
   "iso": "la",
   "currency": {
    "name": "Lao kip",
@@ -3190,22 +3194,26 @@
    },
    {
     "name": "Summer bobsled at Sigulda",
-    "note": "",
+    "note": "The official tourism board confirms summer-bob rides. Check ride availability, opening hours and the exact summer-bob fee with the operator.",
     "priceInr": null
    }
   ],
   "cautions": [
-   "Midsummer closes shops"
+   "Midsummer closes shops",
+   "Indian ordinary passport holders entering Latvia with a visa or residence permit issued by another Schengen country must submit the Electronic Travel Declaration at https://eta.gov.lv at least 48 hours before arrival, including transit across Latvia. Holders of a Latvian visa or residence permit are exempt. The declaration is not a visa or entry permit."
   ],
   "neighbours": [
    "Estonia",
    "Lithuania"
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Latvia"
+   "https://en.wikipedia.org/wiki/Latvia",
+   "https://www.latvia.travel/en/sight/sigulda-bobsleigh-and-luge-track",
+   "https://www.latvia.travel/en/latvian-market-culture",
+   "https://www.mfa.gov.lv/en/electronic-travel-declaration"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-24",
+  "confidence": "partial",
   "iso": "lv",
   "currency": {
    "name": "Euro",
