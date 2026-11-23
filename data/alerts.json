@@ -256,6 +256,53 @@
       "sources": [
         "https://www.irishimmigration.ie/wp-content/uploads/2026/10/Irish-Short-Stay-Visa-Waiver-Programme-October-2026.pdf"
       ]
+    },
+    {
+      "id": "kyrgyzstan-revised-visa-procedure-2026",
+      "country": "Kyrgyzstan",
+      "type": "entry",
+      "severity": "medium",
+      "title": "Revised Kyrgyz visa procedure and tourist category",
+      "summary": "The Indian Embassy reports that Decree No. 312 of 30 April 2026 revised Kyrgyz visa procedures and expanded visa categories. The official e-visa portal lists Tourist visa TS with validity up to 30 calendar days and Transit visa TR with validity up to 3 calendar days. Tourist and transit visas are not issued to foreigners already staying in Kyrgyzstan, including under a visa-free regime. The Embassy asks Indian visitors for tourism, business and work to follow the revised rules.",
+      "since": "2026-04-30",
+      "until": "",
+      "lastChecked": "2026-11-24",
+      "sourceLevel": "official",
+      "sources": [
+        "https://indembbishkek.gov.in/docs/1781168326ADV-VISA%20REGLTN.pdf",
+        "https://www.evisa.e-gov.kg/get_information.php?lng=en"
+      ]
+    },
+    {
+      "id": "laos-digital-immigration-form-2025",
+      "country": "Laos",
+      "type": "entry",
+      "severity": "medium",
+      "title": "Digital immigration form required for entry and departure",
+      "summary": "The Indian Embassy states that foreign passport holders must register the Lao Digital Immigration Form within 3 days before entering or departing Laos. The notice says the form applies at all international checkpoints from the beginning of 2026. Registration is through the official Lao immigration website and does not replace a visa.",
+      "since": "2025-09-01",
+      "until": "",
+      "lastChecked": "2026-11-24",
+      "sourceLevel": "official",
+      "sources": [
+        "https://www.indianembassylaos.gov.in/section/home-page-ticker/lao-digital-immigration-form-ldif-to-streamline-border-procedure/"
+      ]
+    },
+    {
+      "id": "latvia-electronic-travel-declaration-2025",
+      "country": "Latvia",
+      "type": "entry",
+      "severity": "medium",
+      "title": "48-hour travel declaration for holders of other Schengen visas",
+      "summary": "Indian passport holders entering Latvia without a visa or residence permit issued by Latvia must submit the Electronic Travel Declaration at eta.gov.lv at least 48 hours before arrival, including transit across Latvia. A valid visa or residence permit from another Schengen country does not exempt an Indian traveller. Latvian visa and residence permit holders are exempt. The declaration does not replace a visa or other entry conditions.",
+      "since": "2025-09-01",
+      "until": "",
+      "lastChecked": "2026-11-24",
+      "sourceLevel": "official",
+      "sources": [
+        "https://www.mfa.gov.lv/en/electronic-travel-declaration",
+        "https://www.mfa.gov.lv/en/frequently-asked-questions-0"
+      ]
     }
   ]
 }

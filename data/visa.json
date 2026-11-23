@@ -246,14 +246,22 @@
       "name": "Kyrgyzstan",
       "trip": "D",
       "category": "evisa",
-      "rule": "e-visa, up to 60 days. Expect an invitation-letter step after applying.",
-      "easedBy": [],
+      "rule": "E-visa available to Indian ordinary passport holders, as listed by MEA. The official Kyrgyz portal now lists Tourist visa type TS with validity up to 30 calendar days, not the previously stated 60 days. The passport must remain valid at least 6 months after the requested visa validity period and have at least 2 free pages. Indians holding a long-term multiple-entry US, UK or Schengen visa with minimum validity of 3 years on their current valid passport may enter visa-free for up to 7 days, only by air through Manas International Airport, with re-entry allowed after 21 days from departure. Exact Indian tourist fee, granted stay and whether an invitation is required remain UNVERIFIED.",
+      "easedBy": [
+        "US",
+        "SC",
+        "UK"
+      ],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://www.mea.gov.in/vffin",
+        "https://www.evisa.e-gov.kg/get_information.php?lng=en",
+        "https://indembbishkek.gov.in/page.php?pageid=116",
+        "https://indembbishkek.gov.in/docs/1781168326ADV-VISA%20REGLTN.pdf"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-24",
+      "note": "UNVERIFIED: exact Indian fee, granted duration of stay, India-specific supporting documents and whether an invitation is mandatory. The portal publishes a tourist statement template for individuals and inviting organizations. Confirm the issued visa conditions before travel.",
+      "confidence": "partial"
     },
     {
       "country": "Uzbekistan",
@@ -723,14 +731,18 @@
       "name": "Latvia",
       "trip": "I",
       "category": "visa_required",
-      "rule": "Schengen visa required.",
+      "rule": "Schengen visa required for Indian ordinary passport holders. Short stays are limited to 90 days in any 180-day period. A valid visa or residence permit from another Schengen state can also allow entry.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+        "https://www.mfa.gov.lv/en/countries-and-territories-whose-citizens-may-enter-latvia-without-visa",
+        "https://www.mfa.gov.lv/en/processing-visa-applications-and-prior-consultation",
+        "https://www.mfa.gov.lv/en/electronic-travel-declaration"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-24",
+      "note": "Indian ordinary passport holders entering Latvia with a visa or residence permit issued by another Schengen country must submit the Electronic Travel Declaration at https://eta.gov.lv at least 48 hours before arrival, including transit across Latvia. Holders of a Latvian visa or residence permit are exempt. The declaration is not a visa or entry permit.",
+      "confidence": "official"
     },
     {
       "country": "Lithuania",
