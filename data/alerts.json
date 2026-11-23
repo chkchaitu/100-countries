@@ -241,6 +241,21 @@
       "sources": [
         "https://wwwnc.cdc.gov/travel/notices/level1/ebola-kenya"
       ]
+    },
+    {
+      "id": "ireland-short-stay-visa-waiver-2026",
+      "country": "Ireland",
+      "type": "entry",
+      "severity": "medium",
+      "title": "Ireland short-stay visa waiver continues until 31 December 2026",
+      "summary": "Irish Immigration Service Delivery confirms that the Short-Stay Visa Waiver Programme continues until 31 December 2026 and may be amended at any time. Eligible Indian passport holders who are not living long term in the UK can travel to Ireland without a separate Irish visa after lawfully entering the UK on a qualifying short-stay visit or business visa. The intended Irish visit must end before their current UK immigration permission expires. The maximum stay is 90 days or the remaining UK permission, whichever is shorter, and an Irish immigration officer decides whether to admit the traveller and for how long. UK transit visas and visas for marriage or civil partnership visits do not qualify. An unused UK visa or airside transit through the UK is not sufficient. This programme is separate from the British Irish Visa Scheme.",
+      "since": "2026-11-23",
+      "until": "2026-12-31",
+      "lastChecked": "2026-11-23",
+      "sourceLevel": "official",
+      "sources": [
+        "https://www.irishimmigration.ie/wp-content/uploads/2026/10/Irish-Short-Stay-Visa-Waiver-Programme-October-2026.pdf"
+      ]
     }
   ]
 }
