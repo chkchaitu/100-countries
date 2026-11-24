@@ -2401,16 +2401,19 @@
       "name": "Lebanon",
       "trip": "AH",
       "category": "visa_required",
-      "rule": "Indian citizens are not on the General Security list of nationalities granted a free visa on arrival (list read 16 Oct 2026: includes Iraq, UK, US, Canada, Australia, Japan, S. Korea, Schengen states, but not India). A visa or prior entry authorisation is needed. General Security also has a page titled 'Entry of Indian Nationals' (content not readable) and a separate work visa page for Indians. Lebanese embassy fees abroad are about 88 USD single entry (US) or 68 GBP (UK), India fee, stay length, passport validity (6 months suggested) and yellow fever rules are UNVERIFIED. A Lebanese visa is void if the passport has an Israeli stamp. Holding a US/UK/Schengen etc. visa does not by itself ease entry; one embassy page mentions onward ticket, hotel booking and cash proof for some cases.",
+      "rule": "Visa or prior entry authorisation is required for an Indian ordinary passport. India is not on the General Security list for a standard free visa on arrival. Apply through the VFS Lebanon centre in India. Tourist visa fees are INR 8250 single entry, INR 11750 double entry or INR 16450 multiple entry, plus VFS charges. The tourist checklist requires a passport valid for at least 6 months at application submission. VFS lists minimum processing of 5 to 7 working days in Delhi or 11 to 12 working days elsewhere, with possible further enquiry, and a maximum requested visa validity of 90 days. An Israeli visa or sticker in the passport prevents an application unless a new passport without it is used. Specific stay length and special entry concessions remain UNVERIFIED.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
         "https://www.general-security.gov.lb/en/posts/38",
         "https://www.general-security.gov.lb/en/posts/560",
-        "https://www.lebanon-embassy.org/visas"
+        "https://www.lebanon-embassy.org/visas",
+        "https://www.vfsglobal.com/one-pager/lebanon/india/english",
+        "https://www.vfsglobal.com/one-pager/lebanon/india/english/pdf/checklist-for-tourist-visa-Nov-25.pdf"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Confirmed only that India is not visa-exempt. UNVERIFIED: exact process, fee and tourist rules for Indians; check with the Lebanese mission in India or VFS. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-25",
+      "note": "Confirmed advance-visa route, India tourist fees, processing and passport validity from General Security and VFS India. Stay length and any special concessions for Indian travellers remain UNVERIFIED.",
+      "confidence": "partial"
     },
     {
       "country": "Syria",
@@ -2449,16 +2452,19 @@
       "name": "Libya",
       "trip": "AA",
       "category": "visa_required",
-      "rule": "Visa required. The Libyan embassy in Washington says a Libyan sponsor (usually a company) must request approval from the passports authority first, then the visa is issued with a passport valid at least 6 months and 2 clear pages; its fees for non-US citizens are 150 USD for 30 days single entry, 200 USD for 90 days multiple, 350 USD for 180 days multiple (about Rs 13,000 to Rs 31,000 at roughly 88 INR per USD; this is the Washington embassy's fee, not an Indian-specific one). Visa agencies claim an e-Visa for Indians up to 60 days, not confirmed officially. Passports with Israeli stamps are refused. Yellow fever rules: UNVERIFIED. MEA advisory (search snippet only, page returned 403): Indians should avoid non-essential travel to Libya. No easing for US/UK/Schengen etc. is known.",
+      "rule": "Visa required. The Libyan embassy in Washington says a Libyan sponsor (usually a company) must request approval from the passports authority first, then the visa is issued with a passport valid at least 6 months and 2 clear pages; its fees for non-US citizens are 150 USD for 30 days single entry, 200 USD for 90 days multiple, 350 USD for 180 days multiple (about Rs 13,000 to Rs 31,000 at roughly 88 INR per USD; this is the Washington embassy's fee, not an Indian-specific one). Visa agencies claim an e-Visa for Indians up to 60 days, not confirmed officially. Passports with Israeli stamps are refused. CDC says yellow fever vaccine is not required for entry. The current MEA advisory advises Indians to avoid non-essential travel to Libya, exercise caution, avoid inter-province road travel and remain in contact with the Indian Embassy in Tripoli. No easing for US/UK/Schengen etc. is known.",
       "easedBy": [],
       "status": "probable",
       "sources": [
         "https://www.embassyoflibyadc.org/visa",
         "https://travel.state.gov/en/international-travel/travel-advisories/libya.html",
-        "https://www.peninsulavisa.com/visa-requirements/india-to-libya"
+        "https://www.peninsulavisa.com/visa-requirements/india-to-libya",
+        "https://www.mea.gov.in/advisories-details?58",
+        "https://wwwnc.cdc.gov/travel/destinations/traveler/none/libya"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Check the Ministry of External Affairs advisory before any travel; it could not be read. UNVERIFIED: Libyan embassy in India or e-visa portal not read; MEA page blocked (403). Tourist visas mostly arranged through sponsors or tour operators. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-25",
+      "note": "MEA advisory dated 6 August 2024 read directly and marked valid in the current MEA advisory listing. It partially modified the earlier travel ban. Indian-specific visa fees, New Delhi application process and e-visa eligibility remain UNVERIFIED. The evisa.gov.ly site opened but returned only a JavaScript application shell, not readable requirements. Washington embassy fees apply to that mission and require US legal residence for non-US citizens; they are not fees for applicants in India. Probable, not final.",
+      "confidence": "partial"
     },
     {
       "country": "North Korea",
@@ -2616,15 +2622,17 @@
       "name": "Liberia",
       "trip": "U",
       "category": "on_arrival",
-      "rule": "Visa on arrival by air only at Roberts International Airport (Monrovia), pre-approved online at visaonarrival.lis.gov.lr. Fee USD 102.5 (about INR 9,000), non-refundable, card payment. Apply at least 7 days before flying; approval valid 3 months for entry; single visit, officer sets validity of 30 or 90 days. Passport valid 6 months, photo, passport scan needed; biometrics collected on arrival. The portal says that if a Liberian embassy exists in your country you must apply at the embassy instead; I did not confirm whether an embassy covers India, so check. Yellow fever certificate required per the Liberian embassy in the US page. No easing from US/UK/Schengen etc. found.",
+      "rule": "Liberia has a Visa on Arrival pre-approval portal for air arrivals, but eligibility for an Indian ordinary passport is UNVERIFIED. The previously read portal said applicants must use a Liberian embassy if one exists in their country. The Indian Embassy in Monrovia now confirms that Liberia reopened its resident embassy in New Delhi on 13 August 2026. Ask that embassy about the correct application route before booking; do not assume an Indian resident qualifies for Visa on Arrival. The portal returned HTTP 500 on 25 November 2026, so its previously quoted USD 102.50 fee, timings and validity could not be rechecked. The Liberian embassy in Washington requires a passport with at least 6 months left and a valid Certificate of Immunization (Yellow Book). Yellow fever requirements conflict with CDC guidance; confirm with Liberia before travel. No US, UK or Schengen visa easing was confirmed.",
       "easedBy": [],
       "status": "probable",
       "sources": [
         "https://visaonarrival.lis.gov.lr/",
-        "https://www.liberianembassyus.org/page/visa"
+        "https://www.liberianembassyus.org/page/visa",
+        "https://www.indianembassymonrovia.gov.in/bilateral-relation.php"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Official portal read; Indian nationals' eligibility and embassy-in-India rule not explicitly confirmed. MEA advisory not checked. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-25",
+      "note": "Indian ordinary-passport eligibility for Visa on Arrival and the current New Delhi application process remain UNVERIFIED. Liberia has a resident embassy in India, confirmed by the Indian Embassy in Monrovia. The Visa on Arrival portal returned HTTP 500 during this check. Probable, not final. Confirm the route and fee directly before travel.",
+      "confidence": "partial"
     },
     {
       "country": "Mauritania",

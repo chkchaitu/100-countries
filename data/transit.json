@@ -5207,7 +5207,7 @@
   "country": "Lebanon",
   "airside": {
    "visaNeeded": "unverified",
-   "rule": "UNVERIFIED. The Lebanese General Security site was opened but its Indian nationals pages are about work visas and the transit pass page did not render in the fetched text, so no airside rule was confirmed.",
+   "rule": "VFS Lebanon India offers an airport transit visa for changing flights without leaving the airport; it permits access to the international transit area, not entry to Lebanon. Whether every Indian airside connection requires this visa, and any exemptions, remain UNVERIFIED.",
    "maxHours": "UNVERIFIED",
    "conditions": []
   },
@@ -5219,22 +5219,24 @@
   },
   "easedBy": [],
   "landTransit": "Not applicable",
-  "howToGet": "Not applicable",
-  "fee": "UNVERIFIED",
+  "howToGet": "VFS Lebanon India publishes an airport transit visa category and an Embassy checklist. The checklist asks for a completed application, passport copy with at least 6 months validity at submission, two recent photos, 3 months bank statements, covering letter, destination visa or residence permit, and onward ticket.",
+  "fee": "VFS Lebanon India airport transit category: single entry INR 8250 plus INR 1920 VFS service fee including GST; the page also lists an INR 150 convenience charge at the centre.",
   "warnings": [
    "The General Security page lists India among nationalities with special entry conditions; confirm the current entry visa rule before leaving the airport.",
    "Beirut flights can be disrupted by regional conflict."
   ],
   "sources": [
-   "https://www.general-security.gov.lb/en/posts/38"
+   "https://www.general-security.gov.lb/en/posts/38",
+   "https://www.vfsglobal.com/one-pager/lebanon/india/english",
+   "https://www.vfsglobal.com/one-pager/lebanon/india/english/pdf/transit-visa-doc-latest.pdf"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-25",
+  "confidence": "partial",
   "unverified": [
-   "Airside transit rule for Indian passport holders",
+   "Whether an Indian traveller remaining airside must obtain the listed transit visa",
    "Maximum airside hours",
-   "Transit visa fee",
-   "Official application route"
+   "Airside exemptions or visa-based concessions",
+   "Specific landside transit scheme"
   ]
  },
  {
@@ -5541,23 +5543,25 @@
    "conditions": []
   },
   "landside": {
-   "visaNeeded": "depends",
-   "rule": "Official Liberia Immigration Service portal says a Visa on Arrival is available only at Roberts International Airport (ROB), Monrovia, for tourism, business or transit, but eligibility by nationality was not confirmed for Indian citizens, and the portal says applicants must use a Liberian embassy if one exists in their country.",
+   "visaNeeded": "unverified",
+   "rule": "The previously read Liberia Immigration Service portal included transit among Visa on Arrival purposes, but required applicants to use an embassy if one exists in their country. Liberia has now reopened its embassy in New Delhi. Indian eligibility and the applicable landside transit application route remain UNVERIFIED; the portal returned HTTP 500 on this check.",
    "maxHours": "UNVERIFIED",
-   "scheme": "none found"
+   "scheme": "none confirmed"
   },
   "easedBy": [],
   "landTransit": "Not applicable",
-  "howToGet": "Official Visa on Arrival portal: https://visaonarrival.lis.gov.lr/ . Whether Indians qualify was not verified.",
+  "howToGet": "Contact the Embassy of Liberia in New Delhi to confirm the route for Indian residents. Its reopening is confirmed by the Indian Embassy in Monrovia; current transit application details are UNVERIFIED.",
   "fee": "USD 102.5 Visa on Arrival fee (official portal); transit-specific fee UNVERIFIED",
   "warnings": [
    "Visa on Arrival is only at ROB Monrovia, and officer decides 30 or 90 days.",
-   "Eligibility for Indian passports not confirmed; ask the airline before flying."
+   "Eligibility for Indian passports not confirmed; ask the airline before flying.",
+   "Liberia has reopened its embassy in New Delhi; confirm whether Indian residents must apply there before attempting landside transit."
   ],
   "sources": [
-   "https://visaonarrival.lis.gov.lr/"
+   "https://visaonarrival.lis.gov.lr/",
+   "https://www.indianembassymonrovia.gov.in/bilateral-relation.php"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-25",
   "confidence": "partial",
   "unverified": [
    "airside transit rule",

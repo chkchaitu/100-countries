@@ -1881,14 +1881,17 @@
    "Hepatitis B",
    "Typhoid (consider, for rural areas, long stays or visiting friends and relatives)",
    "Rabies (consider, dogs with rabies are common)",
-   "Measles (MMR, up to date)"
+   "Measles (MMR, up to date)",
+   "Mpox (for specific activities)"
   ],
   "malaria": "none",
-  "otherHealth": [],
+  "otherHealth": [
+   "CDC global measles notice: be fully vaccinated with MMR"
+  ],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/lesotho"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-25",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; all facts are from the CDC Travelers' Health page (CDC Yellow Book data updated April 23, 2025)"
@@ -4282,7 +4285,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/lebanon"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-25",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; all facts are from the CDC Travelers' Health page (CDC yellow fever table dated April 23, 2025)"
@@ -4371,7 +4374,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/libya"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-25",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; all facts are from the CDC Travelers' Health page (CDC yellow fever table dated April 23, 2025)"
@@ -4751,7 +4754,7 @@
  {
   "country": "Liberia",
   "yellowFever": {
-   "entryRule": "Required only if arriving from or transiting a country with yellow fever transmission risk, travellers 1 year or older. Not required for direct arrival from India",
+   "entryRule": "UNVERIFIED for arrival from India: CDC requires vaccination for travellers aged 1 year or older arriving from yellow fever risk countries and says it is not required for direct US arrival, but the Liberian embassy in Washington says all entrants need a valid Certificate of Immunization (Yellow Book), and UK government guidance says yellow fever proof is needed for visa applications. Confirm the requirement with Liberia before travel.",
    "riskInCountry": "yes",
    "vaccineAdvised": "yes"
   },
@@ -4766,16 +4769,20 @@
   ],
   "malaria": "widespread",
   "otherHealth": [
-   "Yellow fever vaccine advised for all travelers 9 months or older"
+   "Yellow fever vaccine advised for all travelers 9 months or older",
+   "CDC global measles notice: international travellers should be fully vaccinated with MMR.",
+   "UK government entry guidance reports heightened Ebola health screening on arrival in Liberia; travellers may be asked for health information."
   ],
   "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/liberia"
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/liberia",
+   "https://www.liberianembassyus.org/page/visa",
+   "https://www.gov.uk/foreign-travel-advice/liberia/entry-requirements"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-25",
   "confidence": "partial",
   "unverified": [
-   "WHO International Travel and Health country list not opened; rules taken from CDC Travelers' Health page (updated April 23, 2025) only",
-   "Destination health ministry not checked; confirm with the embassy before travel"
+   "WHO International Travel and Health country list and destination health ministry were not opened",
+   "Yellow fever entry rule specifically for Indian arrivals remains unresolved because official sources differ"
   ]
  },
  {

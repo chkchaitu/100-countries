@@ -11389,7 +11389,7 @@
    "Old town of Ghadames"
   ],
   "cautions": [
-   "MEA advises avoiding non essential travel; armed groups and clashes in Tripoli and elsewhere",
+   "MEA advises avoiding non-essential travel to Libya, exercising caution and avoiding inter-province travel by road",
    "Cash economy, international cards rarely work",
    "Southern desert and borders are unsafe without an organised trip"
   ],
@@ -11403,10 +11403,13 @@
   ],
   "sources": [
    "https://www.embassyoflibyadc.org/visa",
-   "https://travel.state.gov/en/international-travel/travel-advisories/libya.html"
+   "https://travel.state.gov/en/international-travel/travel-advisories/libya.html",
+   "https://www.mea.gov.in/advisories-details?58",
+   "https://cbl.gov.ly/en/",
+   "https://www.gov.uk/foreign-travel-advice/libya/entry-requirements"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-25",
+  "confidence": "partial",
   "trip": "AA",
   "iso": "ly",
   "currency": {
@@ -12290,7 +12293,7 @@
    "low": 5000,
    "high": 14000
   },
-  "transport": "No direct India flights. Connect via Addis Ababa, Casablanca, Brussels, Istanbul or Accra to Roberts International (ROB). Around: taxis, shared cabs, motorbikes; unpaved roads degrade in the rainy season (May to October).",
+  "transport": "No direct India flights. Connect via Addis Ababa, Casablanca, Brussels, Istanbul or Accra to Roberts International (ROB). Around: taxis, shared cabs, motorbikes; unpaved roads degrade in the rainy season (May to November).",
   "experiences": [
    "Surfing at Robertsport",
    "Rainforest trek at Sapo",
@@ -12307,10 +12310,12 @@
    "Cote d'Ivoire"
   ],
   "sources": [
-   "https://visaonarrival.lis.gov.lr/"
+   "https://visaonarrival.lis.gov.lr/",
+   "https://www.gov.uk/foreign-travel-advice/liberia/safety-and-security",
+   "https://www.cbl.org.lr/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-25",
+  "confidence": "partial",
   "trip": "U",
   "iso": "lr",
   "currency": {

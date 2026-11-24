@@ -303,6 +303,38 @@
         "https://www.mfa.gov.lv/en/electronic-travel-declaration",
         "https://www.mfa.gov.lv/en/frequently-asked-questions-0"
       ]
+    },
+    {
+      "id": "lebanon-indian-embassy-public-advisory",
+      "country": "Lebanon",
+      "type": "advisory",
+      "severity": "high",
+      "title": "Indian Embassy in Beirut advises avoiding unnecessary travel",
+      "summary": "The Indian Embassy in Beirut advisory dated 1 March 2026 asks Indian nationals in Lebanon to avoid unnecessary travel, remain vigilant and observe locally advised safety and emergency procedures. The advisory remains displayed on the embassy homepage.",
+      "since": "2026-03-01",
+      "until": "",
+      "lastChecked": "2026-11-25",
+      "sourceLevel": "official",
+      "sources": [
+        "https://www.indianembassybeirut.gov.in/",
+        "https://www.indianembassybeirut.gov.in/public/upload_image/1772534429.jpeg"
+      ]
+    },
+    {
+      "id": "libya-mea-avoid-non-essential-travel",
+      "country": "Libya",
+      "type": "advisory",
+      "severity": "high",
+      "title": "MEA advises avoiding non-essential travel to Libya",
+      "summary": "In its advisory of 6 August 2024, MEA partially modified the earlier travel ban and advised Indian nationals to avoid non-essential travel to Libya. Indians in Libya are advised to exercise caution, avoid inter-province travel by road and remain in contact with the Indian Embassy in Tripoli. The current MEA advisory listing marks this advisory valid.",
+      "since": "2024-08-06",
+      "until": "",
+      "lastChecked": "2026-11-25",
+      "sourceLevel": "official",
+      "sources": [
+        "https://www.mea.gov.in/advisories-details?58",
+        "https://www.mea.gov.in/FrontEnd/GetUserTravelAdvisoryListing?PLngId=1&countryId=132"
+      ]
     }
   ]
 }
