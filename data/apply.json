@@ -9289,40 +9289,60 @@
   ],
   "formLinks": [
    {
-    "label": "Application form and document list (via the VFS Lebanon India page)",
+    "label": "Tourist visa checklist",
+    "url": "https://www.vfsglobal.com/one-pager/lebanon/india/english/pdf/checklist-for-tourist-visa-Nov-25.pdf"
+   },
+   {
+    "label": "VFS Lebanon India visa information and forms",
     "url": "https://www.vfsglobal.com/one-pager/lebanon/india/english"
    }
   ],
   "documents": [
    {
-    "item": "Passport",
-    "note": "Valid for at least 6 months is typical; old passports showing travel history must also be submitted per VFS"
+    "item": "Passport and photocopy",
+    "note": "At least 6 months validity at application submission; also submit old passports with travel history."
    },
    {
-    "item": "Completed visa application form",
-    "note": "Download from the VFS Lebanon page"
+    "item": "Completed application form and checklist",
+    "note": "Both must be filled and signed."
    },
    {
-    "item": "Photographs",
-    "note": "Recent, see photo rules"
+    "item": "Letter of intent",
+    "note": "Introduce yourself, your job and the reason for visiting Lebanon."
    },
    {
-    "item": "Supporting documents for tourist category",
-    "note": "Hotel booking, return ticket, bank statements are typical; exact list is on the VFS page (tourist tab, JavaScript)"
+    "item": "Employer NOC letter",
+    "note": "Required by the tourist checklist."
    },
    {
-    "item": "Passport with no Israeli stamp or visa",
-    "note": "Applicants with an Israeli stamp or visa must use a new passport without it, per VFS"
+    "item": "One passport-size photograph",
+    "note": "See the VFS tourist photo specifications."
+   },
+   {
+    "item": "Return flight booking",
+    "note": "Required by the tourist checklist."
+   },
+   {
+    "item": "Hotel reservation or invitation",
+    "note": "Hotel booking must name the applicant. An invitation needs the Lebanon address and the Lebanese inviter ID or a foreign inviter residence permit valid for at least 3 months."
+   },
+   {
+    "item": "Bank statements",
+    "note": "Latest statements covering at least 3 months and showing sufficient funds for the stay."
+   },
+   {
+    "item": "Passport without Israeli visa or sticker",
+    "note": "VFS says an applicant with one must use a new passport without it."
    }
   ],
   "photo": {
    "size": "35-40 mm width; face 70 to 80 percent of the photo",
-   "background": "UNVERIFIED (not stated in the text read)",
+   "background": "Plain light-coloured background",
    "format": "Printed on high quality photo paper, high resolution, colour",
    "notes": "Taken within last 6 months, looking at camera, eyes open and clear, no glare on glasses",
    "status": "verified"
   },
-  "fee": "Per VFS Lebanon India page read 2026-10-16: single entry 8250 INR, double entry 11750 INR, multiple entry 16450 INR; VFS service fee 1920 INR (incl. GST); plus 150 INR convenience charge at the centre. Business tab was read; tourist tab assumed same, UNVERIFIED.",
+  "fee": "VFS Lebanon India tourist fees: single entry INR 8250, double entry INR 11750, multiple entry INR 16450. VFS service fee INR 1920 including GST; the page also lists an INR 150 convenience charge at the application centre. Fees can change without notice.",
   "processing": "Delhi submissions at least 5 to 7 working days, other locations at least 11 to 12 working days; some need further enquiry.",
   "applyEarly": "UNVERIFIED",
   "biometrics": "Documents lodged in person at the centre; fingerprints UNVERIFIED.",
@@ -9334,22 +9354,22 @@
    "Fees are in INR and can change without notice."
   ],
   "unverified": [
-   "Tourist tab document list",
-   "Tourist fee (business tab read)",
-   "Centre cities",
-   "Booking page URL (visa.vfsglobal.com lbn path returned 404)",
-   "How early to apply"
+   "Centre cities other than Delhi",
+   "Appointment booking access (VFS booking homepage returned a bot-block response)",
+   "How early to apply",
+   "Fingerprint requirement"
   ],
   "sources": [
-   "https://www.vfsglobal.com/one-pager/lebanon/india/english"
+   "https://www.vfsglobal.com/one-pager/lebanon/india/english",
+   "https://www.vfsglobal.com/one-pager/lebanon/india/english/pdf/checklist-for-tourist-visa-Nov-25.pdf"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-25",
   "confidence": "partial"
  },
  {
   "country": "Lesotho",
   "route": "online",
-  "summary": "Lesotho's e-visa portal is currently suspended, according to the Ministry of Home Affairs page. Applications are being taken by email to the Immigration visa applications address given there. Email your application and documents, wait for approval, and carry the approval when travelling. Confirm the current process with the ministry before booking.",
+  "summary": "The Lesotho High Commission UK directs visa applicants to contact visa-applications.immigration@gov.ls for application guidance. The Ministry e-visa page reported suspension on 16 October 2026; that page could not be reached on 25 November 2026, so the current portal status is UNVERIFIED. Confirm the application steps and document requirements with Immigration before booking.",
   "applyLinks": [
    {
     "label": "Lesotho Ministry of Home Affairs e-visa page (notice and email address)",
@@ -9358,6 +9378,10 @@
    {
     "label": "Lesotho High Commission UK: entry and visa guidance",
     "url": "https://lesothohc.org.uk/dealing-with-lesotho/travel-advice-passport-and-entry-requirements"
+   },
+   {
+    "label": "Lesotho High Commission UK: how to apply, passport validity and Immigration email",
+    "url": "https://lesothohc.org.uk/how-to-apply-for-visa/"
    }
   ],
   "formLinks": [],
@@ -9391,33 +9415,36 @@
    "status": "unverified"
   },
   "fee": "UNVERIFIED",
-  "processing": "UNVERIFIED (the old e-visa advertised 72 hours; portal now suspended)",
+  "processing": "UNVERIFIED. Confirm current processing with Immigration; current e-visa portal status could not be checked.",
   "applyEarly": "UNVERIFIED",
   "biometrics": "UNVERIFIED",
   "centres": "UNVERIFIED. No Lesotho mission in India was confirmed.",
   "warnings": [
-   "The Lesotho e-visa portal is suspended; do not pay third-party sites claiming to issue Lesotho e-visas.",
-   "Lesotho warns that sites other than the official portal are fraudulent.",
-   "Email address VISA-Applications.Immigration@gov.ls is quoted by the Ministry page; confirm before sending documents."
+   "The Ministry e-visa portal was reported suspended on 16 October 2026; current status could not be verified because the Ministry domain did not resolve on 25 November 2026.",
+   "The High Commission warns that sites other than the official Ministry portal offering online Lesotho visa applications are fraudulent.",
+   "The High Commission currently publishes visa-applications.immigration@gov.ls for visa enquiries and applications; confirm the document list before sending documents."
   ],
   "unverified": [
    "Fee",
    "Processing time",
-   "Document list and photo rules",
+   "Full document list and photo rules",
    "Whether any mission in India or nearby accepts applications",
-   "Whether the evisa portal has reopened (evisa.gov.ls did not resolve)"
+   "Current e-visa portal operating status",
+   "Blank-page requirement",
+   "Passport validity: the High Commission page gives conflicting 6-month and 3-month requirements"
   ],
   "sources": [
    "https://www.homeaffairs.gov.ls/e-visa",
-   "https://lesothohc.org.uk/dealing-with-lesotho/travel-advice-passport-and-entry-requirements"
+   "https://lesothohc.org.uk/dealing-with-lesotho/travel-advice-passport-and-entry-requirements",
+   "https://lesothohc.org.uk/how-to-apply-for-visa/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin"
+  "lastChecked": "2026-11-25",
+  "confidence": "partial"
  },
  {
   "country": "Liberia",
   "route": "online",
-  "summary": "Indian travellers pre-apply for a Liberia Visa on Arrival on the Liberia Immigration Service portal, pay the fee online, and print the confirmation. On landing at the airport, show it, give biometrics and receive the visa sticker. The portal says that if there is a Liberian embassy in your country you must apply there instead; no Liberian mission in India was confirmed.",
+  "summary": "Liberia has reopened its resident embassy in New Delhi, according to the Indian Embassy in Monrovia. Contact that embassy to confirm how Indian residents should apply before using Visa on Arrival. The previously read immigration portal said applicants must use a Liberian embassy if one exists in their country. The portal returned HTTP 500 on this check, so Indian eligibility, the online fee and processing arrangements could not be reverified.",
   "applyLinks": [
    {
     "label": "Apply for Liberia Visa on Arrival (official portal)",
@@ -9454,29 +9481,34 @@
   "processing": "UNVERIFIED",
   "applyEarly": "Apply at least 7 days before the flight and no more than 3 months in advance (official portal).",
   "biometrics": "At the airport on arrival in Liberia (biometric data collection); nothing needed in India.",
-  "centres": "Not applicable (online). Valid only for arrival by air.",
+  "centres": "Embassy of Liberia, New Delhi: reopening confirmed by the Indian Embassy in Monrovia. Current visa submission address, opening hours and application service are UNVERIFIED.",
   "warnings": [
    "Visa on Arrival is for air arrival only and is valid for a single visit.",
    "Fee is non-refundable and Liberia can decline an application.",
    "Officer sets stay at 30 or 90 days at the airport.",
-   "Use only the official lis.gov.lr portal."
+   "Use only the official lis.gov.lr portal.",
+   "Liberia has reopened an embassy in New Delhi. Confirm the correct route with it; do not assume residents of India can use Visa on Arrival.",
+   "Official Visa on Arrival portal returned HTTP 500 on 25 November 2026; no current fee or processing time could be confirmed."
   ],
   "unverified": [
-   "Whether a Liberian mission in India exists and takes applications",
-   "Photo specifications",
-   "Processing time",
-   "Yellow fever certificate rule"
+   "Indian ordinary-passport eligibility for Visa on Arrival now that a Liberian embassy exists in India",
+   "Current New Delhi visa application procedure, address and opening hours",
+   "Photo specifications for the route available to Indian residents",
+   "Current fee and processing time",
+   "Yellow fever certificate rule: CDC and Liberian embassy wording differ"
   ],
   "sources": [
-   "https://visaonarrival.lis.gov.lr/"
+   "https://visaonarrival.lis.gov.lr/",
+   "https://www.indianembassymonrovia.gov.in/bilateral-relation.php",
+   "https://www.liberianembassyus.org/page/visa"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-25",
   "confidence": "partial"
  },
  {
   "country": "Libya",
   "route": "embassy",
-  "summary": "Libya has an embassy in New Delhi, which is the place to ask about a visa. Indian government advice has barred travel to Libya since 2016 for security reasons, so tourist travel is not realistic for Indian citizens. No official Libyan e-visa portal or India visa-centre page could be verified.",
+  "summary": "Contact the Libyan embassy in New Delhi to confirm the current visa procedure for Indian ordinary passport holders. MEA partially modified the earlier travel ban on 6 August 2024 and now advises avoiding non-essential travel to Libya. A current MEA listing marks that advisory valid. The Washington embassy publishes sponsor-based visa requirements, but its process and fees cannot be assumed to apply to residents of India. evisa.gov.ly opened, but readable eligibility and application requirements could not be verified.",
   "applyLinks": [],
   "formLinks": [],
   "documents": [
@@ -9502,23 +9534,24 @@
   "biometrics": "UNVERIFIED",
   "centres": "Embassy of the State of Libya, D-1/27 Vasant Vihar, New Delhi 110057 (per an MEA protocol listing seen in search results; the page returned 404 when re-checked).",
   "warnings": [
-   "Indian government has restricted travel to Libya since April 2016 on security grounds (per the Indian Embassy in Tunis page seen in search; page returned an error when re-checked).",
-   "Check the MEA advisory before any plan.",
-   "Ignore agents offering Libya e-visas; none was verified on an official site.",
-   "Libyan authorities in practice need an in-country approval after embassy submission."
+   "MEA advises Indians to avoid non-essential travel to Libya, exercise caution, avoid inter-province travel by road and remain in contact with the Indian Embassy in Tripoli.",
+   "Current India-specific visa fee, processing time and application route remain UNVERIFIED.",
+   "evisa.gov.ly returned only an application shell; eligibility for Indian ordinary passports was not confirmed.",
+   "The Washington embassy requires an in-country sponsor approval for its published business visa process; non-US applicants also need proof of US legal residence. Do not treat that mission as an application route for residents of India."
   ],
   "unverified": [
-   "Any official e-visa or embassy visa page",
-   "Fee, processing, documents and photo rules",
-   "Current embassy contact and opening hours",
-   "Current MEA travel advisory text",
-   "No working official apply link could be confirmed. Search for the official visa page."
+   "Indian-specific fee, processing, documents and photo rules",
+   "Current New Delhi embassy visa submission contact and opening hours",
+   "Indian ordinary-passport eligibility and requirements on evisa.gov.ly",
+   "No working India-specific official apply link could be confirmed"
   ],
   "sources": [
-   "https://www.embassyofindiatunis.gov.in/india-libya-bilateral-relations.php"
+   "https://www.embassyofindiatunis.gov.in/india-libya-bilateral-relations.php",
+   "https://www.mea.gov.in/advisories-details?58",
+   "https://www.embassyoflibyadc.org/visa"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin"
+  "lastChecked": "2026-11-25",
+  "confidence": "partial"
  },
  {
   "country": "Liechtenstein",
