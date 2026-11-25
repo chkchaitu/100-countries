@@ -663,18 +663,20 @@
    "Hepatitis A (consider, for most travelers, especially rural areas or street food)",
    "Hepatitis B",
    "Tick-borne encephalitis (only for extensive tick exposure, e.g. hiking or camping in endemic areas)",
-   "Measles-mumps-rubella (MMR) up to date, per CDC"
+   "Measles-mumps-rubella (MMR) up to date, per CDC",
+   "Routine vaccines up to date, per CDC",
+   "COVID-19 (up to date for eligible travelers, per CDC)"
   ],
-  "malaria": "none",
+  "malaria": "UNVERIFIED from the official sources read in this check.",
   "otherHealth": [],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/liechtenstein"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-26",
   "confidence": "partial",
   "unverified": [
-   "Destination health ministry and WHO ITH country list not opened; entry rule is from the CDC Travelers' Health page (updated April 23, 2025). Insurance requirements not checked.",
-   "CDC page has an unfilled malaria template line; no malaria risk is expected in Liechtenstein but not confirmed"
+   "Destination health ministry and WHO country entry requirements were not read. Yellow fever entry requirement is confirmed from CDC, which says vaccine is not required.",
+   "Malaria absence could not be directly confirmed on the CDC country page read in this check."
   ]
  },
  {
@@ -1230,17 +1232,18 @@
    "Tick-borne encephalitis (for extensive tick exposure, per CDC)",
    "Typhoid (consider only for poor sanitation or rural areas)"
   ],
-  "malaria": "none",
+  "malaria": "UNVERIFIED from the official sources read in this check.",
   "otherHealth": [
    "Tick-borne encephalitis: CDC recommends vaccine for travellers with extensive tick exposure."
   ],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/lithuania"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-26",
   "confidence": "partial",
   "unverified": [
-   "Only the CDC Travelers' Health country page was opened; destination health ministry and WHO ITH country list not checked."
+   "Destination health ministry and WHO country entry requirements were not read. Yellow fever entry requirement is confirmed from CDC, which says vaccine is not required.",
+   "Malaria absence could not be directly confirmed on the CDC country page read in this check."
   ]
  },
  {
@@ -1827,17 +1830,18 @@
    "Rabies (consider, dogs with rabies are common)",
    "Measles (MMR, up to date)"
   ],
-  "malaria": "widespread (all areas except the city of Antananarivo; prophylaxis advised: atovaquone-proguanil, doxycycline, mefloquine or tafenoquine)",
+  "malaria": "CDC: transmission in all areas, with rare transmission in Antananarivo. Prescription prophylaxis is recommended outside Antananarivo: atovaquone-proguanil, doxycycline, mefloquine or tafenoquine. For Antananarivo, CDC recommends mosquito avoidance but no chemoprophylaxis.",
   "otherHealth": [
-   "CDC notes chikungunya: mosquito bite precautions; vaccine generally not recommended"
+   "CDC notes chikungunya: mosquito bite precautions; vaccine generally not recommended",
+   "CDC lists a Level 1 Global Measles notice dated 28 May 2025; all international travellers should be fully vaccinated against measles."
   ],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/madagascar"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-26",
   "confidence": "partial",
   "unverified": [
-   "WHO ITH country list and the destination health ministry page were not opened; all facts are from the CDC Travelers' Health page (CDC Yellow Book data updated April 23, 2025)"
+   "WHO ITH country list and destination health ministry were not opened. CDC yellow fever and malaria data are dated 23 April 2025; India-specific direct-arrival interpretation was not independently checked against a WHO risk-country list in this pass."
   ]
  },
  {
@@ -3174,14 +3178,16 @@
    "Mpox (only for certain activities)"
   ],
   "malaria": "none",
-  "otherHealth": [],
+  "otherHealth": [
+   "CDC lists a Level 1 Global Measles notice dated 28 May 2025. All international travellers should be fully vaccinated against measles."
+  ],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/luxembourg"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-26",
   "confidence": "partial",
   "unverified": [
-   "WHO ITH country list and the destination health ministry page were not opened; facts are from the CDC Travelers' Health page for the country (updated April 2025 for yellow fever entry rules)"
+   "WHO ITH country list and destination health ministry were not opened. Yellow fever entry requirements were re-read on CDC, whose rule is dated 23 April 2025. Malaria absence was not separately verified against the Yellow Book country table."
   ]
  },
  {

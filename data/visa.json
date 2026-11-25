@@ -402,14 +402,16 @@
       "name": "Liechtenstein",
       "trip": "FGH",
       "category": "visa_required",
-      "rule": "Covered by the Schengen visa.",
+      "rule": "Schengen visa required for Indian ordinary passport holders for short stays of up to 90 days in any 180-day period.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R1806-20251230",
+        "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-26",
+      "note": "Indian ordinary passport holders are on the Schengen visa-required list. Check the latest application and entry conditions before travel.",
+      "confidence": "official"
     },
     {
       "country": "France",
@@ -749,14 +751,16 @@
       "name": "Lithuania",
       "trip": "I",
       "category": "visa_required",
-      "rule": "Schengen visa required.",
+      "rule": "Schengen visa required for Indian ordinary passport holders for short stays of up to 90 days in any 180-day period.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R1806-20251230",
+        "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-26",
+      "note": "Indian ordinary passport holders are on the Schengen visa-required list. Check the latest application and entry conditions before travel.",
+      "confidence": "official"
     },
     {
       "country": "Denmark",
@@ -1820,17 +1824,17 @@
       "name": "Luxembourg",
       "trip": "H",
       "category": "visa_required",
-      "rule": "Schengen short stay (type C) visa required, up to 90 days in any 180 days. Fee EUR 90 (about INR 9,590) plus visa centre service charge about INR 400 to 3,125 and travel insurance (about EUR 30,000 cover). Apply 6 months to 15 days before travel at the consulate or VFS/other centre; apply at the country of main destination. A US, UK or Canada visa does NOT waive the Schengen visa for Indians. ETIAS does not apply to Indians (visa required nationals). EES biometric entry system live since 10 Apr 2026 per a secondary source (probable). Luxembourg embassy page lists the fee as EUR 90 (INR 9,900 at the embassy rate).",
+      "rule": "Schengen short-stay (type C) visa required for Indian ordinary passport holders, up to 90 days in any 180-day period. Adult fee EUR 90 (INR 9,900 at the embassy rate), plus an unverified VFS service charge. Passport must have been issued within 10 years, contain at least 2 blank pages and remain valid at least 3 months after departure from Schengen. Apply through Luxembourg VFS in India when Luxembourg is the main destination, no earlier than 6 months and at least 15 days before travel. Processing normally takes 15 calendar days and may take up to 45 days; allow VFS transit time. A US, UK or Canada visa does not replace the required Schengen visa. ETIAS is for visa-exempt travellers, not Indian visa-required passport holders.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
+        "https://newdelhi.mae.lu/en/service_citoyens/visa-immigration/short-term-schengen-visa.html",
         "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en",
-        "https://www.atlys.com/blog/schengen-visa-fees-2026",
-        "https://www.atlys.com/blog/schengen-visa",
-        "https://newdelhi.mae.lu/en/service_citoyens/visa-immigration/short-term-schengen-visa.html"
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:02018R1806-20251230"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-26",
+      "note": "Short-stay requirements and Indian fees confirmed on the Luxembourg embassy and EU pages. VFS service charge and EES implementation dates were not verified in this pass.",
+      "confidence": "official"
     },
     {
       "country": "Belgium",
