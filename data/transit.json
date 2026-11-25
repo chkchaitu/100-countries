@@ -773,10 +773,12 @@
    "Nearest airports are Zurich and St. Gallen-Altenrhein in Switzerland."
   ],
   "sources": [
+   "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+   "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R1806-20251230",
    "https://home-affairs.ec.europa.eu/document/download/7337515c-60a1-4510-b639-80de714f543e_en"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-26",
+  "confidence": "partial",
   "unverified": [
    "Any Liechtenstein-specific transit rule",
    "Maximum airside layover length",
@@ -1520,7 +1522,7 @@
   "country": "Lithuania",
   "airside": {
    "visaNeeded": "no",
-   "rule": "Not required on the common Schengen list: India is not among the 12 nationalities (Afghanistan, Bangladesh, DR Congo, Eritrea, Ethiopia, Ghana, Iran, Iraq, Nigeria, Pakistan, Somalia, Sri Lanka) that need an airport transit visa everywhere in Schengen. Staying airside without entering is allowed. No official page for Lithuania itself could be opened to confirm there is no extra national requirement for Indians.",
+   "rule": "Indian ordinary passport holders do not need an airport transit visa for a connection that stays in the international transit area. India is absent from the common Schengen airport transit list, and the European Commission national-requirements table has no Lithuania requirement for India. This does not permit entry into the Schengen area.",
    "maxHours": "UNVERIFIED",
    "conditions": [
     "stay in the international transit area",
@@ -1542,15 +1544,16 @@
    "Transiting a second Schengen airport on the same trip can also need checking with the airline; the airside exemption applies only while you stay in the international area."
   ],
   "sources": [
-   "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy_en",
-   "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-schengen-visa"
+   "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+   "https://home-affairs.ec.europa.eu/document/download/7337515c-60a1-4510-b639-80de714f543e_en",
+   "https://www.exteriores.gob.es/Consulados/miami/en/ServiciosConsulares/Paginas/Consular/Visado-de-transito-aeroportuario.aspx",
+   "https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:02018R1806-20251230"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-26",
+  "confidence": "partial",
   "unverified": [
-   "Whether this country adds its own national airport transit visa requirement for Indian nationals (checked official lists of other states only)",
-   "Maximum airside layover hours",
-   "Transit visa fee"
+   "Maximum airside layover hours and operational availability of an international transit connection at the specific airport remain UNVERIFIED.",
+   "Lithuanian MFA page could not be opened; the nationality rule is confirmed from the European Commission national-requirements table and the common list on an official Spanish consular page."
   ]
  },
  {
@@ -3898,10 +3901,14 @@
  {
   "country": "Luxembourg",
   "airside": {
-   "visaNeeded": "unverified",
-   "rule": "UNVERIFIED. The Luxembourg ministry page confirms an airport transit visa exists but the list of nationalities that need it for Luxembourg was not opened. Luxembourg Airport (Findel) is a small regional airport, not a typical connection point for Indians.",
+   "visaNeeded": "no",
+   "rule": "Indian ordinary passport holders do not require a Luxembourg airport transit visa when remaining in the international transit area without entering Schengen. India has no requirement marked in the Luxembourg column of the European Commission national airport transit visa matrix.",
    "maxHours": "UNVERIFIED",
-   "conditions": []
+   "conditions": [
+    "Remain in the international transit area",
+    "Hold documents required for the onward destination",
+    "Entering Schengen, including a connection to another Schengen airport, requires the appropriate Schengen entry permission"
+   ]
   },
   "landside": {
    "visaNeeded": "yes",
@@ -3912,19 +3919,23 @@
   "easedBy": [],
   "landTransit": "Not applicable",
   "howToGet": "Apply for a Schengen visa via the Luxembourg mission or VFS (the ministry page says nationals of visa-required countries must get a visa before arrival).",
-  "fee": "UNVERIFIED",
+  "fee": "No airport transit visa fee for Indians remaining airside. If Schengen entry is needed, the ordinary adult short-stay visa fee is EUR 90 (INR 9,900 at the Luxembourg embassy rate), plus an unverified VFS service charge.",
   "warnings": [
    "Findel has few international connections; double check with the airline.",
    "If connecting through another Schengen country, apply to that country's rules."
   ],
   "sources": [
-   "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-immigration.html"
+   "https://mae.gouvernement.lu/en/services-aux-citoyens/visa-immigration.html",
+   "https://home-affairs.ec.europa.eu/document/download/7337515c-60a1-4510-b639-80de714f543e_en",
+   "https://newdelhi.mae.lu/en/service_citoyens/visa-immigration/short-term-schengen-visa.html",
+   "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-26",
+  "confidence": "partial",
   "unverified": [
-   "airport transit visa list for India",
-   "fee"
+   "Maximum airside transit duration",
+   "Availability of a particular airside connection at Findel",
+   "VFS service charge"
   ]
  },
  {

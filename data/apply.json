@@ -9622,9 +9622,9 @@
    "notes": "Luxembourg embassy page says ICAO standard photos for Schengen applications in India",
    "status": "unverified"
   },
-  "fee": "UNVERIFIED on a Swiss page. The standard Schengen fee is EUR 90 for adults (Luxembourg embassy page, checked 2026-10-16), plus a VFS service charge.",
-  "processing": "Swiss embassy page (seen in search results) mentions 7 to 10 calendar days, and elsewhere 10 to 15 days, after submission at VFS. Longer in peak season.",
-  "applyEarly": "Not earlier than 6 months before entry; apply as early as possible (Swiss embassy page, search snippet).",
+  "fee": "Standard Schengen fee for Indian ordinary passport holders: EUR 90 for adults and EUR 45 for children aged 6 to 12, plus any visa centre service charge. Current INR amount and VFS service charge are UNVERIFIED.",
+  "processing": "Normal Schengen processing time is 15 days, extendable up to 45 days for detailed examination or additional documents. Country-specific operational turnaround in India is UNVERIFIED.",
+  "applyEarly": "Submit at least 15 days before the intended journey and no earlier than 6 months beforehand. Allow time for an appointment.",
   "biometrics": "Yes, in person at a VFS centre for fingerprints and photo, unless fingerprints are already on file in the last 59 months.",
   "centres": "Switzerland VFS centres including New Delhi and Mumbai; see VFS for the full list",
   "warnings": [
@@ -9634,17 +9634,18 @@
    "Schengen rules are shared: if Liechtenstein is only a short part of a longer trip, apply through the country of main destination"
   ],
   "unverified": [
-   "Swiss Embassy pages return 403 to scripts, so content seen only in search snippets",
-   "Exact Liechtenstein representation arrangement not read on an official page in this run",
-   "Photo size and fee on Swiss page",
-   "VFS service charge"
+   "Exact Liechtenstein representation arrangement could not be read on the Liechtenstein government or Swiss Embassy page.",
+   "Swiss Embassy procedure page exposed only its publication date through web_fetch; curl returned 403. Tourist checklist, photo dimensions, local document requirements and operational processing time remain UNVERIFIED.",
+   "Swiss fee page was read, but its India/Bhutan PDF could not be extracted: curl returned 403 and web_fetch returned raw PDF bytes. Current INR fees and VFS service charge remain UNVERIFIED.",
+   "Modern VFS appointment and apply pages return 403. The legacy VFS site is open but contains stale fee data and unrelated template links; do not rely on its INR fee table."
   ],
   "sources": [
    "https://www.vfsglobal.ch/switzerland/india",
    "https://www.swiss-visa.ch/",
-   "https://newdelhi.mae.lu/en/service_citoyens/visa-immigration/short-term-schengen-visa.html"
+   "https://newdelhi.mae.lu/en/service_citoyens/visa-immigration/short-term-schengen-visa.html",
+   "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-26",
   "confidence": "partial",
   "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
  },
@@ -9708,26 +9709,27 @@
    "notes": "VFS common information sheet says photo must meet ICAO standard",
    "status": "unverified"
   },
-  "fee": "UNVERIFIED on a Lithuanian page. Standard Schengen fee is EUR 90 for adults (Luxembourg embassy page, 2026-10-16). The embassy page says the VFS appointment itself is at no cost; a VFS service charge may apply.",
-  "processing": "UNVERIFIED; Schengen rule is normally up to 15 calendar days, up to 45 if extra checks.",
-  "applyEarly": "UNVERIFIED; Schengen rule allows applying up to 6 months before travel.",
+  "fee": "Standard Schengen fee for Indian ordinary passport holders: EUR 90 for adults and EUR 45 for children aged 6 to 12, plus any visa centre service charge. Current INR amount and VFS service charge are UNVERIFIED.",
+  "processing": "Normal Schengen processing time is 15 days, extendable up to 45 days for detailed examination or additional documents. Country-specific operational turnaround in India is UNVERIFIED.",
+  "applyEarly": "Submit at least 15 days before the intended journey and no earlier than 6 months beforehand. Allow time for an appointment.",
   "biometrics": "Yes, Schengen applicants in India appear in person for fingerprints and photo at the VFS centre.",
   "centres": "VFS Lithuania centres in India; list UNVERIFIED (applications are forwarded to the embassy in New Delhi)",
   "warnings": [
    "Visas for Lithuania are decided only by the New Delhi embassy",
    "Book appointments only through VFS, not via paid third parties",
-   "Apply to Lithuania only if it is your main destination or first entry point",
+   "Apply to Lithuania if it is your main destination. If stays in several Schengen countries are equal in length, apply to the country of first entry.",
    "Travel insurance and accommodation proof are common refusal points"
   ],
   "unverified": [
-   "Embassy and urm.lt pages block scripts (403); content seen via search snippets only",
-   "Fee, processing time, photo size, VFS city list"
+   "Lithuanian Embassy and MFA pages return 403; the embassy/VFS route and India-specific checklist could not be directly reverified.",
+   "Modern VFS apply and appointment pages return 403. Current INR fee, service charge, photo dimensions, VFS city list and appointment availability remain UNVERIFIED."
   ],
   "sources": [
    "https://visa.vfsglobal.com/ind/en/ltu/apply-visa",
-   "https://visa.vfsglobal.com/ind/en/ltu/book-an-appointment"
+   "https://visa.vfsglobal.com/ind/en/ltu/book-an-appointment",
+   "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-26",
   "confidence": "partial",
   "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
  },
@@ -9749,7 +9751,12 @@
     "url": "https://visa.vfsglobal.com/ind/en/lux/apply-visa"
    }
   ],
-  "formLinks": [],
+  "formLinks": [
+   {
+    "label": "Luxembourg embassy: Schengen visa application form (English, 2026)",
+    "url": "https://newdelhi.mae.lu/dam-assets/consular-services/2026/en-short-stay-visa-application-form.pdf"
+   }
+  ],
   "documents": [
    {
     "item": "Passport",
@@ -9761,7 +9768,7 @@
    },
    {
     "item": "Recent photographs",
-    "note": "ICAO style biometric photo"
+    "note": "Recent colour photograph, 35 x 45 mm, meeting ICAO criteria"
    },
    {
     "item": "Travel medical insurance",
@@ -9773,11 +9780,11 @@
    },
    {
     "item": "Bank statements and proof of funds",
-    "note": "Usually last 6 months; check the embassy checklist"
+    "note": "Original private bank statements showing movements in the last 3 months, stamped and signed by the bank"
    },
    {
     "item": "Employment or business proof, leave letter, ITR",
-    "note": "Students: school letter. Exact list per checklist"
+    "note": "Indian income tax return acknowledgments for the last 2 assessment years; payslips or pension statements for the last 3 months; evidence of economic, family and social roots. Additional documents depend on travel purpose."
    },
    {
     "item": "Checklist from the embassy page",
@@ -9785,17 +9792,17 @@
    }
   ],
   "photo": {
-   "size": "UNVERIFIED",
-   "background": "UNVERIFIED",
-   "format": "UNVERIFIED",
-   "notes": "Embassy says a recent photo meeting ICAO standards is needed",
-   "status": "unverified"
+   "size": "35 x 45 mm",
+   "background": "Plain light background, ideally grey, with sufficient contrast and no shadows",
+   "format": "Colour print on high-quality smooth glossy paper",
+   "notes": "No older than 6 months; frontal view, neutral expression, closed mouth and visible eyes. The embassy links the Austrian ministry photo criteria.",
+   "status": "verified"
   },
   "fee": "EUR 90 (INR 9900) for adults; EUR 45 (INR 4950) for children aged 6 to under 12 (embassy page, checked 2026-10-16). VFS service charge extra, UNVERIFIED.",
   "processing": "Normally not more than 15 calendar days from receipt at the embassy; up to 45 days if more checks are needed; add 1 to 4 days transit each way from VFS.",
-  "applyEarly": "Embassy may declare an application inadmissible if received less than 15 days before travel. Schengen rule: up to 6 months before.",
+  "applyEarly": "Apply no earlier than 6 months before travel. The embassy recommends at least 4 weeks before travel, or 6 weeks in the March to June peak season; applications received less than 15 calendar days before travel may be inadmissible.",
   "biometrics": "Yes, in person at VFS for fingerprints and photo; fingerprints reusable for 59 months.",
-  "centres": "Ahmedabad, Bangalore, Chandigarh, Chennai, Cochin, Delhi, Goa, Gurgaon, Hyderabad, Jaipur, Jalandhar, Kolkata, Mumbai (16 cities listed by the Luxembourg embassy; check VFS for the current list)",
+  "centres": "Embassy lists 16 cities: Ahmedabad, Bangalore, Chandigarh, Chennai, Cochin, Delhi, Goa, Gurgaon, Hyderabad, Jaipur, Jalandhar, Kolkata, Mumbai, Pondicherry, Pune and Trivandrum. Gurgaon, Pondicherry and Trivandrum are marked currently closed. Check VFS for appointments.",
   "warnings": [
    "Applications less than 15 days before travel can be rejected as inadmissible",
    "Incomplete checklist puts the application on hold",
@@ -9803,17 +9810,18 @@
    "Fee is paid in INR with a separate VFS service charge"
   ],
   "unverified": [
-   "Photo size",
    "VFS service charge",
-   "Opening of appointment slots"
+   "Opening of appointment slots and live centre availability: VFS pages returned HTTP 403"
   ],
   "sources": [
    "https://newdelhi.mae.lu/en/service_citoyens/visa-immigration/short-term-schengen-visa.html",
    "https://visa.vfsglobal.com/ind/en/lux/book-an-appointment",
-   "https://visa.vfsglobal.com/ind/en/lux/apply-visa"
+   "https://visa.vfsglobal.com/ind/en/lux/apply-visa",
+   "https://www.bmi.gv.at/607/files/Passbild_Kriterien_2022.pdf",
+   "https://newdelhi.mae.lu/dam-assets/consular-services/2026/en-short-stay-visa-application-form.pdf"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "official",
+  "lastChecked": "2026-11-26",
+  "confidence": "partial",
   "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
  },
  {

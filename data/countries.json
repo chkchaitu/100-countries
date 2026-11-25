@@ -1701,17 +1701,19 @@
    }
   ],
   "cautions": [
-   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026"
+   "Schengen visa needed; apply 3 to 6 months ahead; EES biometric check live since 10 Apr 2026",
+   "Mountain conditions can change quickly. Avalanches, rockfall and winter road hazards are noted in official travel advice."
   ],
   "neighbours": [
    "Switzerland",
    "Austria"
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Liechtenstein"
+   "https://en.wikipedia.org/wiki/Liechtenstein",
+   "https://www.gov.uk/foreign-travel-advice/liechtenstein/safety-and-security"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-26",
+  "confidence": "partial",
   "iso": "li",
   "currency": {
    "name": "Swiss franc",
@@ -3230,7 +3232,7 @@
    {
     "name": "Trakai Island Castle",
     "note": "",
-    "fee": "about ₹1,000"
+    "fee": "EUR 14 for adults from April to September; EUR 12 from October to March"
    },
    {
     "name": "Gediminas Tower",
@@ -3272,16 +3274,23 @@
    }
   ],
   "cautions": [
-   "Midsummer closes shops"
+   "Midsummer closes shops",
+   "Indian Embassy warns that self-printed or replica plastic driving licence cards can result in questioning or detention. Use the original authority-issued card, or an MEA-apostilled printed copy if the original is unavailable.",
+   "Poland has temporary checks on its land border with Lithuania from 2 October 2026 to 30 March 2027."
   ],
   "neighbours": [
    "Latvia"
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Lithuania"
+   "https://en.wikipedia.org/wiki/Lithuania",
+   "https://trakaimuziejus.lt/en/lankytojams/kainos/",
+   "https://www.eoivilnius.gov.in/advisory-on-driving-licence.php",
+   "https://home-affairs.ec.europa.eu/policies/schengen/schengen-area/temporary-reintroduction-border-control_en",
+   "https://www.ecb.europa.eu/euro/intro/html/index.en.html",
+   "https://www.gov.uk/foreign-travel-advice/lithuania/safety-and-security"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-26",
+  "confidence": "partial",
   "iso": "lt",
   "currency": {
    "name": "Euro",
@@ -4582,7 +4591,7 @@
    },
    {
     "name": "Isalo park",
-    "note": "",
+    "note": "Official park page says open all year, with a validated entrance ticket and a local guide required. Access via RN7 to Ranohira.",
     "fee": "about ₹1,000"
    },
    {
@@ -4624,10 +4633,11 @@
   ],
   "neighbours": [],
   "sources": [
-   "https://en.wikipedia.org/wiki/Madagascar"
+   "https://en.wikipedia.org/wiki/Madagascar",
+   "https://parcs-madagascar.com/parc/isalo-3/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-26",
+  "confidence": "partial",
   "iso": "mg",
   "currency": {
    "name": "Malagasy ariary",
@@ -8066,8 +8076,8 @@
   "places": [
    {
     "name": "Luxembourg City Old Quarter, Bock Casemates",
-    "note": "UNESCO fortress tunnels, Grund valley",
-    "fee": "Casemates about EUR 8 UNVERIFIED"
+    "note": "UNESCO fortress tunnels, Grund valley. Winter hours from 9 November to 31 December 2026: 10:45 to 14:45 final admission, with extended holiday hours from 26 December. Closed 25 December and 1 January.",
+    "fee": "Bock Casemates EUR 11 adult, EUR 9 student or senior aged 60 and over, EUR 5.50 child aged 4 to 12; under 4 free"
    },
    {
     "name": "Adolphe Bridge and Pfaffenthal panorama lift",
@@ -8076,8 +8086,8 @@
    },
    {
     "name": "Vianden Castle",
-    "note": "Medieval castle in Ardennes",
-    "fee": "About EUR 10 UNVERIFIED"
+    "note": "Medieval castle in Ardennes. Open daily from 10:00, with seasonal closing at 16:00 to 18:00. Closed 1 January and 25 December.",
+    "fee": "EUR 13 adult, EUR 7 student over 13 with student card, EUR 4 child aged 6 to 12; includes EUR 1 tourist tax. Medieval festival rates differ."
    },
    {
     "name": "Mullerthal Trail (Little Switzerland)",
@@ -8119,7 +8129,7 @@
    "low": 8500,
    "high": 12500
   },
-  "transport": "Entry: LUX airport or by train from Brussels, Metz, Trier. Public transport (buses, trams, trains) is free nationwide for all; 1st class rail small fee. Cheapest to stay across border (Trier, Metz, Arlon) and take free trains.",
+  "transport": "Entry: LUX airport or by train from Brussels, Metz or Trier. Buses, trams, funicular and second-class trains are free within Luxembourg for residents and visitors. First-class rail and cross-border journeys require paid tickets; do not assume trains from Trier, Metz or Arlon are free.",
   "experiences": [],
   "cautions": [
    "Keep the Schengen 90 days limit; restaurant prices high; tipping not required (service included)",
@@ -8132,11 +8142,15 @@
    "France"
   ],
   "sources": [
+   "https://newdelhi.mae.lu/en/service_citoyens/visa-immigration/short-term-schengen-visa.html",
    "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en",
-   "https://www.atlys.com/blog/schengen-visa-fees-2026"
+   "https://www.luxembourg-city.com/en/tours-activities/underground/bock-casemates",
+   "https://castle-vianden.lu/gb/besuch",
+   "https://www.vdl.lu/en/getting-around/bus/routes-and-maps/free-public-transport-and-exceptions",
+   "https://luxembourg.public.lu/en/living/mobility/public-transport.html"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "research",
+  "lastChecked": "2026-11-26",
+  "confidence": "partial",
   "notes": "Luxembourg is the cheapest of the four to move through because transport is free; train to Brussels about 3 hours, Trier 50 minutes. The Embassy of Luxembourg in New Delhi accepts applications: Indians apply there (via official site). Best months low budget: [3, 4, 5, 9, 10]; best weather: [5, 6, 7, 8, 9]. Warnings: Mild; wet winters; heatwaves Jul to Aug; occasional Ardennes floods Jul 2021 style; Christmas markets Dec. Budget pieces: Hostel or budget hotel INR 5,500 to 8,500; food INR 2,000 to 3,200; transport free (about INR 0); sights INR 300 to 800 (estimate; prices highest of the four) MEA: UNVERIFIED: no MEA advisory for Luxembourg found; Indian Embassy Brussels is accredited.",
   "iso": "lu",
   "currency": {

@@ -335,6 +335,22 @@
         "https://www.mea.gov.in/advisories-details?58",
         "https://www.mea.gov.in/FrontEnd/GetUserTravelAdvisoryListing?PLngId=1&countryId=132"
       ]
+    },
+    {
+      "id": "lithuania-indian-driving-licence-advisory",
+      "country": "Lithuania",
+      "type": "advisory",
+      "severity": "medium",
+      "title": "Indian Embassy warns against replica or self-printed driving licence cards",
+      "summary": "The Indian Embassy in Vilnius reports that some Indian nationals carrying self-printed and laminated Indian e-driving licence cards have been detained over doubts about authenticity. It advises using the original physical card issued by the Indian licensing authority, or, if that is unavailable, a printed licence duly apostilled by the Ministry of External Affairs before travelling. It warns against self-printed or replica plastic cards and asks travellers to keep their licence and any applicable International Driving Permit valid and follow Lithuanian driving rules. The advisory remained on the Embassy website when checked on 26 November 2026.",
+      "since": "2026-11-26",
+      "until": "",
+      "lastChecked": "2026-11-26",
+      "sourceLevel": "official",
+      "sources": [
+        "https://www.eoivilnius.gov.in/advisory-on-driving-licence.php",
+        "https://www.eoivilnius.gov.in/pdf/Advisory-Driving-Licence-31-10-2026.pdf"
+      ]
     }
   ]
 }
