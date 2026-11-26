@@ -126,7 +126,7 @@
       "summary": "The Immigration Department of Malaysia announced on 17 November 2026 that Indian nationals entering Malaysia from 1 January 2027 must obtain a valid visa before arrival. Applications through the MyVISA portal open on 1 December 2026. Visa processing fees are non-refundable, including after a refusal, policy change or change of travel plans. The current exemption for visits of up to 30 days runs until 31 December 2026. The department says entry requirements may change under Malaysian government directives.",
       "since": "2026-11-17",
       "until": "",
-      "lastChecked": "2026-11-23",
+      "lastChecked": "2026-11-27",
       "sourceLevel": "official",
       "sources": [
         "https://malaysiavisa.imi.gov.my/",
@@ -350,6 +350,22 @@
       "sources": [
         "https://www.eoivilnius.gov.in/advisory-on-driving-licence.php",
         "https://www.eoivilnius.gov.in/pdf/Advisory-Driving-Licence-31-10-2026.pdf"
+      ]
+    },
+    {
+      "id": "mali-indian-embassy-security-advisory",
+      "country": "Mali",
+      "type": "advisory",
+      "severity": "high",
+      "title": "Indian Embassy security advisory after attacks in Mali",
+      "summary": "The Indian Embassy in Bamako issued an advisory on 25 April 2026 following security developments and reported attacks in Kati and other parts of Mali. It urges Indian nationals residing in Mali to remain highly vigilant, exercise utmost caution, stay indoors and strictly follow instructions issued by Malian authorities. Indians are asked to stay in touch with the Embassy through its website and official social media accounts.",
+      "since": "2026-04-25",
+      "until": "",
+      "lastChecked": "2026-11-27",
+      "sourceLevel": "official",
+      "sources": [
+        "https://www.embassyofindiabamako.gov.in/section/public-advisories/advisory-to-indian-nationals-in-mali-dated-25-april-2026/",
+        "https://www.embassyofindiabamako.gov.in/content/1777189979_Advisory%20for%20Indian%20Nationals%20in%20Mali%20dated%2025.04.2026.jpg"
       ]
     }
   ]

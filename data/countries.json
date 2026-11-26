@@ -498,7 +498,7 @@
    },
    {
     "name": "Manta rays at Hanifaru Bay",
-    "note": "About May to Nov",
+    "note": "May to November, with peak manta season from June to October (Visit Maldives)",
     "priceInr": null
    },
    {
@@ -513,10 +513,11 @@
   ],
   "neighbours": [],
   "sources": [
-   "https://en.wikipedia.org/wiki/Maldives"
+   "https://visitmaldives.com/en/maldives/travel-information",
+   "https://events.visitmaldives.com/events/giants-of-the-maldivian-sea"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-27",
+  "confidence": "partial",
   "iso": "mv",
   "currency": {
    "name": "Maldivian rufiyaa",
@@ -7274,7 +7275,8 @@
   "cautions": [
    "Strict drug laws, death penalty for trafficking; vaping has rules and state bans; carry passport copy",
    "Dress modestly in mosques and Kelantan/Terengganu; alcohol costly and limited in some states",
-   "Taxi and Grab surge scams at KUL; always use metered or app fare; keep MDAC receipt"
+   "Taxi and Grab surge scams at KUL; always use metered or app fare; keep MDAC receipt",
+   "Indian High Commission advisory dated 22 September 2026: do not use tourist/visa-free entry to seek employment; false job promises can lead to overstay, exploitation, detention and legal action. Work requires a work permit or VDR."
   ],
   "neighbours": [
    "Singapore",
@@ -7284,11 +7286,15 @@
   ],
   "sources": [
    "https://www.kln.gov.my/web/ind_new-delhi/requirement_foreigner",
-   "https://www.ey.com/en_gl/technical/tax-alerts/malaysia-extends-visa-exemption-period-for-india-and-china-nationals"
+   "https://www.ey.com/en_gl/technical/tax-alerts/malaysia-extends-visa-exemption-period-for-india-and-china-nationals",
+   "https://www.hcikl.gov.in/pdf/img-20260922-wa0000.pdf",
+   "https://www.bnm.gov.my/currency",
+   "https://www.mea.gov.in/travel-advisories.htm",
+   "https://be-evisa-puj.visamalaysia.org/evisa/public/lookup/notice"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "research",
-  "notes": "Land via Johor Bahru causeway to Singapore (bus/train), KTM or bus to Hat Yai Thailand, ferry from Penang/Melaka to Indonesia (Sumatra), Kuching to Brunei by bus. Singapore needs its own visa for Indians. MDAC only; no embassy fee. Best months low budget: [2, 3, 5, 6, 9]; best weather: [2, 3, 6, 7, 8]. Warnings: West coast wet Apr to Oct monsoon peaks Sep to Oct; east coast (Perhentian, Taman Negara) monsoon Nov to Feb and many islands close; haze Aug to Sep possible; flash floods Nov to Jan. Budget pieces: Stay hostel or budget hotel INR 1,000 to 2,200; food INR 600 to 1,200; local transport INR 300 to 600; sights INR 300 to 500 (estimate) MEA: UNVERIFIED: MEA lists no travel advisory for Malaysia on https://www.mea.gov.in/travel-advisories (Tavily snippet shows list of other countries); Indian High Commission Kuala Lumpur issues occasional notices.",
+  "lastChecked": "2026-11-27",
+  "confidence": "partial",
+  "notes": "Land via Johor Bahru causeway to Singapore (bus/train), KTM or bus to Hat Yai Thailand, ferry from Penang/Melaka to Indonesia (Sumatra), Kuching to Brunei by bus. Singapore needs its own visa for Indians. MDAC plus visa-free eligibility for entry through 31 December 2026; a visa is required for Indian arrivals from 1 January 2027. Best months low budget: [2, 3, 5, 6, 9]; best weather: [2, 3, 6, 7, 8]. Warnings: West coast wet Apr to Oct monsoon peaks Sep to Oct; east coast (Perhentian, Taman Negara) monsoon Nov to Feb and many islands close; haze Aug to Sep possible; flash floods Nov to Jan. Budget pieces: Stay hostel or budget hotel INR 1,000 to 2,200; food INR 600 to 1,200; local transport INR 300 to 600; sights INR 300 to 500 (estimate) MEA travel-advisories list was opened and does not list Malaysia. The Indian High Commission advisory of 22 September 2026 warns against employment on tourist/visa-free entry. Ringgit remains the only legal tender according to Bank Negara Malaysia. Other attraction fees and seasonal closure claims remain UNVERIFIED in this pass.",
   "iso": "my",
   "currency": {
    "name": "Malaysian ringgit",
@@ -10151,17 +10157,19 @@
   ],
   "sources": [
    "https://evisa.gov.mw/",
-   "https://btwvisas.com/visa-guide/malawi-visa"
+   "https://btwvisas.com/visa-guide/malawi-visa",
+   "https://visitmalawi.mw/travel-information/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-27",
+  "confidence": "partial",
   "trip": "W",
   "iso": "mw",
   "currency": {
    "name": "Malawian kwacha",
    "code": "MWK",
    "symbol": "MK"
-  }
+  },
+  "notes": "The Department of Tourism confirms the currency is kwacha (MWK; MK), recommends the cooler May to August/September period, and says May and June combine cooler weather with green scenery and good visibility. Game viewing is best in the hottest part of the dry season and birdwatching in October and November. Country roads can be difficult in heavy rain and the department recommends high-clearance vehicles. Attraction entrance fees and current fuel, forex and power shortages remain UNVERIFIED."
  },
  {
   "country": "Cabo Verde",
@@ -11726,7 +11734,8 @@
   "cautions": [
    "Armed jihadist groups, kidnappings and fuel blockades; most governments advise against all travel and Indian travellers should check MEA advisories and register with the Indian embassy",
    "Dogon country, Timbuktu and the north and centre are effectively off limits",
-   "Yellow fever vaccination certificate is required for the visa and malaria is high-risk"
+   "Yellow fever vaccination certificate is required for the visa and malaria is high-risk",
+   "The Indian Embassy's 25 April 2026 advisory, following attacks in Kati and other parts of Mali, urges Indian nationals in Mali to remain highly vigilant, exercise utmost caution, stay indoors, follow Malian authorities and stay in touch with the Embassy."
   ],
   "neighbours": [
    "Algeria",
@@ -11739,10 +11748,12 @@
   ],
   "sources": [
    "https://maliembassy.co.in/documents-required",
-   "https://www.osac.gov/Content/Report/f711d1b4-e5be-497c-8ca5-1d3b74655825"
+   "https://www.embassyofindiabamako.gov.in/section/public-advisories/advisory-to-indian-nationals-in-mali-dated-25-april-2026/",
+   "https://www.embassyofindiabamako.gov.in/page/factsheet-on-mali/",
+   "https://travel.gc.ca/destinations/mali"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-27",
+  "confidence": "partial",
   "trip": "Y",
   "iso": "ml",
   "currency": {

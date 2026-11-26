@@ -9827,7 +9827,7 @@
  {
   "country": "Malawi",
   "route": "online",
-  "summary": "Malawi runs an official e-Visa portal. Create an account on evisa.gov.mw, fill in the form, upload documents and pay online by card, then show the e-Visa on arrival. The portal also mentions Visa on Arrival for Category Two countries; Category One countries must get a visa before departure. Whether India is Category One or Two was not confirmed.",
+  "summary": "Indian ordinary passport holders are in Category One and must obtain a visa or prior authorization before departure. Create an account on evisa.gov.mw, complete the form with passport and travel details, upload scanned documents and a photograph, pay by Visa or Mastercard, then download and print the approval before travel. The official application link opens the login page.",
   "applyLinks": [
    {
     "label": "Apply for the Malawi e-Visa",
@@ -9869,32 +9869,38 @@
    "size": "UNVERIFIED",
    "background": "UNVERIFIED",
    "format": "UNVERIFIED",
-   "notes": "Check the upload instructions inside the portal",
+   "notes": "The FAQ requires scanned documents rather than camera-captured images. Exact photo size, background and file limits are UNVERIFIED.",
    "status": "unverified"
   },
-  "fee": "UNVERIFIED. The portal says the visa fee and a convenience fee are paid by Visa or Mastercard.",
-  "processing": "UNVERIFIED",
-  "applyEarly": "UNVERIFIED; the portal encourages applying before departure",
+  "fee": "Official pages conflict: the e-Visa FAQ lists USD 50 for transit and single entry, USD 150 for 6 month multiple entry and USD 250 for 12 month multiple entry; the Immigration Department lists USD 75 for single entry. The current single entry amount is UNVERIFIED. A convenience fee is charged and payment is by Visa or Mastercard in USD.",
+  "processing": "The official e-Visa FAQ states 3 working days. This is not a guarantee; allow extra time.",
+  "applyEarly": "Obtain approval before departure. The FAQ states 3 working days processing and validity from the date of issue; allow extra time for delays.",
   "biometrics": "UNVERIFIED; no embassy visit mentioned for e-Visa",
   "centres": "None needed for the e-Visa route",
   "warnings": [
-   "Use only evisa.gov.mw, the official portal",
-   "Category lists are PDFs on the portal; check whether India is in Category One or Two",
-   "Carry a printed e-Visa and show it on arrival",
-   "Expect a separate convenience fee on top of the visa fee"
+   "Use only the official evisa.gov.mw portal.",
+   "India is Category One: obtain a visa or prior authorization before departure; do not rely on visa on arrival.",
+   "Download and print the approved e-Visa before travel; use the same passport as in the application.",
+   "Validity starts on the date of issue, not arrival. The FAQ says processing takes 3 working days; allow extra time for delays.",
+   "The FAQ requires scanned documents, not camera-captured images.",
+   "A convenience fee applies. The official single entry fee conflicts between USD 50 and USD 75; confirm at checkout."
   ],
   "unverified": [
-   "India's category (One or Two)",
-   "Fee amounts",
-   "Processing time",
-   "Photo specs",
-   "Document list on official page"
+   "Current single entry fee: official pages conflict (USD 50 vs USD 75)",
+   "Passport validity and blank pages",
+   "Photo size, background and file limits",
+   "Complete country-specific document checklist behind login",
+   "Biometrics"
   ],
   "sources": [
    "https://evisa.gov.mw/",
-   "https://evisa.gov.mw/ApplyVisa/Application"
+   "https://evisa.gov.mw/ApplyVisa/Application",
+   "https://evisa.gov.mw/PDFs/CategoryOneCountries.pdf",
+   "https://evisa.gov.mw/Faq",
+   "https://www.immigration.gov.mw/visa/visa-fees/",
+   "https://www.immigration.gov.mw/visa/visa-application-process/"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-27",
   "confidence": "partial"
  },
  {
@@ -9967,7 +9973,7 @@
    "https://maliembassy.co.in/documents-required",
    "https://www.diplomatiemdc.gouv.ml/vitrine/"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-27",
   "confidence": "partial"
  },
  {
@@ -13924,7 +13930,7 @@
  {
   "country": "Malaysia",
   "route": "visafree",
-  "summary": "Indian passport holders can enter Malaysia without a visa for up to 30 days for tourism, social visits, business meetings or transit, under an exemption reported to run to 31 December 2026. Complete the free Malaysia Digital Arrival Card (MDAC) online up to 3 days before you arrive. Carry your passport, confirmed return ticket and hotel booking for immigration.",
+  "summary": "For entry through 31 December 2026, Indian ordinary passport holders can visit for up to 30 days without a visa for tourism, business, social visits or transit. Submit MDAC within 3 days before arrival and carry a passport with at least 6 months validity, confirmed return flight tickets and confirmed hotel booking. From 1 January 2027, a valid visa is required before arrival; applications through the official MyVISA portal open 1 December 2026.",
   "applyLinks": [
    {
     "label": "Complete the Malaysia Digital Arrival Card (MDAC)",
@@ -13933,13 +13939,17 @@
    {
     "label": "Malaysian Immigration: visa requirement by country",
     "url": "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country"
+   },
+   {
+    "label": "Apply for a Malaysia visa through official MyVISA",
+    "url": "https://malaysiavisa.imi.gov.my/"
    }
   ],
   "formLinks": [],
   "documents": [
    {
     "item": "Passport valid 6 months",
-    "note": "At least 6 months validity from arrival (secondary sources; confirm with your airline)"
+    "note": "At least 6 months validity, confirmed by the Malaysian High Commission in New Delhi and Indian High Commission advisory."
    },
    {
     "item": "MDAC submission",
@@ -13973,36 +13983,42 @@
    "notes": "",
    "status": "unverified"
   },
-  "fee": "No visa fee and the MDAC is free (secondary sources, official fee page not readable, 2026-10-16). Fee: UNVERIFIED on an official page.",
+  "fee": "No visa is required under the Indian exemption for entry through 31 December 2026. The official Immigration Department country fee table lists RM 50 for India single/multiple entry and transit visa fees, but the visa-types page lists RM 100 for an Indian multiple entry visa. The applicable multiple entry fee, total MyVISA processing/service charges for 2027 and an explicit official statement that MDAC is free remain UNVERIFIED. Visa processing fees are non-refundable under the 17 November 2026 notice.",
   "processing": "MDAC is a declaration, not an approval; usually instant. Exact processing statement UNVERIFIED.",
   "applyEarly": "Submit within the 3 days (72 hours) before arrival; you cannot do it much earlier.",
   "biometrics": "UNVERIFIED. Malaysia generally takes fingerprints and a photo at immigration.",
   "centres": "Not applicable",
   "warnings": [
-   "END DATE: the visa exemption for Indian citizens is reported to run to 31 December 2026. Trips after that date need a rule check or a visa; see the Immigration Department page before booking.",
-   "Stay limit is 30 days, not extendable by default. Overstay can lead to fines, detention and a ban. Work or study needs a visa beforehand.",
-   "Fake MDAC sites exist. Use only the imigresen-online.imi.gov.my address; the MDAC is free.",
-   "Official Immigration Department pages returned server errors to my automated checks (2026-10-16), so rule details rest on press and EY summaries of the announcement."
+   "Indian visa exemption ends from 1 January 2027. Obtain a valid visa before arrival from that date; MyVISA applications open on 1 December 2026.",
+   "Tourist/visa-free entry is not permission to work. The Indian High Commission warns against false job promises, overstay, exploitation, detention and legal action; employment requires a work permit or Visa With Reference (VDR).",
+   "Use the official MDAC and MyVISA addresses; MDAC is not a visa.",
+   "The official MDAC, Immigration Department and MyVISA links opened on 27 November 2026."
   ],
   "unverified": [
-   "Official text of the exemption on imi.gov.my (page returned HTTP 500)",
-   "MDAC site returned HTTP 500 to scripts but is the link cited by GOV.UK",
-   "Passport 6 month rule and exact fee on an official page",
+   "MDAC fee and exact processing statement on an official page",
    "Biometrics",
-   "No working official apply link could be confirmed. Search for the official visa page.",
-   "These two official pages returned server errors to an automatic check, though they are the government pages named in official guidance. Open them to confirm. The exemption for Indians was reported to run to 31 December 2026."
+   "Photo specification and country-specific MyVISA upload checklist",
+   "Applicable multiple entry fee and total MyVISA processing/service charges for 2027"
   ],
   "sources": [
    "https://www.gov.uk/foreign-travel-advice/malaysia/entry-requirements",
-   "https://www.ey.com/en_gl/technical/tax-alerts/malaysia-extends-visa-exemption-period-for-india-and-china-nationals"
+   "https://www.ey.com/en_gl/technical/tax-alerts/malaysia-extends-visa-exemption-period-for-india-and-china-nationals",
+   "https://www.kln.gov.my/web/ind_new-delhi/requirement_foreigner",
+   "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/",
+   "https://imigresen-online.imi.gov.my/mdac/main",
+   "https://malaysiavisa.imi.gov.my/",
+   "https://be-evisa-puj.visamalaysia.org/evisa/public/lookup/notice",
+   "https://www.imi.gov.my/index.php/en/main-services/visa/visa-fees/",
+   "https://www.imi.gov.my/index.php/en/main-services/visa/types-of-visas/",
+   "https://www.hcikl.gov.in/pdf/img-20260922-wa0000.pdf"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-27",
   "confidence": "partial"
  },
  {
   "country": "Maldives",
   "route": "visafree",
-  "summary": "Indians do not need a visa in advance: a free 30 day tourist visa is granted on arrival, but only if you meet the entry conditions. Submit the free IMUGA Traveller Declaration online within 96 hours before arrival and show the QR code at immigration. Carry a passport valid at least 1 month, return ticket, prepaid booking at a registered facility and proof of funds.",
+  "summary": "Indian ordinary passport holders are listed by India's Ministry of External Affairs as visa-free for up to 90 days. Maldives Immigration says tourists need no visa pre-approval but must meet the entry conditions. Submit the free IMUGA Traveller Declaration within 96 hours before arrival. Carry a machine-readable passport valid at least 1 month, confirmed return journey, prepaid booking at a registered facility and sufficient funds or approved sponsorship.",
   "applyLinks": [
    {
     "label": "Complete the IMUGA Traveller Declaration (free)",
@@ -14061,22 +14077,23 @@
   "biometrics": "UNVERIFIED.",
   "centres": "Not applicable",
   "warnings": [
-   "Stay is 30 days on arrival; extensions are applied for through Maldives Immigration. Overstay is penalised.",
+   "India's MEA lists visa-free stays of up to 90 days for Indian ordinary passports. Maldives Immigration decides entry and the permitted stay at arrival; confirm the actual permission granted and do not overstay.",
    "You can be refused if you lack a prepaid booking at a registered facility, return ticket or funds.",
    "The IMUGA form is free. Official site warns about people charging to submit it; use only the .gov.mv address.",
-   "Rule date: official pages read 2026-10-16; no end date. Israeli passports are barred (not relevant to Indians)."
+   "Official pages read 2026-11-27; no end date stated. Israeli passports are barred (not relevant to Indian passports)."
   ],
   "unverified": [
    "Required amount of funds",
    "Biometrics at arrival",
-   "Stay is 30 days per secondary source and Maldives page snippets; exact day count for Indians not seen as a quoted line on the page I read"
+   "The Maldives Immigration tourist page does not state an Indian-specific stay length; the 90-day allowance is confirmed by India's MEA"
   ],
   "sources": [
-   "https://immigration.gov.mv/visa/tourist-visa",
-   "https://imuga.immigration.gov.mv/traveller"
+   "https://www.immigration.gov.mv/visa/tourist-visa",
+   "https://imuga.immigration.gov.mv/traveller",
+   "https://www.mea.gov.in/vffin"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "official"
+  "lastChecked": "2026-11-27",
+  "confidence": "partial"
  },
  {
   "country": "Mauritius",
