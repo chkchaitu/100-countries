@@ -229,31 +229,38 @@
   "country": "Maldives",
   "airside": {
    "visaNeeded": "unverified",
-   "rule": "No official page opened. An agency page calls the transit visa for Indians visa free.",
+   "rule": "Maldives Immigration defines transit travellers as those travelling to another country via Maldives without immigration clearance. The tourist page does not publish a separate airside visa requirement or maximum layover. Confirm airport transfer and baggage arrangements with the airline.",
    "maxHours": "UNVERIFIED",
-   "conditions": []
+   "conditions": [
+    "No immigration clearance, according to the official definition of transit travellers"
+   ]
   },
   "landside": {
-   "visaNeeded": "unverified",
-   "rule": "Not confirmed from an official source.",
-   "maxHours": "UNVERIFIED",
-   "scheme": "UNVERIFIED"
+   "visaNeeded": "no",
+   "rule": "Crossing immigration is entry to Maldives. India's MEA lists Indian ordinary passport holders as visa-free for up to 90 days; Maldives Immigration requires the tourist entry documents and IMUGA declaration. No separate landside transit scheme was confirmed.",
+   "maxHours": "Up to 90 days under the Indian ordinary passport visa-free entry allowance, subject to immigration clearance",
+   "scheme": "Use the normal Indian ordinary passport visa-free entry allowance"
   },
   "easedBy": [],
   "landTransit": "Not applicable",
-  "howToGet": "Not applicable",
+  "howToGet": "For landside entry, submit IMUGA within 96 hours before arrival and meet the tourist entry conditions. Airside requirements remain UNVERIFIED.",
   "fee": "UNVERIFIED",
   "warnings": [
-   "Maldives is an island hub with limited onward flights, so connections are usually same day",
-   "Confirm with Maldives Immigration before travel"
+   "Confirm with the airline whether baggage collection or terminal transfers require immigration clearance",
+   "For landside entry, carry the registered accommodation booking, return journey ticket, funds or approved sponsorship and passport required by Maldives Immigration"
   ],
   "sources": [
-   "https://www.tripgation.com/visa/maldives/transit/"
+   "https://www.immigration.gov.mv/visa/tourist-visa",
+   "https://www.mea.gov.in/vffin",
+   "https://imuga.immigration.gov.mv/traveller"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-27",
+  "confidence": "partial",
   "unverified": [
-   "All official rules"
+   "Separate airside visa requirement for Indian passport holders",
+   "Maximum airside layover",
+   "Airport-specific transfer and baggage arrangements",
+   "Any separate transit visa fee or scheme"
   ]
  },
  {
@@ -3541,36 +3548,43 @@
   "country": "Malaysia",
   "airside": {
    "visaNeeded": "unverified",
-   "rule": "UNVERIFIED for Indians. A secondary source (Wikipedia, not official) says nationals who are not visa-exempt may transit KLIA airside for up to 24 hours without a visa but may not switch terminals.",
-   "maxHours": "24 (secondary source only)",
+   "rule": "The Immigration Department confirms no transit visa is required when remaining within the airport premises and continuing to the next destination on the same flight. A general exemption for Indians changing flights, a 24-hour limit and terminal-change rules were not confirmed.",
+   "maxHours": "UNVERIFIED",
    "conditions": [
-    "stay in transit area",
-    "no terminal change"
+    "Do not leave airport premises",
+    "Continue to the next destination on the same flight for the published exemption"
    ]
   },
   "landside": {
-   "visaNeeded": "unverified",
-   "rule": "UNVERIFIED. Entry rules for Indian citizens were not confirmed on an official Malaysian page in this pass. Malaysia also requires the Malaysia Digital Arrival Card (MDAC) before entry (secondary source).",
-   "maxHours": "UNVERIFIED",
-   "scheme": "none"
+   "visaNeeded": "no",
+   "rule": "Indian passport holders may enter visa free for up to 30 days for transit purposes through 31 December 2026, with passport validity of at least 6 months, confirmed return flight tickets, hotel booking and MDAC submission within 3 days before arrival. From 1 January 2027, Indian entrants must have a valid visa before arrival.",
+   "maxHours": "720 (30 days), for arrivals through 31 December 2026",
+   "scheme": "Time-limited Indian visa exemption"
   },
   "easedBy": [],
   "landTransit": "Not applicable",
-  "howToGet": "UNVERIFIED",
-  "fee": "UNVERIFIED",
+  "howToGet": "For landside entry through 31 December 2026 submit MDAC and meet the Indian visa exemption conditions. For arrival from 1 January 2027 obtain a visa before arrival through MyVISA; applications open 1 December 2026.",
+  "fee": "No visa required for eligible Indian entry through 31 December 2026. Immigration country fee table lists RM 50 for an Indian transit visa; additional MyVISA charges for 2027 are UNVERIFIED.",
   "warnings": [
-   "Terminal changes at KLIA can mean passing immigration, so check before booking separate tickets.",
-   "Rules on visa-free entry for Indians have been time-limited in the past; confirm on the official Malaysian immigration site."
+   "The airside exception published by Immigration is for continuing on the same flight; do not assume it covers separate connecting flights.",
+   "Terminal changes or baggage collection may require immigration clearance; confirm the itinerary with the airline.",
+   "Indian visa-free entry ends for arrivals from 1 January 2027; obtain the required visa before arrival."
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Visa_policy_of_Malaysia"
+   "https://en.wikipedia.org/wiki/Visa_policy_of_Malaysia",
+   "https://www.imi.gov.my/index.php/en/main-services/visa/types-of-visas/",
+   "https://www.kln.gov.my/web/ind_new-delhi/requirement_foreigner",
+   "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/",
+   "https://be-evisa-puj.visamalaysia.org/evisa/public/lookup/notice",
+   "https://www.imi.gov.my/index.php/en/main-services/visa/visa-fees/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-27",
+  "confidence": "partial",
   "unverified": [
-   "official airside rule",
-   "Indian entry status",
-   "fee"
+   "Airside exemption for a change of flights",
+   "Airside maximum hours and terminal-change rules",
+   "Total MyVISA processing/service charges for 2027",
+   "Any separate transit scheme or waiver based on other countries visas"
   ]
  },
  {
@@ -4686,28 +4700,32 @@
    "conditions": []
   },
   "landside": {
-   "visaNeeded": "unverified",
-   "rule": "Not confirmed; check the entry visa rule for Indian citizens and ask the airline (Timatic) before booking.",
-   "maxHours": "UNVERIFIED",
-   "scheme": "UNVERIFIED"
+   "visaNeeded": "yes",
+   "rule": "India is Category One and must obtain a visa or prior authorization before departure. The Immigration Department describes a single-use transit visa for transit through Malawi for 7 days.",
+   "maxHours": "168 (7 days)",
+   "scheme": "Transit visa"
   },
   "easedBy": [],
   "landTransit": "Not applicable",
-  "howToGet": "Not applicable",
-  "fee": "UNVERIFIED",
+  "howToGet": "Apply through the official Malawi e-Visa portal before departure; India is Category One.",
+  "fee": "Transit visa USD 50 on both the e-Visa FAQ and Immigration Department fees page, plus the portal convenience fee.",
   "warnings": [
-   "Rules could not be confirmed from an official source; confirm with the embassy and your airline before booking.",
-   "Avoid separate tickets, as you may have to enter the country to re-check baggage."
+   "Airside visa exemption and airport connection time limits remain UNVERIFIED; confirm with the airline before booking.",
+   "India is Category One; obtain a visa or prior authorization before departure if entering Malawi.",
+   "Avoid separate tickets without confirming whether baggage collection requires entry."
   ],
-  "sources": [],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "sources": [
+   "https://evisa.gov.mw/PDFs/CategoryOneCountries.pdf",
+   "https://www.immigration.gov.mw/visa/types-of-malawi-visa/",
+   "https://www.immigration.gov.mw/visa/visa-fees/",
+   "https://evisa.gov.mw/Faq"
+  ],
+  "lastChecked": "2026-11-27",
+  "confidence": "partial",
   "unverified": [
-   "airside rule",
-   "landside rule",
-   "time limits",
-   "fee",
-   "easing visas"
+   "Airside exemption",
+   "Airside time limits",
+   "Transit visa waiver based on other countries visas"
   ]
  },
  {

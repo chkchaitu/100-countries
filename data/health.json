@@ -188,7 +188,7 @@
  {
   "country": "Maldives",
   "yellowFever": {
-   "entryRule": "Required only if arriving from or transiting a risk country (travellers aged 9 months or older and including airport transits of more than 12 hours). Not required for travellers arriving directly from India, as India is not a risk country",
+   "entryRule": "Not required for direct arrivals from India. Maldives Immigration requires a valid certificate if arriving from or recently travelling through a yellow fever risk country and exempts children under 1 year. CDC instead lists age 9 months or older and airport transits over 12 hours; the age discrepancy and the precise transit threshold need confirmation with Maldives Immigration.",
    "riskInCountry": "no",
    "vaccineAdvised": "no"
   },
@@ -201,16 +201,21 @@
   ],
   "malaria": "none",
   "otherHealth": [
-   "CDC notes dengue risk and says rabies vaccines may only be available in larger medical facilities"
+   "CDC notes dengue and Zika risk and says rabies vaccines may only be available in larger medical facilities",
+   "CDC lists a global measles notice; international travellers should be fully vaccinated with MMR"
   ],
   "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/maldives"
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/maldives",
+   "https://www.immigration.gov.mv/visa/tourist-visa",
+   "https://www.who.int/news/item/02-06-2017-south-east-asia-accelerating-efforts-to-eliminate-malaria-across-the-region"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-27",
   "confidence": "partial",
   "unverified": [
-   "WHO ITH country list and the destination health ministry page were not opened; yellow fever risk status is from CDC (CDC says no vaccine recommended, which matches no WHO transmission risk)",
-   "Whether the destination applies any extra health declaration or insurance rule is not verified"
+   "WHO ITH country list and destination health ministry yellow fever guidance were not opened",
+   "Age threshold discrepancy: Maldives Immigration exempts children under 1 year; CDC lists 9 months or older",
+   "Maldives Immigration does not specify a transit-hour threshold or required amount of funds; CDC lists airport transits over 12 hours",
+   "Whether extra health declaration or insurance rules apply is not verified"
   ]
  },
  {
@@ -2895,13 +2900,15 @@
   ],
   "malaria": "some areas (zoonotic P. knowlesi malaria in rural forested areas; none in Kuala Lumpur and major cities; CDC advises prophylaxis for risk areas)",
   "otherHealth": [
-   "CDC global dengue notice (3 Sep 2026): dengue is a year-round risk",
-   "Cholera: no active transmission per CDC"
+   "CDC global dengue notice (10 November 2026): dengue is a year-round risk; prevent mosquito bites.",
+   "Cholera: no active transmission per CDC",
+   "CDC also lists Global Measles (28 May 2025); keep MMR vaccination up to date."
   ],
   "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/malaysia"
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/malaysia",
+   "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-27",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; facts are from the CDC Travelers' Health page for the country (updated April 2025 for yellow fever entry rules)"
@@ -3889,6 +3896,11 @@
     "vaccine": "Yellow fever",
     "when": "Only if arriving from or transiting (over 12 hours) a risk country",
     "note": "1 year and older, CDC"
+   },
+   {
+    "vaccine": "Polio (oral or inactivated polio vaccine, OPV/IPV)",
+    "when": "Indian residents travelling from India to Malawi: at least 4 weeks before departure, regardless of age or vaccination status",
+    "note": "Indian health ministry revised June 2024 guidance includes Malawi; OPV/IPV certificate valid 1 year, vaccination and certification free. Indians returning from Malawi must carry a valid OPV/IPV certificate. The Indian High Commission in Lilongwe still publishes this requirement."
    }
   ],
   "recommendedVaccines": [
@@ -3896,16 +3908,24 @@
    "Typhoid",
    "Hepatitis B",
    "Rabies (dogs commonly rabid)",
-   "Cholera (active widespread transmission)"
+   "Cholera (active widespread transmission)",
+   "Measles (MMR, up to date)",
+   "Polio (complete vaccination; adults with completed childhood series may receive a single lifetime IPV booster)"
   ],
-  "malaria": "widespread",
+  "malaria": "Transmission occurs throughout Malawi. CDC recommends prescription malaria prevention medicine for travellers; discuss a suitable medicine and start timing with a clinician.",
   "otherHealth": [
-   "CDC lists a global polio notice (Level 2, updated September 23, 2026): make sure polio vaccines are up to date before any international travel."
+   "CDC lists a global polio notice (Level 2, updated September 23, 2026): make sure polio vaccines are up to date before any international travel.",
+   "CDC reports poliovirus identified in Malawi in the past year and recommends a complete polio series; a single lifetime IPV booster may be given to previously fully vaccinated adults. The Indian OPV/IPV travel certificate requirement also applies.",
+   "CDC also lists Global Measles (28 May 2025).",
+   "Avoid swimming or wading in untreated fresh water because of schistosomiasis risk."
   ],
   "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/malawi"
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/malawi",
+   "https://ihpoe.mohfw.gov.in/assets/pdf/Requirement%20of%20Polio%20Vaccination.pdf",
+   "https://www.hcililongwe.gov.in/",
+   "https://ihpoe.mohfw.gov.in/assets/pdf/advisory_Poliovirus_guideline_for_travellers_from_Endemic_Countries.pdf"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-27",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and destination health ministry pages were not opened; yellow fever entry rules and risk taken from the CDC Travelers' Health page only"
@@ -4515,19 +4535,23 @@
    "Meningococcal (travel in the meningitis belt, dry season roughly December to June)",
    "Rabies (consider)",
    "Measles (MMR)",
-   "Mpox (for specific activities)"
+   "Mpox (for specific activities)",
+   "Polio (complete series; previously fully vaccinated adults may receive one lifetime IPV booster)",
+   "Diphtheria (routine vaccination up to date)"
   ],
   "malaria": "widespread (all areas; prophylaxis advised)",
   "otherHealth": [
    "CDC Level 2 notice (Sept 23, 2026): circulating poliovirus, be up to date on polio vaccine",
    "CDC global measles notice: be fully vaccinated with MMR",
    "CDC notes dengue, Zika and leishmaniasis risk",
-   "CDC: yellow fever vaccine not recommended for travel limited to the Sahara Desert"
+   "CDC: yellow fever vaccine not recommended for travel limited to the Sahara Desert",
+   "CDC Level 1 notice dated 25 August 2026: diphtheria in Sub-Saharan Africa; diphtheria vaccination is essential",
+   "CDC says rabies-infected dogs are common and rabies vaccines are typically not readily available; discuss pre-exposure vaccination with a clinician"
   ],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mali"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-27",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and the destination health ministry page were not opened; all facts are from the CDC Travelers' Health page (CDC yellow fever table dated April 23, 2025)"

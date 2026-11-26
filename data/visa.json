@@ -105,14 +105,17 @@
       "name": "Maldives",
       "trip": "B",
       "category": "visa_free",
-      "rule": "Visa-free, 90 days.",
+      "rule": "Visa-free for Indian ordinary passport holders for up to 90 days, according to India's Ministry of External Affairs. No visa pre-approval is required for tourists. Carry a machine-readable passport valid at least 1 month, a confirmed return journey, prepaid booking at a registered facility and sufficient funds or approved sponsorship. Submit the free IMUGA Traveller Declaration within 96 hours before arrival.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://www.mea.gov.in/vffin",
+        "https://www.immigration.gov.mv/visa/tourist-visa",
+        "https://imuga.immigration.gov.mv/traveller"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-27",
+      "note": "The MEA lists 90 days for Indian ordinary passports. Maldives Immigration publishes the entry conditions but does not state an Indian-specific stay length on its tourist page. Immigration officers decide admissibility at arrival. Confirm before travel.",
+      "confidence": "partial"
     },
     {
       "country": "Bangladesh",
@@ -1645,17 +1648,23 @@
       "name": "Malaysia",
       "trip": "H",
       "category": "visa_free",
-      "rule": "Indian ordinary passport: visa exempt for up to 30 days (tourism, business, social visit, transit) until 31 Dec 2026. Needs passport valid 6 months, return ticket, accommodation proof. Malaysia Digital Arrival Card (MDAC) must be filed online within 3 days before landing, free. Work or study needs a visa. Rule ends 31 Dec 2026 unless renewed: trips spanning January 2027 are UNCERTAIN; a paid eVisa fallback (RM 100 reported by a secondary site) is UNVERIFIED.",
+      "rule": "Indian ordinary passport holders are visa exempt for visits up to 30 days for tourism, business, social visits or transit until 31 December 2026. Carry a passport valid at least 6 months, confirmed return flight tickets and confirmed hotel booking, and submit the Malaysia Digital Arrival Card (MDAC) within 3 days before arrival. Immigration Department notice dated 17 November 2026 confirms visa exemption ends from 1 January 2027: Indian nationals entering from that date must obtain a valid visa before arrival; MyVISA applications open 1 December 2026. Visa processing fees are non-refundable. Work or study requires the appropriate prior authorization or visa. The official country fee table lists India single/multiple entry and transit visa fees at RM 50; the separate visa-types page lists RM 100 for an Indian multiple entry visa, so the applicable multiple entry fee and total MyVISA processing/service charges for 2027 remain UNVERIFIED.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
         "https://www.kln.gov.my/web/ind_new-delhi/requirement_foreigner",
         "https://www.ey.com/en_gl/technical/tax-alerts/malaysia-extends-visa-exemption-period-for-india-and-china-nationals",
         "https://www.visa-requirements.io/visa-requirements/malaysia",
-        "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country"
+        "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country",
+        "https://www.imi.gov.my/index.php/en/main-services/visa/visa-requirement-by-country/",
+        "https://malaysiavisa.imi.gov.my/",
+        "https://be-evisa-puj.visamalaysia.org/evisa/public/lookup/notice",
+        "https://www.imi.gov.my/index.php/en/main-services/visa/visa-fees/",
+        "https://www.imi.gov.my/index.php/en/main-services/visa/types-of-visas/"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-27",
+      "note": "The current exemption and entry documents are confirmed on Malaysian government pages. The official MyVISA notice confirms that visa-free entry ends from 1 January 2027. Check the appropriate visa and final fee before payment.",
+      "confidence": "partial"
     },
     {
       "country": "Singapore",
@@ -2202,17 +2211,24 @@
       "name": "Malawi",
       "trip": "W",
       "category": "evisa",
-      "rule": "Visa or prior authorization required before departure. Official portal notice (effective 24 Feb 2026): Category Two nationals may get visa on arrival; Category One nationals must obtain a visa or prior authorization before departure, and airlines are told to board only Category Two without a visa. India is in Category One according to a Malawi embassy press release PDF (malawiembassy.de) and an aggregator; the official portal page I read did not render the country list. Apply online at evisa.gov.mw with Visa or Master card. Fees on the portal FAQ: transit 50 USD, single entry 50 USD, 6 month multiple 150 USD, 12 month multiple 250 USD; the Immigration Department fees page snippet shows single entry 75 USD (conflict, UNVERIFIED which is current, plus a convenience fee). Alternative: sticker visa at the Malawi High Commission, New Delhi (aggregator). Print the approval letter. Yellow fever: certificate needed if arriving from a risk country such as Cote d'Ivoire (UNVERIFIED, no official page read). No US/UK/Schengen waiver found for Indians.",
+      "rule": "Indian ordinary passport holders must obtain a visa or prior authorization before departure. India is listed as number 15 in the official Category One countries PDF linked from the notice effective 24 February 2026; Category Two visa on arrival does not apply to India. Apply online at evisa.gov.mw, pay by Visa or Mastercard, and print the approval before travel. The portal FAQ says processing takes 3 working days and validity starts on the date of issue. Fees remain conflicting: the portal FAQ lists transit USD 50, single entry USD 50, 6 month multiple USD 150 and 12 month multiple USD 250, while the Immigration Department lists single entry USD 75. The current single entry amount is UNVERIFIED; a convenience fee also applies. Passport validity and any US/UK/Schengen waiver are UNVERIFIED. Yellow fever certificate is required for arrivals aged 1 or older from risk countries, including airport transits over 12 hours, but not for direct arrival from India (CDC). Indian residents travelling from India to Malawi must have an oral or inactivated polio vaccine dose at least 4 weeks before departure and carry a valid OPV/IPV certificate for return to India, under the Indian health ministry guidance still published by the Indian High Commission in Lilongwe.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
         "https://evisa.gov.mw/",
         "https://evisa.gov.mw/Faq",
         "https://www.immigration.gov.mw/visa/visa-fees",
-        "https://www.malawiembassy.de/PRESSRELEASE.pdf"
+        "https://www.malawiembassy.de/PRESSRELEASE.pdf",
+        "https://evisa.gov.mw/PDFs/CategoryOneCountries.pdf",
+        "https://www.immigration.gov.mw/visa/visa-fees/",
+        "https://www.immigration.gov.mw/visa/visa-application-process/",
+        "https://wwwnc.cdc.gov/travel/destinations/traveler/none/malawi",
+        "https://ihpoe.mohfw.gov.in/assets/pdf/Requirement%20of%20Polio%20Vaccination.pdf",
+        "https://ihpoe.mohfw.gov.in/assets/pdf/advisory_Poliovirus_guideline_for_travellers_from_Endemic_Countries.pdf"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Official portal confirms two category system; India in Category One rests on an embassy press release of uncertain date and an aggregator. Single entry fee conflicts (50 vs 75 USD). Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-27",
+      "note": "India in Category One is now confirmed from the Immigration Department portal PDF. Single entry visa fees conflict on two official pages (USD 50 vs USD 75). Passport validity remains UNVERIFIED. Confirm fees at application checkout before payment.",
+      "confidence": "partial"
     },
     {
       "country": "Cabo Verde",
@@ -2528,10 +2544,13 @@
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://maliembassy.co.in/documents-required"
+        "https://maliembassy.co.in/documents-required",
+        "https://www.embassyofindiabamako.gov.in/page/travel-and-business-advisory/",
+        "https://www.embassyofindiabamako.gov.in/section/public-advisories/advisory-to-indian-nationals-in-mali-dated-25-april-2026/"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Check the Ministry of External Affairs advisory before any travel; it could not be read. Embassy page read; fee, stay length and any MEA advisory UNVERIFIED. Security is poor, see cautions. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-27",
+      "note": "Embassy of Mali in New Delhi confirms the digital application route, documents and 5 to 10 business-day processing. Fee and stay length remain UNVERIFIED. The Indian Embassy's 25 April 2026 security advisory urges Indians in Mali to remain highly vigilant, exercise utmost caution, stay indoors and follow Malian authorities. Confirm visa conditions before travel.",
+      "confidence": "partial"
     },
     {
       "country": "Niger",
