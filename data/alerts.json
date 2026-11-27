@@ -367,6 +367,37 @@
         "https://www.embassyofindiabamako.gov.in/section/public-advisories/advisory-to-indian-nationals-in-mali-dated-25-april-2026/",
         "https://www.embassyofindiabamako.gov.in/content/1777189979_Advisory%20for%20Indian%20Nationals%20in%20Mali%20dated%2025.04.2026.jpg"
       ]
+    },
+    {
+      "id": "malta-hypogeum-january-2027-closure",
+      "country": "Malta",
+      "type": "closure",
+      "severity": "medium",
+      "title": "Hypogeum closed 18 to 24 January 2027",
+      "summary": "Heritage Malta says the Hal Saflieni Hypogeum will be closed to the public from 18 to 24 January 2027. It recommends booking visits early because demand is high.",
+      "since": "2027-01-18",
+      "until": "2027-01-24",
+      "lastChecked": "2026-11-28",
+      "sourceLevel": "official",
+      "sources": [
+        "https://heritagemalta.mt/explore/hal-saflieni-hypogeum/"
+      ]
+    },
+    {
+      "id": "mauritius-ebola-entry-restrictions",
+      "country": "Mauritius",
+      "type": "entry",
+      "severity": "high",
+      "title": "Mauritius entry restrictions after travel or transit through DRC, Uganda or South Sudan",
+      "summary": "Foreign nationals who travelled from, transited through or were present in the Democratic Republic of the Congo, Uganda or South Sudan in the preceding 21 days are temporarily prohibited from entering Mauritius. Mauritian nationals and holders of valid work permits, residence permits, occupation permits, business visas or student visas may enter, subject to mandatory 21-day quarantine. All passengers must complete the All-in-One Travel Form and Health Declaration Form before boarding. The Ministry of Health and Wellness advisory is dated 11 June 2026 and remains published on the immigration website. No lifting notice was found.",
+      "since": "2026-06-11",
+      "until": "",
+      "lastChecked": "2026-11-28",
+      "sourceLevel": "official",
+      "sources": [
+        "https://passport.govmu.org/passport/?p=1494",
+        "https://passport.govmu.org/passport/wp-content/uploads/2026/08/EBOLA-VIRUS-DISEASE-TRAVEL-ADVISORY.pdf"
+      ]
     }
   ]
 }

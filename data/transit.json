@@ -1794,7 +1794,7 @@
   "country": "Malta",
   "airside": {
    "visaNeeded": "no",
-   "rule": "Not required on the common Schengen list: India is not among the 12 nationalities (Afghanistan, Bangladesh, DR Congo, Eritrea, Ethiopia, Ghana, Iran, Iraq, Nigeria, Pakistan, Somalia, Sri Lanka) that need an airport transit visa everywhere in Schengen. Staying airside without entering is allowed. No official page for Malta itself could be opened to confirm there is no extra national requirement for Indians.",
+   "rule": "Indian ordinary passport holders do not need an airport transit visa for a connection entirely within Malta's international transit area. India is absent from the common Schengen airport transit list and the European Commission national-requirements matrix has no requirement in the Malta (MT) column for India.",
    "maxHours": "UNVERIFIED",
    "conditions": [
     "stay in the international transit area",
@@ -1816,15 +1816,16 @@
    "Transiting a second Schengen airport on the same trip can also need checking with the airline; the airside exemption applies only while you stay in the international area."
   ],
   "sources": [
-   "https://home-affairs.ec.europa.eu/policies/schengen/visa-policy_en",
-   "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-schengen-visa"
+   "https://vm.ee/en/consular-visa-and-travel-information/visa-information/application-schengen-visa",
+   "https://home-affairs.ec.europa.eu/document/download/7337515c-60a1-4510-b639-80de714f543e_en",
+   "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02009R0810-20200202",
+   "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-28",
+  "confidence": "partial",
   "unverified": [
-   "Whether this country adds its own national airport transit visa requirement for Indian nationals (checked official lists of other states only)",
    "Maximum airside layover hours",
-   "Transit visa fee"
+   "Airport-specific feasibility of staying airside"
   ]
  },
  {
@@ -2206,27 +2207,33 @@
   },
   "landside": {
    "visaNeeded": "no",
-   "rule": "Indian citizens are reported (aggregator pages, not the official page I opened) to enter Mauritius visa free for tourism, so leaving the airport on a layover should be possible with an onward ticket, accommodation and the All-in-One Travel Digital Form.",
+   "rule": "Indian ordinary passport holders are visa exempt according to the official country-wise table. Leaving the airport requires admission by immigration, a passport valid beyond the intended stay, return travel, adequate funds and confirmed accommodation. Temporary recent-travel entry restrictions also apply.",
    "maxHours": "UNVERIFIED",
-   "scheme": "none (normal visa free entry reported)"
+   "scheme": "Normal visa-exempt entry; no separate layover scheme confirmed."
   },
   "easedBy": [],
   "landTransit": "Not applicable",
-  "howToGet": "Not applicable for a layover if visa free entry applies; confirm on passport.govmu.org.",
-  "fee": "UNVERIFIED (aggregator says free for Indians)",
+  "howToGet": "Indian ordinary passport holders do not need a prior visa for normal entry. The official page also lists a transit visa for onward travel to a third country within 24 hours, but does not explicitly state the Indian airside exemption.",
+  "fee": "Visas and extensions of stay are issued free of charge, according to the Passport and Immigration Office.",
   "warnings": [
-   "Complete the Mauritius All-in-One Travel Digital Form before arrival (reported by aggregators).",
-   "Carry onward ticket and accommodation proof.",
-   "Official page lists a 24 hour transit visa category, check if it applies to you."
+   "For entry into Mauritius, both the All-in-One Travel Form and Health Declaration Form must be completed before boarding. Pure airside applicability remains UNVERIFIED.",
+   "Carry a valid passport, return travel, adequate funds and confirmed accommodation for immigration entry.",
+   "The official page lists a 24-hour transit visa category, but does not specify whether Indian airside passengers require it.",
+   "Recent travel or transit through DRC, Uganda or South Sudan within 21 days triggers temporary entry restrictions."
   ],
   "sources": [
-   "https://passport.govmu.org/passport?page_id=605"
+   "https://passport.govmu.org/passport?page_id=605",
+   "https://passport.govmu.org/passport/wp-content/uploads/2021/03/Visa-Requirement-Country-2025.pdf",
+   "https://passport.govmu.org/passport/?page_id=605",
+   "https://passport.govmu.org/passport/?page_id=587",
+   "https://passport.govmu.org/passport/?p=1494"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-28",
   "confidence": "partial",
   "unverified": [
-   "Whether Indians need a transit visa airside",
-   "Indian visa free entry on official page"
+   "Whether Indians need a transit visa for a pure airside connection",
+   "Airside transit time limit and declaration-form applicability",
+   "Any special landside layover time limit"
   ]
  },
  {
@@ -5609,26 +5616,28 @@
   },
   "landside": {
    "visaNeeded": "yes",
-   "rule": "Assume the normal entry visa is needed for Indian ordinary passport holders to leave the airport. UNVERIFIED against an official page.",
+   "rule": "Leaving the airport requires normal entry permission. The foreign ministry requires an approved e-visa before boarding and limits the India visa exemption to diplomatic and service passports, not ordinary passports.",
    "maxHours": "UNVERIFIED",
    "scheme": "none found"
   },
   "easedBy": [],
   "landTransit": "Not applicable",
-  "howToGet": "Check the official immigration portal or the nearest embassy or consulate before booking; no official application route could be verified.",
+  "howToGet": "For entry into Mauritania, apply through the official ANRPTS e-visa portal before boarding. No Indian-specific airside transit exemption was found.",
   "fee": "UNVERIFIED",
   "warnings": [
    "Not a realistic connection point for most India routings; avoid booking a connection here.",
    "Confirm with the airline (Timatic) before flying; separate tickets or baggage re-check can force you through immigration."
   ],
-  "sources": [],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "sources": [
+   "https://www.diplomatie.gov.mr/fr/node/50",
+   "https://anrpts.gov.mr/visa/requestvisa"
+  ],
+  "lastChecked": "2026-11-28",
+  "confidence": "partial",
   "unverified": [
-   "airside transit rule",
-   "landside rule and time limit",
-   "fee",
-   "official application route"
+   "Airside transit rule and time limit for Indian ordinary passport holders",
+   "Any special landside transit scheme or time limit",
+   "Transit-specific fee or exemption"
   ]
  },
  {
@@ -6511,28 +6520,31 @@
   },
   "landside": {
    "visaNeeded": "no",
-   "rule": "Visa on arrival for up to 90 days listed for Indians (secondary source)",
+   "rule": "Indian ordinary passport holders are eligible for visa on arrival according to MEA. The maximum permitted stay and arrival visa fee are UNVERIFIED.",
    "maxHours": "UNVERIFIED",
    "scheme": "none found"
   },
   "easedBy": [],
   "landTransit": "Not applicable",
-  "howToGet": "Not applicable",
+  "howToGet": "For entry during transit, Indian ordinary passport holders are listed by MEA as eligible for visa on arrival. Confirm arrangements with RMI Immigration and the airline.",
   "fee": "UNVERIFIED",
   "warnings": [
-   "Majuro is served mainly from Honolulu, Guam and Kwajalein; US transit rules may apply to the routing",
-   "Not a connection point from India",
-   "Entry conditions not confirmed officially"
+   "US visa rules may apply when routing through Honolulu, Guam or Kwajalein.",
+   "No official airside transit exemption was confirmed.",
+   "The RMI embassy visa form lists a T-1 single-entry transit visa category of 3 days, but does not confirm Indian eligibility or an airside exemption."
   ],
   "sources": [
-   "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+   "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+   "https://www.mea.gov.in/vffin",
+   "https://www.rmiembassyus.org/consular",
+   "https://www.rmiembassyus.org/s/RMI_Visa_Application_Form.pdf"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-28",
+  "confidence": "partial",
   "unverified": [
-   "official rule",
-   "fee",
-   "airside rule"
+   "Airside transit rule",
+   "Arrival visa fee and permitted stay for Indians",
+   "Applicability and fee of T-1 transit visa for Indian passport holders"
   ]
  },
  {

@@ -891,10 +891,14 @@
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+        "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32018R1806",
+        "https://identita.gov.mt/central-visa-unit-sec-page-schengen-visa/",
+        "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-28",
+      "note": "Schengen short-stay visa requirement confirmed from EU Regulation 2018/1806 Annex I (India) and Malta's Central Visa Unit. Confirm the latest requirements before travel.",
+      "confidence": "partial"
     },
     {
       "country": "Greece",
@@ -1020,14 +1024,19 @@
       "name": "Mauritius",
       "trip": "M",
       "category": "visa_free",
-      "rule": "Visa-free, 90 days.",
+      "rule": "Visa-free for Indian ordinary passport holders, confirmed by the official country-wise table. The immigration officer decides the permitted stay on arrival. The official general tourist rule allows up to 6 months in a calendar year on a case-by-case basis, not a guaranteed Indian 90-day stay. Passport must be valid beyond the intended stay; carry a return ticket, adequate funds and confirmed accommodation. Visas and extensions are free of charge.",
       "easedBy": [],
       "status": "confirmed",
       "sources": [
-        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens"
+        "https://en.wikipedia.org/wiki/Visa_requirements_for_Indian_citizens",
+        "https://passport.govmu.org/passport/wp-content/uploads/2021/03/Visa-Requirement-Country-2025.pdf",
+        "https://passport.govmu.org/passport/?page_id=605",
+        "https://passport.govmu.org/passport/?page_id=587",
+        "https://passport.govmu.org/passport/?p=1494"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-28",
+      "note": "Indian visa exemption is official. The immigration officer determines the stay on arrival. Complete the All-in-One Travel Form and Health Declaration Form before boarding. Temporary Ebola-related entry restrictions apply after travel or transit through DRC, Uganda or South Sudan in the preceding 21 days.",
+      "confidence": "partial"
     },
     {
       "country": "Madagascar",
@@ -2662,15 +2671,18 @@
       "name": "Mauritania",
       "trip": "Y",
       "category": "evisa",
-      "rule": "E-visa via the official government portal anrpts.gov.mr (Ministry of the Interior). Packages of 30, 90 or 360 days, issued electronically for entry at all international ports of entry. Fee amounts were not visible on the page I read and Indian eligibility is not listed there. Press reports say e-visa became mandatory before boarding from 5 January 2025 and visa on arrival is reported by an aggregator but UNVERIFIED. Passport valid 6 months and yellow fever certificate reported by an aggregator only. No easing from US/UK/Schengen etc. found.",
+      "rule": "Apply for an e-visa through the official ANRPTS portal before boarding. The portal offers 30, 90 or 360 days and says electronic visas allow entry at all international ports of entry. India is listed for visa exemption only for diplomatic and service passports, not ordinary passports. The official Rest of World fee schedule applies to Indians: 30 days EUR 55 or USD 60; 90 days EUR 95 or USD 100; over 3 months to 1 year EUR 190 or USD 200. Biometrics are captured on arrival. Indian-specific processing time and passport validity remain UNVERIFIED. No easing from US, UK or Schengen visas found.",
       "easedBy": [],
-      "status": "probable",
+      "status": "confirmed",
       "sources": [
         "https://anrpts.gov.mr/visa/requestvisa",
-        "https://visasnews.com/en/mauritania-launches-electronic-visa-system"
+        "https://visasnews.com/en/mauritania-launches-electronic-visa-system",
+        "https://www.diplomatie.gov.mr/fr/node/50",
+        "https://www.gov.uk/foreign-travel-advice/mauritania/entry-requirements"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "UNVERIFIED: fees, whether Indians qualify for arrival visa, yellow fever rule. Portal read only partly. Mauritania has MEA/other advisories for the east and Mali border zones, not checked. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-28",
+      "note": "The foreign ministry confirms the e-visa instructions and Rest of World fees. Payment timing and passport validity for Indian ordinary passports remain UNVERIFIED. FCDO says visa on arrival ended on 5 January 2025, fees are paid in exact cash on arrival, and passports need 6 months validity, but its entry page explicitly covers British citizen passports.",
+      "confidence": "partial"
     },
     {
       "country": "Cameroon",
@@ -3099,15 +3111,18 @@
       "name": "Marshall Islands",
       "trip": "AB",
       "category": "on_arrival",
-      "rule": "MEA India's Visa Facility for Indian Nationals list shows the Marshall Islands (RMI) among countries giving Indian ordinary passport holders entry without a prior visa (visa on arrival category). Stay length and fee could not be verified from an official page. Secondary sources describe tourist stays up to 30 days, passport valid 6 months, return ticket, and a US$20 departure fee (aimed at US citizens, check). Entry points: Majuro (MAJ) and Kwajalein is restricted US military. Yellow fever certificate: UNVERIFIED (cholera or yellow fever only if arriving from infected areas per secondary sources). No known easing from other country visas.",
+      "rule": "Visa on arrival for Indian ordinary passport holders, as listed by India's Ministry of External Affairs. The RMI embassy says visitors must have a passport valid at least 6 months, sufficient funds and an onward or return air or sea ticket. The embassy lists a USD 20 departure fee. The visa on arrival stay length and visa fee for Indians are UNVERIFIED.",
       "easedBy": [],
-      "status": "probable",
+      "status": "confirmed",
       "sources": [
         "https://www.visahq.com/marshall-islands",
-        "https://www.passportindex.org/passport/marshall-islands"
+        "https://www.passportindex.org/passport/marshall-islands",
+        "https://www.mea.gov.in/vffin",
+        "https://www.rmiembassyus.org/consular"
       ],
-      "lastChecked": "2026-10-16",
-      "note": "UNVERIFIED: mea.gov.in/vffin 403 blocked, RMI embassy visa page 404, aggregator sources only; confirm with RMI Office of Immigration before booking. Probable, not final. Confirm on the official government site 2 to 3 months before travel."
+      "lastChecked": "2026-11-28",
+      "note": "Indian visa on arrival eligibility confirmed on MEA's ordinary-passport list. Confirm the permitted stay, visa on arrival fee and boarding requirements with RMI Immigration before travel. The embassy's country-summary PDF link returns 404.",
+      "confidence": "partial"
     },
     {
       "country": "Micronesia",

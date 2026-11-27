@@ -9990,11 +9990,16 @@
     "url": "https://identita.gov.mt/"
    }
   ],
-  "formLinks": [],
+  "formLinks": [
+   {
+    "label": "EU Schengen visa application form",
+    "url": "https://home-affairs.ec.europa.eu/document/download/5fe79baa-2d46-4b65-84ec-ea2e9b5ab1d6_en?filename=Visa%20Application%20Form.pdf"
+   }
+  ],
   "documents": [
    {
     "item": "Passport",
-    "note": "Valid at least 3 months beyond planned departure from the Schengen area, issued in the last 10 years, with at least 2 blank pages (standard Schengen rule, not confirmed on an official Malta page)"
+    "note": "Valid at least 3 months beyond planned departure from the Schengen area, issued in the last 10 years, with at least 2 blank pages (EU Visa Code Article 12)"
    },
    {
     "item": "Schengen application form",
@@ -10032,10 +10037,10 @@
    "notes": "Standard Schengen specification, not read on an official Malta page",
    "status": "unverified"
   },
-  "fee": "UNVERIFIED (the Schengen visa fee is set by EU rules; plus a VFS service fee, not confirmed on an official page)",
-  "processing": "UNVERIFIED (Schengen rule is normally up to 15 calendar days, can extend to 45)",
-  "applyEarly": "UNVERIFIED (Schengen rule: up to 6 months before travel, no later than 15 days before)",
-  "biometrics": "Yes, fingerprints and photo at the VFS centre (standard Schengen rule); UNVERIFIED for Malta specifically",
+  "fee": "EUR 90 for adults and EUR 45 for children aged 6 to 12 under the common Schengen fee rules, which apply to Indian applicants. Any VFS service fee and the amount payable in INR are UNVERIFIED. Exemptions may apply.",
+  "processing": "Normally 15 days; may extend to 45 days for further examination or additional documents (EU Schengen rules).",
+  "applyEarly": "Submit at least 15 days before travel and no earlier than 6 months before travel. Allow time to obtain an appointment.",
+  "biometrics": "Fingerprints and a photograph are collected for Schengen visa applications, subject to exemptions (EU Visa Code Article 13). India appointment arrangements are UNVERIFIED.",
   "centres": "UNVERIFIED (VFS page loads by JavaScript and shows only Loading)",
   "warnings": [
    "The VFS Malta pages need JavaScript, so check the live page for the current centre list and fee.",
@@ -10044,51 +10049,63 @@
    "Insurance, funds and return flight proof are common refusal points."
   ],
   "unverified": [
-   "Fee",
-   "Processing time",
-   "Centre cities",
-   "Document checklist details",
+   "VFS service fee and amount payable in INR",
+   "Centre cities and current India appointment arrangements",
+   "India-specific document checklist details",
    "Photo specification"
   ],
   "sources": [
    "https://identita.gov.mt/",
-   "https://visa.vfsglobal.com/ind/en/mlt/book-an-appointment"
+   "https://visa.vfsglobal.com/ind/en/mlt/book-an-appointment",
+   "https://home-affairs.ec.europa.eu/policies/schengen/schengen-visas/applying-schengen-visa_en",
+   "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:02009R0810-20200202",
+   "https://identita.gov.mt/central-visa-unit-main-page/",
+   "https://home-affairs.ec.europa.eu/document/download/5fe79baa-2d46-4b65-84ec-ea2e9b5ab1d6_en?filename=Visa%20Application%20Form.pdf"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-28",
   "confidence": "partial",
   "schengenNote": "Applies the Schengen short-stay rules; apply through this country's own mission or visa centre."
  },
  {
   "country": "Marshall Islands",
-  "route": "agency",
-  "summary": "Search results from visa agencies say Indian passport holders can get a visa on arrival for up to 90 days, with no advance application. Carry a passport valid at least 6 months, proof of funds, onward ticket and proof of trip purpose, and check with the airline before boarding. No official Marshall Islands government page confirming this was found, so confirm with the Embassy of the Marshall Islands in Washington before travel.",
+  "route": "mixed",
+  "summary": "India's Ministry of External Affairs lists the Marshall Islands as offering visa on arrival to Indian ordinary passport holders. The RMI embassy requires a passport valid at least 6 months, sufficient funds and an onward or return air or sea ticket. The stay length and visa on arrival fee for Indians are UNVERIFIED. Contact RMI Immigration or its embassy before booking.",
   "applyLinks": [
    {
-    "label": "Embassy of the Marshall Islands in the USA (contact for visa confirmation)",
-    "url": "https://www.rmiembassyus.org/"
+    "label": "RMI embassy consular and immigration information",
+    "url": "https://www.rmiembassyus.org/consular"
+   },
+   {
+    "label": "MEA visa facilities for Indian ordinary passport holders",
+    "url": "https://www.mea.gov.in/vffin"
    }
   ],
-  "formLinks": [],
+  "formLinks": [
+   {
+    "label": "RMI visa application form (ask Immigration whether required for visa on arrival)",
+    "url": "https://www.rmiembassyus.org/s/RMI_Visa_Application_Form.pdf"
+   }
+  ],
   "documents": [
    {
     "item": "Passport",
-    "note": "Valid at least 6 months with a blank page (agency source)"
+    "note": "Valid at least 6 months (RMI embassy)"
    },
    {
     "item": "Proof of funds",
-    "note": "Agency source"
+    "note": "Sufficient funds for the stay (RMI embassy)"
    },
    {
     "item": "Onward or return ticket",
-    "note": "Agency source"
+    "note": "Air or sea ticket required (RMI embassy)"
    },
    {
     "item": "Proof of purpose of trip",
-    "note": "Hotel or invitation"
+    "note": "Hotel or invitation details may be requested; India-specific checklist UNVERIFIED"
    },
    {
     "item": "Documents for next destination",
-    "note": "Visa if needed"
+    "note": "Visa if needed; routing and airline requirements must be checked"
    }
   ],
   "photo": {
@@ -10098,54 +10115,63 @@
    "notes": "Not found on an official page",
    "status": "unverified"
   },
-  "fee": "UNVERIFIED",
-  "processing": "On arrival (agency source, unverified)",
+  "fee": "Visa on arrival fee for Indians: UNVERIFIED. The RMI embassy lists a USD 20 departure fee. Its USD 100 visitor visa application fee applies to travellers requiring a visa before arrival, not a confirmed Indian visa on arrival fee.",
+  "processing": "Visa on arrival eligibility confirmed by MEA; processing time at the border is UNVERIFIED.",
   "applyEarly": "UNVERIFIED",
   "biometrics": "UNVERIFIED; no India mission known",
-  "centres": "No Marshall Islands mission in India was found; the nearest contact found is the embassy in Washington DC",
+  "centres": "RMI Immigration offices in Majuro and Ebeye and the RMI embassy in Washington provide official contacts. An India application centre was not verified.",
   "warnings": [
-   "Flights are limited and usually transit Honolulu, Majuro or Guam, so check US transit visa rules for Indian passports.",
-   "Airlines may refuse boarding without proof of onward travel.",
-   "Rules are based on agency pages only; verify before booking."
+   "Check US transit visa rules if routing through Honolulu, Guam or another US airport.",
+   "The RMI embassy requires sufficient funds and an onward or return air or sea ticket.",
+   "The embassy's country-summary PDF link is dead; confirm the permitted stay and visa on arrival fee with RMI Immigration."
   ],
   "unverified": [
-   "Visa on arrival rule and fee on an official page",
+   "Visa on arrival stay length and fee for Indians",
    "Photo rules",
-   "Application form",
-   "Processing time"
+   "Whether the published visa form is required for visa on arrival",
+   "Border processing time",
+   "India application centre"
   ],
   "sources": [
-   "https://www.rmiembassyus.org/"
+   "https://www.rmiembassyus.org/",
+   "https://www.mea.gov.in/vffin",
+   "https://www.rmiembassyus.org/consular",
+   "https://www.rmiembassyus.org/s/RMI_Visa_Application_Form.pdf"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin"
+  "lastChecked": "2026-11-28",
+  "confidence": "partial"
  },
  {
   "country": "Mauritania",
   "route": "online",
-  "summary": "Mauritania launched an e-visa in January 2025, applied for on the government ANRPTS portal before travel (30, 60 or 90 day options per a news report). Apply online, upload the documents, pay and print the approval. The portal returned a server error during checking, so details are unconfirmed.",
-  "applyLinks": [],
+  "summary": "Apply online through ANRPTS. The official portal offers 30, 90 or 360 days. Complete the form and required documents, submit, and obtain the validated e-visa before boarding. Biometrics are captured at the entry point on arrival. The exact document list, photo rules, processing time and payment timing for Indians remain UNVERIFIED.",
+  "applyLinks": [
+   {
+    "label": "Official ANRPTS e-visa application",
+    "url": "https://anrpts.gov.mr/visa/requestvisa"
+   },
+   {
+    "label": "Official foreign ministry visa instructions and fee table",
+    "url": "https://www.diplomatie.gov.mr/fr/node/50"
+   }
+  ],
   "formLinks": [],
   "documents": [
    {
     "item": "Passport",
-    "note": "Valid at least 6 months with a blank page (secondary source)"
+    "note": "FCDO states 6 months validity after arrival for British citizen passports; Indian-specific validity and blank-page rules UNVERIFIED."
    },
    {
-    "item": "Digital passport photo",
-    "note": "Recent"
+    "item": "Application documents",
+    "note": "The official ministry requires the online form and documents, but the exact document list and photo specifications were not visible."
    },
    {
-    "item": "Proof of funds",
-    "note": "Secondary source"
+    "item": "Printed e-visa",
+    "note": "Carry the approved e-visa for boarding, as required by the official foreign ministry."
    },
    {
     "item": "Yellow fever vaccination certificate",
-    "note": "Secondary source"
-   },
-   {
-    "item": "Accommodation and return ticket",
-    "note": "Typical"
+    "note": "CDC requires this for arrivals from yellow fever risk countries, age 1 year or older. Not a universal requirement for direct arrival from India."
    }
   ],
   "photo": {
@@ -10155,30 +10181,31 @@
    "notes": "Not read on an official page",
    "status": "unverified"
   },
-  "fee": "UNVERIFIED",
+  "fee": "Rest of World fees applicable to Indians: 30 days EUR 55 or USD 60; 90 days EUR 95 or USD 100; over 3 months to 1 year EUR 190 or USD 200. The lower Arab World and Africa fees do not apply to Indians. Payment timing for Indian applicants UNVERIFIED.",
   "processing": "UNVERIFIED",
   "applyEarly": "UNVERIFIED",
-  "biometrics": "UNVERIFIED; e-visa does not need an embassy visit according to a news report",
+  "biometrics": "Biometrics are captured on arrival at the entry point, according to the foreign ministry.",
   "centres": "Online; no application centre in India found",
   "warnings": [
-   "The official portal gave a server error (HTTP 500) when checked, so use only the anrpts.gov.mr domain and avoid look-alike sites.",
-   "Agency sites charge extra service fees.",
-   "Yellow fever certificate is reported as required; confirm."
+   "Use the official ANRPTS portal linked by the foreign ministry.",
+   "Agency sites may charge extra service fees.",
+   "Yellow fever certificate is conditional on arrival from a risk country, not required universally from India."
   ],
   "unverified": [
-   "Fee",
-   "Processing time",
-   "Documents list",
-   "Photo rules",
-   "Eligibility and visa on arrival for Indians",
-   "No working official apply link could be confirmed. Search for the official visa page."
+   "Processing time and recommended application lead time",
+   "Exact document list and photo rules",
+   "Passport validity and blank pages for Indian ordinary passports",
+   "Payment timing for Indian applicants"
   ],
   "sources": [
    "https://anrpts.gov.mr/visa/requestvisa",
-   "https://visasnews.com/en/mauritania-launches-electronic-visa-system"
+   "https://visasnews.com/en/mauritania-launches-electronic-visa-system",
+   "https://www.diplomatie.gov.mr/fr/node/50",
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mauritania",
+   "https://www.gov.uk/foreign-travel-advice/mauritania/entry-requirements"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin"
+  "lastChecked": "2026-11-28",
+  "confidence": "partial"
  },
  {
   "country": "Moldova",
@@ -14098,7 +14125,7 @@
  {
   "country": "Mauritius",
   "route": "visafree",
-  "summary": "Indian passport holders do not need a visa for a short tourist visit to Mauritius; the immigration officer decides the stay on arrival (commonly reported as 90 days for Indians; GOV.UK gives 60 days for UK citizens). Fill in the Mauritius All in One travel form online before you fly if it is offered, print the QR code, and carry a return ticket and accommodation proof. If you skip the online form you fill in a paper disembarkation card at the airport.",
+  "summary": "Indian ordinary passport holders are visa exempt, as listed in the official country-wise table. The immigration officer determines the stay; the general tourist maximum is 6 months per calendar year on a case-by-case basis. Complete both the All-in-One Travel Form and the Health Declaration Form before boarding any aircraft or vessel to Mauritius. Carry a passport valid beyond the intended stay, a return ticket, adequate funds and confirmed accommodation.",
   "applyLinks": [
    {
     "label": "Complete the online arrival (All in One travel) form",
@@ -14117,31 +14144,31 @@
   "documents": [
    {
     "item": "Valid passport",
-    "note": "Valid for the stay; exact validity and blank pages UNVERIFIED"
+    "note": "Must be valid beyond the intended period of stay, according to the Passport and Immigration Office."
    },
    {
-    "item": "Online travel form QR code or paper disembarkation card",
-    "note": "Online form recommended; card filled at the airport otherwise"
+    "item": "All-in-One Travel Form and Health Declaration Form",
+    "note": "Both are mandatory before boarding any aircraft or vessel bound for Mauritius."
    },
    {
-    "item": "Return or onward ticket",
-    "note": "Expected by immigration"
+    "item": "Return ticket",
+    "note": "Required to return to the country of origin or residence; traveller must be eligible to re-enter it."
    },
    {
     "item": "Proof of accommodation",
-    "note": "Hotel booking or host address"
+    "note": "Confirmed hotel booking or accommodation sponsorship required."
    },
    {
-    "item": "Proof of funds",
-    "note": "Only sometimes asked"
+    "item": "Proof of adequate funds",
+    "note": "Required to cover the cost of the stay."
    },
    {
     "item": "Travel insurance",
-    "note": "Only sometimes asked; recommended"
+    "note": "Recommended; not listed among mandatory immigration documents on the page opened."
    },
    {
     "item": "Yellow fever certificate",
-    "note": "Only if arriving from a yellow fever risk country"
+    "note": "CDC lists no entry requirement, but Australian government advice says arrivals or transit from yellow fever risk countries may need it. Risk-country rule remains UNVERIFIED with the destination health ministry."
    }
   ],
   "photo": {
@@ -14153,27 +14180,31 @@
   },
   "fee": "Visas and extensions of stay are issued free of charge (Passport and Immigration Office page, 2026-10-16). No arrival card fee found.",
   "processing": "Not applicable (declaration form, no approval wait).",
-  "applyEarly": "Fill in the online form before travel; exact window UNVERIFIED.",
+  "applyEarly": "Both the All-in-One Travel Form and Health Declaration Form must be completed before boarding. An exact advance submission window was not published on the notice read.",
   "biometrics": "UNVERIFIED.",
   "centres": "Not applicable",
   "warnings": [
-   "The official page does not itself list India by name in the text I could read (the country list is a linked table), and the length of stay is set by the officer. 90 days for Indians comes from secondary sources: confirm with your airline.",
-   "Overstaying is an offence liable to prosecution. A traveller arriving without a needed visa may be sent back at the carrier's cost.",
-   "Use only govmu.org addresses for the travel form; do not pay third parties.",
-   "Rule date: pages read 2026-10-16. No end date found."
+   "The immigration officer decides the permitted stay; a fixed 90-day stay for Indians is UNVERIFIED.",
+   "Complete both travel and health declaration forms before boarding.",
+   "Temporary entry prohibition applies after travel, presence or transit in DRC, Uganda or South Sudan within 21 days; specified valid permit or visa holders may enter with mandatory 21-day quarantine.",
+   "Overstaying is an offence. Use official government form links and avoid paid third-party arrival-form services."
   ],
   "unverified": [
-   "Length of stay for Indians on an official page",
-   "Current status of the All in One form on safemauritius.govmu.org (page loaded but content not readable)",
-   "Passport validity rule",
-   "Biometrics"
+   "Guaranteed length of stay for Indians beyond the general case-by-case tourist maximum",
+   "Biometrics",
+   "Interactive All-in-One form contents, exact submission window and separate Health Declaration submission route",
+   "Destination confirmation of yellow fever certificate rule after risk-country travel or transit"
   ],
   "sources": [
    "https://passport.govmu.org/passport/?page_id=605",
    "https://safemauritius.govmu.org",
-   "https://www.gov.uk/foreign-travel-advice/mauritius/entry-requirements"
+   "https://www.gov.uk/foreign-travel-advice/mauritius/entry-requirements",
+   "https://passport.govmu.org/passport/wp-content/uploads/2021/03/Visa-Requirement-Country-2025.pdf",
+   "https://passport.govmu.org/passport/?page_id=587",
+   "https://passport.govmu.org/passport/?p=1494",
+   "https://passport.govmu.org/passport/wp-content/uploads/2026/08/EBOLA-VIRUS-DISEASE-TRAVEL-ADVISORY.pdf"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-28",
   "confidence": "partial"
  },
  {

@@ -1503,7 +1503,7 @@
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/malta"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-28",
   "confidence": "partial",
   "unverified": [
    "Only CDC opened; Maltese health ministry rule not checked."
@@ -1808,16 +1808,24 @@
   ],
   "malaria": "none",
   "otherHealth": [
-   "CDC notes chikungunya: take mosquito bite precautions; vaccine generally not recommended"
+   "CDC notes chikungunya: take mosquito bite precautions; vaccine generally not recommended",
+   "Both the All-in-One Travel Form and Health Declaration Form are mandatory before boarding.",
+   "Ebola border measures temporarily prohibit entry for foreign nationals who visited, were present in or transited DRC, Uganda or South Sudan during the preceding 21 days. Mauritians and specified valid permit or visa holders may enter with 21-day quarantine.",
+   "CDC lists a Level 1 global measles notice; all international travellers should be fully vaccinated against measles.",
+   "CDC notes schistosomiasis in freshwater; avoid swimming in fresh, unchlorinated water."
   ],
   "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mauritius"
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mauritius",
+   "https://passport.govmu.org/passport/?p=1494",
+   "https://passport.govmu.org/passport/wp-content/uploads/2026/08/EBOLA-VIRUS-DISEASE-TRAVEL-ADVISORY.pdf",
+   "https://www.smartraveller.gov.au/destinations/africa/mauritius"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-28",
   "confidence": "partial",
   "unverified": [
-   "WHO ITH country list and the destination health ministry page were not opened; all facts are from the CDC Travelers' Health page (CDC Yellow Book data updated April 23, 2025)",
-   "CDC says no yellow fever entry requirement; some sources note a requirement for arrivals from risk countries, not confirmed here"
+   "CDC lists no yellow fever entry requirement, while Australian government advice says travellers from or transiting a risk country may need a certificate, excluding children under 12 months. The destination rule for risk-country routes remains UNVERIFIED.",
+   "WHO ITH country list was not opened. The destination health ministry Ebola advisory was read, but a destination yellow fever or malaria page was not.",
+   "Current malaria-free status was not independently rechecked; the CDC page contains no malaria prophylaxis table."
   ]
  },
  {
@@ -4818,7 +4826,7 @@
  {
   "country": "Mauritania",
   "yellowFever": {
-   "entryRule": "Required only if arriving from or transiting a country with yellow fever transmission risk, travellers 1 year or older. Not required for direct arrival from India",
+   "entryRule": "Required for travellers age 1 year or older arriving from countries with yellow fever transmission risk. Not required for direct arrival from India. The CDC table opened does not specify a transit-duration threshold.",
    "riskInCountry": "partial",
    "vaccineAdvised": "some areas"
   },
@@ -4835,16 +4843,20 @@
   "malaria": "some areas",
   "otherHealth": [
    "Malaria in all regions except Dakhlet Nouadhibou and Tiris Zemmour",
-   "Yellow fever not advised for travel limited to the Sahara Desert"
+   "Yellow fever not advised for travel limited to the Sahara Desert",
+   "CDC lists a Level 1 Diphtheria in Sub-Saharan Africa notice updated 25 August 2026 on its Mauritania page; keep routine diphtheria vaccination up to date.",
+   "CDC notes schistosomiasis in freshwater; avoid swimming in fresh, unchlorinated water."
   ],
   "sources": [
-   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mauritania"
+   "https://wwwnc.cdc.gov/travel/destinations/traveler/none/mauritania",
+   "https://wwwnc.cdc.gov/travel/notices/level1/diphtheria-sub-saharan-africa",
+   "https://www.gov.uk/foreign-travel-advice/mauritania/entry-requirements"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-28",
   "confidence": "partial",
   "unverified": [
-   "WHO International Travel and Health country list not opened; rules taken from CDC Travelers' Health page (updated April 23, 2025) only",
-   "Destination health ministry not checked; confirm with the embassy before travel"
+   "WHO International Travel and Health country list and destination health ministry entry rules were not opened.",
+   "Yellow fever rules for airport transit through a risk country and any transit-duration threshold remain UNVERIFIED."
   ]
  },
  {
@@ -5695,17 +5707,19 @@
    "Hepatitis B (younger than 60 years)",
    "Typhoid (recommended for most travellers)",
    "Measles (MMR)",
-   "Routine vaccines incl. polio"
+   "Routine vaccines incl. polio",
+   "COVID-19 (up to date)"
   ],
   "malaria": "none",
   "otherHealth": [
    "Dengue risk (CDC)",
-   "CDC notes a dengue travel notice dated September 3, 2026 for the Marshall Islands"
+   "CDC lists a Level 1 Global Dengue notice updated 10 November 2026 for the Marshall Islands; prevent mosquito bites.",
+   "Zika risk (CDC); avoid mosquito bites."
   ],
   "sources": [
    "https://wwwnc.cdc.gov/travel/destinations/traveler/none/marshall-islands"
   ],
-  "lastChecked": "2026-10-16",
+  "lastChecked": "2026-11-28",
   "confidence": "partial",
   "unverified": [
    "WHO ITH country list and destination health ministry not checked; data from CDC Travelers' Health only"

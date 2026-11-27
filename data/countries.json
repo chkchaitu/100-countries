@@ -3887,8 +3887,8 @@
    },
    {
     "name": "Hypogeum",
-    "note": "Book early",
-    "fee": "about ₹3,500"
+    "note": "Book early. Closed 18 to 24 January 2027.",
+    "fee": "EUR 35 for adults; last-minute tickets EUR 50"
    },
    {
     "name": "Upper Barrakka Gardens",
@@ -3920,14 +3920,16 @@
    }
   ],
   "cautions": [
-   "Avoid Jul and Aug (hot, peak prices), Easter week and Christmas"
+   "Avoid Jul and Aug (hot, peak prices), Easter week and Christmas",
+   "The Hypogeum will be closed from 18 to 24 January 2027."
   ],
   "neighbours": [],
   "sources": [
-   "https://en.wikipedia.org/wiki/Malta"
+   "https://en.wikipedia.org/wiki/Malta",
+   "https://heritagemalta.mt/explore/hal-saflieni-hypogeum/"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-28",
+  "confidence": "partial",
   "iso": "mt",
   "currency": {
    "name": "Euro",
@@ -4545,7 +4547,7 @@
    11
   ],
   "dailyBudgetInr": null,
-  "transport": "Nonstop Mumbai to Mauritius only. Stay is ₹5,000 to ₹10,000 a night.",
+  "transport": "Air Mauritius advertises Mauritius flights from Mumbai, Delhi and Chennai. Check current schedules. Accommodation costs remain UNVERIFIED.",
   "experiences": [
    {
     "name": "Casela Nature Park ziplines and quad bikes",
@@ -4564,14 +4566,19 @@
    }
   ],
   "cautions": [
-   "Cyclone risk Dec to Apr"
+   "Cyclone season November to May; cyclones can occur outside these months, according to Australian government travel advice.",
+   "Petty theft occurs in tourist areas and Port Louis. Use registered taxis and accommodation.",
+   "Foreign nationals who visited or transited DRC, Uganda or South Sudan in the preceding 21 days face temporary entry restrictions; permitted resident, work, occupation, business or student categories face 21-day quarantine."
   ],
   "neighbours": [],
   "sources": [
-   "https://en.wikipedia.org/wiki/Mauritius"
+   "https://en.wikipedia.org/wiki/Mauritius",
+   "https://www.airmauritius.com/en-in",
+   "https://www.smartraveller.gov.au/destinations/africa/mauritius",
+   "https://passport.govmu.org/passport/?p=1494"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "plan",
+  "lastChecked": "2026-11-28",
+  "confidence": "partial",
   "iso": "mu",
   "currency": {
    "name": "Mauritian rupee",
@@ -12386,7 +12393,7 @@
    },
    {
     "name": "Iron ore train from Choum",
-    "note": "Famed freight train ride",
+    "note": "Travel outside designated passenger carriages is illegal and carries a serious injury risk, according to FCDO.",
     "fee": "UNVERIFIED"
    }
   ],
@@ -12408,9 +12415,9 @@
    "Oasis and old libraries"
   ],
   "cautions": [
-   "Security risk near Mali border; many Western governments advise against travel to parts, check MEA",
+   "FCDO advises against all travel to eastern areas and within 25 km of the Mali border; other regional restrictions also apply. Indian embassy advisory could not be checked.",
    "Extreme heat from April to September",
-   "Independent desert travel requires a guide and permits"
+   "FCDO recommends an experienced guide and convoy outside urban areas, including Chinguetti and Tichit. Permit requirements remain UNVERIFIED."
   ],
   "neighbours": [
    "Algeria",
@@ -12419,10 +12426,12 @@
    "Western Sahara"
   ],
   "sources": [
-   "https://visasnews.com/en/mauritania-launches-electronic-visa-system"
+   "https://visasnews.com/en/mauritania-launches-electronic-visa-system",
+   "https://www.gov.uk/foreign-travel-advice/mauritania/safety-and-security",
+   "https://www.gov.uk/foreign-travel-advice/mauritania"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-28",
+  "confidence": "partial",
   "trip": "Y",
   "iso": "mr",
   "currency": {
@@ -14612,10 +14621,11 @@
   ],
   "sources": [
    "https://www.visahq.com/marshall-islands",
-   "https://www.passportindex.org/passport/marshall-islands"
+   "https://www.passportindex.org/passport/marshall-islands",
+   "https://www.rmiembassyus.org/country-profile"
   ],
-  "lastChecked": "2026-10-16",
-  "confidence": "thin",
+  "lastChecked": "2026-11-28",
+  "confidence": "partial",
   "trip": "AB",
   "iso": "mh",
   "currency": {
