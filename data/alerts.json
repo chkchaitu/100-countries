@@ -1,20 +1,20 @@
 {
   "about": "Active travel alerts for an Indian passport holder: airline suspensions, Indian embassy or MEA advisories, entry restrictions and closures. An alert stays listed until it is lifted. sourceLevel is official (official page read) or news (reported by news, official page not read yet).",
-  "lastChecked": "2026-11-23",
+  "lastChecked": "2026-11-28",
   "alerts": [
     {
       "id": "saudi-arabia-air-india-suspension",
       "country": "Saudi Arabia",
       "type": "flights",
       "severity": "high",
-      "title": "Air India, Air India Express, IndiGo and Akasa Air Saudi flight suspensions",
-      "summary": "IndiGo announced on 18 November 2026 that all flights to and from Jeddah, Madinah, Riyadh and Dammam are cancelled until 30 November inclusive. Akasa Air announced on 12 November that all Riyadh and Jeddah flights are suspended until 30 November inclusive; affected passengers can request a full refund or reschedule at no additional cost. Air India announced on 20 November that its flights and Air India Express flights to and from Jeddah are suspended until 24 November, while Riyadh and Dammam remain suspended until 30 November. Passengers with confirmed Jeddah bookings made on or before 20 November for travel up to 24 November can reschedule without charge subject to availability or cancel for a full refund. The same options apply to confirmed Riyadh and Dammam bookings made on or before 10 November for travel up to 30 November. Air India passengers may rebook through an operating Air India station in Saudi Arabia; Air India Express passengers may rebook through an operating Air India Express station in Saudi Arabia or Bahrain. Revised travel can be completed by 8 December for Jeddah bookings, or 14 December for Riyadh and Dammam bookings.",
+      "title": "IndiGo resumes select Jeddah and Madinah flights; Riyadh and Dammam cancelled until 7 December",
+      "summary": "IndiGo announced on 27 November 2026 that select flights to and from Jeddah and Madinah are resuming, while flights to and from Riyadh and Dammam remain cancelled until 7 December inclusive. Affected passengers are being notified using the contact details provided when booking. IndiGo asks passengers to check flight status on its website or mobile app before going to the airport. Akasa Air announced on 12 November that all Riyadh and Jeddah flights are suspended until 30 November inclusive; affected passengers can request a full refund or reschedule at no additional cost. Air India announced on 20 November that its flights and Air India Express flights to and from Jeddah are suspended until 24 November, while Riyadh and Dammam remain suspended until 30 November. Passengers with confirmed Jeddah bookings made on or before 20 November for travel up to 24 November can reschedule without charge subject to availability or cancel for a full refund. The same options apply to confirmed Riyadh and Dammam bookings made on or before 10 November for travel up to 30 November. Air India passengers may rebook through an operating Air India station in Saudi Arabia; Air India Express passengers may rebook through an operating Air India Express station in Saudi Arabia or Bahrain. Revised travel can be completed by 8 December for Jeddah bookings, or 14 December for Riyadh and Dammam bookings.",
       "since": "2026-10-17",
-      "until": "2026-11-30",
-      "lastChecked": "2026-11-23",
+      "until": "2026-12-07",
+      "lastChecked": "2026-11-28",
       "sourceLevel": "official",
       "sources": [
-        "https://x.com/IndiGo6E/status/2123035045107737079",
+        "https://x.com/IndiGo6E/status/2126341642131247146",
         "https://x.com/airindia/status/2123739306900815996",
         "https://x.com/AkasaAir/status/2120861211374023109"
       ]
